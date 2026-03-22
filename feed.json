@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-03-22T09:41:53.944Z",
+  "lookbackHours": 24,
+  "news": [],
+  "products": [
+    {
+      "name": "Bench for Claude Code",
+      "tagline": "Store, review, and share your Claude Code sessions",
+      "url": "https://www.producthunt.com/posts/bench-for-claude-code"
+    },
+    {
+      "name": "Silicon Friendly",
+      "tagline": "How Silicon Friendly is your website? (from L0 to L5)",
+      "url": "https://www.producthunt.com/posts/silicon-friendly"
+    },
+    {
+      "name": "Context.dev",
+      "tagline": "One API to scrape, enrich, and understand the web.",
+      "url": "https://www.producthunt.com/posts/context-dev"
+    }
+  ],
+  "stats": {
+    "total": 0,
+    "fromRSS": 0,
+    "fromSearch": 0,
+    "products": 3
+  },
+  "errors": [
+    "RSS Framer Blog: HTTP 404",
+    "RSS LottieFiles Blog: HTTP 403",
+    "RSS Glide Blog: HTTP 404",
+    "RSS Gamma Blog: HTTP 403",
+    "RSS Softr Blog: HTTP 404",
+    "RSS Linear Changelog: HTTP 404",
+    "RSS RunwayML Blog: HTTP 404",
+    "RSS Vercel Blog: HTTP 404",
+    "RSS Notion Blog: HTTP 404",
+    "Serper: Invalid time value"
+  ]
+}
