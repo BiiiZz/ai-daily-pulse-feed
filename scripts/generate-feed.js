@@ -165,11 +165,13 @@ async function fetchAllRSS(errors) {
 
 async function fetchSerperNews(apiKey, errors) {
   try {
-    const query = 'AI news today LLM model release product launch agent';
-    const res = await fetch('https://google.serper.dev/news', {
+    const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000);
+    const dateStr = yesterday.toISOString().split('T')[0].replace(/-/g, '/');
+    const query = `AI news after:${dateStr} LLM model release product launch agent`;
+    const res = await fetch('https://google.serper.dev/search', {
       method: 'POST',
       headers: { 'X-API-KEY': apiKey, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ q: query, num: 10, tbs: 'qdr:d1' }),
+      body: JSON.stringify({ q: query, num: 10, gl: 'us', hl: 'en' }),
       signal: AbortSignal.timeout(10000),
     });
     if (!res.ok) {
@@ -177,14 +179,14 @@ async function fetchSerperNews(apiKey, errors) {
       return [];
     }
     const data = await res.json();
-    return (data.news || data.organic || [])
+    return (data.organic || [])
       .filter(item => isAIRelated(item.title + ' ' + (item.snippet || '')))
       .map(item => ({
         title: item.title || '',
         summary: (item.snippet || '').slice(0, 200),
         url: item.link || '',
-        source: item.source || extractDomain(item.link),
-        publishedAt: item.date ? new Date(item.date).toISOString() : null,
+        source: extractDomain(item.link),
+        publishedAt: null,
         type: 'search',
       }));
   } catch (err) {
