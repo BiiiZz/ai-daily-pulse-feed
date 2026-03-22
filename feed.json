@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-03-22T09:41:53.944Z",
+  "generatedAt": "2026-03-22T16:09:28.219Z",
   "lookbackHours": 24,
-  "news": [],
+  "news": [
+    {
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T14:43:51.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple",
+      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T12:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T06:20:43.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-21T19:30:27.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Why Wall Street wasn&#8217;t won over by Nvidia&#8217;s big conference",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-21T16:28:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AgentVisibility.ai Launches AI SEO Services to Help Brands ...",
+      "summary": "AgentVisibility.ai launched AI SEO services to help businesses become the top answers recommended by generative AI platforms like ChatGPT, Google Gemini, ...",
+      "url": "https://www.usatoday.com/press-release/story/28477/agentvisibility-ai-launches-ai-seo-services-to-help-brands-dominate-the-new-era-of-generative-and-llm-agent-search/",
+      "source": "usatoday.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "The company on plans to unveil Composer 2, which is ... - Facebook",
+      "summary": "The company on plans to unveil Composer 2, which is meant to work as an AI agent that carries out lengthy coding tasks on a user's behalf. Read more below.",
+      "url": "https://www.facebook.com/mercurynews/posts/the-company-on-plans-to-unveil-composer-2-which-is-meant-to-work-as-an-ai-agent-/1366450455517307/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Agents News: The Biggest Developments in 2026 | The Debuggers",
+      "summary": "A roundup of the most important AI agent releases, research breakthroughs, and industry news from early 2026 for developers and technical readers.",
+      "url": "https://thedebuggersitsolutions.com/blog/ai-agents-news-2026",
+      "source": "thedebuggersitsolutions.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "OpenCode – Open source AI coding agent - Hacker News",
+      "summary": "Prune lets the LLM select messages to remove from the conversation and replace with a summary and key terms. The retrieve tool lets it get those original ...",
+      "url": "https://news.ycombinator.com/item?id=47460525",
+      "source": "news.ycombinator.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Cursor Composer 2 and Kimi K2.5 - Medium",
+      "summary": "A $29 billion coding startup shipped its most powerful model. Within 24 hours, a developer found a model ID that wasn't supposed to be visible.",
+      "url": "https://medium.com/@thamizhelango/cursor-composer-2-and-kimi-k2-5-f236ef41aac1",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    }
+  ],
   "products": [
     {
       "name": "Bench for Claude Code",
@@ -14,27 +95,22 @@
       "url": "https://www.producthunt.com/posts/silicon-friendly"
     },
     {
-      "name": "Context.dev",
-      "tagline": "One API to scrape, enrich, and understand the web.",
-      "url": "https://www.producthunt.com/posts/context-dev"
+      "name": "Claude Code Scheduled Tasks ",
+      "tagline": "Schedule recurring tasks locally and in the cloud easily",
+      "url": "https://www.producthunt.com/posts/claude-code-scheduled-tasks"
     }
   ],
+  "trends": [],
   "stats": {
-    "total": 0,
-    "fromRSS": 0,
-    "fromSearch": 0,
-    "products": 3
+    "total": 10,
+    "fromRSS": 5,
+    "fromSearch": 5,
+    "products": 3,
+    "trends": 0
   },
   "errors": [
-    "RSS Framer Blog: HTTP 404",
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS Glide Blog: HTTP 404",
-    "RSS Gamma Blog: HTTP 403",
-    "RSS Softr Blog: HTTP 404",
-    "RSS Linear Changelog: HTTP 404",
-    "RSS RunwayML Blog: HTTP 404",
-    "RSS Vercel Blog: HTTP 404",
-    "RSS Notion Blog: HTTP 404",
-    "Serper: Invalid time value"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: ARK_API_KEY not set, skipping trend analysis"
   ]
 }
