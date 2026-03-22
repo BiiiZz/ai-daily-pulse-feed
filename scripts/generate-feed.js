@@ -29,19 +29,15 @@ const RSS_SOURCES = [
   { name: 'ClickUp Blog',       url: 'https://clickup.com/blog/feed/' },
   { name: 'Airtable Blog',      url: 'https://blog.airtable.com/feed/' },
   { name: 'Asana Blog',         url: 'https://blog.asana.com/feed/' },
-  { name: 'Linear Changelog',   url: 'https://linear.app/changelog/rss' },
+  { name: 'Linear Changelog',   url: 'https://linear.app/rss/changelog.xml' },
   { name: 'Monday.com Blog',    url: 'https://monday.com/blog/feed/' },
   { name: 'Glide Blog',         url: 'https://www.glideapps.com/blog/rss.xml' },
   { name: 'Softr Blog',         url: 'https://www.softr.io/blog/rss.xml' },
-  { name: 'Framer Blog',        url: 'https://www.framer.com/blog/rss.xml' },
   { name: 'Google AI Blog',     url: 'https://blog.google/technology/ai/rss/' },
   { name: 'LottieFiles Blog',   url: 'https://lottiefiles.com/blog/rss.xml' },
   { name: 'RunwayML Blog',      url: 'https://runwayml.com/blog/rss.xml' },
-  { name: 'Gamma Blog',         url: 'https://gamma.app/blog/rss.xml' },
   { name: 'Lovable Blog',       url: 'https://lovable.dev/blog/rss.xml' },
-  { name: 'Notion Blog',        url: 'https://www.notion.so/blog/rss.xml' },
   { name: 'Figma Blog',         url: 'https://www.figma.com/blog/feed/atom.xml' },
-  { name: 'Vercel Blog',        url: 'https://vercel.com/blog/feed' },
   { name: 'Replit Blog',        url: 'https://blog.replit.com/feed.xml' },
   { name: 'Cursor Changelog',   url: 'https://cursor.com/changelog/rss.xml' },
 ];
@@ -93,7 +89,7 @@ function dedupeByTitle(items) {
 async function parseRSSFeed(source, errors) {
   try {
     const res = await fetch(source.url, {
-      headers: { 'User-Agent': 'AI-Daily-Pulse-Bot/1.0' },
+      headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
       signal: AbortSignal.timeout(10000),
     });
     if (!res.ok) {
