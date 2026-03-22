@@ -29,15 +29,19 @@ const RSS_SOURCES = [
   { name: 'ClickUp Blog',       url: 'https://clickup.com/blog/feed/' },
   { name: 'Airtable Blog',      url: 'https://blog.airtable.com/feed/' },
   { name: 'Asana Blog',         url: 'https://blog.asana.com/feed/' },
-  { name: 'Linear Changelog',   url: 'https://linear.app/rss/changelog.xml' },
+  { name: 'Linear Changelog',   url: 'https://linear.app/changelog/rss' },
   { name: 'Monday.com Blog',    url: 'https://monday.com/blog/feed/' },
   { name: 'Glide Blog',         url: 'https://www.glideapps.com/blog/rss.xml' },
   { name: 'Softr Blog',         url: 'https://www.softr.io/blog/rss.xml' },
+  { name: 'Framer Blog',        url: 'https://www.framer.com/blog/rss.xml' },
   { name: 'Google AI Blog',     url: 'https://blog.google/technology/ai/rss/' },
   { name: 'LottieFiles Blog',   url: 'https://lottiefiles.com/blog/rss.xml' },
   { name: 'RunwayML Blog',      url: 'https://runwayml.com/blog/rss.xml' },
+  { name: 'Gamma Blog',         url: 'https://gamma.app/blog/rss.xml' },
   { name: 'Lovable Blog',       url: 'https://lovable.dev/blog/rss.xml' },
+  { name: 'Notion Blog',        url: 'https://www.notion.so/blog/rss.xml' },
   { name: 'Figma Blog',         url: 'https://www.figma.com/blog/feed/atom.xml' },
+  { name: 'Vercel Blog',        url: 'https://vercel.com/blog/feed' },
   { name: 'Replit Blog',        url: 'https://blog.replit.com/feed.xml' },
   { name: 'Cursor Changelog',   url: 'https://cursor.com/changelog/rss.xml' },
 ];
@@ -89,7 +93,7 @@ function dedupeByTitle(items) {
 async function parseRSSFeed(source, errors) {
   try {
     const res = await fetch(source.url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
+      headers: { 'User-Agent': 'AI-Daily-Pulse-Bot/1.0' },
       signal: AbortSignal.timeout(10000),
     });
     if (!res.ok) {
@@ -273,98 +277,16 @@ function extractDomain(url) {
   }
 }
 
-// ── 豆包趋势分析 ──────────────────────────────────────────────────────────────
-
-async function analyzeTrends(news, apiKey, modelId, errors) {
-  if (!apiKey) {
-    errors.push('Doubao: ARK_API_KEY not set, skipping trend analysis');
-    return [];
-  }
-  if (news.length === 0) {
-    errors.push('Doubao: no news to analyze');
-    return [];
-  }
-
-  // 把新闻整理成简洁的输入文本
-  const newsSummary = news.map((n, i) =>
-    `${i + 1}. ${n.title}\n   ${n.summary || ''}`
-  ).join('\n');
-
-  const prompt = `You are an AI industry analyst. Based on the following news articles from today, identify exactly 3 key trends in the AI industry.
-
-Today's news:
-${newsSummary}
-
-Return ONLY a JSON array with exactly 3 trend objects. Each object must have:
-- "title": a concise trend name (5-8 words)
-- "desc": one sentence explaining the trend (under 20 words)
-- "ref": the title of the most relevant news article supporting this trend (copy it exactly)
-
-Example format:
-[
-  {
-    "title": "AI Agents Moving Into Production",
-    "desc": "Autonomous agents are shifting from experiments to real-world deployments.",
-    "ref": "exact news title here"
-  }
-]
-
-Return only the JSON array, no other text.`;
-
-  try {
-    const res = await fetch('https://ark.cn-beijing.volces.com/api/v3/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        model: modelId,
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.3,
-        max_tokens: 600,
-      }),
-      signal: AbortSignal.timeout(30000),
-    });
-
-    if (!res.ok) {
-      const text = await res.text();
-      errors.push(`Doubao: HTTP ${res.status} — ${text.slice(0, 100)}`);
-      return [];
-    }
-
-    const data = await res.json();
-    const content = data.choices?.[0]?.message?.content || '';
-
-    // 解析 JSON，兼容模型可能带 markdown 代码块的情况
-    const clean = content.replace(/```json|```/g, '').trim();
-    const trends = JSON.parse(clean);
-
-    if (!Array.isArray(trends) || trends.length === 0) {
-      errors.push('Doubao: invalid response format');
-      return [];
-    }
-
-    return trends.slice(0, 3);
-  } catch (err) {
-    errors.push(`Doubao: ${err.message}`);
-    return [];
-  }
-}
-
 // ── 主流程 ────────────────────────────────────────────────────────────────────
 
 async function main() {
   const serperKey  = process.env.SERPER_API_KEY;
   const newsApiKey = process.env.NEWS_API_KEY;
   const phToken    = process.env.PRODUCT_HUNT_TOKEN;
-  const arkApiKey  = process.env.ARK_API_KEY;
-  const arkModelId = process.env.ARK_MODEL_ID || 'ep-20260322180347-rv2c9';
 
   if (!serperKey)  { console.error('❌ SERPER_API_KEY not set');  process.exit(1); }
   if (!newsApiKey) { console.error('❌ NEWS_API_KEY not set');    process.exit(1); }
   if (!phToken)    { console.error('❌ PRODUCT_HUNT_TOKEN not set'); process.exit(1); }
-  if (!arkApiKey)  { console.error('⚠️  ARK_API_KEY not set, trends will be empty'); }
 
   const errors = [];
 
@@ -392,28 +314,22 @@ async function main() {
     ...newsApiItems,
   ])).slice(0, MAX_NEWS_ITEMS);
 
-  console.error('🤖 Analyzing trends with Doubao...');
-  const trends = await analyzeTrends(allNews, arkApiKey, arkModelId, errors);
-  console.error(`   ${trends.length} trends generated`);
-
   const feed = {
     generatedAt: new Date().toISOString(),
     lookbackHours: LOOKBACK_HOURS,
     news: allNews,
     products,
-    trends,
     stats: {
       total: allNews.length,
       fromRSS: allNews.filter(i => i.type === 'rss').length,
       fromSearch: allNews.filter(i => i.type === 'search').length,
       products: products.length,
-      trends: trends.length,
     },
     errors: errors.length > 0 ? errors : undefined,
   };
 
   await writeFile('feed.json', JSON.stringify(feed, null, 2));
-  console.error(`✅ feed.json written: ${allNews.length} news, ${products.length} products, ${trends.length} trends`);
+  console.error(`✅ feed.json written: ${allNews.length} news, ${products.length} products`);
   if (errors.length > 0) {
     console.error(`⚠️  ${errors.length} non-fatal errors:`, errors);
   }
