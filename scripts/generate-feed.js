@@ -24,8 +24,10 @@ import { existsSync } from 'fs';
 
 const MAX_NEWS_ITEMS = 10;
 const LOOKBACK_HOURS = 24;
+const LINK_CHECK_TIMEOUT = 8000; // 8秒超时
 
 const RSS_SOURCES = [
+  // 产品工具博客
   { name: 'ClickUp Blog',       url: 'https://clickup.com/blog/feed/' },
   { name: 'Airtable Blog',      url: 'https://blog.airtable.com/feed/' },
   { name: 'Asana Blog',         url: 'https://blog.asana.com/feed/' },
@@ -37,6 +39,13 @@ const RSS_SOURCES = [
   { name: 'Figma Blog',         url: 'https://www.figma.com/blog/feed/atom.xml' },
   { name: 'Replit Blog',        url: 'https://blog.replit.com/feed.xml' },
   { name: 'Cursor Changelog',   url: 'https://cursor.com/changelog/rss.xml' },
+  // 高质量 AI 新闻媒体
+  { name: 'TechCrunch AI',      url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+  { name: 'The Verge AI',       url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml' },
+  { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
+  { name: 'Ars Technica AI',    url: 'https://feeds.arstechnica.com/arstechnica/technology-lab' },
+  { name: 'VentureBeat AI',     url: 'https://venturebeat.com/category/ai/feed/' },
+  { name: 'Wired AI',           url: 'https://www.wired.com/feed/tag/ai/latest/rss' },
 ];
 
 // AI 相关关键词，用于过滤 RSS 文章和搜索结果
@@ -52,6 +61,25 @@ const AI_KEYWORDS = [
 function isAIRelated(text) {
   const lower = (text || '').toLowerCase();
   return AI_KEYWORDS.some(kw => lower.includes(kw));
+}
+
+async function isLinkAccessible(url, errors) {
+  if (!url) return false;
+  try {
+    const res = await fetch(url, {
+      method: 'HEAD',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      },
+      signal: AbortSignal.timeout(LINK_CHECK_TIMEOUT),
+      redirect: 'follow',
+    });
+    // 2xx 和 3xx 都算可访问，4xx/5xx 丢弃
+    // 但 403 有时是反爬，不一定真的不可访问，保留
+    return res.status < 500;
+  } catch {
+    return false;
+  }
 }
 
 function isWithinLookback(dateStr) {
@@ -386,13 +414,23 @@ async function main() {
   const products = await fetchProductHunt(phToken, errors);
   console.error(`   ${products.length} products`);
 
-  // 合并、去重、取前 MAX_NEWS_ITEMS 条
+  // 合并、去重
   // 优先级：RSS（来源可控）> Serper > NewsAPI
-  const allNews = dedupeByTitle(dedupeByUrl([
+  const candidates = dedupeByTitle(dedupeByUrl([
     ...rssItems,
     ...serperItems,
     ...newsApiItems,
-  ])).slice(0, MAX_NEWS_ITEMS);
+  ]));
+
+  // 链接可访问性验证（并发，超时 8 秒丢弃）
+  console.error('🔗 Verifying link accessibility...');
+  const verifyResults = await Promise.all(
+    candidates.map(item => isLinkAccessible(item.url, errors))
+  );
+  const allNews = candidates
+    .filter((_, i) => verifyResults[i])
+    .slice(0, MAX_NEWS_ITEMS);
+  console.error(`   ${allNews.length} accessible (${verifyResults.filter(r => !r).length} failed)`);
 
   console.error('🤖 Analyzing trends with Doubao...');
   const trends = await analyzeTrends(allNews, arkApiKey, arkModelId, errors);
