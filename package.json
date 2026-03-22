@@ -1,0 +1,8 @@
+{
+  "name": "ai-daily-pulse-feed",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-feed.js"
+  }
+}
