@@ -26,6 +26,7 @@ jobs:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+          ARK_API_KEY: ${{ secrets.ARK_API_KEY }}
         run: node scripts/generate-feed.js
 
       - name: Commit and push feed.json
