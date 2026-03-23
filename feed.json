@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-03-22T16:12:24.497Z",
+  "generatedAt": "2026-03-23T02:28:17.466Z",
   "lookbackHours": 24,
   "news": [
+    {
+      "title": "Do you want to build a robot snowman?",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T19:45:07.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T18:41:09.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-22T16:20:00.000Z",
+      "type": "rss"
+    },
     {
       "title": "Delve accused of misleading customers with ‘fake compliance’",
       "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
@@ -27,22 +51,6 @@
       "type": "rss"
     },
     {
-      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-21T19:30:27.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Why Wall Street wasn&#8217;t won over by Nvidia&#8217;s big conference",
-      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-21T16:28:00.000Z",
-      "type": "rss"
-    },
-    {
       "title": "AgentVisibility.ai Launches AI SEO Services to Help Brands ...",
       "summary": "AgentVisibility.ai launched AI SEO services to help businesses become the top answers recommended by generative AI platforms like ChatGPT, Google Gemini, ...",
       "url": "https://www.usatoday.com/press-release/story/28477/agentvisibility-ai-launches-ai-seo-services-to-help-brands-dominate-the-new-era-of-generative-and-llm-agent-search/",
@@ -51,34 +59,26 @@
       "type": "search"
     },
     {
-      "title": "The company on plans to unveil Composer 2, which is ... - Facebook",
-      "summary": "The company on plans to unveil Composer 2, which is meant to work as an AI agent that carries out lengthy coding tasks on a user's behalf. Read more below.",
-      "url": "https://www.facebook.com/mercurynews/posts/the-company-on-plans-to-unveil-composer-2-which-is-meant-to-work-as-an-ai-agent-/1366450455517307/",
-      "source": "facebook.com",
+      "title": "Meta's AI Agent Aggression: Acquisition Spree and 2026 Model ...",
+      "summary": "- 2026 model releases and enterprise agent integration will determine Meta's ability to bridge the gap between personal assistants and scalable autonomous work ...",
+      "url": "https://www.ainvest.com/news/meta-ai-agent-aggression-acquisition-spree-2026-model-launch-fuel-infrastructure-bet-security-risks-loom-2603/",
+      "source": "ainvest.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Cursor Composer 2 and Kimi K2.5 - Medium",
-      "summary": "A $29 billion coding startup shipped its most powerful model. Within 24 hours, a developer found a model ID that wasn't supposed to be visible.",
-      "url": "https://medium.com/@thamizhelango/cursor-composer-2-and-kimi-k2-5-f236ef41aac1",
-      "source": "medium.com",
+      "title": "AI LLMs Top News - Scouts by Yutori",
+      "summary": "Picsart launched an AI agent marketplace with four initial agents, messaging via WhatsApp/Telegram, adjustable autonomy, and weekly additions planned.",
+      "url": "https://scouts.yutori.com/2599e769-18ea-425a-a716-b933b69778fa",
+      "source": "scouts.yutori.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Cursor released Composer 2 on March 18, 2026, as its in-house ...",
-      "summary": "Cursor released Composer 2 on March 18, 2026, as its in-house coding model. Developers found the model ID reveals it as Kimi K2.5 from Moonshot AI with RL ...",
-      "url": "https://www.instagram.com/p/DWJPQaVjfc1/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI Model Lightweighting drives next-gen Exynos demos - AI CERTs",
-      "summary": "This article unpacks the demo claims, underlying technology, and market implications for mobile engineers and product leaders. Meanwhile, we examine where ...",
-      "url": "https://www.aicerts.ai/news/ai-model-lightweighting-drives-next-gen-exynos-demos/",
-      "source": "aicerts.ai",
+      "title": "Press release distribution - Agents - TAAFT®",
+      "summary": "Browse 14 Press release distribution - Agents AIs. Includes tasks such as E-commerce content, Real estate, Lead generation, Productivity and Code reviews.",
+      "url": "https://theresanaiforthat.com/agents/s/press+release+distribution/",
+      "source": "theresanaiforthat.com",
       "publishedAt": null,
       "type": "search"
     }
@@ -90,42 +90,27 @@
       "url": "https://www.producthunt.com/posts/bench-for-claude-code"
     },
     {
-      "name": "Silicon Friendly",
-      "tagline": "How Silicon Friendly is your website? (from L0 to L5)",
-      "url": "https://www.producthunt.com/posts/silicon-friendly"
-    },
-    {
       "name": "Claude Code Scheduled Tasks ",
       "tagline": "Schedule recurring tasks locally and in the cloud easily",
       "url": "https://www.producthunt.com/posts/claude-code-scheduled-tasks"
-    }
-  ],
-  "trends": [
-    {
-      "title": "Custom AI Chips Gaining Traction",
-      "desc": "Top AI firms adopt Amazon's Trainium chip.",
-      "ref": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple"
     },
     {
-      "title": "Advanced AI Coding Agents Emerging",
-      "desc": "New AI tools handle lengthy coding tasks.",
-      "ref": "The company on plans to unveil Composer 2, which is ... - Facebook"
-    },
-    {
-      "title": "AI Content Faces Publishing Scrutiny",
-      "desc": "Publisher rejects book over AI generation concerns.",
-      "ref": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns"
+      "name": "Silicon Friendly",
+      "tagline": "How Silicon Friendly is your website? (from L0 to L5)",
+      "url": "https://www.producthunt.com/posts/silicon-friendly"
     }
   ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 5,
-    "fromSearch": 5,
+    "fromRSS": 6,
+    "fromSearch": 4,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
