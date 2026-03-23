@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T02:28:17.466Z",
+  "generatedAt": "2026-03-23T09:12:12.020Z",
   "lookbackHours": 24,
   "news": [
     {
@@ -43,11 +43,19 @@
       "type": "rss"
     },
     {
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T06:20:43.000Z",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-23T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+      "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+      "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+      "source": "Wired AI",
+      "publishedAt": "2026-03-23T09:00:00.000Z",
       "type": "rss"
     },
     {
@@ -67,50 +75,57 @@
       "type": "search"
     },
     {
-      "title": "AI LLMs Top News - Scouts by Yutori",
-      "summary": "Picsart launched an AI agent marketplace with four initial agents, messaging via WhatsApp/Telegram, adjustable autonomy, and weekly additions planned.",
-      "url": "https://scouts.yutori.com/2599e769-18ea-425a-a716-b933b69778fa",
-      "source": "scouts.yutori.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Press release distribution - Agents - TAAFT®",
-      "summary": "Browse 14 Press release distribution - Agents AIs. Includes tasks such as E-commerce content, Real estate, Lead generation, Productivity and Code reviews.",
-      "url": "https://theresanaiforthat.com/agents/s/press+release+distribution/",
-      "source": "theresanaiforthat.com",
+      "title": "Cursor Composer 2 and Kimi K2.5 - Medium",
+      "summary": "A $29 billion coding startup shipped its most powerful model. Within 24 hours, a developer found a model ID that wasn't supposed to be visible.",
+      "url": "https://medium.com/@thamizhelango/cursor-composer-2-and-kimi-k2-5-f236ef41aac1",
+      "source": "medium.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Bench for Claude Code",
-      "tagline": "Store, review, and share your Claude Code sessions",
-      "url": "https://www.producthunt.com/posts/bench-for-claude-code"
+      "name": "Zoer.ai",
+      "tagline": "Build full-stack webapps from the database up",
+      "url": "https://www.producthunt.com/posts/zoer-ai-2"
     },
     {
-      "name": "Claude Code Scheduled Tasks ",
-      "tagline": "Schedule recurring tasks locally and in the cloud easily",
-      "url": "https://www.producthunt.com/posts/claude-code-scheduled-tasks"
+      "name": "Tobira.ai",
+      "tagline": "A network where AI agents find deals for their humans",
+      "url": "https://www.producthunt.com/posts/tobira-ai"
     },
     {
-      "name": "Silicon Friendly",
-      "tagline": "How Silicon Friendly is your website? (from L0 to L5)",
-      "url": "https://www.producthunt.com/posts/silicon-friendly"
+      "name": "Honestly",
+      "tagline": "Real reviews from Reddit & YouTube when shopping online",
+      "url": "https://www.producthunt.com/posts/honestly"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Growing Competition for AI Chips",
+      "desc": "Major tech firms are developing custom AI chips.",
+      "ref": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple"
+    },
+    {
+      "title": "Building AI on Existing Base Models",
+      "desc": "Developers reuse pre-built models for new tools.",
+      "ref": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi"
+    },
+    {
+      "title": "AI Enters Non-Traditional Use Cases",
+      "desc": "AI is adopted for new niche industry applications.",
+      "ref": "The Bay Area’s animal welfare movement wants to recruit AI"
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 6,
-    "fromSearch": 4,
+    "fromRSS": 7,
+    "fromSearch": 3,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
