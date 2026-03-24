@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-03-23T09:12:12.020Z",
+  "generatedAt": "2026-03-24T02:13:05.789Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Do you want to build a robot snowman?",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T19:45:07.000Z",
+      "title": "Live from Replit HQ Part 2",
+      "summary": "Summary\n\nThis post recaps part 2 of our \"Live from HQ\" livestream series covering the Agent 4 launch.\n\nPeter engineered Agent 4's parallel task system, enabling AI to resolve merge conflicts automatic",
+      "url": "https://blog.replit.com/live-from-hq-agent4-launch-pt2",
+      "source": "Replit Blog",
+      "publishedAt": "2026-03-23T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T18:41:09.000Z",
+      "publishedAt": "2026-03-23T22:36:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "title": "Bernie Sanders&#8217; AI &#8216;gotcha&#8217; video flops, but the memes are great",
+      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T16:20:00.000Z",
+      "publishedAt": "2026-03-23T20:15:59.000Z",
       "type": "rss"
     },
     {
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T14:43:51.000Z",
+      "publishedAt": "2026-03-23T18:22:04.000Z",
       "type": "rss"
     },
     {
-      "title": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple",
-      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "title": "Apple sets June date for WWDC 2026, teasing &#8216;AI advancements&#8217;",
+      "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+      "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-22T12:00:00.000Z",
+      "publishedAt": "2026-03-23T18:00:45.000Z",
       "type": "rss"
     },
     {
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers",
-      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-23T16:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
+      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-23T16:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Elizabeth Warren calls Pentagon&#8217;s decision to bar Anthropic &#8216;retaliation&#8217;",
+      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simpl",
+      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-23T15:22:57.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-23T15:03:36.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-03-23T09:00:00.000Z",
+      "publishedAt": "2026-03-23T16:31:20.000Z",
       "type": "rss"
-    },
-    {
-      "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
-      "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
-      "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
-      "source": "Wired AI",
-      "publishedAt": "2026-03-23T09:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AgentVisibility.ai Launches AI SEO Services to Help Brands ...",
-      "summary": "AgentVisibility.ai launched AI SEO services to help businesses become the top answers recommended by generative AI platforms like ChatGPT, Google Gemini, ...",
-      "url": "https://www.usatoday.com/press-release/story/28477/agentvisibility-ai-launches-ai-seo-services-to-help-brands-dominate-the-new-era-of-generative-and-llm-agent-search/",
-      "source": "usatoday.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Meta's AI Agent Aggression: Acquisition Spree and 2026 Model ...",
-      "summary": "- 2026 model releases and enterprise agent integration will determine Meta's ability to bridge the gap between personal assistants and scalable autonomous work ...",
-      "url": "https://www.ainvest.com/news/meta-ai-agent-aggression-acquisition-spree-2026-model-launch-fuel-infrastructure-bet-security-risks-loom-2603/",
-      "source": "ainvest.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Cursor Composer 2 and Kimi K2.5 - Medium",
-      "summary": "A $29 billion coding startup shipped its most powerful model. Within 24 hours, a developer found a model ID that wasn't supposed to be visible.",
-      "url": "https://medium.com/@thamizhelango/cursor-composer-2-and-kimi-k2-5-f236ef41aac1",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
     }
   ],
   "products": [
-    {
-      "name": "Zoer.ai",
-      "tagline": "Build full-stack webapps from the database up",
-      "url": "https://www.producthunt.com/posts/zoer-ai-2"
-    },
     {
       "name": "Tobira.ai",
       "tagline": "A network where AI agents find deals for their humans",
       "url": "https://www.producthunt.com/posts/tobira-ai"
     },
     {
-      "name": "Honestly",
-      "tagline": "Real reviews from Reddit & YouTube when shopping online",
-      "url": "https://www.producthunt.com/posts/honestly"
-    }
-  ],
-  "trends": [
-    {
-      "title": "Growing Competition for AI Chips",
-      "desc": "Major tech firms are developing custom AI chips.",
-      "ref": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple"
+      "name": "Zoer.ai",
+      "tagline": "Build full-stack webapps from the database up",
+      "url": "https://www.producthunt.com/posts/zoer-ai-2"
     },
     {
-      "title": "Building AI on Existing Base Models",
-      "desc": "Developers reuse pre-built models for new tools.",
-      "ref": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi"
-    },
-    {
-      "title": "AI Enters Non-Traditional Use Cases",
-      "desc": "AI is adopted for new niche industry applications.",
-      "ref": "The Bay Area’s animal welfare movement wants to recruit AI"
+      "name": "Fastlane",
+      "tagline": "Create viral content for your product in seconds",
+      "url": "https://www.producthunt.com/posts/fastlane-4"
     }
   ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 7,
-    "fromSearch": 3,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
