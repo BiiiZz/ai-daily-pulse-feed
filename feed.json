@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-03-26T02:32:06.698Z",
+  "generatedAt": "2026-03-27T02:33:14.653Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Build with Lyria 3, our newest music generation model",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp\"&gt;Lyria 3 is now available in paid preview through the Gemini API and",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\"&gt;In the latest episode of our Dialogues on Technology and Soci",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-03-25T16:00:00.000Z",
+      "publishedAt": "2026-03-26T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp\"&gt;We are bringing Lyria 3 to the tools where professionals work and cr",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\"&gt;Google Translate’s Live translate with headphones is offic",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-03-25T16:00:00.000Z",
+      "publishedAt": "2026-03-26T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Figma's next-generation data caching platform",
-      "summary": "",
-      "url": "https://www.figma.com/blog/figmas-next-generation-data-caching-platform/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-03-25T17:00:00.000Z",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_head.max-600x600.format-webp.webp\"&gt;Gemini 3.1 Flash Live is now available across Google produ",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-03-26T15:21:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "title": "Search Live is expanding globally",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp\"&gt;We’re expanding Search Live globally, to all languages and locatio",
+      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-03-26T15:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-26T00:30:00.000Z",
+      "publishedAt": "2026-03-27T01:18:38.000Z",
       "type": "rss"
     },
     {
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T21:44:13.000Z",
+      "publishedAt": "2026-03-26T23:47:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it &#8216;Pied Piper&#8217;",
-      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe",
-      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T20:38:45.000Z",
+      "publishedAt": "2026-03-26T21:50:10.000Z",
       "type": "rss"
     },
     {
-      "title": "Melania Trump wants a robot to homeschool your child",
-      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
-      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "title": "OpenAI abandons yet another side quest: ChatGPT&#8217;s erotic mode",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T18:55:41.000Z",
+      "publishedAt": "2026-03-26T18:34:02.000Z",
       "type": "rss"
     },
     {
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T17:15:50.000Z",
+      "publishedAt": "2026-03-26T18:23:31.000Z",
       "type": "rss"
     },
     {
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "title": "ByteDance&#8217;s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T16:37:43.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Reddit takes on the bots with new &#8216;human verification&#8217; requirements for fishy behavior",
-      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T16:10:00.000Z",
+      "publishedAt": "2026-03-26T15:25:13.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Agentplace AI Agents",
-      "tagline": "Create specialized AI agents for real tasks and workflows",
-      "url": "https://www.producthunt.com/posts/agentplace-ai-agents"
+      "name": "Littlebird",
+      "tagline": "The AI assistant that already knows your work",
+      "url": "https://www.producthunt.com/posts/littlebird-2"
     },
     {
-      "name": "Auto Mode by Claude Code",
-      "tagline": "Let Claude make permission decisions on your behalf",
-      "url": "https://www.producthunt.com/posts/auto-mode-by-claude-code"
+      "name": "Claude Mobile: Work Tools",
+      "tagline": "Access Claude work tools on the go",
+      "url": "https://www.producthunt.com/posts/claude-mobile-work-tools"
     },
     {
-      "name": "Pendium",
-      "tagline": "Help AI agents recommend you more often to the right people",
-      "url": "https://www.producthunt.com/posts/pendium-2"
+      "name": "Venn.ai",
+      "tagline": "Delegate real work to AI agents with safety guardrails",
+      "url": "https://www.producthunt.com/posts/venn-ai-2"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Real-Time Audio AI Improves",
+      "desc": "Audio AI is becoming more natural and accessible.",
+      "ref": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+    },
+    {
+      "title": "Chatbot Competition Intensifies",
+      "desc": "Firms build tools to poach rival chatbot users.",
+      "ref": "You can now transfer your chats and personal information from other chatbots directly into Gemini"
+    },
+    {
+      "title": "AI Content Regulation Tightens",
+      "desc": "Platforms crack down on unregulated AI content.",
+      "ref": "Wikipedia cracks down on the use of AI in article writing"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
