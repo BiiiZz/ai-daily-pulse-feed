@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-03-29T02:36:10.073Z",
+  "generatedAt": "2026-03-30T02:39:18.874Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-28T23:00:00.000Z",
+      "publishedAt": "2026-03-29T16:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-28T20:45:54.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-28T16:11:16.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic&#8217;s Claude popularity with paying consumers is skyrocketing",
-      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch ",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-28T14:15:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A woman’s uterus has been kept alive outside the body for the first time",
-      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restau",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-28T09:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI Week : 12 Models Launched in 7 Days | by Data Mind - Medium",
-      "summary": "A deep dive into the explosive pace of AI innovation, where 12 major models launched in just 7 days—reshaping how developers, businesses, and individuals ...",
-      "url": "https://medium.com/ai-analytics-diaries/ai-week-12-models-launched-in-7-days-2bee3a11d356",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Anthropic is testing a new AI model called Mythos, revealed after a ...",
-      "summary": "Anthropic is testing a new AI model called Mythos, revealed after a data leak exposed its existence and early details. · Anthropic accidentally leaked the ...",
-      "url": "https://www.instagram.com/p/DWcAOhiDNjS/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Anthropic's madcap March: 14+ launches, 5 outages, and an ...",
-      "summary": "Anthropic shipped dozens of Claude updates in March 2026, from Opus 4.6 to computer use, while MCP crossed 97M installs and reliability concerns mounted.",
-      "url": "https://thenewstack.io/anthropic-march-2026-roundup/",
-      "source": "thenewstack.io",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "The Agentic AI wave is here. Is your infrastructure ready? 79% of IT ...",
-      "summary": "According to Gartner (2025), the AI agent market is projected to grow from $5.1 billion in 2024 to $47.1 billion by 2030. And that's just the beginning...",
-      "url": "https://www.facebook.com/googlecloud/posts/the-agentic-ai-wave-is-here-is-your-infrastructure-ready79-of-it-leaders-are-ado/1268759272068064/",
+      "title": "Anthropic accidentally exposed a new AI model… and ... - Facebook",
+      "summary": "Anthropic accidentally exposed a new AI model… and most people are focused on the wrong thing. This wasn't a launch. A misconfigured content system...",
+      "url": "https://www.facebook.com/groups/aiautomationsforbusiness/posts/1625027718546082/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "[AI WEEKLY NEWS RUNDOWN] The $25B Terafab, the Mythos ...",
-      "summary": "Mistral releases a new open source model for speech generation.[LINK]. Google employees have a new AI tool called 'Agent Smith.' It's so popular that access ...",
-      "url": "https://showupandplay.substack.com/p/ai-weekly-news-rundown-the-25b-terafab",
-      "source": "showupandplay.substack.com",
+      "title": "Anthropic's newest model “Mythos” just leaked! #ai #ainews #claude ...",
+      "summary": "If models reach a level where companies hesitate to release them due to cybersecurity risks, it signals a shift from product race to control and containment.",
+      "url": "https://www.instagram.com/reel/DWeFI7LDlMK/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI LLMs Top News - Scouts by Yutori",
+      "summary": "OVHcloud agreed to acquire Dragon LLM and launch an AI Lab targeting secure, compliant models for regulated sectors. ... Picsart launched an AI agent marketplace ...",
+      "url": "https://scouts.yutori.com/2599e769-18ea-425a-a716-b933b69778fa",
+      "source": "scouts.yutori.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "This is our first MIT open-source release for GitHub ... - Instagram",
+      "summary": "Nemotron models are NVIDIA's own open AI models optimized for agent tasks. Not replacing Claude. Working alongside it. The Five-Vendor Security Framework ...",
+      "url": "https://www.instagram.com/p/DWdgFuACBBP/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Anthropic Claude Mythos AI Model Leak: Cybersecurity Risks ...",
+      "summary": "Anthropic's most powerful AI model leaked via a CMS misconfiguration. Here's what the Claude Mythos draft revealed and why cybersecurity stocks crash.",
+      "url": "https://www.mayhemcode.com/2026/03/anthropic-claude-mythos-ai-model-leak.html",
+      "source": "mayhemcode.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "OpenAI's Safety Bounty Ignites AI Security Race Amid Sora ... - MLQ.ai",
+      "summary": "OpenAI launched a groundbreaking Safety Bug Bounty Program targeting AI misuse like agentic risks and prompt injections, offering rewards up to $100,000.",
+      "url": "https://mlq.ai/news/ai-roundup/2026-03-29/openais-safety-bounty-ignites-ai-security-race-amid-sora-shutdown-and-massive-hardware-deals/",
+      "source": "mlq.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "The Cognitive Dark Forest | Hacker News",
+      "summary": "Especially LLMs/AI-Agents like Claude enable this speed you need for bringing out something new. The next thing is that we also have open source and open weight ...",
+      "url": "https://news.ycombinator.com/item?id=47566442",
+      "source": "news.ycombinator.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Trends 2026 - Releases, Rankings, Provider Velocity & News",
+      "summary": "Track AI trends across model releases, provider shipping velocity, ranking movers, and the latest AI news. Source-backed market trends for the LLM ecosystem.",
+      "url": "https://lmmarketcap.com/trends",
+      "source": "lmmarketcap.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Monad Launches AI-Driven Blockchain Infrastructure to Support On ...",
+      "summary": "Editorial Disclosure & AI Transparency: Ainvest News utilizes advanced Large Language Model (LLM) technology to synthesize and analyze real-time market data.",
+      "url": "https://www.ainvest.com/news/monad-launches-ai-driven-blockchain-infrastructure-support-chain-applications-2603/",
+      "source": "ainvest.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "SlapMac",
-      "tagline": "Slap your MacBook. It screams back. That's it.",
-      "url": "https://www.producthunt.com/posts/slapmac"
+      "name": "Clico",
+      "tagline": "Every textbox, supercharged",
+      "url": "https://www.producthunt.com/posts/clico"
     },
     {
-      "name": "Crossnode",
-      "tagline": "Vibe code AI agents and put them behind a payment wall",
-      "url": "https://www.producthunt.com/posts/crossnode"
+      "name": "Sheet Ninja",
+      "tagline": "Ship vibe-coded apps. Your data stays in Google Sheets.",
+      "url": "https://www.producthunt.com/posts/sheet-ninja-2"
     },
     {
-      "name": "Aera Browser",
-      "tagline": "The browser built for automation",
-      "url": "https://www.producthunt.com/posts/aera-browser"
+      "name": "SUN ",
+      "tagline": "Personalized AI audio lessons generated on demand",
+      "url": "https://www.producthunt.com/posts/sun-3f560ea9-cf7d-4359-884e-5b71f3129a5e"
     }
   ],
-  "trends": [
-    {
-      "title": "Faster AI Model Innovation Pace",
-      "desc": "AI model launches are growing increasingly frequent.",
-      "ref": "AI Week : 12 Models Launched in 7 Days | by Data Mind - Medium"
-    },
-    {
-      "title": "Booming AI Agent Market Growth",
-      "desc": "AI agent market is projected to expand rapidly by 2030.",
-      "ref": "The Agentic AI wave is here. Is your infrastructure ready? 79% of IT ..."
-    },
-    {
-      "title": "Claude Consumer Popularity Surges",
-      "desc": "Paid adoption of Anthropic's Claude is growing quickly.",
-      "ref": "Anthropic&#8217;s Claude popularity with paying consumers is skyrocketing"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 5,
-    "fromSearch": 5,
+    "fromRSS": 1,
+    "fromSearch": 9,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
