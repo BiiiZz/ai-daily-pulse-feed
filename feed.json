@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-03-30T02:39:18.874Z",
+  "generatedAt": "2026-03-31T02:33:42.846Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "title": "15% of Americans say they&#8217;d be willing to work for an AI boss, according to new poll",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-29T16:30:00.000Z",
+      "publishedAt": "2026-03-30T23:41:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic accidentally exposed a new AI model… and ... - Facebook",
-      "summary": "Anthropic accidentally exposed a new AI model… and most people are focused on the wrong thing. This wasn't a launch. A misconfigured content system...",
-      "url": "https://www.facebook.com/groups/aiautomationsforbusiness/posts/1625027718546082/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T23:08:12.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic's newest model “Mythos” just leaked! #ai #ainews #claude ...",
-      "summary": "If models reach a level where companies hesitate to release them due to cybersecurity risks, it signals a shift from product race to control and containment.",
-      "url": "https://www.instagram.com/reel/DWeFI7LDlMK/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T20:24:53.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI LLMs Top News - Scouts by Yutori",
-      "summary": "OVHcloud agreed to acquire Dragon LLM and launch an AI Lab targeting secure, compliant models for regulated sectors. ... Picsart launched an AI agent marketplace ...",
-      "url": "https://scouts.yutori.com/2599e769-18ea-425a-a716-b933b69778fa",
-      "source": "scouts.yutori.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Mantis Biotech is making &#8216;digital twins&#8217; of humans to help solve medicine&#8217;s data availability problem",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T14:30:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "This is our first MIT open-source release for GitHub ... - Instagram",
-      "summary": "Nemotron models are NVIDIA's own open AI models optimized for agent tasks. Not replacing Claude. Working alongside it. The Five-Vendor Security Framework ...",
-      "url": "https://www.instagram.com/p/DWdgFuACBBP/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T13:52:02.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic Claude Mythos AI Model Leak: Cybersecurity Risks ...",
-      "summary": "Anthropic's most powerful AI model leaked via a CMS misconfiguration. Here's what the Claude Mythos draft revealed and why cybersecurity stocks crash.",
-      "url": "https://www.mayhemcode.com/2026/03/anthropic-claude-mythos-ai-model-leak.html",
-      "source": "mayhemcode.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenAI's Safety Bounty Ignites AI Security Race Amid Sora ... - MLQ.ai",
-      "summary": "OpenAI launched a groundbreaking Safety Bug Bounty Program targeting AI misuse like agentic risks and prompt injections, offering rewards up to $100,000.",
-      "url": "https://mlq.ai/news/ai-roundup/2026-03-29/openais-safety-bounty-ignites-ai-security-race-amid-sora-shutdown-and-massive-hardware-deals/",
-      "source": "mlq.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T12:49:51.000Z",
+      "type": "rss"
     },
     {
-      "title": "The Cognitive Dark Forest | Hacker News",
-      "summary": "Especially LLMs/AI-Agents like Claude enable this speed you need for bringing out something new. The next thing is that we also have open source and open weight ...",
-      "url": "https://news.ycombinator.com/item?id=47566442",
-      "source": "news.ycombinator.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T12:30:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Trends 2026 - Releases, Rankings, Provider Velocity & News",
-      "summary": "Track AI trends across model releases, provider shipping velocity, ranking movers, and the latest AI news. Source-backed market trends for the LLM ecosystem.",
-      "url": "https://lmmarketcap.com/trends",
-      "source": "lmmarketcap.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T11:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Monad Launches AI-Driven Blockchain Infrastructure to Support On ...",
-      "summary": "Editorial Disclosure & AI Transparency: Ainvest News utilizes advanced Large Language Model (LLM) technology to synthesize and analyze real-time market data.",
-      "url": "https://www.ainvest.com/news/monad-launches-ai-driven-blockchain-infrastructure-support-chain-applications-2603/",
-      "source": "ainvest.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Why OpenAI really shut down Sora",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T03:09:38.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Clico",
-      "tagline": "Every textbox, supercharged",
-      "url": "https://www.producthunt.com/posts/clico"
+      "name": "Notion MCP",
+      "tagline": "Your Notion workspace, inside every AI agent",
+      "url": "https://www.producthunt.com/posts/notion-mcp"
     },
     {
-      "name": "Sheet Ninja",
-      "tagline": "Ship vibe-coded apps. Your data stays in Google Sheets.",
-      "url": "https://www.producthunt.com/posts/sheet-ninja-2"
+      "name": "PopTask",
+      "tagline": "Light menu bar task manager for quickly capturing tasks",
+      "url": "https://www.producthunt.com/posts/poptask"
     },
     {
-      "name": "SUN ",
-      "tagline": "Personalized AI audio lessons generated on demand",
-      "url": "https://www.producthunt.com/posts/sun-3f560ea9-cf7d-4359-884e-5b71f3129a5e"
+      "name": "Goals",
+      "tagline": "AI turns your goal into one daily action.",
+      "url": "https://www.producthunt.com/posts/goals-87f3f679-f5d0-4282-8b6c-537e64e7ad99"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 1,
-    "fromSearch": 9,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
