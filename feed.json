@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-03-31T02:33:42.846Z",
+  "generatedAt": "2026-04-01T02:45:22.049Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "15% of Americans say they&#8217;d be willing to work for an AI boss, according to new poll",
-      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T23:41:48.000Z",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp\"&gt;Veo 3.1 Lite  is now available in paid preview through the Gemini API and for te",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-03-31T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T23:08:12.000Z",
+      "title": "A Product Manager's guide to using AI to build working prototypes",
+      "summary": "This is part 2 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nTraditional prototyping workflows cost PMs",
+      "url": "https://blog.replit.com/pm-guide-using-ai-to-build-prototypes",
+      "source": "Replit Blog",
+      "publishedAt": "2026-03-31T21:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll",
-      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T20:24:53.000Z",
+      "publishedAt": "2026-04-01T01:42:59.000Z",
       "type": "rss"
     },
     {
-      "title": "Mantis Biotech is making &#8216;digital twins&#8217; of humans to help solve medicine&#8217;s data availability problem",
-      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "title": "Anthropic is having a month",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T14:30:00.000Z",
+      "publishedAt": "2026-03-31T23:58:26.000Z",
       "type": "rss"
     },
     {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "summary": "Slack just got a whole lot more useful.",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T13:52:02.000Z",
+      "publishedAt": "2026-03-31T22:46:25.000Z",
       "type": "rss"
     },
     {
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T13:00:00.000Z",
+      "publishedAt": "2026-03-31T21:25:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "title": "Yupp shuts down after raising $33M from a16z crypto&#8217;s Chris Dixon",
+      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T12:49:51.000Z",
+      "publishedAt": "2026-03-31T20:01:07.000Z",
       "type": "rss"
     },
     {
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T12:30:00.000Z",
+      "publishedAt": "2026-03-31T17:41:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Starcloud raises $170 million Series A to build data centers in space",
-      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T11:00:00.000Z",
+      "publishedAt": "2026-03-31T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Why OpenAI really shut down Sora",
-      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-30T03:09:38.000Z",
+      "publishedAt": "2026-03-31T14:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Notion MCP",
-      "tagline": "Your Notion workspace, inside every AI agent",
-      "url": "https://www.producthunt.com/posts/notion-mcp"
+      "name": "Jupid",
+      "tagline": "File your taxes with Claude Code",
+      "url": "https://www.producthunt.com/posts/jupid"
     },
     {
-      "name": "PopTask",
-      "tagline": "Light menu bar task manager for quickly capturing tasks",
-      "url": "https://www.producthunt.com/posts/poptask"
+      "name": "Computer Use in Claude Code",
+      "tagline": "Let Claude use your computer from the CLI",
+      "url": "https://www.producthunt.com/posts/computer-use-in-claude-code-3"
     },
     {
-      "name": "Goals",
-      "tagline": "AI turns your goal into one daily action.",
-      "url": "https://www.producthunt.com/posts/goals-87f3f679-f5d0-4282-8b6c-537e64e7ad99"
+      "name": "Pixero AI ",
+      "tagline": "OpenClaw for AI Ads",
+      "url": "https://www.producthunt.com/posts/pixero-ai-2"
     }
   ],
   "trends": [],
