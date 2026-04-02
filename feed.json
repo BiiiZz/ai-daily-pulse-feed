@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-01T02:45:22.049Z",
+  "generatedAt": "2026-04-02T02:30:00.186Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp\"&gt;Veo 3.1 Lite  is now available in paid preview through the Gemini API and for te",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\"&gt;Google partnered with the Brazilian government on ",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-03-31T16:00:00.000Z",
+      "publishedAt": "2026-04-01T13:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "A Product Manager's guide to using AI to build working prototypes",
-      "summary": "This is part 2 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nTraditional prototyping workflows cost PMs",
-      "url": "https://blog.replit.com/pm-guide-using-ai-to-build-prototypes",
-      "source": "Replit Blog",
-      "publishedAt": "2026-03-31T21:00:00.000Z",
+      "title": "The latest AI news we announced in March 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from March 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-01T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "title": "6 designs that reimagine how we interact with software",
+      "summary": "",
+      "url": "https://www.figma.com/blog/6-designs-that-reimagine-how-we-interact-with-software/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-04-01T15:27:14.903Z",
+      "type": "rss"
+    },
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-01T01:42:59.000Z",
+      "publishedAt": "2026-04-01T22:12:13.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic is having a month",
-      "summary": "A human really borks things at Anthropic for the second time this week.",
-      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T23:58:26.000Z",
+      "publishedAt": "2026-04-01T18:35:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful.",
-      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T22:46:25.000Z",
+      "publishedAt": "2026-04-01T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T21:25:04.000Z",
+      "publishedAt": "2026-04-01T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Yupp shuts down after raising $33M from a16z crypto&#8217;s Chris Dixon",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T20:01:07.000Z",
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a",
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-01T12:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T17:41:35.000Z",
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-01T11:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T15:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-31T14:00:00.000Z",
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-01T18:30:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Jupid",
-      "tagline": "File your taxes with Claude Code",
-      "url": "https://www.producthunt.com/posts/jupid"
+      "name": "Noiz Easter Voice",
+      "tagline": "Crack an Easter egg to generate an AI voice",
+      "url": "https://www.producthunt.com/posts/noiz-easter-voice"
     },
     {
-      "name": "Computer Use in Claude Code",
-      "tagline": "Let Claude use your computer from the CLI",
-      "url": "https://www.producthunt.com/posts/computer-use-in-claude-code-3"
+      "name": "Ollama v0.19",
+      "tagline": "Massive local model speedup on Apple Silicon with MLX",
+      "url": "https://www.producthunt.com/posts/ollama-v0-19"
     },
     {
-      "name": "Pixero AI ",
-      "tagline": "OpenClaw for AI Ads",
-      "url": "https://www.producthunt.com/posts/pixero-ai-2"
+      "name": "traceAI",
+      "tagline": "Open-source LLM tracing that speaks GenAI, not HTTP.",
+      "url": "https://www.producthunt.com/posts/traceai"
     }
   ],
   "trends": [],
