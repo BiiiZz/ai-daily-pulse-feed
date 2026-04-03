@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-04-02T02:30:00.186Z",
+  "generatedAt": "2026-04-03T02:31:19.692Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\"&gt;Google partnered with the Brazilian government on ",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-01T13:30:00.000Z",
+      "title": "Web forms for Linear Asks",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-04-02-web-forms-for-linear-asks",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-04-02T16:35:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The latest AI news we announced in March 2026",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp\"&gt;Google is introducing two new inference tiers to the Gemin",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-04-01T13:00:00.000Z",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "6 designs that reimagine how we interact with software",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp\"&gt;New AI capabilities are coming to Google Vids, powered by ",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Build with more context and more control in Figma Make",
       "summary": "",
-      "url": "https://www.figma.com/blog/6-designs-that-reimagine-how-we-interact-with-software/",
+      "url": "https://www.figma.com/blog/introducing-make-kits-and-make-attachments/",
       "source": "Figma Blog",
-      "publishedAt": "2026-04-01T15:27:14.903Z",
+      "publishedAt": "2026-04-02T12:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "title": "Why smart PMs are using vibe coding to cut design delays",
+      "summary": "This is part 3 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nThe design handoff bottleneck costs PMs da",
+      "url": "https://blog.replit.com/cut-design-delays-with-vibe-coding",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-02T19:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-01T22:12:13.000Z",
+      "publishedAt": "2026-04-02T19:21:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-01T18:35:36.000Z",
+      "publishedAt": "2026-04-02T16:48:16.000Z",
       "type": "rss"
     },
     {
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-01T16:00:00.000Z",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-01T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "title": "The Download: plastic&#8217;s problem with fuel prices, and SpaceX&#8217;s blockbuster IPO",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1",
+      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-04-01T12:10:00.000Z",
+      "publishedAt": "2026-04-02T12:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The gig workers who are training humanoid robots at home",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can",
+      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-04-01T11:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-01T18:30:00.000Z",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Noiz Easter Voice",
-      "tagline": "Crack an Easter egg to generate an AI voice",
-      "url": "https://www.producthunt.com/posts/noiz-easter-voice"
+      "name": "Claude Code Voice Mode",
+      "tagline": "Speak your prompts into Claude Code",
+      "url": "https://www.producthunt.com/posts/claude-code-voice-mode"
     },
     {
-      "name": "Ollama v0.19",
-      "tagline": "Massive local model speedup on Apple Silicon with MLX",
-      "url": "https://www.producthunt.com/posts/ollama-v0-19"
+      "name": "Lightning V3",
+      "tagline": "Text-to-Speech built for Voice Agents",
+      "url": "https://www.producthunt.com/posts/lightning-v3"
     },
     {
-      "name": "traceAI",
-      "tagline": "Open-source LLM tracing that speaks GenAI, not HTTP.",
-      "url": "https://www.producthunt.com/posts/traceai"
+      "name": "Denovo",
+      "tagline": "Build and run your business while you sleep.",
+      "url": "https://www.producthunt.com/posts/denovo"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI-Powered Free Video Creation",
+      "desc": "Google adds AI features for free video creation.",
+      "ref": "Create, edit and share videos at no cost in Google Vids"
+    },
+    {
+      "title": "Foundational AI Competition Heats Up",
+      "desc": "Tech firms launch new competing AI models.",
+      "ref": "Microsoft takes on AI rivals with three new foundational models"
+    },
+    {
+      "title": "AI Cuts Product Design Delays",
+      "desc": "Vibe coding helps PMs reduce design delays.",
+      "ref": "Why smart PMs are using vibe coding to cut design delays"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
