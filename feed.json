@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-04-03T02:31:19.692Z",
+  "generatedAt": "2026-04-04T02:23:52.305Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Web forms for Linear Asks",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-04-02-web-forms-for-linear-asks",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-04-02T16:35:00.000Z",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-04T01:31:00.000Z",
       "type": "rss"
     },
     {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp\"&gt;Google is introducing two new inference tiers to the Gemin",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-02T16:00:00.000Z",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T20:35:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp\"&gt;New AI capabilities are coming to Google Vids, powered by ",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-02T16:00:00.000Z",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T20:28:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Build with more context and more control in Figma Make",
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T20:22:18.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T19:48:22.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "summary": "A new poll shows that the debate over data centers is far from settled.",
+      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T19:20:36.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-03T14:00:15.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Four things we’d need to put data centers in space",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-03T17:03:19.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "OpenClaw gives users yet another reason to be freaked out about security",
       "summary": "",
-      "url": "https://www.figma.com/blog/introducing-make-kits-and-make-attachments/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-04-02T12:00:00.000Z",
+      "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-04-03T20:30:15.000Z",
       "type": "rss"
     },
     {
-      "title": "Why smart PMs are using vibe coding to cut design delays",
-      "summary": "This is part 3 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nThe design handoff bottleneck costs PMs da",
-      "url": "https://blog.replit.com/cut-design-delays-with-vibe-coding",
-      "source": "Replit Blog",
-      "publishedAt": "2026-04-02T19:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-02T19:21:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-02T16:48:16.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-02T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Download: plastic&#8217;s problem with fuel prices, and SpaceX&#8217;s blockbuster IPO",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1",
-      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-02T12:10:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-03T21:28:14.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Claude Code Voice Mode",
-      "tagline": "Speak your prompts into Claude Code",
-      "url": "https://www.producthunt.com/posts/claude-code-voice-mode"
+      "name": "ZooClaw",
+      "tagline": "Your proactive team of AI specialists in one place",
+      "url": "https://www.producthunt.com/posts/zooclaw"
     },
     {
-      "name": "Lightning V3",
-      "tagline": "Text-to-Speech built for Voice Agents",
-      "url": "https://www.producthunt.com/posts/lightning-v3"
+      "name": "Google Gemma 4",
+      "tagline": "Google's most intelligent open models to date",
+      "url": "https://www.producthunt.com/posts/google-gemma-4"
     },
     {
-      "name": "Denovo",
-      "tagline": "Build and run your business while you sleep.",
-      "url": "https://www.producthunt.com/posts/denovo"
+      "name": "Cursor 3",
+      "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
+      "url": "https://www.producthunt.com/posts/cursor-3-4"
     }
   ],
-  "trends": [
-    {
-      "title": "AI-Powered Free Video Creation",
-      "desc": "Google adds AI features for free video creation.",
-      "ref": "Create, edit and share videos at no cost in Google Vids"
-    },
-    {
-      "title": "Foundational AI Competition Heats Up",
-      "desc": "Tech firms launch new competing AI models.",
-      "ref": "Microsoft takes on AI rivals with three new foundational models"
-    },
-    {
-      "title": "AI Cuts Product Design Delays",
-      "desc": "Vibe coding helps PMs reduce design delays.",
-      "ref": "Why smart PMs are using vibe coding to cut design delays"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
