@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-04-04T02:23:52.305Z",
+  "generatedAt": "2026-04-05T02:38:30.400Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-04T01:31:00.000Z",
+      "publishedAt": "2026-04-04T16:32:22.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
-      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T20:35:34.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T20:28:40.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T20:22:18.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T19:48:22.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "summary": "A new poll shows that the debate over data centers is far from settled.",
-      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T19:20:36.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Facebook insider building content moderation for the AI era",
-      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T14:00:15.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Four things we’d need to put data centers in space",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk",
-      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-03T17:03:19.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenClaw gives users yet another reason to be freaked out about security",
-      "summary": "",
-      "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-      "source": "Ars Technica AI",
-      "publishedAt": "2026-04-03T20:30:15.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
       "source": "Wired AI",
-      "publishedAt": "2026-04-03T21:28:14.000Z",
+      "publishedAt": "2026-04-04T10:30:00.000Z",
       "type": "rss"
+    },
+    {
+      "title": "LLM News Today (April 2026) – AI Model Releases - LLM Stats",
+      "summary": "Follow daily AI model releases, benchmark updates, and research news from OpenAI, Anthropic, Google, Meta, Mistral, and leading open-weight labs.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "llm-stats.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Microsoft Makes a Big Move in AI! Company Launches 3 Powerful ...",
+      "summary": "Today's LLM market is rapidly becoming crowded, with many companies launching new AI models. In such an environment, Microsoft is trying to create its own ...",
+      "url": "https://medium.com/@latesttechupdates_61604/microsoft-makes-a-big-move-in-ai-company-launches-3-powerful-new-ai-models-6d069ab8274f",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Google just released the most capable open-source model family it ...",
+      "summary": "Google has officially launched Gemma 4, its latest family of open AI models capable of advanced reasoning and agentic workflows. For the first time, these ...",
+      "url": "https://www.instagram.com/p/DWtcGCSjWZD/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Google has launched its advanced open AI model, Gema 4 ...",
+      "summary": "... AI model, Gema 4, designed for multi-step reasoning, complex logic, and automated agent workflows ... (LLM) developed by Google AI, launched on December 6, 2023.",
+      "url": "https://www.facebook.com/TribuneTrends/posts/google-has-launched-its-advanced-open-ai-model-gema-4-designed-for-multi-step-re/122255678318252649/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Google Just Open Sourced Their Best AI Model (Gemma ... - Instagram",
+      "summary": "... AI Model (Gemma 4) Google just released Gemma 4 — an open source AI model family built from the same research behind Gemini 3. The 31B version currently ...",
+      "url": "https://www.instagram.com/reel/DWt7iKsANep/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Forcoda Launches AI Automation Systems for Marketing, Sales, and ...",
+      "summary": "Forcoda announced three AI-powered services - AI Content Agent, AI Lead Generation Agent, and Private LLM Assistant - designed to automate marketing, sales, ...",
+      "url": "https://www.pr.com/press-release/964859",
+      "source": "pr.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "r/LLMDevs - Reddit",
+      "summary": "I have been running experiments on multi-agent LLM pipelines in healthcare and found something that I think anyone building agent chains should know about.",
+      "url": "https://www.reddit.com/r/LLMDevs/new/",
+      "source": "reddit.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Human.tech Unveils Natural Language Wallet Protocol for AI Agents",
+      "summary": "Human.tech has introduced a new wallet infrastructure designed for AI agents that keeps humans in control through cryptographic enforcement.",
+      "url": "https://news.bitcoin.com/human-tech-unveils-natural-language-wallet-protocol-for-ai-agents/",
+      "source": "news.bitcoin.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "ZooClaw",
-      "tagline": "Your proactive team of AI specialists in one place",
-      "url": "https://www.producthunt.com/posts/zooclaw"
+      "name": "Google Vids 2.0",
+      "tagline": "Create, edit and share videos at no cost w/ new AI features",
+      "url": "https://www.producthunt.com/posts/google-vids-2-0"
     },
     {
-      "name": "Google Gemma 4",
-      "tagline": "Google's most intelligent open models to date",
-      "url": "https://www.producthunt.com/posts/google-gemma-4"
+      "name": "Sleek Analytics",
+      "tagline": "See who's on your site. Right now.",
+      "url": "https://www.producthunt.com/posts/sleek-analytics"
     },
     {
-      "name": "Cursor 3",
-      "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
-      "url": "https://www.producthunt.com/posts/cursor-3-4"
+      "name": "Surf Social Websites",
+      "tagline": "Bring together people and content on the social web",
+      "url": "https://www.producthunt.com/posts/surf-social-websites"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Open Source LLM Development Surges",
+      "desc": "Top tech firms release new capable open AI models.",
+      "ref": "Google just released the most capable open-source model family it ..."
+    },
+    {
+      "title": "Growing Adoption of AI Agents",
+      "desc": "AI agents are deployed across multiple business sectors.",
+      "ref": "Forcoda Launches AI Automation Systems for Marketing, Sales, and ..."
+    },
+    {
+      "title": "New Tiered Pricing for AI Tools",
+      "desc": "AI vendors charge extra for add-on tool usage.",
+      "ref": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage"
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 2,
+    "fromSearch": 8,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
