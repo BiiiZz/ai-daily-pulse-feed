@@ -1,21 +1,29 @@
 {
-  "generatedAt": "2026-04-05T02:38:30.400Z",
+  "generatedAt": "2026-04-06T02:40:12.513Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-04T16:32:22.000Z",
+      "publishedAt": "2026-04-05T18:51:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-04T10:30:00.000Z",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-05T15:40:58.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-05T14:00:00.000Z",
       "type": "rss"
     },
     {
@@ -27,100 +35,92 @@
       "type": "search"
     },
     {
-      "title": "Microsoft Makes a Big Move in AI! Company Launches 3 Powerful ...",
-      "summary": "Today's LLM market is rapidly becoming crowded, with many companies launching new AI models. In such an environment, Microsoft is trying to create its own ...",
-      "url": "https://medium.com/@latesttechupdates_61604/microsoft-makes-a-big-move-in-ai-company-launches-3-powerful-new-ai-models-6d069ab8274f",
-      "source": "medium.com",
+      "title": "The Sequence Radar #837: Last Week in AI: From Model Releases ...",
+      "summary": "This week in AI was not really a product week. It was a market-structure week. OpenAI's massive new funding round, Microsoft's release of new models, Google's ...",
+      "url": "https://thesequence.substack.com/p/the-sequence-radar-837-last-week",
+      "source": "thesequence.substack.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Google just released the most capable open-source model family it ...",
-      "summary": "Google has officially launched Gemma 4, its latest family of open AI models capable of advanced reasoning and agentic workflows. For the first time, these ...",
-      "url": "https://www.instagram.com/p/DWtcGCSjWZD/",
+      "title": "Anthropic Unveils Claude Opus 4.6 with Enhanced Capabilities",
+      "summary": "Anthropic has launched Claude Opus 4.6, a state-of-the-art AI model featuring a groundbreaking 1 million token context window, adaptive reasoning abilities, ...",
+      "url": "https://af.net/realtime/anthropic-unveils-claude-opus-4-6-with-enhanced-capabilities/",
+      "source": "af.net",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Anthropic just \"leaked\" their most powerful model yet ... - Instagram",
+      "summary": "#AI #anthropic #Claude #AItools #llm #techleaks #aimodel #foundertools ...",
+      "url": "https://www.instagram.com/reel/DWwfH8Sj5N_/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Google has launched its advanced open AI model, Gema 4 ...",
-      "summary": "... AI model, Gema 4, designed for multi-step reasoning, complex logic, and automated agent workflows ... (LLM) developed by Google AI, launched on December 6, 2023.",
-      "url": "https://www.facebook.com/TribuneTrends/posts/google-has-launched-its-advanced-open-ai-model-gema-4-designed-for-multi-step-re/122255678318252649/",
+      "title": "Running AI agents without internet sounded impossible two years ago.",
+      "summary": "Android, iOS, Enux, Mac OS all under free Apache 2. O license. So comment down below what you will build with Gamma four. OCR. Model selection gemma 4| All ...",
+      "url": "https://www.instagram.com/reel/DWvjN8GjY4w/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "A little-known startup that routes developers to the best AI models is ...",
+      "summary": "A little-known startup that routes developers to the best AI models is nearing a $1.3 billion valuation, riding a surge in demand as companies...",
+      "url": "https://www.facebook.com/gettheinformation/posts/a-little-known-startup-that-routes-developers-to-the-best-ai-models-is-nearing-a/1563132509149073/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Google Just Open Sourced Their Best AI Model (Gemma ... - Instagram",
-      "summary": "... AI Model (Gemma 4) Google just released Gemma 4 — an open source AI model family built from the same research behind Gemini 3. The 31B version currently ...",
-      "url": "https://www.instagram.com/reel/DWt7iKsANep/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Forcoda Launches AI Automation Systems for Marketing, Sales, and ...",
-      "summary": "Forcoda announced three AI-powered services - AI Content Agent, AI Lead Generation Agent, and Private LLM Assistant - designed to automate marketing, sales, ...",
-      "url": "https://www.pr.com/press-release/964859",
-      "source": "pr.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "r/LLMDevs - Reddit",
-      "summary": "I have been running experiments on multi-agent LLM pipelines in healthcare and found something that I think anyone building agent chains should know about.",
-      "url": "https://www.reddit.com/r/LLMDevs/new/",
-      "source": "reddit.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Human.tech Unveils Natural Language Wallet Protocol for AI Agents",
-      "summary": "Human.tech has introduced a new wallet infrastructure designed for AI agents that keeps humans in control through cryptographic enforcement.",
-      "url": "https://news.bitcoin.com/human-tech-unveils-natural-language-wallet-protocol-for-ai-agents/",
-      "source": "news.bitcoin.com",
+      "title": "Latest AI News and Updates in Real Time | 2026 - AIxploria",
+      "summary": "It's a survival skill. New model releases GPT, Gemini, Claude, Llama... every major launch, covered the same day.",
+      "url": "https://www.aixploria.com/en/ai-news-today/",
+      "source": "aixploria.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Google Vids 2.0",
-      "tagline": "Create, edit and share videos at no cost w/ new AI features",
-      "url": "https://www.producthunt.com/posts/google-vids-2-0"
+      "name": "Influcio",
+      "tagline": "AI marketing Agent for result-driven influencer campaign",
+      "url": "https://www.producthunt.com/posts/influcio-2"
     },
     {
-      "name": "Sleek Analytics",
-      "tagline": "See who's on your site. Right now.",
-      "url": "https://www.producthunt.com/posts/sleek-analytics"
+      "name": "Panorama",
+      "tagline": "AI that finds your team’s workflows and hidden structures",
+      "url": "https://www.producthunt.com/posts/panorama"
     },
     {
-      "name": "Surf Social Websites",
-      "tagline": "Bring together people and content on the social web",
-      "url": "https://www.producthunt.com/posts/surf-social-websites"
+      "name": "Tiny Aya",
+      "tagline": "Local, open-weight AI designed for real-world languages",
+      "url": "https://www.producthunt.com/posts/tiny-aya"
     }
   ],
   "trends": [
     {
-      "title": "Open Source LLM Development Surges",
-      "desc": "Top tech firms release new capable open AI models.",
-      "ref": "Google just released the most capable open-source model family it ..."
+      "title": "Frequent New AI Model Releases",
+      "desc": "Top AI labs regularly launch new capable models.",
+      "ref": "Anthropic Unveils Claude Opus 4.6 with Enhanced Capabilities"
     },
     {
-      "title": "Growing Adoption of AI Agents",
-      "desc": "AI agents are deployed across multiple business sectors.",
-      "ref": "Forcoda Launches AI Automation Systems for Marketing, Sales, and ..."
+      "title": "Physical AI Fills Labor Shortages",
+      "desc": "Physical AI deploys to fill unwanted open roles.",
+      "ref": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants"
     },
     {
-      "title": "New Tiered Pricing for AI Tools",
-      "desc": "AI vendors charge extra for add-on tool usage.",
-      "ref": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage"
+      "title": "Local Offline AI Agent Growth",
+      "desc": "Offline AI agents now run locally on consumer devices.",
+      "ref": "Running AI agents without internet sounded impossible two years ago."
     }
   ],
   "stats": {
     "total": 10,
-    "fromRSS": 2,
-    "fromSearch": 8,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 3
   },
