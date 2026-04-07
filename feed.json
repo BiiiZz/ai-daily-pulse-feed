@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-04-06T02:40:12.513Z",
+  "generatedAt": "2026-04-07T02:34:44.679Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-05T18:51:37.000Z",
+      "title": "How product managers ship faster using Replit's agentic workflows",
+      "summary": "This is part 4 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nRequirements docs, decks, and tickets go s",
+      "url": "https://blog.replit.com/product-managers-ship-faster-with-replit",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-06T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
-      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-05T15:40:58.000Z",
+      "publishedAt": "2026-04-06T21:54:26.000Z",
       "type": "rss"
     },
     {
-      "title": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants",
-      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-05T14:00:00.000Z",
+      "publishedAt": "2026-04-06T18:54:33.000Z",
       "type": "rss"
     },
     {
-      "title": "LLM News Today (April 2026) – AI Model Releases - LLM Stats",
-      "summary": "Follow daily AI model releases, benchmark updates, and research news from OpenAI, Anthropic, Google, Meta, Mistral, and leading open-weight labs.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "llm-stats.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Iran threatens &#8216;Stargate&#8217; AI data centers",
+      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T18:06:28.000Z",
+      "type": "rss"
     },
     {
-      "title": "The Sequence Radar #837: Last Week in AI: From Model Releases ...",
-      "summary": "This week in AI was not really a product week. It was a market-structure week. OpenAI's massive new funding round, Microsoft's release of new models, Google's ...",
-      "url": "https://thesequence.substack.com/p/the-sequence-radar-837-last-week",
-      "source": "thesequence.substack.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T15:55:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic Unveils Claude Opus 4.6 with Enhanced Capabilities",
-      "summary": "Anthropic has launched Claude Opus 4.6, a state-of-the-art AI model featuring a groundbreaking 1 million token context window, adaptive reasoning abilities, ...",
-      "url": "https://af.net/realtime/anthropic-unveils-claude-opus-4-6-with-enhanced-capabilities/",
-      "source": "af.net",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+      "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield ",
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T14:30:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic just \"leaked\" their most powerful model yet ... - Instagram",
-      "summary": "#AI #anthropic #Claude #AItools #llm #techleaks #aimodel #foundertools ...",
-      "url": "https://www.instagram.com/reel/DWwfH8Sj5N_/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T14:11:42.000Z",
+      "type": "rss"
     },
     {
-      "title": "Running AI agents without internet sounded impossible two years ago.",
-      "summary": "Android, iOS, Enux, Mac OS all under free Apache 2. O license. So comment down below what you will build with Gamma four. OCR. Model selection gemma 4| All ...",
-      "url": "https://www.instagram.com/reel/DWvjN8GjY4w/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "summary": "Starting today, you have 5 days to save nearly $500 on your ticket to TechCrunch Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates.",
+      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T14:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "A little-known startup that routes developers to the best AI models is ...",
-      "summary": "A little-known startup that routes developers to the best AI models is nearing a $1.3 billion valuation, riding a surge in demand as companies...",
-      "url": "https://www.facebook.com/gettheinformation/posts/a-little-known-startup-that-routes-developers-to-the-best-ai-models-is-nearing-a/1563132509149073/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Spain&#8217;s Xoople raises $130 million Series B to map the Earth for AI",
+      "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Latest AI News and Updates in Real Time | 2026 - AIxploria",
-      "summary": "It's a survival skill. New model releases GPT, Gemini, Claude, Llama... every major launch, covered the same day.",
-      "url": "https://www.aixploria.com/en/ai-news-today/",
-      "source": "aixploria.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-06T16:33:35.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Influcio",
-      "tagline": "AI marketing Agent for result-driven influencer campaign",
-      "url": "https://www.producthunt.com/posts/influcio-2"
+      "name": "Moonshot ",
+      "tagline": "Track the Artemis II mission from your Mac",
+      "url": "https://www.producthunt.com/posts/moonshot-8"
     },
     {
-      "name": "Panorama",
-      "tagline": "AI that finds your team’s workflows and hidden structures",
-      "url": "https://www.producthunt.com/posts/panorama"
+      "name": "PixVerse V6",
+      "tagline": "The AI video model that actually feels alive.",
+      "url": "https://www.producthunt.com/posts/pixverse-v6"
     },
     {
-      "name": "Tiny Aya",
-      "tagline": "Local, open-weight AI designed for real-world languages",
-      "url": "https://www.producthunt.com/posts/tiny-aya"
+      "name": "AgentPulse by Rectify",
+      "tagline": "Everything in OpenClaw's terminal, you can now do visually",
+      "url": "https://www.producthunt.com/posts/agentpulse-by-rectify"
     }
   ],
-  "trends": [
-    {
-      "title": "Frequent New AI Model Releases",
-      "desc": "Top AI labs regularly launch new capable models.",
-      "ref": "Anthropic Unveils Claude Opus 4.6 with Enhanced Capabilities"
-    },
-    {
-      "title": "Physical AI Fills Labor Shortages",
-      "desc": "Physical AI deploys to fill unwanted open roles.",
-      "ref": "In Japan, the robot isn&#8217;t coming for your job; it&#8217;s filling the one nobody wants"
-    },
-    {
-      "title": "Local Offline AI Agent Growth",
-      "desc": "Offline AI agents now run locally on consumer devices.",
-      "ref": "Running AI agents without internet sounded impossible two years ago."
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
