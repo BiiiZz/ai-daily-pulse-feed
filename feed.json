@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-08T02:35:36.582Z",
+  "generatedAt": "2026-04-09T02:30:29.328Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "I can&#8217;t help rooting for tiny open source AI model maker Arcee",
-      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
-      "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T21:35:02.000Z",
+      "title": "How Figma AI tools helped us bring extra delight to the canvas",
+      "summary": "",
+      "url": "https://www.figma.com/blog/april-fun-day-2026-figcade/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-04-08T19:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Firmus, the &#8216;Southgate&#8217; AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T18:46:55.000Z",
+      "title": "Beyond the App: Using Vibe Coding to Ship Decks, Dashboards, and Launch Assets",
+      "summary": "This is part 5 of a 6-part series we’re running about how product managers are using AI tools and vibe coding. Written by and for product managers.\n\nSummary\n\nProduct managers spend as much time launch",
+      "url": "https://blog.replit.com/vibe-coding-decks-and-dashboards",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-08T18:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Intel signs on to Elon Musk&#8217;s Terafab chips project",
-      "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
-      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T18:10:01.000Z",
+      "publishedAt": "2026-04-08T21:05:13.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T18:00:00.000Z",
+      "publishedAt": "2026-04-08T20:09:14.000Z",
       "type": "rss"
     },
     {
-      "title": "Uber is the latest to be won over by Amazon&#8217;s AI chips",
-      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T16:46:59.000Z",
+      "publishedAt": "2026-04-08T18:23:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "title": "Astropad&#8217;s Workbench reimagines remote desktop for AI agents, not IT support",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T16:05:56.000Z",
+      "publishedAt": "2026-04-08T16:01:09.000Z",
       "type": "rss"
     },
     {
-      "title": "Google Maps can now write captions for your photos using AI",
-      "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video abou",
-      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T15:30:00.000Z",
+      "publishedAt": "2026-04-08T15:23:44.000Z",
       "type": "rss"
     },
     {
-      "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
-      "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
-      "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+      "title": "Databricks co-founder wins prestigious ACM award, says &#8216;AGI is here already&#8217;",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T14:00:00.000Z",
+      "publishedAt": "2026-04-08T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "summary": "On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i",
-      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "summary": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
+      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T13:00:00.000Z",
+      "publishedAt": "2026-04-08T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-07T05:30:00.000Z",
+      "publishedAt": "2026-04-08T13:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "NovaVoice",
-      "tagline": "Smart dictation, AI assistant, + app control via voice",
-      "url": "https://www.producthunt.com/posts/novavoice"
+      "name": "Velo",
+      "tagline": "Share anything as video messages",
+      "url": "https://www.producthunt.com/posts/velo-10"
     },
     {
-      "name": "Lessie AI",
-      "tagline": "Search, Reach and Connect - Find the perfect fit, 10x faster",
-      "url": "https://www.producthunt.com/posts/lessie-ai-2"
+      "name": "Flint",
+      "tagline": "Launch on-brand pages for every campaign, ad, and prospect.",
+      "url": "https://www.producthunt.com/posts/flint-6"
     },
     {
-      "name": "SuperShrimp",
-      "tagline": "Fix your terrible posture",
-      "url": "https://www.producthunt.com/posts/supershrimp"
+      "name": "Google Chrome Vertical Tabs",
+      "tagline": "Chrome now supports vertical tabs and immersive reading mode",
+      "url": "https://www.producthunt.com/posts/google-chrome-vertical-tabs"
     }
   ],
   "trends": [],
