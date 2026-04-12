@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-11T02:26:58.652Z",
+  "generatedAt": "2026-04-12T02:45:08.185Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
-      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-10T20:27:52.000Z",
+      "publishedAt": "2026-04-11T17:18:22.000Z",
       "type": "rss"
     },
     {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
-      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-10T16:41:34.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software",
-      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-10T16:38:43.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-10T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox faci",
-      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-10T14:04:20.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short st",
-      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-10T12:10:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Constellations",
-      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s",
-      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-10T10:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "title": "Your Push Notifications Aren’t Safe From the FBI",
+      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
       "source": "Wired AI",
-      "publishedAt": "2026-04-10T18:08:37.000Z",
+      "publishedAt": "2026-04-11T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
-      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
-      "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+      "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
       "source": "Wired AI",
-      "publishedAt": "2026-04-10T16:32:19.000Z",
+      "publishedAt": "2026-04-11T09:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
-      "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
-      "url": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-10T16:00:00.000Z",
-      "type": "rss"
+      "title": "LLM Updates (April 2026) - AI Model Releases & Provider Activity",
+      "summary": "Track AI model releases, recently added endpoints, and provider update cadence across GPT, Claude, Gemini, DeepSeek, Llama, and 300+ models.",
+      "url": "https://lmmarketcap.com/llm-updates",
+      "source": "lmmarketcap.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Anthropic says new AI model too dangerous for public release",
+      "summary": "Given access to fictional emails and autonomy, models displayed “agentic misalignment,” prioritizing self-preservation over ethics. Claude Opus 4 and Gemini 2.5 ...",
+      "url": "https://www.facebook.com/kfor4/posts/anthropic-says-new-ai-model-too-dangerous-for-public-release/1498146391898580/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Vibe check from AI industry HumanX: Anthropic is talk of the town",
+      "summary": "So while OpenAI kicked off the generative AI boom with the launch of ChatGPT in 2022, Anthropic may be best set up to win contracts from the biggest spenders.",
+      "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+      "source": "cnbc.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Model Tipping Point: Claude Opus 4.5 Redefines Agentic Tool ...",
+      "summary": "Claude Opus 4.5 has revolutionized the reliability of agentic AI tools, enabling them to autonomously manage multi-step workflows and recover from errors, ...",
+      "url": "https://af.net/realtime/ai-model-tipping-point-claude-opus-4-5-redefines-agentic-tool-reliability/",
+      "source": "af.net",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "the most powerful AI model ever built is just… sitting in a ... - Instagram",
+      "summary": "POV: releasing Claude Mythos for public use Alright team, HERMES . POV: releasing Claude Mythos for public use We now have access to everything.",
+      "url": "https://www.instagram.com/reel/DXAaCYlEvxF/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA ...",
+      "summary": "The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as…",
+      "url": "https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/",
+      "source": "developer.nvidia.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Claude Managed Agents, Muse Spark, Project Glasswing, Advisor ...",
+      "summary": "Z.ai released GLM-5.1, a 754B parameter open-weight model designed for agentic engineering that can run autonomously for over 8 hours on single tasks ...",
+      "url": "https://nlp.elvissaravia.com/p/ai-agents-weekly-claude-managed-agents",
+      "source": "nlp.elvissaravia.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Claude Advisor tool",
-      "tagline": "Pair Opus as advisor with Sonnet or Haiku as executor",
-      "url": "https://www.producthunt.com/posts/claude-advisor-tool"
+      "name": "Claude for Word",
+      "tagline": "Bring Claude natively into your Microsoft Word workflow",
+      "url": "https://www.producthunt.com/posts/claude-for-word-3"
     },
     {
-      "name": "Integrations in Spine",
-      "tagline": "AI that synthesize and researches info across multiple apps",
-      "url": "https://www.producthunt.com/posts/integrations-in-spine"
+      "name": "Claude Code ultraplan",
+      "tagline": "Claude Code command that plans your codebase in the cloud",
+      "url": "https://www.producthunt.com/posts/claude-code-ultraplan"
     },
     {
-      "name": "Google Finance",
-      "tagline": "Ask complex finance questions, get AI-grounded answers",
-      "url": "https://www.producthunt.com/posts/google-finance-3"
+      "name": "Capso",
+      "tagline": "Free open-source screenshot & screen recorder for Mac",
+      "url": "https://www.producthunt.com/posts/capso"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 0
   },
