@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-04-12T02:45:08.185Z",
+  "generatedAt": "2026-04-13T02:50:27.151Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-11T17:18:22.000Z",
+      "publishedAt": "2026-04-12T21:14:38.000Z",
       "type": "rss"
     },
     {
-      "title": "Your Push Notifications Aren’t Safe From the FBI",
-      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-11T10:30:00.000Z",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-12T19:58:42.000Z",
       "type": "rss"
     },
     {
-      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
-      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
-      "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-11T09:30:00.000Z",
+      "title": "From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-12T15:07:08.000Z",
       "type": "rss"
     },
     {
-      "title": "LLM Updates (April 2026) - AI Model Releases & Provider Activity",
-      "summary": "Track AI model releases, recently added endpoints, and provider update cadence across GPT, Claude, Gemini, DeepSeek, Llama, and 300+ models.",
-      "url": "https://lmmarketcap.com/llm-updates",
-      "source": "lmmarketcap.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-12T15:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic says new AI model too dangerous for public release",
-      "summary": "Given access to fictional emails and autonomy, models displayed “agentic misalignment,” prioritizing self-preservation over ethics. Claude Opus 4 and Gemini 2.5 ...",
-      "url": "https://www.facebook.com/kfor4/posts/anthropic-says-new-ai-model-too-dangerous-for-public-release/1498146391898580/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Vibe check from AI industry HumanX: Anthropic is talk of the town",
-      "summary": "So while OpenAI kicked off the generative AI boom with the launch of ChatGPT in 2022, Anthropic may be best set up to win contracts from the biggest spenders.",
-      "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
-      "source": "cnbc.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI Model Tipping Point: Claude Opus 4.5 Redefines Agentic Tool ...",
-      "summary": "Claude Opus 4.5 has revolutionized the reliability of agentic AI tools, enabling them to autonomously manage multi-step workflows and recover from errors, ...",
-      "url": "https://af.net/realtime/ai-model-tipping-point-claude-opus-4-5-redefines-agentic-tool-reliability/",
-      "source": "af.net",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "the most powerful AI model ever built is just… sitting in a ... - Instagram",
-      "summary": "POV: releasing Claude Mythos for public use Alright team, HERMES . POV: releasing Claude Mythos for public use We now have access to everything.",
-      "url": "https://www.instagram.com/reel/DXAaCYlEvxF/",
+      "title": "Meta just released Muse Spark, their first AI model built by the new ...",
+      "summary": "Meta's move to acquire a viral social network of AI agents has sparked curiosity! Are they paving the way for a future where AI agents chat freely without ...",
+      "url": "https://www.instagram.com/p/DXCUF0dDM7W/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA ...",
-      "summary": "The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as…",
-      "url": "https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/",
-      "source": "developer.nvidia.com",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "summary": "Get started with Claude Managed Agents by following our docs. A running topic on the Engineering Blog is how to build effective agents and design harnesses ...",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "anthropic.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Claude Managed Agents, Muse Spark, Project Glasswing, Advisor ...",
-      "summary": "Z.ai released GLM-5.1, a 754B parameter open-weight model designed for agentic engineering that can run autonomously for over 8 hours on single tasks ...",
-      "url": "https://nlp.elvissaravia.com/p/ai-agents-weekly-claude-managed-agents",
-      "source": "nlp.elvissaravia.com",
+      "title": "Anthropic just invented a model that's so powerful they can't release ...",
+      "summary": "Not a product launch. Not a press conference. A draft blog post sitting ... ai, large language models, ai speculation, tech news, codvyn]. more. View all ...",
+      "url": "https://www.instagram.com/reel/DXCWdy2kZ3G/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "AI Agents Go Production-Ready This Week. Mizuho Financial Group just launched its \"Agent Factory,\" cutting AI agent development time by 70%—from two weeks to ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Meta Platforms Finally Releases Muse Spark. Is the AI Model Worth ...",
+      "summary": "Meta Platforms (META) released Muse Spark, its first major AI model in over a year, scoring 52 on the Intelligence Index and delivering multimodal reasoning ...",
+      "url": "https://www.aol.com/articles/meta-platforms-finally-releases-muse-142058640.html",
+      "source": "aol.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "The best llms in 2026 - Product Hunt",
+      "summary": "New AI models pop up every week. Some developer tools like @Cursor, @Zed, and @Kilo Code let you choose between different models, while ...",
+      "url": "https://www.producthunt.com/categories/llms",
+      "source": "producthunt.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Claude for Word",
-      "tagline": "Bring Claude natively into your Microsoft Word workflow",
-      "url": "https://www.producthunt.com/posts/claude-for-word-3"
+      "name": "Interactive Simulations in Gemini",
+      "tagline": "Gemini now lets you play with the concepts you ask about",
+      "url": "https://www.producthunt.com/posts/interactive-simulations-in-gemini"
     },
     {
-      "name": "Claude Code ultraplan",
-      "tagline": "Claude Code command that plans your codebase in the cloud",
-      "url": "https://www.producthunt.com/posts/claude-code-ultraplan"
+      "name": "Ray",
+      "tagline": "Your personal CFO in the terminal",
+      "url": "https://www.producthunt.com/posts/ray-7"
     },
     {
-      "name": "Capso",
-      "tagline": "Free open-source screenshot & screen recorder for Mac",
-      "url": "https://www.producthunt.com/posts/capso"
+      "name": "Music Marketplace by Eleven Labs",
+      "tagline": "Create a track. Publish it. Earn when it is used.",
+      "url": "https://www.producthunt.com/posts/music-marketplace-by-eleven-labs"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI Agents Go Production-Ready",
+      "desc": "AI agents are entering real-world enterprise use.",
+      "ref": "Daily AI Agent News - Last 7 Days"
+    },
+    {
+      "title": "Anthropic Grows Industry Influence",
+      "desc": "Anthropic is rising as a leading AI player.",
+      "ref": "At the HumanX conference, everyone was talking about Claude"
+    },
+    {
+      "title": "Big Tech Launches New AI Models",
+      "desc": "Major tech firms roll out new AI models constantly.",
+      "ref": "Meta Platforms Finally Releases Muse Spark. Is the AI Model Worth ..."
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
