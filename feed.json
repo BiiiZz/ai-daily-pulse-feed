@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-14T02:42:37.483Z",
+  "generatedAt": "2026-04-15T02:40:01.351Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp\"&gt;Skills in Chrome let you discover, save and remix AI workf",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-14T17:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Bringing people together at AI for the Economy Forum",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp\"&gt;Google is bringing people together in Washington D.C. at our",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Anthropic&#8217;s rise is giving some OpenAI investors second thoughts",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T00:23:33.000Z",
+      "publishedAt": "2026-04-15T02:31:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-13T19:05:19.000Z",
+      "publishedAt": "2026-04-14T18:09:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura",
+      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-13T18:55:37.000Z",
+      "publishedAt": "2026-04-14T17:13:03.000Z",
       "type": "rss"
     },
     {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the ",
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-13T15:22:29.000Z",
+      "publishedAt": "2026-04-14T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The largest orbital compute cluster is open for business",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-13T07:01:00.000Z",
+      "publishedAt": "2026-04-14T15:30:49.000Z",
       "type": "rss"
     },
     {
-      "title": "Why opinion on AI is so divided",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, ",
-      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-13T15:48:28.000Z",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-14T14:48:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Want to understand the current state of AI? Check out these charts.",
-      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Instit",
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-13T13:00:00.000Z",
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-14T14:22:44.000Z",
       "type": "rss"
     },
     {
-      "title": "The Download: how humans make decisions, and Moderna&#8217;s &#8220;vaccine&#8221; word games",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe H",
-      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "title": "Redefining the future of software engineering",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-04-13T12:10:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Job titles of the future: Wildlife first responder",
-      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven year",
-      "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-13T10:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "You have no choice in reading this article—maybe",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gra",
-      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "publishedAt": "2026-04-14T18:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Krisp Accent Converter for YouTube",
-      "tagline": "YouTube, but you clearly understand everyone",
-      "url": "https://www.producthunt.com/posts/krisp-accent-converter-for-youtube"
+      "name": "Figma for Agents",
+      "tagline": "Design with AI agents, connected to your design system",
+      "url": "https://www.producthunt.com/posts/figma-for-agents"
     },
     {
-      "name": "Luma Agents",
-      "tagline": "Agents that plan, iterate, + refine w/ full creative context",
-      "url": "https://www.producthunt.com/posts/luma-agents"
+      "name": "CatDoes v4",
+      "tagline": "An AI agent with its own computer builds your apps",
+      "url": "https://www.producthunt.com/posts/catdoes-v4"
     },
     {
-      "name": "Cleo Labs",
-      "tagline": "Automate global compliance  for selling physical products",
-      "url": "https://www.producthunt.com/posts/cleo-labs"
+      "name": "Softr AI Co-Builder",
+      "tagline": "Build business apps with AI - that actually work",
+      "url": "https://www.producthunt.com/posts/softr-ai-co-builder"
     }
   ],
   "trends": [],
