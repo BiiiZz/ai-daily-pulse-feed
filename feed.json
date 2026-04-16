@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-15T02:40:01.351Z",
+  "generatedAt": "2026-04-16T02:48:23.463Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp\"&gt;Skills in Chrome let you discover, save and remix AI workf",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\"&gt;Gemini 3.1 Flash TTS is now available across Google produc",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-04-14T17:00:00.000Z",
+      "publishedAt": "2026-04-15T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Bringing people together at AI for the Economy Forum",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp\"&gt;Google is bringing people together in Washington D.C. at our",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "title": "The TL;DR on MCP: Why context matters and how to put it to work",
+      "summary": "",
+      "url": "https://www.figma.com/blog/the-tldr-on-mcp/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-04-15T21:57:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s rise is giving some OpenAI investors second thoughts",
-      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua",
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "title": "Making scroll-stopping videos with Replit Animation",
+      "summary": "In February, we launched Replit Animation: enabling anyone to create motion-style videos within minutes. This would normally take days with expert tools like After Effects. Replit Animation based vide",
+      "url": "https://blog.replit.com/viral-videos-replit-animation",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-15T22:41:04.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T02:31:04.000Z",
+      "publishedAt": "2026-04-15T19:28:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T18:09:12.000Z",
+      "publishedAt": "2026-04-15T18:55:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura",
-      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "title": "LinkedIn data shows AI isn&#8217;t to blame for hiring decline&#8230; yet",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T17:13:03.000Z",
+      "publishedAt": "2026-04-15T18:51:54.000Z",
       "type": "rss"
     },
     {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T17:00:00.000Z",
+      "publishedAt": "2026-04-15T18:38:10.000Z",
       "type": "rss"
     },
     {
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T15:30:49.000Z",
+      "publishedAt": "2026-04-15T18:33:20.000Z",
       "type": "rss"
     },
     {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "title": "Google rolls out a native Gemini app for Mac",
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T14:48:34.000Z",
+      "publishedAt": "2026-04-15T18:22:13.000Z",
       "type": "rss"
     },
     {
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&",
+      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-14T14:22:44.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Redefining the future of software engineering",
-      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-14T18:00:00.000Z",
+      "publishedAt": "2026-04-15T17:58:28.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Figma for Agents",
-      "tagline": "Design with AI agents, connected to your design system",
-      "url": "https://www.producthunt.com/posts/figma-for-agents"
+      "name": "Claude Code Routines",
+      "tagline": "Put Claude Code tasks on autopilot with smart routines",
+      "url": "https://www.producthunt.com/posts/claude-code-routines"
     },
     {
-      "name": "CatDoes v4",
-      "tagline": "An AI agent with its own computer builds your apps",
-      "url": "https://www.producthunt.com/posts/catdoes-v4"
+      "name": "Fathom 3.0",
+      "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
+      "url": "https://www.producthunt.com/posts/fathom-3-0"
     },
     {
-      "name": "Softr AI Co-Builder",
-      "tagline": "Build business apps with AI - that actually work",
-      "url": "https://www.producthunt.com/posts/softr-ai-co-builder"
+      "name": "Intent",
+      "tagline": "Describe a feature and AI agents build, verify, and ship it",
+      "url": "https://www.producthunt.com/posts/intent-9"
     }
   ],
   "trends": [],
