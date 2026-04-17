@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-16T02:48:23.463Z",
+  "generatedAt": "2026-04-17T02:43:09.981Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\"&gt;Gemini 3.1 Flash TTS is now available across Google produc",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "title": "Linear for Microsoft Teams",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-04-16-linear-for-microsoft-teams",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-04-16T16:07:12.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png\"&gt;Today’s upgrades for AI Mode in Chrome transform how you interact with the",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-04-15T15:00:00.000Z",
+      "publishedAt": "2026-04-16T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The TL;DR on MCP: Why context matters and how to put it to work",
-      "summary": "",
-      "url": "https://www.figma.com/blog/the-tldr-on-mcp/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-04-15T21:57:00.000Z",
+      "title": "New ways to create personalized images in the Gemini app",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp\"&gt;Nano Banana 2 now uses your personal context and Google Photos to create ",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-16T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Making scroll-stopping videos with Replit Animation",
-      "summary": "In February, we launched Replit Animation: enabling anyone to create motion-style videos within minutes. This would normally take days with expert tools like After Effects. Replit Animation based vide",
-      "url": "https://blog.replit.com/viral-videos-replit-animation",
-      "source": "Replit Blog",
-      "publishedAt": "2026-04-15T22:41:04.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T19:28:36.000Z",
+      "publishedAt": "2026-04-16T22:55:30.000Z",
       "type": "rss"
     },
     {
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T18:55:12.000Z",
+      "publishedAt": "2026-04-16T21:58:08.000Z",
       "type": "rss"
     },
     {
-      "title": "LinkedIn data shows AI isn&#8217;t to blame for hiring decline&#8230; yet",
-      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
-      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T18:51:54.000Z",
+      "publishedAt": "2026-04-16T20:41:13.000Z",
       "type": "rss"
     },
     {
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T18:38:10.000Z",
+      "publishedAt": "2026-04-16T20:26:44.000Z",
       "type": "rss"
     },
     {
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T18:33:20.000Z",
+      "publishedAt": "2026-04-16T19:18:41.000Z",
       "type": "rss"
     },
     {
-      "title": "Google rolls out a native Gemini app for Mac",
-      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "title": "Anthropic CPO leaves Figma&#8217;s board after reports he will offer a competing product",
+      "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ",
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T18:22:13.000Z",
+      "publishedAt": "2026-04-16T18:28:42.000Z",
       "type": "rss"
     },
     {
-      "title": "The musician-turned-biotech-founder waiting to fundraise",
-      "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&",
-      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-15T17:58:28.000Z",
+      "publishedAt": "2026-04-16T17:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Claude Code Routines",
-      "tagline": "Put Claude Code tasks on autopilot with smart routines",
-      "url": "https://www.producthunt.com/posts/claude-code-routines"
+      "name": "Claude Code Desktop App Redesigned",
+      "tagline": "Run parallel coding agents from one desktop workspace",
+      "url": "https://www.producthunt.com/posts/claude-code-desktop-app-redesigned"
     },
     {
-      "name": "Fathom 3.0",
-      "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "url": "https://www.producthunt.com/posts/fathom-3-0"
+      "name": "Resend CLI 2.0",
+      "tagline": "Built for humans, AI agents, and CI/CD pipelines",
+      "url": "https://www.producthunt.com/posts/resend-cli-2-0"
     },
     {
-      "name": "Intent",
-      "tagline": "Describe a feature and AI agents build, verify, and ship it",
-      "url": "https://www.producthunt.com/posts/intent-9"
+      "name": "X-Pilot",
+      "tagline": " Explain anything accurately, from document to video course",
+      "url": "https://www.producthunt.com/posts/x-pilot-6"
     }
   ],
   "trends": [],
