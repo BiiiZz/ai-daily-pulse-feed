@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-17T02:43:09.981Z",
+  "generatedAt": "2026-04-18T02:33:55.881Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Linear for Microsoft Teams",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-04-16-linear-for-microsoft-teams",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-04-16T16:07:12.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png\"&gt;Today’s upgrades for AI Mode in Chrome transform how you interact with the",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp\"&gt;The latest tools from Google can help you plan trips, find a ",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "New ways to create personalized images in the Gemini app",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp\"&gt;Nano Banana 2 now uses your personal context and Google Photos to create ",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-16T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "title": "Sam Altman&#8217;s project World looks to scale its human verification empire. First stop: Tinder.",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T22:55:30.000Z",
+      "publishedAt": "2026-04-17T22:34:02.000Z",
       "type": "rss"
     },
     {
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T21:58:08.000Z",
+      "publishedAt": "2026-04-17T20:38:17.000Z",
       "type": "rss"
     },
     {
-      "title": "Upscale AI in talks to raise at $2B valuation, says report",
-      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T20:41:13.000Z",
+      "publishedAt": "2026-04-17T19:17:26.000Z",
       "type": "rss"
     },
     {
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "title": "&#8216;Tokenmaxxing&#8217; is making developers less productive than they think",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T20:26:44.000Z",
+      "publishedAt": "2026-04-17T18:42:45.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "title": "Tokenmaxxing, OpenAI&#8217;s shopping spree, and the AI Anxiety Gap",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T19:18:41.000Z",
+      "publishedAt": "2026-04-17T15:57:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic CPO leaves Figma&#8217;s board after reports he will offer a competing product",
-      "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ",
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T18:28:42.000Z",
+      "publishedAt": "2026-04-17T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Google now lets you explore the web side-by-side with AI Mode",
-      "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
-      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ",
+      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
+      "publishedAt": "2026-04-17T13:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Pie Day 2026",
+      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-p",
+      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-17T14:07:41.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal ",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-17T12:10:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Claude Code Desktop App Redesigned",
-      "tagline": "Run parallel coding agents from one desktop workspace",
-      "url": "https://www.producthunt.com/posts/claude-code-desktop-app-redesigned"
+      "name": "Claude Opus 4.7",
+      "tagline": "Claude’s most capable model for reasoning and agentic coding",
+      "url": "https://www.producthunt.com/posts/claude-opus-4-7"
     },
     {
-      "name": "Resend CLI 2.0",
-      "tagline": "Built for humans, AI agents, and CI/CD pipelines",
-      "url": "https://www.producthunt.com/posts/resend-cli-2-0"
+      "name": "Build Check (for Outsiders)",
+      "tagline": "Is your app idea actually worth building?",
+      "url": "https://www.producthunt.com/posts/build-check-for-outsiders"
     },
     {
-      "name": "X-Pilot",
-      "tagline": " Explain anything accurately, from document to video course",
-      "url": "https://www.producthunt.com/posts/x-pilot-6"
+      "name": "Codex 2.0 by OpenAI",
+      "tagline": "Codex now runs apps, automates tasks, codes & more",
+      "url": "https://www.producthunt.com/posts/codex-2-0-by-openai"
     }
   ],
   "trends": [],
