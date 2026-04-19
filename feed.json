@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-18T02:33:55.881Z",
+  "generatedAt": "2026-04-19T02:50:28.637Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp\"&gt;The latest tools from Google can help you plan trips, find a ",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Sam Altman&#8217;s project World looks to scale its human verification empire. First stop: Tinder.",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T22:34:02.000Z",
+      "publishedAt": "2026-04-18T21:37:15.000Z",
       "type": "rss"
     },
     {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "title": "AI chip startup Cerebras files for IPO",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T20:38:17.000Z",
+      "publishedAt": "2026-04-18T19:19:11.000Z",
       "type": "rss"
     },
     {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T19:17:26.000Z",
+      "publishedAt": "2026-04-18T14:56:48.000Z",
       "type": "rss"
     },
     {
-      "title": "&#8216;Tokenmaxxing&#8217; is making developers less productive than they think",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "title": "The App Store is booming again, and AI may be why",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T18:42:45.000Z",
+      "publishedAt": "2026-04-18T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Tokenmaxxing, OpenAI&#8217;s shopping spree, and the AI Anxiety Gap",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ",
-      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T15:57:40.000Z",
+      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-18T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T15:00:00.000Z",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-18T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ",
-      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-17T13:00:00.000Z",
-      "type": "rss"
+      "title": "General Compute Launches ASIC-First Inference Cloud for ...",
+      "summary": "The platform is built to serve AI agents that make high volumes of LLM inference and tool calls, including AI agents that provision their own compute ...",
+      "url": "https://www.morningstar.com/news/accesswire/1158830msn/general-compute-launches-asic-first-inference-cloud-for-autonomous-ai-agents",
+      "source": "morningstar.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Pie Day 2026",
-      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-p",
-      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T14:07:41.000Z",
-      "type": "rss"
+      "title": "Anthropic just launched “Claude Design” & It is OVER for Adobe and ...",
+      "summary": "In this guide we show how to build AI agents with ClickUp, automate tasks, and create powerful workflows without coding. Perfect for marketers, founders, and ...",
+      "url": "https://www.instagram.com/p/DXQ8fEejA2I/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal ",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T12:10:00.000Z",
-      "type": "rss"
+      "title": "Springboards introduces Flint, a new AI model designed to prioritise ...",
+      "summary": "TECHNOLOGY: Springboards introduces Flint, a new AI model designed to prioritise creative diversity and originality over the predictable outputs typical...",
+      "url": "https://www.facebook.com/adobomagazine/posts/technology-springboards-introduces-flint-a-new-ai-model-designed-to-prioritise-c/1402762635223927/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "OpenAI Just Shipped 3 Specialized Models in 72 Hours - Towards AI",
+      "summary": "OpenAI's three-model barrage is not a coherent product release. It is a series of tactical moves, each one calibrated to pin Anthropic's position in a ...",
+      "url": "https://pub.towardsai.net/openai-just-shipped-3-specialized-models-in-72-hours-24c8d622ef00",
+      "source": "pub.towardsai.net",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Claude Opus 4.7",
-      "tagline": "Claude’s most capable model for reasoning and agentic coding",
-      "url": "https://www.producthunt.com/posts/claude-opus-4-7"
+      "name": "Claude Design by Anthropic Labs",
+      "tagline": "Make prototypes, slides & one-pagers by talking to Claude",
+      "url": "https://www.producthunt.com/posts/claude-design-by-anthropic-labs-2"
     },
     {
-      "name": "Build Check (for Outsiders)",
-      "tagline": "Is your app idea actually worth building?",
-      "url": "https://www.producthunt.com/posts/build-check-for-outsiders"
+      "name": "Notebooks in Gemini",
+      "tagline": "Keep every project, chat, and file in one focused space",
+      "url": "https://www.producthunt.com/posts/notebooks-in-gemini-2"
     },
     {
-      "name": "Codex 2.0 by OpenAI",
-      "tagline": "Codex now runs apps, automates tasks, codes & more",
-      "url": "https://www.producthunt.com/posts/codex-2-0-by-openai"
+      "name": "CraftBot",
+      "tagline": "Self-hosted proactive AI assistant that lives locally",
+      "url": "https://www.producthunt.com/posts/craftbot"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 6,
+    "fromSearch": 4,
     "products": 3,
     "trends": 0
   },
