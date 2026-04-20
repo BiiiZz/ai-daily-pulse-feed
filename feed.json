@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-19T02:50:28.637Z",
+  "generatedAt": "2026-04-20T02:51:27.081Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and",
-      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "title": "OpenAI’s existential questions",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-18T21:37:15.000Z",
+      "publishedAt": "2026-04-19T21:24:06.000Z",
       "type": "rss"
     },
     {
-      "title": "AI chip startup Cerebras files for IPO",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "title": "The 12-month window",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-18T19:19:11.000Z",
+      "publishedAt": "2026-04-19T19:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-18T14:56:48.000Z",
+      "publishedAt": "2026-04-19T16:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The App Store is booming again, and AI may be why",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-18T13:00:00.000Z",
+      "publishedAt": "2026-04-19T16:01:00.000Z",
       "type": "rss"
     },
     {
-      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-18T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-18T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "General Compute Launches ASIC-First Inference Cloud for ...",
-      "summary": "The platform is built to serve AI agents that make high volumes of LLM inference and tool calls, including AI agents that provision their own compute ...",
-      "url": "https://www.morningstar.com/news/accesswire/1158830msn/general-compute-launches-asic-first-inference-cloud-for-autonomous-ai-agents",
-      "source": "morningstar.com",
+      "title": "LLM News Today (April 2026) – AI Model Releases - LLM Stats",
+      "summary": "Follow daily AI model releases, benchmark updates, and research news from OpenAI, Anthropic, Google, Meta, Mistral, and leading open-weight labs.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "llm-stats.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Anthropic just launched “Claude Design” & It is OVER for Adobe and ...",
-      "summary": "In this guide we show how to build AI agents with ClickUp, automate tasks, and create powerful workflows without coding. Perfect for marketers, founders, and ...",
-      "url": "https://www.instagram.com/p/DXQ8fEejA2I/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Springboards introduces Flint, a new AI model designed to prioritise ...",
-      "summary": "TECHNOLOGY: Springboards introduces Flint, a new AI model designed to prioritise creative diversity and originality over the predictable outputs typical...",
-      "url": "https://www.facebook.com/adobomagazine/posts/technology-springboards-introduces-flint-a-new-ai-model-designed-to-prioritise-c/1402762635223927/",
+      "title": "OpenAI just dropped a new open-source framework for AI agents It's ...",
+      "summary": "OpenAI released its Agents SDK, making it easier than ever to create AI- powered systems that work autonomously, integrate with tools, and streamline workflows.",
+      "url": "https://www.facebook.com/61587274601783/posts/openai-just-dropped-a-new-open-source-framework-for-ai-agents-its-called-open-ag/122123358891242486/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "OpenAI Just Shipped 3 Specialized Models in 72 Hours - Towards AI",
-      "summary": "OpenAI's three-model barrage is not a coherent product release. It is a series of tactical moves, each one calibrated to pin Anthropic's position in a ...",
-      "url": "https://pub.towardsai.net/openai-just-shipped-3-specialized-models-in-72-hours-24c8d622ef00",
-      "source": "pub.towardsai.net",
+      "title": "NVIDIA Releases Ising: the First Open Quantum AI Model Family for ...",
+      "summary": "Think of it as an AI agent that continuously watches diagnostic readouts from quantum hardware and autonomously adjusts the system to keep it running optimally.",
+      "url": "https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/",
+      "source": "marktechpost.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Anthropic Just Dropped Three Things in 48 Hours That Sent Figma ...",
+      "summary": "On April 17, 2026, Anthropic Labs officially launched Claude Design a new AI-native product that turns a text prompt into interactive prototypes, pitch decks, ...",
+      "url": "https://medium.com/ai-tomorrow/anthropic-just-dropped-three-things-in-48-hours-that-sent-figma-down-7-adobe-down-and-wix-down-d8f0544f465f",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI 'agent' fever comes with lurking security threats",
+      "summary": "The system allows users to create so-called agents, tools based on a large language model (LLM) like OpenAI's ChatGPT or Anthropic's Claude that can carry out ...",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/ai-agent-fever-comes-with-lurking-security-threats/articleshow/130368374.cms",
+      "source": "m.economictimes.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "summary": "I have a fun little agent in my tmux agent orchestration system - Socratic agent that has no access to codebase, can't read any files, can only send/receive ...",
+      "url": "https://news.ycombinator.com/item?id=47823270",
+      "source": "news.ycombinator.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Claude Design by Anthropic Labs",
-      "tagline": "Make prototypes, slides & one-pagers by talking to Claude",
-      "url": "https://www.producthunt.com/posts/claude-design-by-anthropic-labs-2"
+      "name": "Vantage in Google Labs",
+      "tagline": "Practice & assess future-ready skills with AI-simulated team",
+      "url": "https://www.producthunt.com/posts/vantage-in-google-labs"
     },
     {
-      "name": "Notebooks in Gemini",
-      "tagline": "Keep every project, chat, and file in one focused space",
-      "url": "https://www.producthunt.com/posts/notebooks-in-gemini-2"
+      "name": "Gemini app for Mac",
+      "tagline": "Option + Space and Gemini is right there",
+      "url": "https://www.producthunt.com/posts/gemini-app-for-mac-2"
     },
     {
-      "name": "CraftBot",
-      "tagline": "Self-hosted proactive AI assistant that lives locally",
-      "url": "https://www.producthunt.com/posts/craftbot"
+      "name": "Verdent 2.0",
+      "tagline": "Your AI Technical Cofounder",
+      "url": "https://www.producthunt.com/posts/verdent-2-0"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 6,
-    "fromSearch": 4,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
     "trends": 0
   },
