@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-04-21T02:44:00.634Z",
+  "generatedAt": "2026-04-22T02:42:33.125Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\"&gt;Three new agentic safety and policy features integrated into Ads",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-21T14:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "How AI leaders are borrowing from the design playbook",
+      "summary": "",
+      "url": "https://www.figma.com/blog/how-ai-leaders-are-borrowing-from-the-design-playbook/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-04-21T21:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Defense in Depth: How Replit Secures Every Layer of the Vibe Coding Stack",
+      "summary": "Defense in Depth: How Replit Secures Every Layer of the Vibe Coding Stack\n\nVibe coding is changing how software gets built. But as AI agents write more of our code, the question security teams are ask",
+      "url": "https://blog.replit.com/defense-in-depth-how-replit-secures-every-layer-of-the-vibe-coding-stack",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-21T03:00:43.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Replit Wins 2026 Google Cloud Partner of the Year Award",
+      "summary": "More than 50 million users around the globe now build apps on Replit. They’re not all engineers. They’re product managers, operators, founders, students, and small business owners, and increasingly, t",
+      "url": "https://blog.replit.com/google-cloud-partner-award-winner",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-21T19:05:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Meet Replit Security Agent",
+      "summary": "Replit gives professionals a secure place to build with AI. Replit Agent already protects your apps as you build by automatically scanning for vulnerabilities, and audits dependencies, before your pro",
+      "url": "https://blog.replit.com/meet-replit-security-agent",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-21T18:02:07.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T23:10:27.000Z",
+      "publishedAt": "2026-04-21T23:45:21.000Z",
       "type": "rss"
     },
     {
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "title": "Unauthorized group has gained access to Anthropic&#8217;s exclusive cyber tool Mythos, report claims",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T22:00:00.000Z",
+      "publishedAt": "2026-04-21T23:26:45.000Z",
       "type": "rss"
     },
     {
-      "title": "It&#8217;s not just one thing — it&#8217;s another thing",
-      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar",
-      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same co",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T19:37:07.000Z",
+      "publishedAt": "2026-04-21T22:58:22.000Z",
       "type": "rss"
     },
     {
-      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "title": "Apple&#8217;s John Ternus will run one of the world&#8217;s most powerful companies; the job is a minefield",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T16:06:21.000Z",
+      "publishedAt": "2026-04-21T20:23:24.000Z",
       "type": "rss"
     },
     {
-      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-      "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-      "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T15:30:19.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Download: murderous &#8216;mirror&#8217; bacteria, and Chinese workers fighting AI doubles",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill u",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-20T12:10:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of ",
-      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-20T10:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Chinese tech workers are starting to train their AI doubles&#8211;and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier thi",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-20T09:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-      "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-20T22:33:27.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
-      "summary": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
-      "url": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-20T13:00:00.000Z",
+      "publishedAt": "2026-04-21T19:11:29.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Dune",
-      "tagline": "Context-aware Mac keypad to automate workflows + meetings",
-      "url": "https://www.producthunt.com/posts/dune-5"
+      "name": "RankAI",
+      "tagline": "RankAI autonomously gets you buyers from Google & AI Search",
+      "url": "https://www.producthunt.com/posts/rankai-2"
     },
     {
-      "name": "Claude Desktop Buddy",
-      "tagline": "Bring Claude into the physical world with maker hardware",
-      "url": "https://www.producthunt.com/posts/claude-desktop-buddy"
+      "name": "Twenty 2.0",
+      "tagline": "Build your Enterprise CRM with an AI-friendly SDK",
+      "url": "https://www.producthunt.com/posts/twenty-2-0"
     },
     {
-      "name": "The New Waydev",
-      "tagline": "Measure the full AI SDLC. From token to production.",
-      "url": "https://www.producthunt.com/posts/the-new-waydev"
+      "name": "Kimi K2.6",
+      "tagline": "Open-source SOTA for long-horizon coding and agent swarms",
+      "url": "https://www.producthunt.com/posts/kimi-k2-6-7"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Rising Focus on AI Agent Security",
+      "desc": "Firms prioritize securing AI-powered development workflows.",
+      "ref": "Defense in Depth: How Replit Secures Every Layer of the Vibe Coding Stack"
+    },
+    {
+      "title": "Growing Investment in AI Agents",
+      "desc": "Startups raise capital to build advanced AI agents.",
+      "ref": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans"
+    },
+    {
+      "title": "Large Firms Acquire AI Startups",
+      "desc": "Major companies acquire promising AI development startups.",
+      "ref": "SpaceX is working with Cursor and has an option to buy the startup for $60B"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
