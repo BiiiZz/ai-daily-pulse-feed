@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-25T02:35:11.509Z",
+  "generatedAt": "2026-04-26T02:52:35.471Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\"&gt;Organize your home and digital space with Gemini. Use AI-power",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-24T19:00:00.000Z",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-25T21:43:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta&#8217;s loss is Thinking Machines&#8217; gain",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "title": "Maine&#8217;s governor vetoes data center moratorium",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T20:52:07.000Z",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
       "type": "rss"
     },
     {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T19:49:35.000Z",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T18:00:03.000Z",
+      "publishedAt": "2026-04-25T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple&#8217;s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the m",
-      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T17:45:57.000Z",
+      "publishedAt": "2026-04-25T15:03:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T16:42:19.000Z",
+      "publishedAt": "2026-04-25T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack",
-      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T14:00:00.000Z",
+      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-25T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Tim Cook is stepping down. What happens to Apple now?",
-      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;a",
-      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T14:00:00.000Z",
+      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+      "source": "Wired AI",
+      "publishedAt": "2026-04-25T09:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T13:41:42.000Z",
-      "type": "rss"
+      "title": "Former OpenAI research scientist launches new AI model for Tencent",
+      "summary": "Tencent has released Hunyuan3D 2.0, an advanced open-source system for creating high-resolution textured 3D assets. The model significantly improves upon ...",
+      "url": "https://www.facebook.com/InfoWorld/posts/former-openai-research-scientist-launches-new-ai-model-for-tencent/1425311342948901/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "DeepSeek previews new AI model that &#8216;closes the gap&#8217; with frontier models",
-      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on",
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T13:30:59.000Z",
-      "type": "rss"
+      "title": "#ai #agents #llm #startup #product #aiinfra | SimplAI - LinkedIn",
+      "summary": "Hello everyone, good news for builders, Open AI has recently launched the GPT 5.5 model and it's already available on Simple AI. We want to evaluate the ...",
+      "url": "https://www.linkedin.com/posts/simplai-ai_ai-agents-llm-activity-7453835568620212224-E9jj",
+      "source": "linkedin.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Ask Product Hunt AI",
-      "tagline": "Find the right product, just ask",
-      "url": "https://www.producthunt.com/posts/ask-product-hunt-ai"
+      "name": "ZeroHuman.",
+      "tagline": "Your AI Co-Founder: OpenClaw x Paperclip x Spud",
+      "url": "https://www.producthunt.com/posts/zerohuman"
     },
     {
-      "name": "Beezi AI",
-      "tagline": "Make AI development structured, secure, and cost-efficient.",
-      "url": "https://www.producthunt.com/posts/beezi-ai"
+      "name": "Gemini Personal Intelligence",
+      "tagline": "Gemini answers with context from your Google apps",
+      "url": "https://www.producthunt.com/posts/gemini-personal-intelligence"
     },
     {
-      "name": "DeepSeek-V4",
-      "tagline": "The open-source era of 1M context intelligence",
-      "url": "https://www.producthunt.com/posts/deepseek-v4-3"
+      "name": "Inrō AI",
+      "tagline": "Your AI Agent for Instagram Marketing",
+      "url": "https://www.producthunt.com/posts/inro-ai"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 8,
+    "fromSearch": 2,
     "products": 3,
     "trends": 0
   },
