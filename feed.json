@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-26T02:52:35.471Z",
+  "generatedAt": "2026-04-27T02:55:17.304Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "publishedAt": "2026-04-26T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Maine&#8217;s governor vetoes data center moratorium",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T20:57:08.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T17:17:56.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt",
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t",
-      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T15:03:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-25T15:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-25T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-      "source": "Wired AI",
-      "publishedAt": "2026-04-25T09:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Former OpenAI research scientist launches new AI model for Tencent",
-      "summary": "Tencent has released Hunyuan3D 2.0, an advanced open-source system for creating high-resolution textured 3D assets. The model significantly improves upon ...",
-      "url": "https://www.facebook.com/InfoWorld/posts/former-openai-research-scientist-launches-new-ai-model-for-tencent/1425311342948901/",
+      "title": "OpenAI: GPT-5.5 Introduced As Most Advanced Model Yet For Real ...",
+      "summary": "OpenAI released GPT 5.2 and they position it as their most capable model series yet for professional knowledge work and long running agents. OpenAI If you build ...",
+      "url": "https://www.facebook.com/pulse2news/posts/openai-gpt-55-introduced-as-most-advanced-model-yet-for-real-world-work-and-agen/1645438817583141/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "#ai #agents #llm #startup #product #aiinfra | SimplAI - LinkedIn",
-      "summary": "Hello everyone, good news for builders, Open AI has recently launched the GPT 5.5 model and it's already available on Simple AI. We want to evaluate the ...",
-      "url": "https://www.linkedin.com/posts/simplai-ai_ai-agents-llm-activity-7453835568620212224-E9jj",
-      "source": "linkedin.com",
+      "title": "Here's everything that happened in AI this week - Instagram",
+      "summary": "China just open sourced an AI model that beats major models like ChatGPT and Claude while this new AI agent can use computers like a human.",
+      "url": "https://www.instagram.com/p/DXm2xXok2Pr/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Google launches Gemini Enterprise Agent Platform to build, govern ...",
+      "summary": "Breaking: Google Cloud just launched its Gemini Enterprise Agent Platform — and enterprise AI may be entering its production era.",
+      "url": "https://www.instagram.com/p/DXmbBvhGACQ/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
+      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
+      "url": "https://letsdatascience.com/news/topic/ai-agents",
+      "source": "letsdatascience.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "This guy literally rebuilt Anthropic's secret AI model from ... - Instagram",
+      "summary": "He released it in April 2026. It's called Open Mythos and within days it blew up. Over 4600 stars on GitHub. Developers everywhere are downloading it, testing ...",
+      "url": "https://www.instagram.com/p/DXltqr0gkCo/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Analysts weigh in on recent reports of Meta's AI model delay, job cut ...",
+      "summary": "Analysts were slightly disappointed by the launch delay of Meta's (META) frontier AI model. Simultaneously, they believe the news of job cuts at the tech giant ...",
+      "url": "https://www.msn.com/en-us/money/other/analysts-weigh-in-on-recent-reports-of-meta-s-ai-model-delay-job-cut-plans/ar-AA1YKXpI?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+      "source": "msn.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Can DeepSeek compete? - Product Hunt",
+      "summary": "This week: DeepSeek launches its latest AI model, an app that helps you understand more of what you read, what the data really says about startup scalability, ...",
+      "url": "https://www.producthunt.com/newsletters/archive/50091-can-deepseek-compete",
+      "source": "producthunt.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Hugging Face just replaced the junior ML engineer. They open ...",
+      "summary": "Hugging Face has released a new open-source AI agent designed to handle basic computer tasks For now, though, it feels more like a shaky tech demo than a useful ...",
+      "url": "https://www.facebook.com/Alexaiupdate/posts/%F0%9D%97%95%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-hugging-face-just-replaced-the-junior-ml-engineerthey-open-sourced-an-a/122137861700996686/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its ...",
+      "summary": "Chinese AI startup DeepSeek has launched its ambitious V4 foundational artificial intelligence model. The V4-pro boasts an impressive 1.6 trillion parameters, ...",
+      "url": "https://www.instagram.com/p/DXmOa9HDOXe/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "ZeroHuman.",
-      "tagline": "Your AI Co-Founder: OpenClaw x Paperclip x Spud",
-      "url": "https://www.producthunt.com/posts/zerohuman"
+      "name": "GPT-5.5 by OpenAI",
+      "tagline": "OpenAI's smartest and most intuitive to use model yet",
+      "url": "https://www.producthunt.com/posts/gpt-5-5-by-openai-2"
     },
     {
-      "name": "Gemini Personal Intelligence",
-      "tagline": "Gemini answers with context from your Google apps",
-      "url": "https://www.producthunt.com/posts/gemini-personal-intelligence"
+      "name": "Claude Connectors",
+      "tagline": "New connectors in Claude for everyday life",
+      "url": "https://www.producthunt.com/posts/claude-connectors-2"
     },
     {
-      "name": "Inrō AI",
-      "tagline": "Your AI Agent for Instagram Marketing",
-      "url": "https://www.producthunt.com/posts/inro-ai"
+      "name": "QuickCompare by Trismik",
+      "tagline": "Compare LLMs on your data, measure, and pick the best.",
+      "url": "https://www.producthunt.com/posts/quickcompare-by-trismik"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 8,
-    "fromSearch": 2,
+    "fromRSS": 1,
+    "fromSearch": 9,
     "products": 3,
     "trends": 0
   },
