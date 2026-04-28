@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-04-27T02:55:17.304Z",
+  "generatedAt": "2026-04-28T03:23:59.528Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-26T15:30:00.000Z",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"&gt;Google is bringing back its 5-Day AI Agents Intensive Course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-04-27T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI: GPT-5.5 Introduced As Most Advanced Model Yet For Real ...",
-      "summary": "OpenAI released GPT 5.2 and they position it as their most capable model series yet for professional knowledge work and long running agents. OpenAI If you build ...",
-      "url": "https://www.facebook.com/pulse2news/posts/openai-gpt-55-introduced-as-most-advanced-model-yet-for-real-world-work-and-agen/1645438817583141/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T17:40:38.000Z",
+      "type": "rss"
     },
     {
-      "title": "Here's everything that happened in AI this week - Instagram",
-      "summary": "China just open sourced an AI model that beats major models like ChatGPT and Claude while this new AI agent can use computers like a human.",
-      "url": "https://www.instagram.com/p/DXm2xXok2Pr/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "DeepMind&#8217;s David Silver just raised $1.1B to build an AI that learns without human data",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T17:24:21.000Z",
+      "type": "rss"
     },
     {
-      "title": "Google launches Gemini Enterprise Agent Platform to build, govern ...",
-      "summary": "Breaking: Google Cloud just launched its Gemini Enterprise Agent Platform — and enterprise AI may be entering its production era.",
-      "url": "https://www.instagram.com/p/DXmbBvhGACQ/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T16:13:02.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
-      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
-      "url": "https://letsdatascience.com/news/topic/ai-agents",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T13:16:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "This guy literally rebuilt Anthropic's secret AI model from ... - Instagram",
-      "summary": "He released it in April 2026. It's called Open Mythos and within days it blew up. Over 4600 stars on GitHub. Developers everywhere are downloading it, testing ...",
-      "url": "https://www.instagram.com/p/DXltqr0gkCo/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T13:08:59.000Z",
+      "type": "rss"
     },
     {
-      "title": "Analysts weigh in on recent reports of Meta's AI model delay, job cut ...",
-      "summary": "Analysts were slightly disappointed by the launch delay of Meta's (META) frontier AI model. Simultaneously, they believe the news of job cuts at the tech giant ...",
-      "url": "https://www.msn.com/en-us/money/other/analysts-weigh-in-on-recent-reports-of-meta-s-ai-model-delay-job-cut-plans/ar-AA1YKXpI?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
-      "source": "msn.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Can DeepSeek compete? - Product Hunt",
-      "summary": "This week: DeepSeek launches its latest AI model, an app that helps you understand more of what you read, what the data really says about startup scalability, ...",
-      "url": "https://www.producthunt.com/newsletters/archive/50091-can-deepseek-compete",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-27T22:52:57.000Z",
+      "type": "rss"
     },
     {
-      "title": "Hugging Face just replaced the junior ML engineer. They open ...",
-      "summary": "Hugging Face has released a new open-source AI agent designed to handle basic computer tasks For now, though, it feels more like a shaky tech demo than a useful ...",
-      "url": "https://www.facebook.com/Alexaiupdate/posts/%F0%9D%97%95%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-hugging-face-just-replaced-the-junior-ml-engineerthey-open-sourced-an-a/122137861700996686/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The missing step between hype and profit",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-27T16:13:41.000Z",
+      "type": "rss"
     },
     {
-      "title": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its ...",
-      "summary": "Chinese AI startup DeepSeek has launched its ambitious V4 foundational artificial intelligence model. The V4-pro boasts an impressive 1.6 trillion parameters, ...",
-      "url": "https://www.instagram.com/p/DXmOa9HDOXe/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Rebuilding the data stack for AI",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-27T13:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "GPT-5.5 by OpenAI",
-      "tagline": "OpenAI's smartest and most intuitive to use model yet",
-      "url": "https://www.producthunt.com/posts/gpt-5-5-by-openai-2"
+      "name": "Orange Slice",
+      "tagline": "Automate any sales task with AI",
+      "url": "https://www.producthunt.com/posts/orange-slice-2"
     },
     {
-      "name": "Claude Connectors",
-      "tagline": "New connectors in Claude for everyday life",
-      "url": "https://www.producthunt.com/posts/claude-connectors-2"
+      "name": " Jet AI Agents",
+      "tagline": "Build business AI agents in minutes",
+      "url": "https://www.producthunt.com/posts/jet-ai-agents"
     },
     {
-      "name": "QuickCompare by Trismik",
-      "tagline": "Compare LLMs on your data, measure, and pick the best.",
-      "url": "https://www.producthunt.com/posts/quickcompare-by-trismik"
+      "name": "Logic",
+      "tagline": "Build and operate fleets of agents",
+      "url": "https://www.producthunt.com/posts/logic-a61802c1-1f81-4b75-86e6-a6d76505847a"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 1,
-    "fromSearch": 9,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
