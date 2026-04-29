@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-28T03:23:59.528Z",
+  "generatedAt": "2026-04-29T03:22:14.843Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"&gt;Google is bringing back its 5-Day AI Agents Intensive Course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\"&gt;Google’s sharing 20 fun facts to celebrate Google Translat",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-04-27T13:00:00.000Z",
+      "publishedAt": "2026-04-28T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "title": "FigJam is now your coding agent’s whiteboard too",
+      "summary": "",
+      "url": "https://www.figma.com/blog/figjam-your-coding-agents-whiteboard/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-04-28T12:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T17:40:38.000Z",
+      "publishedAt": "2026-04-29T00:40:16.000Z",
       "type": "rss"
     },
     {
-      "title": "DeepMind&#8217;s David Silver just raised $1.1B to build an AI that learns without human data",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T17:24:21.000Z",
+      "publishedAt": "2026-04-28T19:48:02.000Z",
       "type": "rss"
     },
     {
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T16:13:02.000Z",
+      "publishedAt": "2026-04-28T18:49:54.000Z",
       "type": "rss"
     },
     {
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "title": "Google expands Pentagon&#8217;s access to its AI after Anthropic&#8217;s refusal",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T13:16:55.000Z",
+      "publishedAt": "2026-04-28T18:15:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "summary": "The app allows developers to vibe code web apps and websites on the go.",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T13:08:59.000Z",
+      "publishedAt": "2026-04-28T16:09:30.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "publishedAt": "2026-04-28T13:54:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-27T22:52:57.000Z",
+      "title": "BCI startup Neurable looks to license its &#8216;mind-reading&#8217; tech for consumer wearables",
+      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-28T13:19:34.000Z",
       "type": "rss"
     },
     {
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-27T16:13:41.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-27T13:00:00.000Z",
+      "title": "Red Hat&#8217;s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-28T13:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Orange Slice",
-      "tagline": "Automate any sales task with AI",
-      "url": "https://www.producthunt.com/posts/orange-slice-2"
+      "name": "Clera",
+      "tagline": "An AI agent matching candidates to the right roles.",
+      "url": "https://www.producthunt.com/posts/clera"
     },
     {
-      "name": " Jet AI Agents",
-      "tagline": "Build business AI agents in minutes",
-      "url": "https://www.producthunt.com/posts/jet-ai-agents"
+      "name": "SureThing.io",
+      "tagline": "Autonomous agent that communicates results like a human",
+      "url": "https://www.producthunt.com/posts/surething-io-2"
     },
     {
-      "name": "Logic",
-      "tagline": "Build and operate fleets of agents",
-      "url": "https://www.producthunt.com/posts/logic-a61802c1-1f81-4b75-86e6-a6d76505847a"
+      "name": "Social Fetch",
+      "tagline": "Pull real-time data from any social platform via API.",
+      "url": "https://www.producthunt.com/posts/social-fetch"
     }
   ],
   "trends": [],
