@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-04-29T03:22:14.843Z",
+  "generatedAt": "2026-04-30T03:23:29.257Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\"&gt;Google’s sharing 20 fun facts to celebrate Google Translat",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-04-28T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "FigJam is now your coding agent’s whiteboard too",
+      "title": "How to design agentic tools for work",
       "summary": "",
-      "url": "https://www.figma.com/blog/figjam-your-coding-agents-whiteboard/",
+      "url": "https://www.figma.com/blog/how-to-design-agentic-tools-for-work/",
       "source": "Figma Blog",
-      "publishedAt": "2026-04-28T12:00:00.000Z",
+      "publishedAt": "2026-04-29T16:44:00.000Z",
       "type": "rss"
     },
     {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-29T00:40:16.000Z",
+      "title": "Introducing Replit App Monitoring",
+      "summary": "At Replit, we're on a mission to automate software creation for everybody. We want to become your fully AI-powered engineering team. But building your app is only half the job. The other half is keepi",
+      "url": "https://blog.replit.com/app-monitoring",
+      "source": "Replit Blog",
+      "publishedAt": "2026-04-29T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "title": "Amazon&#8217;s cloud business is surging — and so is its capital spending",
+      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T19:48:02.000Z",
+      "publishedAt": "2026-04-30T00:14:23.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
-      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T18:49:54.000Z",
+      "publishedAt": "2026-04-30T00:07:15.000Z",
       "type": "rss"
     },
     {
-      "title": "Google expands Pentagon&#8217;s access to its AI after Anthropic&#8217;s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "title": "On the stand, Elon Musk can&#8217;t escape his own tweets",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T18:15:00.000Z",
+      "publishedAt": "2026-04-29T23:58:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "summary": "The app allows developers to vibe code web apps and websites on the go.",
-      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "title": "Meta is still burning money on AR/VR",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T16:09:30.000Z",
+      "publishedAt": "2026-04-29T23:58:26.000Z",
       "type": "rss"
     },
     {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "title": "Satya Nadella says he&#8217;s ready to &#8216;exploit&#8217; the new OpenAI deal",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T13:54:06.000Z",
+      "publishedAt": "2026-04-29T23:55:23.000Z",
       "type": "rss"
     },
     {
-      "title": "BCI startup Neurable looks to license its &#8216;mind-reading&#8217; tech for consumer wearables",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T13:19:34.000Z",
+      "publishedAt": "2026-04-29T23:02:23.000Z",
       "type": "rss"
     },
     {
-      "title": "Red Hat&#8217;s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-28T13:00:00.000Z",
+      "publishedAt": "2026-04-29T22:20:48.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-29T20:59:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Clera",
-      "tagline": "An AI agent matching candidates to the right roles.",
-      "url": "https://www.producthunt.com/posts/clera"
+      "name": "Plurai",
+      "tagline": "Vibe-train evals and guardrails tailored to your use case",
+      "url": "https://www.producthunt.com/posts/plurai"
     },
     {
-      "name": "SureThing.io",
-      "tagline": "Autonomous agent that communicates results like a human",
-      "url": "https://www.producthunt.com/posts/surething-io-2"
+      "name": "Open Wearables",
+      "tagline": "Open infrastructure for wearable-powered health products.",
+      "url": "https://www.producthunt.com/posts/open-wearables-3"
     },
     {
-      "name": "Social Fetch",
-      "tagline": "Pull real-time data from any social platform via API.",
-      "url": "https://www.producthunt.com/posts/social-fetch"
+      "name": "Gro v2",
+      "tagline": "Spot signals, trigger outreach - turn posts into pipeline",
+      "url": "https://www.producthunt.com/posts/gro-v2"
     }
   ],
   "trends": [],
