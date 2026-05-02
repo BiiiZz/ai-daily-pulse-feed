@@ -1,120 +1,120 @@
 {
-  "generatedAt": "2026-05-01T03:33:31.876Z",
+  "generatedAt": "2026-05-02T02:49:46.123Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Releases",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-04-30-releases",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-04-30T16:00:55.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Workflow lab: Expanding the canvas with Figma MCP",
-      "summary": "",
-      "url": "https://www.figma.com/blog/workflow-lab-expanding-the-canvas-with-figma-mcp/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-04-30T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T02:00:00.000Z",
+      "publishedAt": "2026-05-01T23:06:50.000Z",
       "type": "rss"
     },
     {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T23:07:56.000Z",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple was surprised by AI-driven demand for Macs",
-      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "title": "Did you know you can&#8217;t steal a charity? Don&#8217;t worry. Elon Musk will remind you.",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in cou",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T22:12:52.000Z",
+      "publishedAt": "2026-05-01T17:44:29.000Z",
       "type": "rss"
     },
     {
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T20:14:47.000Z",
+      "publishedAt": "2026-05-01T16:02:36.000Z",
       "type": "rss"
     },
     {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "title": "Musk v. Altman is just getting started",
+      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his o",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T19:27:41.000Z",
+      "publishedAt": "2026-05-01T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T18:20:03.000Z",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T22:08:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T18:03:57.000Z",
+      "title": "Cyber-Insecurity in the AI Era",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T15:54:01.000Z",
       "type": "rss"
     },
     {
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta",
-      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T17:53:53.000Z",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T15:31:09.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to bloc",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T12:10:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical mi",
+      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T10:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "VideoOS by Jupitrr AI",
-      "tagline": "Your all-in-one video workflow",
-      "url": "https://www.producthunt.com/posts/videoos-by-jupitrr-ai"
+      "name": "Postiz",
+      "tagline": "Agentic social media scheduler for agents like OpenClaw",
+      "url": "https://www.producthunt.com/posts/postiz-3"
     },
     {
-      "name": "Hera Launch",
-      "tagline": "Create studio-quality launch videos with AI",
-      "url": "https://www.producthunt.com/posts/hera-launch-2"
+      "name": "Zed 1.0",
+      "tagline": "High-performance, open source, multiplayer code editor",
+      "url": "https://www.producthunt.com/posts/zed-1-0"
     },
     {
-      "name": "Mintlify Editor",
-      "tagline": "AI-native collaborative editor",
-      "url": "https://www.producthunt.com/posts/mintlify-editor"
+      "name": "Marx Finance",
+      "tagline": "AI agents debate the markets",
+      "url": "https://www.producthunt.com/posts/marx-finance"
     }
   ],
   "trends": [
     {
-      "title": "AI startups see soaring valuations",
-      "desc": "Top AI firms raise capital at huge valuations.",
-      "ref": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks"
+      "title": "Big Tech Pursues Humanoid AI",
+      "desc": "Tech giants acquire startups to advance humanoid AI.",
+      "ref": "Meta buys robotics startup to bolster its humanoid AI ambitions"
     },
     {
-      "title": "Generative AI adoption varies by region",
-      "desc": "ChatGPT Images 2.0 succeeds only in India so far.",
-      "ref": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet"
+      "title": "DOD Deploys Classified Network AI",
+      "desc": "Pentagon partners with top tech firms for classified AI.",
+      "ref": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks"
     },
     {
-      "title": "Vertical AI competition intensifies",
-      "desc": "Rival legal AI startups battle for market share.",
-      "ref": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter"
+      "title": "AI Leaders Face Public Legal Disputes",
+      "desc": "Top AI founders are in high-profile public trials.",
+      "ref": "Musk v. Altman is just getting started"
     }
   ],
   "stats": {
