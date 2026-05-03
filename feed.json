@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-05-02T02:49:46.123Z",
+  "generatedAt": "2026-05-03T03:24:38.083Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "summary": "Bad news for Tilly Norwood.",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T23:06:50.000Z",
+      "publishedAt": "2026-05-02T21:54:58.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "publishedAt": "2026-05-02T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Did you know you can&#8217;t steal a charity? Don&#8217;t worry. Elon Musk will remind you.",
-      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in cou",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T17:44:29.000Z",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "source": "Wired AI",
+      "publishedAt": "2026-05-02T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T16:02:36.000Z",
-      "type": "rss"
+      "title": "stop listening to AI CEOs who suddenly develop a \"God ... - Twitter",
+      "summary": "The agent field doesn't have a destination yet. The big labs are iterating in public, shipping regressions to millions of users, writing postmortems, patching ...",
+      "url": "https://x.com/DataChaz/status/2050545549238292629",
+      "source": "x.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Musk v. Altman is just getting started",
-      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his o",
-      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-01T14:00:00.000Z",
-      "type": "rss"
+      "title": "Microsoft on Thursday made Agent 365 generally ... - Instagram",
+      "summary": "AI agents are becoming part of the workforce. Microsoft 365 E7 gives you the tools to deploy them, manage them, and keep them secure – all under one licence",
+      "url": "https://www.instagram.com/p/DX08xdeEUSi/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T22:08:19.000Z",
-      "type": "rss"
+      "title": "Baidu just dropped an ERNIE update nobody is talking about. And it ...",
+      "summary": "8B Parameter AI in 1GB?! This Changes Everything #artificial intelligence #machine learning #LLM #AI model #1-bit precision. Follow for daily tech news! more.",
+      "url": "https://www.instagram.com/reel/DX2IfjpCL36/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T15:54:01.000Z",
-      "type": "rss"
+      "title": "OpenAI is expanding access to its most advanced AI models to help ...",
+      "summary": "Anthropic Surpasses OpenAI in Enterprise LLM Market with 32% Share Anthropic has emerged as the leading provider of large language models (LLMs) for enterprises ...",
+      "url": "https://www.facebook.com/wlfi18/posts/openai-is-expanding-access-to-its-most-advanced-ai-models-to-help-businesses-and/1565364055596059/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T15:31:09.000Z",
-      "type": "rss"
+      "title": "Same Opus model, two completely different products ... - Instagram",
+      "summary": "Why your AI agent fails at 3 AM without MCP. Separate thinking brain from doing hands. Use MCP for tool discovery not hardcoding. Build memory-first agent ...",
+      "url": "https://www.instagram.com/reel/DX19pn1N0XH/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to bloc",
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T12:10:00.000Z",
-      "type": "rss"
+      "title": "Optimizing Prompt Engineering for Next-Gen Models | Epsilla Blog",
+      "summary": "Upon the release of new models, beyond observing enhanced capabilities, a prevalent sentiment is that newer model versions appear less compliant than their ...",
+      "url": "https://www.epsilla.com/blogs/2026-05-02-optimizing-prompt-engineering-for-next-gen-models",
+      "source": "epsilla.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical mi",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T10:00:00.000Z",
-      "type": "rss"
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "NVIDIA releases Nemotron 3 Nano Omni, a new AI model that understands video, audio, images, and text at once. This makes AI agents 9x faster and cheaper to run ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Postiz",
-      "tagline": "Agentic social media scheduler for agents like OpenClaw",
-      "url": "https://www.producthunt.com/posts/postiz-3"
+      "name": "Scholé",
+      "tagline": "Turn everyday work into personalized AI learning",
+      "url": "https://www.producthunt.com/posts/schole-2"
     },
     {
-      "name": "Zed 1.0",
-      "tagline": "High-performance, open source, multiplayer code editor",
-      "url": "https://www.producthunt.com/posts/zed-1-0"
+      "name": "Cloud Computer by Manus",
+      "tagline": "A dedicated cloud machine for bots and software",
+      "url": "https://www.producthunt.com/posts/cloud-computer-by-manus"
     },
     {
-      "name": "Marx Finance",
-      "tagline": "AI agents debate the markets",
-      "url": "https://www.producthunt.com/posts/marx-finance"
+      "name": "Feather",
+      "tagline": "Photo editor with local AI",
+      "url": "https://www.producthunt.com/posts/feather-14"
     }
   ],
-  "trends": [
-    {
-      "title": "Big Tech Pursues Humanoid AI",
-      "desc": "Tech giants acquire startups to advance humanoid AI.",
-      "ref": "Meta buys robotics startup to bolster its humanoid AI ambitions"
-    },
-    {
-      "title": "DOD Deploys Classified Network AI",
-      "desc": "Pentagon partners with top tech firms for classified AI.",
-      "ref": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks"
-    },
-    {
-      "title": "AI Leaders Face Public Legal Disputes",
-      "desc": "Top AI founders are in high-profile public trials.",
-      "ref": "Musk v. Altman is just getting started"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
