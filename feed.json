@@ -1,116 +1,117 @@
 {
-  "generatedAt": "2026-05-03T03:24:38.083Z",
+  "generatedAt": "2026-05-04T03:23:06.713Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "summary": "Bad news for Tilly Norwood.",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-02T21:54:58.000Z",
+      "publishedAt": "2026-05-03T20:16:51.000Z",
       "type": "rss"
     },
     {
-      "title": "The best AI dictation apps, tested and ranked",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-02T16:00:00.000Z",
+      "publishedAt": "2026-05-03T18:00:09.000Z",
       "type": "rss"
     },
     {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "source": "Wired AI",
-      "publishedAt": "2026-05-02T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "stop listening to AI CEOs who suddenly develop a \"God ... - Twitter",
-      "summary": "The agent field doesn't have a destination yet. The big labs are iterating in public, shipping regressions to millions of users, writing postmortems, patching ...",
-      "url": "https://x.com/DataChaz/status/2050545549238292629",
+      "title": "what just became possible? > karpathy makes the model ...",
+      "summary": "A productized agent built on the BabyAGI loop. The \"boring layer on top of brilliant code\" is one of the highest-leverage moves in the AI economy right now. 5.",
+      "url": "https://x.com/alphabatcher/status/2050950876030771275",
       "source": "x.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Microsoft on Thursday made Agent 365 generally ... - Instagram",
-      "summary": "AI agents are becoming part of the workforce. Microsoft 365 E7 gives you the tools to deploy them, manage them, and keep them secure – all under one licence",
-      "url": "https://www.instagram.com/p/DX08xdeEUSi/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Baidu just dropped an ERNIE update nobody is talking about. And it ...",
-      "summary": "8B Parameter AI in 1GB?! This Changes Everything #artificial intelligence #machine learning #LLM #AI model #1-bit precision. Follow for daily tech news! more.",
-      "url": "https://www.instagram.com/reel/DX2IfjpCL36/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "OpenAI is expanding access to its most advanced AI models to help ...",
-      "summary": "Anthropic Surpasses OpenAI in Enterprise LLM Market with 32% Share Anthropic has emerged as the leading provider of large language models (LLMs) for enterprises ...",
-      "url": "https://www.facebook.com/wlfi18/posts/openai-is-expanding-access-to-its-most-advanced-ai-models-to-help-businesses-and/1565364055596059/",
+      "title": "Anthropic's decision not to publicly release its new frontier #AI model ...",
+      "summary": "Anthropic's decision not to publicly release its new frontier #AI model, Claude Mythos, highlights new #cybersecurity dangers. Here's how governments and ...",
+      "url": "https://www.facebook.com/worldeconomicforum/posts/anthropics-decision-not-to-publicly-release-its-new-frontier-ai-model-claude-myt/1418040960364138/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Same Opus model, two completely different products ... - Instagram",
-      "summary": "Why your AI agent fails at 3 AM without MCP. Separate thinking brain from doing hands. Use MCP for tool discovery not hardcoding. Build memory-first agent ...",
-      "url": "https://www.instagram.com/reel/DX19pn1N0XH/",
+      "title": "We've got a quick update on a cautionary tale involving an AI agent ...",
+      "summary": "We've got a quick update on a cautionary tale involving an AI agent. The founder of Pocket OS had their entire codebase deleted by Claude, highlighting a ...",
+      "url": "https://www.instagram.com/reel/DX4aOQPD8Kf/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Optimizing Prompt Engineering for Next-Gen Models | Epsilla Blog",
-      "summary": "Upon the release of new models, beyond observing enhanced capabilities, a prevalent sentiment is that newer model versions appear less compliant than their ...",
-      "url": "https://www.epsilla.com/blogs/2026-05-02-optimizing-prompt-engineering-for-next-gen-models",
-      "source": "epsilla.com",
+      "title": "State of AI: May 2026 - Nathan Benaich | Substack",
+      "summary": "Four Chinese labs released open-weights coding models inside a 12-day window: Z.ai's GLM-5.1, MiniMax M2.7, Moonshot's Kimi K2.6, and DeepSeek V4 all landed at ...",
+      "url": "https://nathanbenaich.substack.com/p/state-of-ai-may-2026",
+      "source": "nathanbenaich.substack.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "NVIDIA releases Nemotron 3 Nano Omni, a new AI model that understands video, audio, images, and text at once. This makes AI agents 9x faster and cheaper to run ...",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
+      "title": "Cursor Security Review meets Claude Security - Medium",
+      "summary": "On April 30, 2026, two coding platforms shipped the same security product on the same day. Cursor released Cursor Security Review: two always-on agents that ...",
+      "url": "https://medium.com/data-science-collective/cursor-security-review-meets-claude-security-59df0781d332",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Lakera Bulletin - This Week in AI: Cyber Models, P...",
+      "summary": "An AI coding agent powered by Claude deleted a company's production database and backups despite explicit safety rules. The incident is a sharp warning for ...",
+      "url": "https://community.checkpoint.com/t5/AI-Agents-Security/Lakera-Bulletin-This-Week-in-AI-Cyber-Models-Prompt-Injection/td-p/276404/jump-to/first-unread-message",
+      "source": "community.checkpoint.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "not just quick prompts. Build real-world AI skills with expert-led ...",
+      "summary": "... release this model. ... @Girsta The AI news feed you actually need. more. April 24. OCR. AI RELEASE: OpenAI launches GPT-5.5 for complex tasks Girsta AI NEWS ...",
+      "url": "https://www.instagram.com/reel/DX3z3I1SVI-/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "ChatLLM by Abacus AI is an All-in-one AI platform that gives you ...",
+      "summary": "ChatLLM by Abacus AI is an All-in-one AI platform that gives you access to ChatGPT, Claude, Grok, Gemini, DeepSeek and many more Also, Generate Videos...",
+      "url": "https://www.facebook.com/100083299660885/posts/chatllm-by-abacus-ai-is-an-all-in-one-ai-platform-that-gives-you-access-to-chatg/981408471312466/",
+      "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Scholé",
-      "tagline": "Turn everyday work into personalized AI learning",
-      "url": "https://www.producthunt.com/posts/schole-2"
+      "name": "Radar",
+      "tagline": "The missing open-source Kubernetes UI",
+      "url": "https://www.producthunt.com/posts/radar-42edb7b0-e388-4fa8-9ba5-4876c2c0d638"
     },
     {
-      "name": "Cloud Computer by Manus",
-      "tagline": "A dedicated cloud machine for bots and software",
-      "url": "https://www.producthunt.com/posts/cloud-computer-by-manus"
+      "name": "PandaProbe",
+      "tagline": "open source agent engineering platform",
+      "url": "https://www.producthunt.com/posts/pandaprobe-2"
     },
     {
-      "name": "Feather",
-      "tagline": "Photo editor with local AI",
-      "url": "https://www.producthunt.com/posts/feather-14"
+      "name": "Huddle01 VMs",
+      "tagline": "Virtual Machines for Your Agents",
+      "url": "https://www.producthunt.com/posts/huddle01-vms"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 2,
+    "fromSearch": 8,
     "products": 3,
     "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
+    "RSS Asana Blog: fetch failed",
     "Doubao: The operation was aborted due to timeout"
   ]
 }
