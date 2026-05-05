@@ -1,117 +1,116 @@
 {
-  "generatedAt": "2026-05-04T03:23:06.713Z",
+  "generatedAt": "2026-05-05T02:51:32.622Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-03T20:16:51.000Z",
+      "title": "The latest AI news we announced in April 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-04T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-03T18:00:09.000Z",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\"&gt;Event-Driven Webhooks are a push-based notification system that eli",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-04T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "what just became possible? > karpathy makes the model ...",
-      "summary": "A productized agent built on the BabyAGI loop. The \"boring layer on top of brilliant code\" is one of the highest-leverage moves in the AI economy right now. 5.",
-      "url": "https://x.com/alphabatcher/status/2050950876030771275",
-      "source": "x.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "PGKeeper: Building the bouncer we needed for Postgres",
+      "summary": "",
+      "url": "https://www.figma.com/blog/pgkeeper-building-the-bouncer-we-needed-for-postgres/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-05-04T14:52:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Anthropic's decision not to publicly release its new frontier #AI model ...",
-      "summary": "Anthropic's decision not to publicly release its new frontier #AI model, Claude Mythos, highlights new #cybersecurity dangers. Here's how governments and ...",
-      "url": "https://www.facebook.com/worldeconomicforum/posts/anthropics-decision-not-to-publicly-release-its-new-frontier-ai-model-claude-myt/1418040960364138/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T21:53:21.000Z",
+      "type": "rss"
     },
     {
-      "title": "We've got a quick update on a cautionary tale involving an AI agent ...",
-      "summary": "We've got a quick update on a cautionary tale involving an AI agent. The founder of Pocket OS had their entire codebase deleted by Claude, highlighting a ...",
-      "url": "https://www.instagram.com/reel/DX4aOQPD8Kf/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T19:12:49.000Z",
+      "type": "rss"
     },
     {
-      "title": "State of AI: May 2026 - Nathan Benaich | Substack",
-      "summary": "Four Chinese labs released open-weights coding models inside a 12-day window: Z.ai's GLM-5.1, MiniMax M2.7, Moonshot's Kimi K2.6, and DeepSeek V4 all landed at ...",
-      "url": "https://nathanbenaich.substack.com/p/state-of-ai-may-2026",
-      "source": "nathanbenaich.substack.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Elon Musk&#8217;s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T16:57:47.000Z",
+      "type": "rss"
     },
     {
-      "title": "Cursor Security Review meets Claude Security - Medium",
-      "summary": "On April 30, 2026, two coding platforms shipped the same security product on the same day. Cursor released Cursor Security Review: two always-on agents that ...",
-      "url": "https://medium.com/data-science-collective/cursor-security-review-meets-claude-security-59df0781d332",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T16:45:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "Lakera Bulletin - This Week in AI: Cyber Models, P...",
-      "summary": "An AI coding agent powered by Claude deleted a company's production database and backups despite explicit safety rules. The incident is a sharp warning for ...",
-      "url": "https://community.checkpoint.com/t5/AI-Agents-Security/Lakera-Bulletin-This-Week-in-AI-Cyber-Models-Prompt-Injection/td-p/276404/jump-to/first-unread-message",
-      "source": "community.checkpoint.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T16:36:03.000Z",
+      "type": "rss"
     },
     {
-      "title": "not just quick prompts. Build real-world AI skills with expert-led ...",
-      "summary": "... release this model. ... @Girsta The AI news feed you actually need. more. April 24. OCR. AI RELEASE: OpenAI launches GPT-5.5 for complex tasks Girsta AI NEWS ...",
-      "url": "https://www.instagram.com/reel/DX3z3I1SVI-/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T15:59:24.000Z",
+      "type": "rss"
     },
     {
-      "title": "ChatLLM by Abacus AI is an All-in-one AI platform that gives you ...",
-      "summary": "ChatLLM by Abacus AI is an All-in-one AI platform that gives you access to ChatGPT, Claude, Grok, Gemini, DeepSeek and many more Also, Generate Videos...",
-      "url": "https://www.facebook.com/100083299660885/posts/chatllm-by-abacus-ai-is-an-all-in-one-ai-platform-that-gives-you-access-to-chatg/981408471312466/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Radar",
-      "tagline": "The missing open-source Kubernetes UI",
-      "url": "https://www.producthunt.com/posts/radar-42edb7b0-e388-4fa8-9ba5-4876c2c0d638"
+      "name": "Mindra",
+      "tagline": "Agent Teams You Can Actually Delegate To",
+      "url": "https://www.producthunt.com/posts/mindra"
     },
     {
-      "name": "PandaProbe",
-      "tagline": "open source agent engineering platform",
-      "url": "https://www.producthunt.com/posts/pandaprobe-2"
+      "name": "Aaavatar",
+      "tagline": "Branded team headshots in one drop",
+      "url": "https://www.producthunt.com/posts/aaavatar"
     },
     {
-      "name": "Huddle01 VMs",
-      "tagline": "Virtual Machines for Your Agents",
-      "url": "https://www.producthunt.com/posts/huddle01-vms"
+      "name": "Codex Pets",
+      "tagline": "Animated companions for your Codex workflow",
+      "url": "https://www.producthunt.com/posts/codex-pets-3"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 2,
-    "fromSearch": 8,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
-    "RSS Asana Blog: fetch failed",
     "Doubao: The operation was aborted due to timeout"
   ]
 }
