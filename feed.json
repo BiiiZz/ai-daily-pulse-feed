@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-06T02:58:02.845Z",
+  "generatedAt": "2026-05-07T02:58:32.936Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\"&gt;Google is partnering with XPRIZE and Range Media Partners on the",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "title": "5 gardening tips you can try right in Search",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\"&gt;We’ve rounded up the top ways you can use Google’s AI Mode, Sea",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-05-05T16:00:00.000Z",
+      "publishedAt": "2026-05-06T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T23:50:10.000Z",
+      "title": "Secure more apps with External Access Tokens and Private Publishing",
+      "summary": "At Replit, we want all users to be able to build secure applications. In addition to features like Security Agent and Auto Protect, you can restrict access to your apps with Private Publishing.\n\nPriva",
+      "url": "https://blog.replit.com/secure-more-apps",
+      "source": "Replit Blog",
+      "publishedAt": "2026-05-06T16:06:10.000Z",
       "type": "rss"
     },
     {
-      "title": "Altara secures $7M to bridge the data gap that&#8217;s slowing down physical sciences",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems.",
-      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T22:57:41.000Z",
+      "publishedAt": "2026-05-06T21:57:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T20:56:41.000Z",
+      "publishedAt": "2026-05-06T21:43:24.000Z",
       "type": "rss"
     },
     {
-      "title": "ASML CEO Christophe Fouquet on his company&#8217;s monopoly: no one is coming for us",
-      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
-      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T20:06:40.000Z",
+      "publishedAt": "2026-05-06T21:32:55.000Z",
       "type": "rss"
     },
     {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T17:46:10.000Z",
+      "publishedAt": "2026-05-06T18:23:54.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "title": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
+      "publishedAt": "2026-05-06T17:23:08.000Z",
       "type": "rss"
     },
     {
-      "title": "PayPal says it&#8217;s &#8216;becoming a technology company again&#8217; — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T15:49:55.000Z",
+      "publishedAt": "2026-05-06T17:20:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T15:31:37.000Z",
+      "publishedAt": "2026-05-06T15:49:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-05T14:27:00.000Z",
+      "publishedAt": "2026-05-06T15:46:38.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Kilo Code v7 for VS Code",
-      "tagline": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "url": "https://www.producthunt.com/posts/kilo-code-v7-for-vs-code"
+      "name": "Kanwas",
+      "tagline": "An open-source brain for your team",
+      "url": "https://www.producthunt.com/posts/kanwas"
     },
     {
-      "name": "Velo 2.0",
-      "tagline": "Instantly turn your voice and screen into shareable videos",
-      "url": "https://www.producthunt.com/posts/velo-2-0"
+      "name": "Shadow 2.0",
+      "tagline": "The work your meetings create, done before they end",
+      "url": "https://www.producthunt.com/posts/shadow-2-0-2"
     },
     {
-      "name": "Flowstep 1.0",
-      "tagline": "AI design engineer to turn your thoughts into editable UI",
-      "url": "https://www.producthunt.com/posts/flowstep-1-0"
+      "name": "Superset 2.0",
+      "tagline": "Run 100s of coding agents on any machine from anywhere",
+      "url": "https://www.producthunt.com/posts/superset-2-0"
     }
   ],
   "trends": [],
