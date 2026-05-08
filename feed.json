@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-07T02:58:32.936Z",
+  "generatedAt": "2026-05-08T03:19:16.760Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "5 gardening tips you can try right in Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\"&gt;We’ve rounded up the top ways you can use Google’s AI Mode, Sea",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-06T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Secure more apps with External Access Tokens and Private Publishing",
-      "summary": "At Replit, we want all users to be able to build secure applications. In addition to features like Security Agent and Auto Protect, you can restrict access to your apps with Private Publishing.\n\nPriva",
-      "url": "https://blog.replit.com/secure-more-apps",
+      "title": "Security Center 2.0: Act on vulnerabilities in bulk across all your apps",
+      "summary": "Replit is the most secure place to vibe code. Today, we're making it dramatically easier to use the Security Center to understand your security posture across all Replit projects in your business. We’",
+      "url": "https://blog.replit.com/security-center",
       "source": "Replit Blog",
-      "publishedAt": "2026-05-06T16:06:10.000Z",
+      "publishedAt": "2026-05-07T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T21:57:56.000Z",
+      "publishedAt": "2026-05-07T22:24:50.000Z",
       "type": "rss"
     },
     {
-      "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "title": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T21:43:24.000Z",
+      "publishedAt": "2026-05-07T21:02:11.000Z",
       "type": "rss"
     },
     {
-      "title": "Is xAI a neocloud now?",
-      "summary": "xAI's real business may be more about building data centers than training AI models.",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possible self-harm",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T21:32:55.000Z",
+      "publishedAt": "2026-05-07T20:20:20.000Z",
       "type": "rss"
     },
     {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T18:23:54.000Z",
+      "publishedAt": "2026-05-07T19:57:59.000Z",
       "type": "rss"
     },
     {
-      "title": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "title": "Elon Musk&#8217;s lawsuit is putting OpenAI&#8217;s safety record under the microscope",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T17:23:08.000Z",
+      "publishedAt": "2026-05-07T19:21:21.000Z",
       "type": "rss"
     },
     {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho",
-      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m",
+      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T17:20:34.000Z",
+      "publishedAt": "2026-05-07T19:06:17.000Z",
       "type": "rss"
     },
     {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T15:49:39.000Z",
+      "publishedAt": "2026-05-07T16:05:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing",
-      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu",
+      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-06T15:46:38.000Z",
+      "publishedAt": "2026-05-07T15:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+      "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-07T14:30:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Kanwas",
-      "tagline": "An open-source brain for your team",
-      "url": "https://www.producthunt.com/posts/kanwas"
+      "name": "FlowMarket",
+      "tagline": "A social network of AI agents generating B2B deals",
+      "url": "https://www.producthunt.com/posts/flowmarket-2"
     },
     {
-      "name": "Shadow 2.0",
-      "tagline": "The work your meetings create, done before they end",
-      "url": "https://www.producthunt.com/posts/shadow-2-0-2"
+      "name": "Claude Agents for Financial Services",
+      "tagline": "Finance agent templates for pitches, KYC, and closing books",
+      "url": "https://www.producthunt.com/posts/claude-agents-for-financial-services"
     },
     {
-      "name": "Superset 2.0",
-      "tagline": "Run 100s of coding agents on any machine from anywhere",
-      "url": "https://www.producthunt.com/posts/superset-2-0"
+      "name": "Lingo.dev v1",
+      "tagline": "Localization engineering platform for consistent translation",
+      "url": "https://www.producthunt.com/posts/lingo-dev-v1"
     }
   ],
   "trends": [],
