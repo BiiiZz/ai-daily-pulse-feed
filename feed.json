@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-08T03:19:16.760Z",
+  "generatedAt": "2026-05-09T02:55:52.010Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Security Center 2.0: Act on vulnerabilities in bulk across all your apps",
-      "summary": "Replit is the most secure place to vibe code. Today, we're making it dramatically easier to use the Security Center to understand your security posture across all Replit projects in your business. We’",
-      "url": "https://blog.replit.com/security-center",
-      "source": "Replit Blog",
-      "publishedAt": "2026-05-07T17:00:00.000Z",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\"&gt;Today we're launching The Small Brief, an initiative bringing together thr",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-08T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T22:24:50.000Z",
+      "publishedAt": "2026-05-08T22:59:05.000Z",
       "type": "rss"
     },
     {
-      "title": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "title": "Intel&#8217;s comeback story is even wilder than it seems",
+      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T21:02:11.000Z",
+      "publishedAt": "2026-05-08T20:02:52.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possible self-harm",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T20:20:20.000Z",
+      "publishedAt": "2026-05-08T18:33:21.000Z",
       "type": "rss"
     },
     {
-      "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting e",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T19:57:59.000Z",
+      "publishedAt": "2026-05-08T15:46:17.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk&#8217;s lawsuit is putting OpenAI&#8217;s safety record under the microscope",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial",
-      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T19:21:21.000Z",
+      "publishedAt": "2026-05-08T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m",
-      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T19:06:17.000Z",
+      "publishedAt": "2026-05-08T04:42:29.000Z",
       "type": "rss"
     },
     {
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T16:05:48.000Z",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-08T23:59:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T15:00:00.000Z",
+      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboa",
+      "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-08T16:19:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
-      "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
-      "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-07T14:30:00.000Z",
+      "title": "The Download: AI malaise and babymaking tech",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreadin",
+      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-08T12:10:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "FlowMarket",
-      "tagline": "A social network of AI agents generating B2B deals",
-      "url": "https://www.producthunt.com/posts/flowmarket-2"
+      "name": "RankSpot",
+      "tagline": "AI SEO Blog driven by deep competitor intelligence",
+      "url": "https://www.producthunt.com/posts/rankspot"
     },
     {
-      "name": "Claude Agents for Financial Services",
-      "tagline": "Finance agent templates for pitches, KYC, and closing books",
-      "url": "https://www.producthunt.com/posts/claude-agents-for-financial-services"
+      "name": "Monid 2.0",
+      "tagline": "OpenRouter for agent tools",
+      "url": "https://www.producthunt.com/posts/monid-2-0"
     },
     {
-      "name": "Lingo.dev v1",
-      "tagline": "Localization engineering platform for consistent translation",
-      "url": "https://www.producthunt.com/posts/lingo-dev-v1"
+      "name": "Flare",
+      "tagline": "AI-native voice-first social app for GenZ",
+      "url": "https://www.producthunt.com/posts/flare-12"
     }
   ],
   "trends": [],
