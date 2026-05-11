@@ -1,83 +1,83 @@
 {
-  "generatedAt": "2026-05-10T03:27:42.749Z",
+  "generatedAt": "2026-05-11T03:39:32.818Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "title": "Mothers who build",
+      "summary": "A stream of consciousness By Haya Odeh, Co-founder & Head of Design, Replit May 2026\n\n   \n\nFrom the moment I got married, the question started.\n\nWhen are you having children?\n\nThen, once I had them: H",
+      "url": "https://blog.replit.com/mothers-who-build",
+      "source": "Replit Blog",
+      "publishedAt": "2026-05-10T17:29:59.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Get ready for the whisper-filled office of the future",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-10T02:00:00.000Z",
+      "publishedAt": "2026-05-10T21:15:30.000Z",
       "type": "rss"
     },
     {
-      "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-09T21:45:00.000Z",
+      "publishedAt": "2026-05-10T20:40:41.000Z",
       "type": "rss"
     },
     {
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-09T14:43:30.000Z",
+      "publishedAt": "2026-05-10T15:34:25.000Z",
       "type": "rss"
     },
     {
-      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-      "source": "Wired AI",
-      "publishedAt": "2026-05-09T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says the traditional SaaS model is ...",
-      "summary": "Anthropic CEO Dario Amodei says the traditional SaaS model is heading toward a massive disruption as AI agents become capable of replacing entire layers of ...",
-      "url": "https://www.instagram.com/p/DYIxg_vvcK7/",
+      "title": "# The AI Game Just Changed: May 2026 Model Releases You Can't ...",
+      "summary": "May 2026 has brought a seismic shift in the AI landscape with major updates from OpenAI, DeepSeek, and Anthropic. This isn't just tech news; it's a strategic ...",
+      "url": "https://www.instagram.com/p/DYKMP4Llh8r/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Updates: AI launches, model changes, and OSS digests - RadarAI",
-      "summary": "A rolling digest of AI product launches, model changes, tools, and open-source updates—organized for faster scanning and follow-up decisions.",
-      "url": "https://radarai.top/en/updates",
-      "source": "radarai.top",
+      "title": "LLM News: Model Releases, Benchmarks & Research",
+      "summary": "Large language model news — releases, benchmarks, papers, and context-window expansions — curated by Let's Data Science.",
+      "url": "https://letsdatascience.com/news/topic/llms",
+      "source": "letsdatascience.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Anthropic just dropped 4 updates that changed AI agents forever.",
-      "summary": "First, Anthropic launched Claude Opus 4.7, their most capable model yet, now able to handle complex multi-hour tasks without losing track. The model also has ...",
-      "url": "https://www.instagram.com/reel/DYHjdMMgWCI/",
-      "source": "instagram.com",
+      "title": "Building dumb AI Loops that ship is the current MOAT in Agentic ...",
+      "summary": "Building dumb AI Loops that ship is the current MOAT in Agentic systems. 88% of agent pilots ship this exact pattern and die in production.",
+      "url": "https://x.com/rohit4verse/status/2053532907055268295",
+      "source": "x.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Datadog and T-Mobile leaders reveal the reality of deploying AI ...",
-      "summary": "LLMs often produce incorrect results and hallucinations, said Akamai CTO Bobby Blumofe in his keynote. AI agents that rely solely on an LLM are unlikely to ...",
-      "url": "https://thenewstack.io/enterprise-ai-agent-adoption/",
-      "source": "thenewstack.io",
+      "title": "OpenClaw vs Hermes Agent: Why Nous Research's Self-Improving ...",
+      "summary": "As of May 10, 2026, Hermes Agent — built by Nous Research — has overtaken OpenClaw to hold the #1 position on OpenRouter's global daily app and agent rankings.",
+      "url": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
+      "source": "marktechpost.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide",
-      "summary": "Executive Summary. The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms.",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "source": "intuitionlabs.ai",
+      "title": "Claude Just Made AI Run on Autopilot, ChatGPT Got 30% Sharper ...",
+      "summary": "OpenAI replaced ChatGPT's default with a sharper, tighter GPT-5.5 Instant. Highspot launched the first proper AI agent for the marketing-to-sales handoff. The ...",
+      "url": "https://getmarketingwithai.substack.com/p/marketing-with-ai-weekly-roundup-7d5",
+      "source": "getmarketingwithai.substack.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Locally orchestrates parallel AI coding agents from one ... - Facebook",
-      "summary": "A Major Leap in Open-Source AI for Software Engineering Mistral AI, in collaboration with All Hands AI, has released Devstral, an open-source agentic LLM ...",
-      "url": "https://www.facebook.com/0xSojalSec/posts/locally-orchestrates-parallel-ai-coding-agents-from-one-dashboard-githubcomopens/1513053330349065/",
+      "title": "AWS Builds First Payment API for Agentic AI ! Agents Can Now ...",
+      "summary": "'Agentic Systems' are the next step forward for AI, allowing LLM's to access things in the real world to complete tasks. OpenAI recently showed (a very staged) ...",
+      "url": "https://www.facebook.com/groups/595424764221375/posts/2485453218551844/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
@@ -85,19 +85,19 @@
   ],
   "products": [
     {
-      "name": "Ghost",
-      "tagline": "Open-source, self-hosted game servers",
-      "url": "https://www.producthunt.com/posts/ghost-8"
+      "name": "Tailgrids 3.0",
+      "tagline": "Open-source React UI library for Tailwind and AI Workflow",
+      "url": "https://www.producthunt.com/posts/tailgrids-3-0"
     },
     {
-      "name": "How AI-pilled are you?",
-      "tagline": "Curious how AI-fluent your organization is?",
-      "url": "https://www.producthunt.com/posts/how-ai-pilled-are-you"
+      "name": "InvestorFinder",
+      "tagline": "Find investors who've backed founders just like you",
+      "url": "https://www.producthunt.com/posts/investorfinder"
     },
     {
-      "name": "Prism",
-      "tagline": "Hire the best candidates, not just the available",
-      "url": "https://www.producthunt.com/posts/prism-00e67431-1004-462c-ba5d-3124fde2f5ce"
+      "name": "deepsec",
+      "tagline": "Open-source coding security harness",
+      "url": "https://www.producthunt.com/posts/deepsec"
     }
   ],
   "trends": [],
