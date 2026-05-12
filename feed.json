@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-05-11T03:39:32.818Z",
+  "generatedAt": "2026-05-12T03:26:50.111Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Mothers who build",
-      "summary": "A stream of consciousness By Haya Odeh, Co-founder & Head of Design, Replit May 2026\n\n   \n\nFrom the moment I got married, the question started.\n\nWhen are you having children?\n\nThen, once I had them: H",
-      "url": "https://blog.replit.com/mothers-who-build",
-      "source": "Replit Blog",
-      "publishedAt": "2026-05-10T17:29:59.000Z",
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\"&gt;This week, the new, AI-powered Google Finance is launching across Europe, wit",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-11T06:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Get ready for the whisper-filled office of the future",
-      "summary": "How will work setups change if we spend more and more time talking to our computers?",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "title": "Cursor in Microsoft Teams",
+      "summary": "Cursor is now available in Microsoft Teams.",
+      "url": "https://cursor.com/changelog/microsoft-teams",
+      "source": "Cursor Changelog",
+      "publishedAt": "2026-05-11T23:59:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-10T21:15:30.000Z",
+      "publishedAt": "2026-05-12T00:09:01.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-10T20:40:41.000Z",
+      "publishedAt": "2026-05-11T23:04:10.000Z",
       "type": "rss"
     },
     {
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-10T15:34:25.000Z",
+      "publishedAt": "2026-05-11T17:02:35.000Z",
       "type": "rss"
     },
     {
-      "title": "# The AI Game Just Changed: May 2026 Model Releases You Can't ...",
-      "summary": "May 2026 has brought a seismic shift in the AI landscape with major updates from OpenAI, DeepSeek, and Anthropic. This isn't just tech news; it's a strategic ...",
-      "url": "https://www.instagram.com/p/DYKMP4Llh8r/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "LLM News: Model Releases, Benchmarks & Research",
-      "summary": "Large language model news — releases, benchmarks, papers, and context-window expansions — curated by Let's Data Science.",
-      "url": "https://letsdatascience.com/news/topic/llms",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economic",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-11T17:35:12.000Z",
+      "type": "rss"
     },
     {
-      "title": "Building dumb AI Loops that ship is the current MOAT in Agentic ...",
-      "summary": "Building dumb AI Loops that ship is the current MOAT in Agentic systems. 88% of agent pilots ship this exact pattern and die in production.",
-      "url": "https://x.com/rohit4verse/status/2053532907055268295",
-      "source": "x.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with te",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-11T13:33:06.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenClaw vs Hermes Agent: Why Nous Research's Self-Improving ...",
-      "summary": "As of May 10, 2026, Hermes Agent — built by Nous Research — has overtaken OpenClaw to hold the #1 position on OpenRouter's global daily app and agent rankings.",
-      "url": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
-      "source": "marktechpost.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Innovation abounds in device charging",
+      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and conne",
+      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Claude Just Made AI Run on Autopilot, ChatGPT Got 30% Sharper ...",
-      "summary": "OpenAI replaced ChatGPT's default with a sharper, tighter GPT-5.5 Instant. Highspot launched the first proper AI agent for the marketing-to-sales handoff. The ...",
-      "url": "https://getmarketingwithai.substack.com/p/marketing-with-ai-weekly-roundup-7d5",
-      "source": "getmarketingwithai.substack.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AWS Builds First Payment API for Agentic AI ! Agents Can Now ...",
-      "summary": "'Agentic Systems' are the next step forward for AI, allowing LLM's to access things in the real world to complete tasks. OpenAI recently showed (a very staged) ...",
-      "url": "https://www.facebook.com/groups/595424764221375/posts/2485453218551844/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Tailgrids 3.0",
-      "tagline": "Open-source React UI library for Tailwind and AI Workflow",
-      "url": "https://www.producthunt.com/posts/tailgrids-3-0"
+      "name": "articuler.ai",
+      "tagline": "Describe your goal. Meet the right professional.",
+      "url": "https://www.producthunt.com/posts/articuler-ai-4"
     },
     {
-      "name": "InvestorFinder",
-      "tagline": "Find investors who've backed founders just like you",
-      "url": "https://www.producthunt.com/posts/investorfinder"
+      "name": "OpenJobs AI",
+      "tagline": "End-to-End Autonomous AI Recruiter",
+      "url": "https://www.producthunt.com/posts/openjobs-ai-2"
     },
     {
-      "name": "deepsec",
-      "tagline": "Open-source coding security harness",
-      "url": "https://www.producthunt.com/posts/deepsec"
+      "name": "Graphbit PRFlow",
+      "tagline": "AI code reviewer that catches what others miss",
+      "url": "https://www.producthunt.com/posts/graphbit-prflow"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
