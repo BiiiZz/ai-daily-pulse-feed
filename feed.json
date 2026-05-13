@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-05-12T03:26:50.111Z",
+  "generatedAt": "2026-05-13T03:34:33.327Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\"&gt;This week, the new, AI-powered Google Finance is launching across Europe, wit",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-11T06:00:00.000Z",
+      "title": "What the design-to-code loop unlocks",
+      "summary": "",
+      "url": "https://www.figma.com/blog/what-the-design-to-code-loop-unlocks/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-05-12T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cursor in Microsoft Teams",
-      "summary": "Cursor is now available in Microsoft Teams.",
-      "url": "https://cursor.com/changelog/microsoft-teams",
-      "source": "Cursor Changelog",
-      "publishedAt": "2026-05-11T23:59:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "title": "Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-12T00:09:01.000Z",
+      "publishedAt": "2026-05-13T00:26:48.000Z",
       "type": "rss"
     },
     {
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie",
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-11T23:04:10.000Z",
+      "publishedAt": "2026-05-12T18:05:15.000Z",
       "type": "rss"
     },
     {
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-11T17:02:35.000Z",
+      "publishedAt": "2026-05-12T17:36:34.000Z",
       "type": "rss"
     },
     {
-      "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th",
-      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "publishedAt": "2026-05-12T17:30:57.000Z",
       "type": "rss"
     },
     {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economic",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-11T17:35:12.000Z",
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:01:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with te",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-11T13:33:06.000Z",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Innovation abounds in device charging",
-      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and conne",
-      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re",
+      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order t",
+      "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "articuler.ai",
-      "tagline": "Describe your goal. Meet the right professional.",
-      "url": "https://www.producthunt.com/posts/articuler-ai-4"
+      "name": "Kelviq",
+      "tagline": "Payments, tax, and billing for SaaS & AI companies",
+      "url": "https://www.producthunt.com/posts/kelviq-2"
     },
     {
-      "name": "OpenJobs AI",
-      "tagline": "End-to-End Autonomous AI Recruiter",
-      "url": "https://www.producthunt.com/posts/openjobs-ai-2"
+      "name": "Open Vibe",
+      "tagline": "Ship your SaaS with AI, without getting stuck",
+      "url": "https://www.producthunt.com/posts/open-vibe"
     },
     {
-      "name": "Graphbit PRFlow",
-      "tagline": "AI code reviewer that catches what others miss",
-      "url": "https://www.producthunt.com/posts/graphbit-prflow"
+      "name": "Hyperswitch Prism",
+      "tagline": "Library to plug-n-switch payment processors",
+      "url": "https://www.producthunt.com/posts/hyperswitch-prism"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Agentic AI rolls out to consumers",
+      "desc": "Google adds agentic AI to consumer products.",
+      "ref": "Google brings agentic AI and vibe-coded widgets to Android"
+    },
+    {
+      "title": "Space-based AI compute explored",
+      "desc": "Google and SpaceX plan orbital AI data centers.",
+      "ref": "Report: Google and SpaceX in talks to put data centers into orbit"
+    },
+    {
+      "title": "AI expands into legal services",
+      "desc": "Major AI firms enter automated legal services.",
+      "ref": "The AI legal services industry is heating up — Anthropic is getting in on the action"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
