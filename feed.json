@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-05-14T03:34:06.766Z",
+  "generatedAt": "2026-05-15T03:37:27.932Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T21:45:09.000Z",
+      "title": "Code Intelligence",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-05-14-code-intelligence",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-05-14T18:01:30.000Z",
       "type": "rss"
     },
     {
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "Here's what the biggest tech court case of the year is all about.",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T19:49:42.000Z",
+      "publishedAt": "2026-05-14T22:47:51.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "title": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T19:28:06.000Z",
+      "publishedAt": "2026-05-14T21:30:44.000Z",
       "type": "rss"
     },
     {
-      "title": "Who trusts Sam Altman?",
-      "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T16:31:04.000Z",
+      "publishedAt": "2026-05-14T20:58:55.000Z",
       "type": "rss"
     },
     {
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "title": "What happens when AI starts building itself?",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T16:22:01.000Z",
+      "publishedAt": "2026-05-14T19:57:20.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be the first partner to feel burned",
+      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T16:00:00.000Z",
+      "publishedAt": "2026-05-14T19:12:03.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automat",
-      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T14:59:32.000Z",
+      "publishedAt": "2026-05-14T19:05:01.000Z",
       "type": "rss"
     },
     {
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa",
-      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "publishedAt": "2026-05-14T16:30:02.000Z",
       "type": "rss"
     },
     {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "publishedAt": "2026-05-14T15:20:18.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue&#8217;",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "publishedAt": "2026-05-14T14:01:14.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Memoket Gem",
-      "tagline": "An AI wearable that remembers your conversations all day",
-      "url": "https://www.producthunt.com/posts/memoket-gem"
+      "name": "Spellar 3.0",
+      "tagline": "AI Meeting companion with cross-meeting memory",
+      "url": "https://www.producthunt.com/posts/spellar-3-0-5"
     },
     {
-      "name": "Latitude for Claude Code",
-      "tagline": "See where Claude Code burns tokens. Hit your limits less.",
-      "url": "https://www.producthunt.com/posts/latitude-for-claude-code"
+      "name": "Naptick AI",
+      "tagline": "Al sleep companion that helps fall asleep without struggle",
+      "url": "https://www.producthunt.com/posts/naptick-ai"
     },
     {
-      "name": "CraftBot with Living UI",
-      "tagline": "Grow your own software that is alive.",
-      "url": "https://www.producthunt.com/posts/craftbot-with-living-ui"
+      "name": "Tendem by Toloka",
+      "tagline": "AI platform to hand off any task to a human expert",
+      "url": "https://www.producthunt.com/posts/tendem-by-toloka"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI Coding Tools Expanding Reach",
+      "desc": "AI coding capabilities are reaching new platforms.",
+      "ref": "OpenAI says Codex is coming to your phone"
+    },
+    {
+      "title": "AI Hardware Scores Major IPO",
+      "desc": "AI chip companies pull off successful large public offerings.",
+      "ref": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
+    },
+    {
+      "title": "Firms Prioritize AI Spending Over Roles",
+      "desc": "Companies cut jobs to free up budget for AI.",
+      "ref": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue&#8217;"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
