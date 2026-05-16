@@ -1,120 +1,120 @@
 {
-  "generatedAt": "2026-05-15T03:37:27.932Z",
+  "generatedAt": "2026-05-16T03:21:26.060Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Code Intelligence",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-05-14-code-intelligence",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-05-14T18:01:30.000Z",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX ",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-15T19:24:16.000Z",
       "type": "rss"
     },
     {
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "summary": "Here's what the biggest tech court case of the year is all about.",
-      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T22:47:51.000Z",
+      "publishedAt": "2026-05-15T18:14:44.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene",
-      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T21:30:44.000Z",
+      "publishedAt": "2026-05-15T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T20:58:55.000Z",
+      "publishedAt": "2026-05-15T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "What happens when AI starts building itself?",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T19:57:20.000Z",
+      "publishedAt": "2026-05-15T12:19:48.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho",
-      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T19:12:03.000Z",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-15T23:39:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T19:05:01.000Z",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-15T12:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T16:30:02.000Z",
+      "title": "The world is on track to miss its health targets",
+      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambi",
+      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-15T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T15:20:18.000Z",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-15T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue&#8217;",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-14T14:01:14.000Z",
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "source": "Wired AI",
+      "publishedAt": "2026-05-15T17:09:17.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Spellar 3.0",
-      "tagline": "AI Meeting companion with cross-meeting memory",
-      "url": "https://www.producthunt.com/posts/spellar-3-0-5"
+      "name": "OpenHuman",
+      "tagline": "An open source AI harness built with the human in mind",
+      "url": "https://www.producthunt.com/posts/openhuman"
     },
     {
-      "name": "Naptick AI",
-      "tagline": "Al sleep companion that helps fall asleep without struggle",
-      "url": "https://www.producthunt.com/posts/naptick-ai"
+      "name": "HasData",
+      "tagline": "Web scraping service for AI agents",
+      "url": "https://www.producthunt.com/posts/hasdata"
     },
     {
-      "name": "Tendem by Toloka",
-      "tagline": "AI platform to hand off any task to a human expert",
-      "url": "https://www.producthunt.com/posts/tendem-by-toloka"
+      "name": "PHBench",
+      "tagline": "Predict the next Series A from a ProductHunt launch",
+      "url": "https://www.producthunt.com/posts/phbench-2"
     }
   ],
   "trends": [
     {
-      "title": "AI Coding Tools Expanding Reach",
-      "desc": "AI coding capabilities are reaching new platforms.",
-      "ref": "OpenAI says Codex is coming to your phone"
+      "title": "AI Expands Into Personal Finance",
+      "desc": "OpenAI launches tailored AI for personal finance use.",
+      "ref": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts"
     },
     {
-      "title": "AI Hardware Scores Major IPO",
-      "desc": "AI chip companies pull off successful large public offerings.",
-      "ref": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
+      "title": "Hybrid Local-Cloud AI Emerges",
+      "desc": "End-user apps combine local and cloud AI models.",
+      "ref": "Osaurus brings both local and cloud AI models to your Mac"
     },
     {
-      "title": "Firms Prioritize AI Spending Over Roles",
-      "desc": "Companies cut jobs to free up budget for AI.",
-      "ref": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue&#8217;"
+      "title": "AI Startup Competition Heats Up",
+      "desc": "Startups challenge big tech incumbents in AI.",
+      "ref": "Runway started by helping filmmakers — now it wants to beat Google at AI"
     }
   ],
   "stats": {
