@@ -1,59 +1,75 @@
 {
-  "generatedAt": "2026-05-17T03:35:33.567Z",
+  "generatedAt": "2026-05-18T03:50:36.706Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "The haves and have nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T20:17:16.000Z",
+      "publishedAt": "2026-05-17T20:15:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T18:54:28.000Z",
+      "publishedAt": "2026-05-17T19:46:34.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T15:33:33.000Z",
+      "publishedAt": "2026-05-17T16:32:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
-      "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-      "source": "Wired AI",
-      "publishedAt": "2026-05-16T09:30:00.000Z",
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-17T16:05:00.000Z",
       "type": "rss"
     },
     {
-      "title": "CZ says each person should eventually have thousands of AI agents ...",
-      "summary": "\"The publication reports that OpenAI intends to launch several “agent” products tailored for different applications, including sorting and ranking sales ...",
-      "url": "https://www.facebook.com/CoinMarketCap/posts/latest-cz-says-each-person-should-eventually-have-thousands-of-ai-agents-working/1399188418905214/",
+      "title": "Agent Runtime Is Becoming AI's Next Battleground",
+      "summary": "Agent Runtime Is Becoming AI's Next Battleground. Published May 16, 2026. If you write code with AI every day, you probably take model selection seriously: ...",
+      "url": "https://yage.ai/share/agent-runtime-battlefield-en-20260516.html",
+      "source": "yage.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Digg - AI news, before it trends",
+      "summary": "Google AI staffer Logan Kilpatrick says model is the product. Google engineer Logan Kilpatrick stated that the AI model itself now serves as the core product.",
+      "url": "https://digg.com/ai",
+      "source": "digg.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "TechLatest AI & Tech Weekly #16 - Medium",
+      "summary": "AIDC-AI Launches Ovis2.6–80B-A3B Multimodal MoE Model: Ovis2.6–80B-A3B ... • LiteLLM released a Kubernetes-based agent platform for production AI systems",
+      "url": "https://medium.com/@techlatest.net/techlatest-ai-tech-weekly-16-90485d26488c",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Big news in the AI world today! Former xAI cofounder Igor ...",
+      "summary": "In today's AI news, Galileo launched an Agent Leaderboard on Hugging Face, an open-source AI platform where users can build, train, access, and deploy AI models ...",
+      "url": "https://www.facebook.com/isocialyou/posts/big-news-in-the-ai-world-todayformer-xai-cofounder-igor-babuschkin-is-reportedly/1451960200304044/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Built a personal AI agent - why I did that and what it means. - Facebook",
-      "summary": "Step 3: Intelligence with Gemini I used Gemini as the large language model (LLM) to power the brain of the chatbot. It provides the reasoning ...",
-      "url": "https://www.facebook.com/Vivian.Balakrishnan.Sg/posts/built-a-personal-ai-agent-why-i-did-that-and-what-it-means/1506339830859690/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI agents are no longer waiting for instructions. They're starting to ...",
-      "summary": "AI agents are no longer waiting for instructions. They're starting to work like systems.",
-      "url": "https://www.instagram.com/p/DYZMexPDOcc/",
+      "title": "The AI startup industry saw one of its biggest public controversies of ...",
+      "summary": "The AI startup industry saw one of its biggest public controversies of 2026 after Avi Patel accused Luel AI of copying Kled AI's product, branding, website, and ...",
+      "url": "https://www.instagram.com/p/DYbaPzHD-pW/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
@@ -65,39 +81,23 @@
       "source": "producthunt.com",
       "publishedAt": null,
       "type": "search"
-    },
-    {
-      "title": "An AI startup called Emergent recently gained major attention across ...",
-      "summary": "Companies like Google, Microsoft, OpenAI, Meta, and Anthropic are launching more advanced AI agents capable of coding, research, video generation, and business ...",
-      "url": "https://www.instagram.com/reel/DYZqSb2N_zz/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Anthropic Commits $200M to the Gates Foundation — Top 10 AI ...",
-      "summary": "Claude / Anthropic. Anthropic and the Gates Foundation Form a $200M Partnership for Global Health, Education, and Economic Mobility.",
-      "url": "https://medium.com/@blurbrahlab/anthropic-commits-200m-to-the-gates-foundation-top-10-ai-flutter-news-may-16-2026-d209fe379c16",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Loova Agents",
-      "tagline": "Your AI director for creating cinematic videos with ease",
-      "url": "https://www.producthunt.com/posts/loova-agents-3"
+      "name": "Fere AI",
+      "tagline": "AI agents that turn signals into crypto + Polymarket trades",
+      "url": "https://www.producthunt.com/posts/fere-ai"
     },
     {
-      "name": "Agentmemory",
-      "tagline": "Persistent memory for Claude Code, Codex & coding agents",
-      "url": "https://www.producthunt.com/posts/agentmemory"
+      "name": "Vivago Video Agent",
+      "tagline": "Skip the prompting. Produce consistently compelling videos. ",
+      "url": "https://www.producthunt.com/posts/vivago-video-agent"
     },
     {
-      "name": "Raybeam",
-      "tagline": "A better way to screen share on macOS",
-      "url": "https://www.producthunt.com/posts/raybeam"
+      "name": "SUN-to-Spotify ",
+      "tagline": "Generate audio with SUN and send it to your Spotify library",
+      "url": "https://www.producthunt.com/posts/sun-to-spotify"
     }
   ],
   "trends": [],
