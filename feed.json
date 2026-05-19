@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-05-18T03:50:36.706Z",
+  "generatedAt": "2026-05-19T03:41:03.227Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T20:15:00.000Z",
+      "publishedAt": "2026-05-18T21:29:31.000Z",
       "type": "rss"
     },
     {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T19:46:34.000Z",
+      "publishedAt": "2026-05-18T19:27:52.000Z",
       "type": "rss"
     },
     {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T16:32:04.000Z",
+      "publishedAt": "2026-05-18T17:34:43.000Z",
       "type": "rss"
     },
     {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "title": "Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T16:05:00.000Z",
+      "publishedAt": "2026-05-18T14:56:47.000Z",
       "type": "rss"
     },
     {
-      "title": "Agent Runtime Is Becoming AI's Next Battleground",
-      "summary": "Agent Runtime Is Becoming AI's Next Battleground. Published May 16, 2026. If you write code with AI every day, you probably take model selection seriously: ...",
-      "url": "https://yage.ai/share/agent-runtime-battlefield-en-20260516.html",
-      "source": "yage.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "South Korea&#8217;s LetinAR is building optics behind AI glasses",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-18T11:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Digg - AI news, before it trends",
-      "summary": "Google AI staffer Logan Kilpatrick says model is the product. Google engineer Logan Kilpatrick stated that the AI model itself now serves as the core product.",
-      "url": "https://digg.com/ai",
-      "source": "digg.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-19T00:53:10.000Z",
+      "type": "rss"
     },
     {
-      "title": "TechLatest AI & Tech Weekly #16 - Medium",
-      "summary": "AIDC-AI Launches Ovis2.6–80B-A3B Multimodal MoE Model: Ovis2.6–80B-A3B ... • LiteLLM released a Kubernetes-based agent platform for production AI systems",
-      "url": "https://medium.com/@techlatest.net/techlatest-ai-tech-weekly-16-90485d26488c",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer ",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-18T17:35:43.000Z",
+      "type": "rss"
     },
     {
-      "title": "Big news in the AI world today! Former xAI cofounder Igor ...",
-      "summary": "In today's AI news, Galileo launched an Agent Leaderboard on Hugging Face, an open-source AI platform where users can build, train, access, and deploy AI models ...",
-      "url": "https://www.facebook.com/isocialyou/posts/big-news-in-the-ai-world-todayformer-xai-cofounder-igor-babuschkin-is-reportedly/1451960200304044/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The Signals That Matter &#8211; MIT Insider’s Panel",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-18T16:57:44.000Z",
+      "type": "rss"
     },
     {
-      "title": "The AI startup industry saw one of its biggest public controversies of ...",
-      "summary": "The AI startup industry saw one of its biggest public controversies of 2026 after Avi Patel accused Luel AI of copying Kled AI's product, branding, website, and ...",
-      "url": "https://www.instagram.com/p/DYbaPzHD-pW/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-18T16:01:39.000Z",
+      "type": "rss"
     },
     {
-      "title": "An open source AI harness built with the human in mind | OpenHuman",
-      "summary": "An open source AI harness built with the human in mind ... 90% of people who try AI agents give up. Three reasons: memory that resets every session, your data ...",
-      "url": "https://www.producthunt.com/products/openhuman",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blow",
+      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-18T12:10:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Fere AI",
-      "tagline": "AI agents that turn signals into crypto + Polymarket trades",
-      "url": "https://www.producthunt.com/posts/fere-ai"
+      "name": "SocLeads 3.0",
+      "tagline": "Scrape emails from socials and maps by location",
+      "url": "https://www.producthunt.com/posts/socleads-3-0"
     },
     {
-      "name": "Vivago Video Agent",
-      "tagline": "Skip the prompting. Produce consistently compelling videos. ",
-      "url": "https://www.producthunt.com/posts/vivago-video-agent"
+      "name": "LobeHub",
+      "tagline": "Your Chief Agent Operator for multi-agent work",
+      "url": "https://www.producthunt.com/posts/lobehub-2"
     },
     {
-      "name": "SUN-to-Spotify ",
-      "tagline": "Generate audio with SUN and send it to your Spotify library",
-      "url": "https://www.producthunt.com/posts/sun-to-spotify"
+      "name": "ReactVision Studio",
+      "tagline": "Build AR/VR Apps in React Native + ship directly to devices",
+      "url": "https://www.producthunt.com/posts/reactvision-studio"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
