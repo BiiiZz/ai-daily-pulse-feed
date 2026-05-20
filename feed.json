@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-05-19T03:41:03.227Z",
+  "generatedAt": "2026-05-20T03:41:39.988Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T21:29:31.000Z",
+      "title": "I/O 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\"&gt;At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everythin",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T19:27:52.000Z",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp\"&gt;One year after launch, see how AI Mode’s users are shifting from keywords to na",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T17:34:43.000Z",
+      "title": "New ways to create and get things done in Google Workspace",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp\"&gt;Announcing new voice capabilities in Gmail, Docs and Keep, a new design",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T14:56:47.000Z",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\"&gt;The latest from Google I/O: See how we’re helping you get more done wit",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "South Korea&#8217;s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T11:00:00.000Z",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"&gt;At Google I/O we released Gemini 3.5, our latest series of",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-19T00:53:10.000Z",
+      "title": "A new era for AI Search",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp\"&gt;We shared the next step in our journey to bring together t",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer ",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18T17:35:43.000Z",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp\"&gt;Introducing a $100 AI Ultra plan — plus, new features and benefits",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The Signals That Matter &#8211; MIT Insider’s Panel",
+      "title": "A new chapter: Friends of Figma’s brand refresh tells the story of a global community",
       "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18T16:57:44.000Z",
+      "url": "https://www.figma.com/blog/friends-of-figma-brand-refresh/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-05-19T18:02:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18T16:01:39.000Z",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-19T21:33:30.000Z",
       "type": "rss"
     },
     {
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blow",
-      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18T12:10:00.000Z",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-19T21:25:31.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "SocLeads 3.0",
-      "tagline": "Scrape emails from socials and maps by location",
-      "url": "https://www.producthunt.com/posts/socleads-3-0"
+      "name": "PollyReach",
+      "tagline": "Give your agent a real number and voice to make calls.",
+      "url": "https://www.producthunt.com/posts/pollyreach"
     },
     {
-      "name": "LobeHub",
-      "tagline": "Your Chief Agent Operator for multi-agent work",
-      "url": "https://www.producthunt.com/posts/lobehub-2"
+      "name": "Drizz",
+      "tagline": "Mobile tests that write, run, and fix themselves",
+      "url": "https://www.producthunt.com/posts/drizz-2"
     },
     {
-      "name": "ReactVision Studio",
-      "tagline": "Build AR/VR Apps in React Native + ship directly to devices",
-      "url": "https://www.producthunt.com/posts/reactvision-studio"
+      "name": "Composer 2.5",
+      "tagline": "Cursor’s most powerful model yet",
+      "url": "https://www.producthunt.com/posts/composer-2-5-6"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Advent of agentic Gemini era",
+      "desc": "Google ushers in the new agentic AI era",
+      "ref": "I/O 2026: Welcome to the agentic Gemini era"
+    },
+    {
+      "title": "AI reshapes consumer search experience",
+      "desc": "Search users shift from keywords to natural AI queries",
+      "ref": "How AI Mode is changing the way people search in the U.S."
+    },
+    {
+      "title": "AI expands productivity tool features",
+      "desc": "AI adds new capabilities to Google Workspace",
+      "ref": "New ways to create and get things done in Google Workspace"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
