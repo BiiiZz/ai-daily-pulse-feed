@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-05-20T03:41:39.988Z",
+  "generatedAt": "2026-05-21T03:53:32.334Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "I/O 2026",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\"&gt;At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everythin",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "title": "We’re announcing new community investments in Missouri.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publishedAt": "2026-05-20T20:40:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp\"&gt;One year after launch, see how AI Mode’s users are shifting from keywords to na",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "title": "100 things we announced at I/O 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\"&gt;This year at Google I/O 2026, we announced Gemini Omni, Google Antigravi",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publishedAt": "2026-05-20T19:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "New ways to create and get things done in Google Workspace",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp\"&gt;Announcing new voice capabilities in Gmail, Docs and Keep, a new design",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\"&gt;See and hear your colleagues in true-to-life size and soun",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publishedAt": "2026-05-20T16:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\"&gt;The latest from Google I/O: See how we’re helping you get more done wit",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"&gt;At Google I/O we released Gemini 3.5, our latest series of",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A new era for AI Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp\"&gt;We shared the next step in our journey to bring together t",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp\"&gt;Introducing a $100 AI Ultra plan — plus, new features and benefits",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A new chapter: Friends of Figma’s brand refresh tells the story of a global community",
+      "title": "The Figma design agent is here",
       "summary": "",
-      "url": "https://www.figma.com/blog/friends-of-figma-brand-refresh/",
+      "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
       "source": "Figma Blog",
-      "publishedAt": "2026-05-19T18:02:00.000Z",
+      "publishedAt": "2026-05-20T12:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "title": "Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nvidia",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T21:33:30.000Z",
+      "publishedAt": "2026-05-21T00:28:31.000Z",
       "type": "rss"
     },
     {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "title": "Anthropic says it&#8217;s about to have its first profitable quarter",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T21:25:31.000Z",
+      "publishedAt": "2026-05-21T00:21:21.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-20T22:30:45.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-20T22:26:08.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-20T22:03:51.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-20T21:55:49.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "PollyReach",
-      "tagline": "Give your agent a real number and voice to make calls.",
-      "url": "https://www.producthunt.com/posts/pollyreach"
+      "name": "StoreClaw",
+      "tagline": "Grow your store profits with agents that know how to sell",
+      "url": "https://www.producthunt.com/posts/storeclaw"
     },
     {
-      "name": "Drizz",
-      "tagline": "Mobile tests that write, run, and fix themselves",
-      "url": "https://www.producthunt.com/posts/drizz-2"
+      "name": "mailX by mailwarm",
+      "tagline": "Email deliverability toolkit for humans and AI agents",
+      "url": "https://www.producthunt.com/posts/mailx-by-mailwarm"
     },
     {
-      "name": "Composer 2.5",
-      "tagline": "Cursor’s most powerful model yet",
-      "url": "https://www.producthunt.com/posts/composer-2-5-6"
+      "name": "Emdash",
+      "tagline": "One app. Every coding agent. Open-source.",
+      "url": "https://www.producthunt.com/posts/emdash"
     }
   ],
-  "trends": [
-    {
-      "title": "Advent of agentic Gemini era",
-      "desc": "Google ushers in the new agentic AI era",
-      "ref": "I/O 2026: Welcome to the agentic Gemini era"
-    },
-    {
-      "title": "AI reshapes consumer search experience",
-      "desc": "Search users shift from keywords to natural AI queries",
-      "ref": "How AI Mode is changing the way people search in the U.S."
-    },
-    {
-      "title": "AI expands productivity tool features",
-      "desc": "AI adds new capabilities to Google Workspace",
-      "ref": "New ways to create and get things done in Google Workspace"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
