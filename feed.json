@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-21T03:53:32.334Z",
+  "generatedAt": "2026-05-22T03:49:33.034Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "We’re announcing new community investments in Missouri.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-20T20:40:00.000Z",
+      "title": "Project Slack channels",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-05-21-project-slack-channels",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-05-21T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "100 things we announced at I/O 2026",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\"&gt;This year at Google I/O 2026, we announced Gemini Omni, Google Antigravi",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-20T19:30:00.000Z",
+      "title": "Replit Enterprise, Now Self-Serve",
+      "summary": "Starting today, any organization can purchase Replit Enterprise directly on our website, configure SSO and SCIM, invite their team, and start building production apps, in minutes. No demo requests, no",
+      "url": "https://replit.com/blog/enterprise-self-serve",
+      "source": "Replit Blog",
+      "publishedAt": "2026-05-21T15:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\"&gt;See and hear your colleagues in true-to-life size and soun",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-20T16:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Figma design agent is here",
-      "summary": "",
-      "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-05-20T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nvidia",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T00:28:31.000Z",
+      "publishedAt": "2026-05-21T19:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic says it&#8217;s about to have its first profitable quarter",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T00:21:21.000Z",
+      "publishedAt": "2026-05-21T19:19:05.000Z",
       "type": "rss"
     },
     {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "title": "Trump delays AI security executive order, saying language &#8216;could have been a blocker&#8217;",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T22:30:45.000Z",
+      "publishedAt": "2026-05-21T17:30:45.000Z",
       "type": "rss"
     },
     {
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "title": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T22:26:08.000Z",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T22:03:51.000Z",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T21:55:49.000Z",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive &#8216;universal&#8217; AI interface",
+      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21T14:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "StoreClaw",
-      "tagline": "Grow your store profits with agents that know how to sell",
-      "url": "https://www.producthunt.com/posts/storeclaw"
+      "name": "Tycoon AI ",
+      "tagline": "Run one-person companies entirely with AI agents",
+      "url": "https://www.producthunt.com/posts/tycoon-ai"
     },
     {
-      "name": "mailX by mailwarm",
-      "tagline": "Email deliverability toolkit for humans and AI agents",
-      "url": "https://www.producthunt.com/posts/mailx-by-mailwarm"
+      "name": "Mintlify Workflows",
+      "tagline": "Self-updating knowledge bases",
+      "url": "https://www.producthunt.com/posts/mintlify-workflows-2"
     },
     {
-      "name": "Emdash",
-      "tagline": "One app. Every coding agent. Open-source.",
-      "url": "https://www.producthunt.com/posts/emdash"
+      "name": "Google Antigravity 2.0",
+      "tagline": "Orchestrate multi-agent workflows from a desktop app",
+      "url": "https://www.producthunt.com/posts/google-antigravity-2-0"
     }
   ],
   "trends": [],
