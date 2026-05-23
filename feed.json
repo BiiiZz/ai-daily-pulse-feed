@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-05-22T03:49:33.034Z",
+  "generatedAt": "2026-05-23T03:24:50.864Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Project Slack channels",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-05-21-project-slack-channels",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-05-21T16:00:00.000Z",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\"&gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-05-22T18:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Replit Enterprise, Now Self-Serve",
-      "summary": "Starting today, any organization can purchase Replit Enterprise directly on our website, configure SSO and SCIM, invite their team, and start building production apps, in minutes. No demo requests, no",
-      "url": "https://replit.com/blog/enterprise-self-serve",
-      "source": "Replit Blog",
-      "publishedAt": "2026-05-21T15:45:00.000Z",
+      "title": "What matters when anyone can build",
+      "summary": "",
+      "url": "https://www.figma.com/blog/what-matters-when-anyone-can-build/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-05-22T16:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "title": "7 tips for using Figma Make credits more efficiently",
+      "summary": "",
+      "url": "https://www.figma.com/blog/7-tips-for-using-figma-make-credits-more-efficiently/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-05-22T12:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T19:45:00.000Z",
+      "publishedAt": "2026-05-22T23:03:33.000Z",
       "type": "rss"
     },
     {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "title": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T19:19:05.000Z",
+      "publishedAt": "2026-05-22T21:02:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Trump delays AI security executive order, saying language &#8216;could have been a blocker&#8217;",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T17:30:45.000Z",
+      "publishedAt": "2026-05-22T20:40:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts",
-      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "title": "Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28",
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "publishedAt": "2026-05-22T18:17:07.000Z",
       "type": "rss"
     },
     {
-      "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
-      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "title": "You can no longer Google the word &#8216;disregard&#8217;",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "publishedAt": "2026-05-22T16:16:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "publishedAt": "2026-05-22T15:37:15.000Z",
       "type": "rss"
     },
     {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive &#8216;universal&#8217; AI interface",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00.000Z",
+      "publishedAt": "2026-05-22T14:30:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Tycoon AI ",
-      "tagline": "Run one-person companies entirely with AI agents",
-      "url": "https://www.producthunt.com/posts/tycoon-ai"
+      "name": "TestSprite 3.0",
+      "tagline": "Let a fleet of parallel agents test your app in minutes",
+      "url": "https://www.producthunt.com/posts/testsprite-3-0"
     },
     {
-      "name": "Mintlify Workflows",
-      "tagline": "Self-updating knowledge bases",
-      "url": "https://www.producthunt.com/posts/mintlify-workflows-2"
+      "name": "Cleo",
+      "tagline": "The AI PM that runs your team",
+      "url": "https://www.producthunt.com/posts/cleo-4"
     },
     {
-      "name": "Google Antigravity 2.0",
-      "tagline": "Orchestrate multi-agent workflows from a desktop app",
-      "url": "https://www.producthunt.com/posts/google-antigravity-2-0"
+      "name": "General Compute",
+      "tagline": "AI models that run on an inference cloud optimized for speed",
+      "url": "https://www.producthunt.com/posts/general-compute"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI-Powered Wearables See Progress",
+      "desc": "Google develops advanced Gemini-powered AI XR glasses.",
+      "ref": "We tried Google’s AI glasses and they’re almost there"
+    },
+    {
+      "title": "AI Startup Metrics Are Inflated",
+      "desc": "VCs and founders inflate AI startup ARR metrics.",
+      "ref": "How VCs and founders use inflated ‘ARR’ to crown AI startups"
+    },
+    {
+      "title": "AI Voice Reconstruction Raises Issues",
+      "desc": "AI voice work forced NTSB to block docket access.",
+      "ref": "AI is being used to resurrect the voices of dead pilots"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
