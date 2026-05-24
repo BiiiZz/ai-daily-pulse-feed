@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-05-23T03:24:50.864Z",
+  "generatedAt": "2026-05-24T03:43:32.074Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\"&gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-22T18:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "What matters when anyone can build",
-      "summary": "",
-      "url": "https://www.figma.com/blog/what-matters-when-anyone-can-build/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-05-22T16:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "7 tips for using Figma Make credits more efficiently",
-      "summary": "",
-      "url": "https://www.figma.com/blog/7-tips-for-using-figma-make-credits-more-efficiently/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-05-22T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "title": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T23:03:33.000Z",
+      "publishedAt": "2026-05-23T15:08:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;",
-      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T21:02:36.000Z",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T20:40:48.000Z",
-      "type": "rss"
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "WaveSpeed expands a unified model API that simplifies multi-model agents. What changed: WaveSpeed launched an expanded unified LLM API giving developers ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28",
-      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T18:17:07.000Z",
-      "type": "rss"
+      "title": "For years, Salesforce has been the dominant tool for sales teams ...",
+      "summary": "Salesforce launched Agentforce, an AI-powered platform for developing chatbots and virtual agents, now available for general use. Here's the TL;DR: • Agentforce ...",
+      "url": "https://www.facebook.com/forbes/posts/for-years-salesforce-has-been-the-dominant-tool-for-sales-teams-serving-as-the-c/1362232682433385/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "You can no longer Google the word &#8216;disregard&#8217;",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T16:16:48.000Z",
-      "type": "rss"
+      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
+      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
+      "url": "https://letsdatascience.com/news/topic/ai-agents",
+      "source": "letsdatascience.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T15:37:15.000Z",
-      "type": "rss"
+      "title": "The AI landscape just shifted massively. The agentic era ... - Instagram",
+      "summary": "BREAKING AI NEWS GOOGLE ANNOUNCES NEW GEMINI ENTERPRISE AGENT PLATFORM - THE ... Google is internally testing an AI agent called Remy, built on its Gemini model.",
+      "url": "https://www.instagram.com/p/DYr0gRSB4mv/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22T14:30:00.000Z",
-      "type": "rss"
+      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
+      "url": "https://www.forbes.com/lists/ai50/",
+      "source": "forbes.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Models running their own Towns Emergence AI gave ... - Instagram",
+      "summary": "They built five identical towns, put 10 AI agents in each which ran on different models like Claude, Grok, Gemini, GPT-5 with same rules and resources. What ...",
+      "url": "https://www.instagram.com/reel/DYrm3D9CQOf/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "This Week in NLP #392 - by Robert Dale",
+      "summary": "Figma has launched an AI agent within its design canvas that generates ... Interact has released Action Agent, an AI capability that moderates intranet ...",
+      "url": "https://thisweekinnlp.substack.com/p/this-week-in-nlp-392",
+      "source": "thisweekinnlp.substack.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Digg - AI news, before it trends",
+      "summary": "Provides AI agent toolkit with coding CLI, unified LLM API, TUI/web UI libs and Slack bot support. Tianle Cai TC462 · sarah guo ...",
+      "url": "https://digg.com/ai",
+      "source": "digg.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "TestSprite 3.0",
-      "tagline": "Let a fleet of parallel agents test your app in minutes",
-      "url": "https://www.producthunt.com/posts/testsprite-3-0"
+      "name": "Google Antigravity CLI",
+      "tagline": "Run coding agents directly from your terminal",
+      "url": "https://www.producthunt.com/posts/google-antigravity-cli"
     },
     {
-      "name": "Cleo",
-      "tagline": "The AI PM that runs your team",
-      "url": "https://www.producthunt.com/posts/cleo-4"
+      "name": "Memdex",
+      "tagline": "Turn every AI conversation into reusable local memory",
+      "url": "https://www.producthunt.com/posts/memdex"
     },
     {
-      "name": "General Compute",
-      "tagline": "AI models that run on an inference cloud optimized for speed",
-      "url": "https://www.producthunt.com/posts/general-compute"
+      "name": "note.md",
+      "tagline": "Local-first markdown based workspace for research writings",
+      "url": "https://www.producthunt.com/posts/note-md"
     }
   ],
-  "trends": [
-    {
-      "title": "AI-Powered Wearables See Progress",
-      "desc": "Google develops advanced Gemini-powered AI XR glasses.",
-      "ref": "We tried Google’s AI glasses and they’re almost there"
-    },
-    {
-      "title": "AI Startup Metrics Are Inflated",
-      "desc": "VCs and founders inflate AI startup ARR metrics.",
-      "ref": "How VCs and founders use inflated ‘ARR’ to crown AI startups"
-    },
-    {
-      "title": "AI Voice Reconstruction Raises Issues",
-      "desc": "AI voice work forced NTSB to block docket access.",
-      "ref": "AI is being used to resurrect the voices of dead pilots"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 2,
+    "fromSearch": 8,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
