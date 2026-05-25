@@ -1,21 +1,29 @@
 {
-  "generatedAt": "2026-05-24T03:43:32.074Z",
+  "generatedAt": "2026-05-25T03:58:28.640Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
-      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "title": "Everyone is navigating AI security in real time &#8212; even Google",
+      "summary": "We're in the transition period -- all of us.",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-23T15:08:00.000Z",
+      "publishedAt": "2026-05-24T21:39:21.000Z",
       "type": "rss"
     },
     {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "title": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "publishedAt": "2026-05-24T15:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "source": "Wired AI",
+      "publishedAt": "2026-05-24T10:30:00.000Z",
       "type": "rss"
     },
     {
@@ -27,84 +35,76 @@
       "type": "search"
     },
     {
-      "title": "For years, Salesforce has been the dominant tool for sales teams ...",
-      "summary": "Salesforce launched Agentforce, an AI-powered platform for developing chatbots and virtual agents, now available for general use. Here's the TL;DR: • Agentforce ...",
-      "url": "https://www.facebook.com/forbes/posts/for-years-salesforce-has-been-the-dominant-tool-for-sales-teams-serving-as-the-c/1362232682433385/",
+      "title": "The best llms in 2026 | Product Hunt",
+      "summary": "ModelHub simplifies discovering, organizing, and launching local models across Mac runtimes, while Agentspan emphasizes durable, ...",
+      "url": "https://www.producthunt.com/categories/llms",
+      "source": "producthunt.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Qwen Conference 2026 | Speaker Spotlight Our main stage at ...",
+      "summary": "Xiaoyi Zhichuang 2024 AI Agent Product Launch The Xiaoyi Zhichuang 2024 AI Agent Product Launch Conference was held on October 21 in the Hengqin Guangdong ...",
+      "url": "https://www.facebook.com/alibabacloud/posts/qwen-conference-2026-speaker-spotlightour-main-stage-at-sands-expo-singapore-wil/1433234365515318/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
-      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
-      "url": "https://letsdatascience.com/news/topic/ai-agents",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "The AI landscape just shifted massively. The agentic era ... - Instagram",
-      "summary": "BREAKING AI NEWS GOOGLE ANNOUNCES NEW GEMINI ENTERPRISE AGENT PLATFORM - THE ... Google is internally testing an AI agent called Remy, built on its Gemini model.",
-      "url": "https://www.instagram.com/p/DYr0gRSB4mv/",
+      "title": "This startup is building AI agents that find out why customers lowers ...",
+      "summary": "No, not yet. OCR. This Startup Raised $8.7m to Build an AI Co-Founder for Startups Cofounder.co Launch Video Cofounder GTM Agent Social Media Agent ...",
+      "url": "https://www.instagram.com/reel/DYu78TVPDzZ/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
-      "url": "https://www.forbes.com/lists/ai50/",
-      "source": "forbes.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI Models running their own Towns Emergence AI gave ... - Instagram",
-      "summary": "They built five identical towns, put 10 AI agents in each which ran on different models like Claude, Grok, Gemini, GPT-5 with same rules and resources. What ...",
-      "url": "https://www.instagram.com/reel/DYrm3D9CQOf/",
+      "title": "Faster debugging cycles → AWS Agent Evaluation - Instagram",
+      "summary": "AI agents are more than just LLM calls, they're complete systems. Key steps: 1️⃣ Define Purpose Clear problem, users, success metrics & constraints. 2️⃣ Prompt ...",
+      "url": "https://www.instagram.com/p/DYutgSoD0jC/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "This Week in NLP #392 - by Robert Dale",
-      "summary": "Figma has launched an AI agent within its design canvas that generates ... Interact has released Action Agent, an AI capability that moderates intranet ...",
-      "url": "https://thisweekinnlp.substack.com/p/this-week-in-nlp-392",
-      "source": "thisweekinnlp.substack.com",
+      "title": "China just dropped the world's most advanced open source AI ...",
+      "summary": "Number 2, Alibaba unveils Qwen 3.7-Max, a frontier reasoning agent with a one million token context window that rivals top models while costing a fraction of ...",
+      "url": "https://www.instagram.com/reel/DYubcKjR-kS/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Digg - AI news, before it trends",
-      "summary": "Provides AI agent toolkit with coding CLI, unified LLM API, TUI/web UI libs and Slack bot support. Tianle Cai TC462 · sarah guo ...",
-      "url": "https://digg.com/ai",
-      "source": "digg.com",
+      "title": "Microsoft Research Releases Webwright: A Terminal-Native Web ...",
+      "summary": "Webwright applies this to LLM-powered agents. The system has three core components: a Runner, a Model Endpoint, and a terminal Environment. The runner is about ...",
+      "url": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/",
+      "source": "marktechpost.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Google Antigravity CLI",
-      "tagline": "Run coding agents directly from your terminal",
-      "url": "https://www.producthunt.com/posts/google-antigravity-cli"
+      "name": "Stitch 3.0 by Google",
+      "tagline": "Generate and iterate UI screens with AI on a live canvas",
+      "url": "https://www.producthunt.com/posts/stitch-3-0-by-google"
     },
     {
-      "name": "Memdex",
-      "tagline": "Turn every AI conversation into reusable local memory",
-      "url": "https://www.producthunt.com/posts/memdex"
+      "name": "ModelHub",
+      "tagline": "The missing menu bar app for local LLMs on Mac.",
+      "url": "https://www.producthunt.com/posts/modelhub"
     },
     {
-      "name": "note.md",
-      "tagline": "Local-first markdown based workspace for research writings",
-      "url": "https://www.producthunt.com/posts/note-md"
+      "name": "Freu AI",
+      "tagline": "Automate any Mac app with $0 recurring run cost",
+      "url": "https://www.producthunt.com/posts/freu-ai-2"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 2,
-    "fromSearch": 8,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 0
   },
