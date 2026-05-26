@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-05-25T03:58:28.640Z",
+  "generatedAt": "2026-05-26T03:41:23.412Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Everyone is navigating AI security in real time &#8212; even Google",
-      "summary": "We're in the transition period -- all of us.",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "title": "What ClickUp&#8217;s mass layoff tells us about the future of work",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-24T21:39:21.000Z",
+      "publishedAt": "2026-05-25T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped out",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-24T15:00:00.000Z",
+      "publishedAt": "2026-05-25T15:09:41.000Z",
       "type": "rss"
     },
     {
-      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
-      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
-      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T14:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "US&#039;s big bet on quantum computing may not be entirely legal",
+      "summary": "",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-05-25T12:00:15.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
       "source": "Wired AI",
-      "publishedAt": "2026-05-24T10:30:00.000Z",
+      "publishedAt": "2026-05-25T10:30:00.000Z",
       "type": "rss"
     },
     {
       "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "WaveSpeed expands a unified model API that simplifies multi-model agents. What changed: WaveSpeed launched an expanded unified LLM API giving developers ...",
+      "summary": "Blue Yonder launches a Model Training Factory to produce domain-trained supply‑chain agents. What changed: Blue Yonder introduced a “Model Training Factory ...",
       "url": "https://aiagentstore.ai/ai-agent-news/this-week",
       "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "The best llms in 2026 | Product Hunt",
-      "summary": "ModelHub simplifies discovering, organizing, and launching local models across Mac runtimes, while Agentspan emphasizes durable, ...",
-      "url": "https://www.producthunt.com/categories/llms",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Qwen Conference 2026 | Speaker Spotlight Our main stage at ...",
-      "summary": "Xiaoyi Zhichuang 2024 AI Agent Product Launch The Xiaoyi Zhichuang 2024 AI Agent Product Launch Conference was held on October 21 in the Hengqin Guangdong ...",
-      "url": "https://www.facebook.com/alibabacloud/posts/qwen-conference-2026-speaker-spotlightour-main-stage-at-sands-expo-singapore-wil/1433234365515318/",
+      "title": "MarTech on the Go | Edition 11.5 - Facebook",
+      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4 ... In today's AI news, in 2025, we'll see more AI agents entering the workforce ...",
+      "url": "https://www.facebook.com/drannuragbatrayo/posts/martech-on-the-go-edition-115-may-25-2026ai-is-rapidly-evolving-from-software-fu/10240774332832031/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "This startup is building AI agents that find out why customers lowers ...",
-      "summary": "No, not yet. OCR. This Startup Raised $8.7m to Build an AI Co-Founder for Startups Cofounder.co Launch Video Cofounder GTM Agent Social Media Agent ...",
-      "url": "https://www.instagram.com/reel/DYu78TVPDzZ/",
+      "title": "Do you understand what just happened in AI over the past 7 days ...",
+      "summary": "ChatGPT agents now connect to Slack, Notion, and Drive to execute multi-step workflows 24/7. Chatbots are becoming real digital workers. Anthropic launched ...",
+      "url": "https://www.instagram.com/p/DYx6jz4ks5I/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Faster debugging cycles → AWS Agent Evaluation - Instagram",
-      "summary": "AI agents are more than just LLM calls, they're complete systems. Key steps: 1️⃣ Define Purpose Clear problem, users, success metrics & constraints. 2️⃣ Prompt ...",
-      "url": "https://www.instagram.com/p/DYutgSoD0jC/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "China just dropped the world's most advanced open source AI ...",
-      "summary": "Number 2, Alibaba unveils Qwen 3.7-Max, a frontier reasoning agent with a one million token context window that rivals top models while costing a fraction of ...",
-      "url": "https://www.instagram.com/reel/DYubcKjR-kS/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Microsoft Research Releases Webwright: A Terminal-Native Web ...",
-      "summary": "Webwright applies this to LLM-powered agents. The system has three core components: a Runner, a Model Endpoint, and a terminal Environment. The runner is about ...",
-      "url": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/",
-      "source": "marktechpost.com",
+      "title": "News | Page 10 - InfoWorld",
+      "summary": "Swiss launch open source AI model as “ethical” alternative to big US LLMs. Open-source 'Apertus' LLM could appeal to enterprises struggling to meet the privacy ...",
+      "url": "https://www.infoworld.com/news/page/10/",
+      "source": "infoworld.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Stitch 3.0 by Google",
-      "tagline": "Generate and iterate UI screens with AI on a live canvas",
-      "url": "https://www.producthunt.com/posts/stitch-3-0-by-google"
+      "name": "Unabyss",
+      "tagline": "MCP-native self-updating context layer for your AI",
+      "url": "https://www.producthunt.com/posts/unabyss"
     },
     {
-      "name": "ModelHub",
-      "tagline": "The missing menu bar app for local LLMs on Mac.",
-      "url": "https://www.producthunt.com/posts/modelhub"
+      "name": "own.page",
+      "tagline": "Make your own personal website with bento tiles",
+      "url": "https://www.producthunt.com/posts/own-page"
     },
     {
-      "name": "Freu AI",
-      "tagline": "Automate any Mac app with $0 recurring run cost",
-      "url": "https://www.producthunt.com/posts/freu-ai-2"
+      "name": "Yansu",
+      "tagline": "AI that learns how you work and turns it into software",
+      "url": "https://www.producthunt.com/posts/yansu"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 6,
+    "fromSearch": 4,
     "products": 3,
     "trends": 0
   },
