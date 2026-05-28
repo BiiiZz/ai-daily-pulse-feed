@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-27T03:57:59.665Z",
+  "generatedAt": "2026-05-28T03:45:07.542Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Issue no.16: Trust the process",
-      "summary": "",
-      "url": "https://www.figma.com/blog/trust-the-process/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-05-26T17:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
+      "summary": "Google is embarrassing itself, again.",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T22:32:56.000Z",
+      "publishedAt": "2026-05-28T00:17:41.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T18:33:01.000Z",
+      "publishedAt": "2026-05-27T20:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
-      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat",
-      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T16:00:00.000Z",
+      "publishedAt": "2026-05-27T19:39:45.000Z",
       "type": "rss"
     },
     {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For an",
+      "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T14:55:05.000Z",
+      "publishedAt": "2026-05-27T18:39:17.000Z",
       "type": "rss"
     },
     {
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-      "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T14:00:00.000Z",
+      "publishedAt": "2026-05-27T18:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-26T14:54:10.000Z",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The Download: puncturing the AI jobs panic",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite th",
-      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-26T12:10:00.000Z",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
+      "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:15:00.000Z",
       "type": "rss"
     },
     {
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "title": "ElevenLabs&#8217; new music-generation model can switch genres mid-track",
+      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
+      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:14:10.000Z",
       "type": "rss"
     },
     {
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden",
-      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+      "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you p",
+      "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth with $7M",
+      "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Brew ",
-      "tagline": "Like Claude design for email marketing",
-      "url": "https://www.producthunt.com/posts/brew-4"
+      "name": "Bluedot 2.1",
+      "tagline": "Record on Apple Watch. Sync with Claude",
+      "url": "https://www.producthunt.com/posts/bluedot-2-1"
     },
     {
-      "name": "Bond",
-      "tagline": "Outbound campaigns powered by real buying signals",
-      "url": "https://www.producthunt.com/posts/bond-716"
+      "name": "Powabase",
+      "tagline": "Build AI apps with Postgres, RAG, and agents",
+      "url": "https://www.producthunt.com/posts/powabase"
     },
     {
-      "name": "Rezonant",
-      "tagline": "Talk, spec, ship: get your product ideas into production",
-      "url": "https://www.producthunt.com/posts/rezonant-2"
+      "name": "zero.xyz",
+      "tagline": "Give your AI agent access to ~8k tools, APIs and services",
+      "url": "https://www.producthunt.com/posts/zero-xyz"
     }
   ],
   "trends": [],
