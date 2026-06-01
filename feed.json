@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-05-31T03:59:42.573Z",
+  "generatedAt": "2026-06-01T04:13:37.408Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T21:45:00.000Z",
+      "publishedAt": "2026-05-31T21:05:14.000Z",
       "type": "rss"
     },
     {
-      "title": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs consternation among devs",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "title": "Making sense of the debate over AI psychosis",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T16:30:00.000Z",
+      "publishedAt": "2026-05-31T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta is reportedly developing an AI pendant",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T15:59:58.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T15:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Do You Actually Need to Pay for Transcription Software?",
-      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-      "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
       "source": "Wired AI",
-      "publishedAt": "2026-05-30T09:30:00.000Z",
+      "publishedAt": "2026-05-31T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Behind the Model: When AI Researchers Meet Content Marketers",
-      "summary": "We help startup founders build their AI products. How do these models actually work, and how are they updated? Alex: We've got a set of questions we put ...",
-      "url": "https://www.superpath.co/blog/behind-the-model-when-ai-researchers-meet-content-marketers",
-      "source": "superpath.co",
+      "title": "Today I learned that we've been building AI agents ... - Instagram",
+      "summary": "What are AI Agents? Architecture Prompt Template Agent LLM Tools Memory How to Build an AI Agent? The 7-Step Process to Build an AI Agent WRENCH WISE ...",
+      "url": "https://www.instagram.com/p/DZAAWobGY-1/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 ...",
-      "summary": "Genesis AI releases Genesis World 1.0 with Nyx renderer, Quadrants compiler, and unified physics engine for robotics foundation model evaluation.",
-      "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
-      "source": "marktechpost.com",
+      "title": "Agentic AI News: Autonomous Agents, Frameworks & Launches",
+      "summary": "The latest news on agentic AI — autonomous agents, multi-agent frameworks, and real-world deployments — curated by Let's Data Science.",
+      "url": "https://letsdatascience.com/news/topic/agentic-ai",
+      "source": "letsdatascience.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Anthropic drops new Claude model as OpenAI IPO race heats",
-      "summary": "Anthropic AI Releases Claude 3.5: A New AI Model that Surpasses GPT-4o on Multiple Benchmarks While Being 2x Faster than Claude 3 Opus Anthropic AI has launched ...",
-      "url": "https://www.facebook.com/TheStreet/posts/anthropic-drops-new-claude-model-as-openai-ipo-race-heats-upa-record-funding-rou/1529801922074520/",
+      "title": "The Speed of Prototyping in the Age of AI | Hacker News",
+      "summary": "Our team was fast with those tools and created many of our own before this LLM AI (we used other AIs though to go faster), however it still took weeks to months ...",
+      "url": "https://news.ycombinator.com/item?id=48347153",
+      "source": "news.ycombinator.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Microsoft is preparing new homegrown AI models for coding, speech ...",
+      "summary": "Microsoft is preparing new homegrown AI models for coding, speech, transcription, reasoning and images. The push is aimed at reducing its reliance on...",
+      "url": "https://www.facebook.com/gettheinformation/posts/microsoft-is-preparing-new-homegrown-ai-models-for-coding-speech-transcription-r/1615296293932694/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "JetBrains Launches Open Agent System in MENA to Help ...",
-      "summary": "JetBrains has launched its open agent system across MENA, introducing JetBrains Air, Junie CLI, and JetBrains Central to help organizations scale AI ...",
-      "url": "https://kanebridgenewsme.com/jetbrains-launches-open-agent-system-in-mena-to-help-organizations-adopt-ai-at-scale/",
-      "source": "kanebridgenewsme.com",
+      "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+      "summary": "OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise ...",
+      "url": "https://aiweekly.co/ai-news-today/openai-news",
+      "source": "aiweekly.co",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Powabase: Build AI apps with Postgres, RAG, and agents",
+      "summary": "It helps agencies and in-house IT teams build new AI apps or add AI automation to existing products without stitching together fragmented infrastructure.",
+      "url": "https://www.producthunt.com/products/powabase",
+      "source": "producthunt.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Four new flagship AI models shipped in 41 days. GPT-5.5, Opus 4.7 ...",
+      "summary": "On April 23rd, OpenAI released ChatGPT 5.5, its newest, best model. April 28th, Claude Opus 4.7 was released. May 19th, Google shipped Gemini 3.5 Flash while ...",
+      "url": "https://www.instagram.com/reel/DZBE1GllP-H/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Wandesk",
-      "tagline": "Build Your Own AI Desktop ",
-      "url": "https://www.producthunt.com/posts/wandesk"
+      "name": "Clipto",
+      "tagline": "Fully local, natural language search over terabytes of media",
+      "url": "https://www.producthunt.com/posts/clipto"
     },
     {
-      "name": "Wingbits AI",
-      "tagline": "AI agents for real-time aircraft monitoring and alerts",
-      "url": "https://www.producthunt.com/posts/wingbits-ai"
+      "name": "Oura Ring 5",
+      "tagline": "The world’s smallest smart ring, now even better",
+      "url": "https://www.producthunt.com/posts/oura-ring-5-6"
     },
     {
-      "name": "Exstats",
-      "tagline": "Track your browser extensions and competitors in one place",
-      "url": "https://www.producthunt.com/posts/exstats"
+      "name": "Second Brain for AI",
+      "tagline": "Persistent memory for Claude, ChatGPT & Cursor. Free.",
+      "url": "https://www.producthunt.com/posts/second-brain-for-ai"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Rising Growth of Agentic AI",
+      "desc": "Agentic AI development and deployment is accelerating.",
+      "ref": "Agentic AI News: Autonomous Agents, Frameworks & Launches"
+    },
+    {
+      "title": "Frequent Flagship AI Model Launches",
+      "desc": "Top AI firms release new flagship models rapidly.",
+      "ref": "Four new flagship AI models shipped in 41 days. GPT-5.5, Opus 4.7 ..."
+    },
+    {
+      "title": "AI Innovation in Niche Industries",
+      "desc": "AI drives innovation in specialized niche industries.",
+      "ref": "How Turkey Hacked the Hair Transplant Industry"
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 6,
-    "fromSearch": 4,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
