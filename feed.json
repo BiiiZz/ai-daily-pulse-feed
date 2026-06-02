@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-06-01T04:13:37.408Z",
+  "generatedAt": "2026-06-02T04:06:53.482Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp\"&gt;Learn how Googlers used AI to produce Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-01T16:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-31T21:05:14.000Z",
+      "publishedAt": "2026-06-01T22:55:09.000Z",
       "type": "rss"
     },
     {
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-31T15:30:00.000Z",
+      "publishedAt": "2026-06-01T21:35:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How Turkey Hacked the Hair Transplant Industry",
-      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-      "source": "Wired AI",
-      "publishedAt": "2026-05-31T09:00:00.000Z",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01T20:03:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Today I learned that we've been building AI agents ... - Instagram",
-      "summary": "What are AI Agents? Architecture Prompt Template Agent LLM Tools Memory How to Build an AI Agent? The 7-Step Process to Build an AI Agent WRENCH WISE ...",
-      "url": "https://www.instagram.com/p/DZAAWobGY-1/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Water access is now a risk factor in SpaceX&#8217;s IPO",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01T18:19:53.000Z",
+      "type": "rss"
     },
     {
-      "title": "Agentic AI News: Autonomous Agents, Frameworks & Launches",
-      "summary": "The latest news on agentic AI — autonomous agents, multi-agent frameworks, and real-world deployments — curated by Let's Data Science.",
-      "url": "https://letsdatascience.com/news/topic/agentic-ai",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Anthropic files to go public",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01T16:36:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "The Speed of Prototyping in the Age of AI | Hacker News",
-      "summary": "Our team was fast with those tools and created many of our own before this LLM AI (we used other AIs though to go faster), however it still took weeks to months ...",
-      "url": "https://news.ycombinator.com/item?id=48347153",
-      "source": "news.ycombinator.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sit",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01T16:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Microsoft is preparing new homegrown AI models for coding, speech ...",
-      "summary": "Microsoft is preparing new homegrown AI models for coding, speech, transcription, reasoning and images. The push is aimed at reducing its reliance on...",
-      "url": "https://www.facebook.com/gettheinformation/posts/microsoft-is-preparing-new-homegrown-ai-models-for-coding-speech-transcription-r/1615296293932694/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its traffic booms",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01T14:49:10.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "summary": "OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise ...",
-      "url": "https://aiweekly.co/ai-news-today/openai-news",
-      "source": "aiweekly.co",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The Download: China&#8217;s brain implant ambitions",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brai",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-01T12:10:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Powabase: Build AI apps with Postgres, RAG, and agents",
-      "summary": "It helps agencies and in-house IT teams build new AI apps or add AI automation to existing products without stitching together fragmented infrastructure.",
-      "url": "https://www.producthunt.com/products/powabase",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Four new flagship AI models shipped in 41 days. GPT-5.5, Opus 4.7 ...",
-      "summary": "On April 23rd, OpenAI released ChatGPT 5.5, its newest, best model. April 28th, Claude Opus 4.7 was released. May 19th, Google shipped Gemini 3.5 Flash while ...",
-      "url": "https://www.instagram.com/reel/DZBE1GllP-H/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a ",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-01T09:09:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Clipto",
-      "tagline": "Fully local, natural language search over terabytes of media",
-      "url": "https://www.producthunt.com/posts/clipto"
+      "name": "Mina Meeting Assistant",
+      "tagline": "Your AI Teammate now responds and executes during your calls",
+      "url": "https://www.producthunt.com/posts/mina-meeting-assistant"
     },
     {
-      "name": "Oura Ring 5",
-      "tagline": "The world’s smallest smart ring, now even better",
-      "url": "https://www.producthunt.com/posts/oura-ring-5-6"
+      "name": "SocialEcho 2.0",
+      "tagline": "AI social media copilot for teams and agents",
+      "url": "https://www.producthunt.com/posts/socialecho-2-0-2"
     },
     {
-      "name": "Second Brain for AI",
-      "tagline": "Persistent memory for Claude, ChatGPT & Cursor. Free.",
-      "url": "https://www.producthunt.com/posts/second-brain-for-ai"
+      "name": "Databox MCP",
+      "tagline": "Chat with your business data inside Claude, ChatGPT and more",
+      "url": "https://www.producthunt.com/posts/databox-mcp-3"
     }
   ],
-  "trends": [
-    {
-      "title": "Rising Growth of Agentic AI",
-      "desc": "Agentic AI development and deployment is accelerating.",
-      "ref": "Agentic AI News: Autonomous Agents, Frameworks & Launches"
-    },
-    {
-      "title": "Frequent Flagship AI Model Launches",
-      "desc": "Top AI firms release new flagship models rapidly.",
-      "ref": "Four new flagship AI models shipped in 41 days. GPT-5.5, Opus 4.7 ..."
-    },
-    {
-      "title": "AI Innovation in Niche Industries",
-      "desc": "AI drives innovation in specialized niche industries.",
-      "ref": "How Turkey Hacked the Hair Transplant Industry"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
