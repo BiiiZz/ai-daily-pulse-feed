@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-05T03:55:44.554Z",
+  "generatedAt": "2026-06-06T03:37:46.608Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Team documents",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-06-04-team-documents",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-06-04T15:58:40.000Z",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-05T14:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Build a custom Shopify storefront on Replit",
-      "summary": "Starting today, anyone can design and launch a custom Shopify storefront by chatting with the Replit Agent. Describe the store you want, and Agent generates a custom front end, creates a new Shopify s",
-      "url": "https://replit.com/blog/create-a-custom-shopify-store",
-      "source": "Replit Blog",
-      "publishedAt": "2026-06-04T20:55:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "publishedAt": "2026-06-05T20:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Airbnb&#8217;s Brian Chesky plans to launch a new AI lab",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T22:29:50.000Z",
+      "publishedAt": "2026-06-05T18:57:20.000Z",
       "type": "rss"
     },
     {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T21:30:00.000Z",
+      "publishedAt": "2026-06-05T17:17:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T19:33:09.000Z",
+      "publishedAt": "2026-06-05T14:49:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "title": "The &#8216;together tech&#8217; wave might be the most intriguing startup bet of 2026",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T19:20:58.000Z",
+      "publishedAt": "2026-06-05T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What ",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T16:32:48.000Z",
+      "publishedAt": "2026-06-05T13:03:10.000Z",
       "type": "rss"
     },
     {
-      "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T16:31:12.000Z",
+      "publishedAt": "2026-06-05T05:06:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is.",
-      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T15:05:00.000Z",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots&#8217; impact on our brains",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security th",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T12:10:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Mailwarm 2.0",
-      "tagline": "The email warmup tool, upgraded for deliverability.",
-      "url": "https://www.producthunt.com/posts/mailwarm-2-0"
+      "name": "SellerClaw",
+      "tagline": "A team of AI agents that runs your stores across channels",
+      "url": "https://www.producthunt.com/posts/sellerclaw"
     },
     {
-      "name": "Astra Autonomous Pentest",
-      "tagline": "AI agents that find, validate, and fix every vulnerability",
-      "url": "https://www.producthunt.com/posts/astra-autonomous-pentest"
+      "name": "Minimi",
+      "tagline": "Your ambient memory for Claude",
+      "url": "https://www.producthunt.com/posts/minimi-2"
     },
     {
-      "name": "Empromptu AI",
-      "tagline": "Train Fine Tuned Models With AI Apps You're Already Building",
-      "url": "https://www.producthunt.com/posts/empromptu-ai-2"
+      "name": "Leni",
+      "tagline": "The world’s most accurate AI for investors",
+      "url": "https://www.producthunt.com/posts/leni-2"
     }
   ],
   "trends": [],
