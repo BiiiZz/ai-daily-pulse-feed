@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-06-08T04:08:51.198Z",
+  "generatedAt": "2026-06-09T03:38:29.670Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07T20:26:13.000Z",
+      "title": "You never stop cultivating taste",
+      "summary": "",
+      "url": "https://www.figma.com/blog/you-never-stop-cultivating-taste/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-08T16:26:36.446Z",
       "type": "rss"
     },
     {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "title": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07T17:56:22.000Z",
+      "publishedAt": "2026-06-09T01:56:48.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI is still working on that ‘super app’",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#8217; valuation tricks",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07T16:23:22.000Z",
+      "publishedAt": "2026-06-09T00:45:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Building a hill-climbing machine: Launching seven new MAI models",
-      "summary": "Today we are announcing a family of seven new models developed in-house at Microsoft AI. Beyond these models, we're building a superintelligence lab – a ...",
-      "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-      "source": "microsoft.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T22:41:45.000Z",
+      "type": "rss"
     },
     {
-      "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "OpenAI rolls out \"Lockdown Mode\" — agent mode disabled for higher security. What changed: OpenAI began rolling out a new Lockdown Mode that limits outbound ...",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T22:39:57.000Z",
+      "type": "rss"
     },
     {
-      "title": "500+ AI agent projects using LangGraph, CrewAI, and AutoGen ...",
-      "summary": "... AI Product Launch Intelligence Agent -/github. com/Shubhamsaboo/awesome-llm ... A Google senior director released a 400-page AI agent playbook—for free.",
-      "url": "https://www.facebook.com/0xSojalSec/posts/500-ai-agent-projects-using-langgraph-crewai-and-autogen-githubcomashishpatel265/1538879041099827/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T21:29:57.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI moved fast this week. Here's what happened   Microsoft replaced ...",
-      "summary": "OpenAI is about to go public. Microsoft launched AI agents that can click your mouse for you. Chinese AI models now power over half of all traffic on the ...",
-      "url": "https://www.instagram.com/reel/DZS2AyktIm1/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Apple plays catch-up at WWDC",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to ",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T21:15:42.000Z",
+      "type": "rss"
     },
     {
-      "title": "Enterprise AI News: Adoption, Deployments & Platforms",
-      "summary": "Meta Launches Business AI Agent Across Messaging Apps. Meta announced the global launch of Meta Business Agent, an AI assistant for businesses that operates ...",
-      "url": "https://letsdatascience.com/news/topic/enterprise-ai",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Apple bets cheaper AI will woo small developers",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T20:53:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI News Feed | Model Releases, Labs & Tooling - Mihaly Kertesz",
-      "summary": "Follow AI news across model releases, lab updates, tooling moves, and selected industry coverage from verified official and media sources.",
-      "url": "https://kerteszmihaly.com/news",
-      "source": "kerteszmihaly.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T19:41:32.000Z",
+      "type": "rss"
     },
     {
-      "title": "Comment “NEMOTRON”.. I will send you the full breakdown. Nvidia ...",
-      "summary": "Nvidia just released a model built specifically for AI agents. Not chatbots. Agents that browse websites, read documents, write code, and keep working ...",
-      "url": "https://www.instagram.com/reel/DZSpgAYSABi/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-08T18:48:45.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Dreambeans by Google Labs",
-      "tagline": "Daily AI stories personalised from your Google apps",
-      "url": "https://www.producthunt.com/posts/dreambeans-by-google-labs"
+      "name": "Browse.sh",
+      "tagline": "Give your agents muscle memory for automating the web",
+      "url": "https://www.producthunt.com/posts/browse-sh"
     },
     {
-      "name": "Wave",
-      "tagline": "Turn your voice into text — local or cloud, your choice",
-      "url": "https://www.producthunt.com/posts/wave-12"
+      "name": "Honen",
+      "tagline": "Automated teaching + learning infrastructure for any company",
+      "url": "https://www.producthunt.com/posts/honen"
     },
     {
-      "name": "CabinLink",
-      "tagline": "Flight map from cabin Wi-Fi",
-      "url": "https://www.producthunt.com/posts/cabinlink"
+      "name": "Vaani",
+      "tagline": "Lip-synced AI dubbing for creators, brands and studios",
+      "url": "https://www.producthunt.com/posts/vaani-2"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Apple's Steady AI Bet Pays Off",
+      "desc": "Apple's slow AI approach is looking increasingly smart.",
+      "ref": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart"
+    },
+    {
+      "title": "Top AI Firms Rush for IPO",
+      "desc": "Leading AI startups sequentially file for public listing.",
+      "ref": "OpenAI files confidentially for IPO, following Anthropic"
+    },
+    {
+      "title": "Cheap AI For Small Developers",
+      "desc": "Apple cuts AI costs to attract small app developers.",
+      "ref": "Apple bets cheaper AI will woo small developers"
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
