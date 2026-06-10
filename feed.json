@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-06-09T03:38:29.670Z",
+  "generatedAt": "2026-06-10T03:53:01.963Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "You never stop cultivating taste",
-      "summary": "",
-      "url": "https://www.figma.com/blog/you-never-stop-cultivating-taste/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-08T16:26:36.446Z",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10T00:26:10.000Z",
       "type": "rss"
     },
     {
-      "title": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T01:56:48.000Z",
+      "publishedAt": "2026-06-09T23:17:51.000Z",
       "type": "rss"
     },
     {
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#8217; valuation tricks",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "title": "Hey, Siri, here&#8217;s what I actually want from AI",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T00:45:56.000Z",
+      "publishedAt": "2026-06-09T20:50:17.000Z",
       "type": "rss"
     },
     {
-      "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "title": "Anthropic&#8217;s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T22:41:45.000Z",
+      "publishedAt": "2026-06-09T20:37:49.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T22:39:57.000Z",
+      "publishedAt": "2026-06-09T18:56:09.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T21:29:57.000Z",
+      "publishedAt": "2026-06-09T18:04:24.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple plays catch-up at WWDC",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to ",
-      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "title": "Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T21:15:42.000Z",
+      "publishedAt": "2026-06-09T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "title": "It&#8217;s not FAANG anymore. It&#8217;s MANGOS.",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to ",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T20:53:55.000Z",
+      "publishedAt": "2026-06-09T16:09:14.000Z",
       "type": "rss"
     },
     {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T19:41:32.000Z",
+      "publishedAt": "2026-06-09T13:47:25.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-08T18:48:45.000Z",
+      "publishedAt": "2026-06-09T13:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Browse.sh",
-      "tagline": "Give your agents muscle memory for automating the web",
-      "url": "https://www.producthunt.com/posts/browse-sh"
+      "name": "VC Boom",
+      "tagline": "Score your deck, meet investors who fit, and raise more",
+      "url": "https://www.producthunt.com/posts/vc-boom"
     },
     {
-      "name": "Honen",
-      "tagline": "Automated teaching + learning infrastructure for any company",
-      "url": "https://www.producthunt.com/posts/honen"
+      "name": "ZeroGPU",
+      "tagline": "The compute efficient layer for AI inference",
+      "url": "https://www.producthunt.com/posts/zerogpu"
     },
     {
-      "name": "Vaani",
-      "tagline": "Lip-synced AI dubbing for creators, brands and studios",
-      "url": "https://www.producthunt.com/posts/vaani-2"
+      "name": "prostir zvuku",
+      "tagline": "A spatial nature sound mixer for Mac",
+      "url": "https://www.producthunt.com/posts/prostir-zvuku"
     }
   ],
-  "trends": [
-    {
-      "title": "Apple's Steady AI Bet Pays Off",
-      "desc": "Apple's slow AI approach is looking increasingly smart.",
-      "ref": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart"
-    },
-    {
-      "title": "Top AI Firms Rush for IPO",
-      "desc": "Leading AI startups sequentially file for public listing.",
-      "ref": "OpenAI files confidentially for IPO, following Anthropic"
-    },
-    {
-      "title": "Cheap AI For Small Developers",
-      "desc": "Apple cuts AI costs to attract small app developers.",
-      "ref": "Apple bets cheaper AI will woo small developers"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
