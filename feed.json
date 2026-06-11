@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-10T03:53:01.963Z",
+  "generatedAt": "2026-06-11T04:05:56.761Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T00:26:10.000Z",
+      "title": "Steal this template: Bring a user persona to life with Figma Weave",
+      "summary": "",
+      "url": "https://www.figma.com/blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-10T17:23:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
+      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T23:17:51.000Z",
+      "publishedAt": "2026-06-11T04:02:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Hey, Siri, here&#8217;s what I actually want from AI",
-      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "title": "Anthropic&#8217;s Dario Amodei has just one direct report",
+      "summary": "If you doubted his genius, doubt no more.",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T20:50:17.000Z",
+      "publishedAt": "2026-06-11T03:53:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s Fable 5 can make weirdly fun video games with the click of a button",
-      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T20:37:49.000Z",
+      "publishedAt": "2026-06-10T22:31:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T18:56:09.000Z",
+      "publishedAt": "2026-06-10T20:19:31.000Z",
       "type": "rss"
     },
     {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T18:04:24.000Z",
+      "publishedAt": "2026-06-10T17:07:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access today",
-      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "title": "How memory tools can make AI models worse",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T17:00:00.000Z",
+      "publishedAt": "2026-06-10T16:11:08.000Z",
       "type": "rss"
     },
     {
-      "title": "It&#8217;s not FAANG anymore. It&#8217;s MANGOS.",
-      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to ",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T16:09:14.000Z",
+      "publishedAt": "2026-06-10T15:41:22.000Z",
       "type": "rss"
     },
     {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T13:47:25.000Z",
+      "publishedAt": "2026-06-10T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
+      "publishedAt": "2026-06-10T14:48:01.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "VC Boom",
-      "tagline": "Score your deck, meet investors who fit, and raise more",
-      "url": "https://www.producthunt.com/posts/vc-boom"
+      "name": "Publora",
+      "tagline": "The publishing API for the agent era",
+      "url": "https://www.producthunt.com/posts/publora-2"
     },
     {
-      "name": "ZeroGPU",
-      "tagline": "The compute efficient layer for AI inference",
-      "url": "https://www.producthunt.com/posts/zerogpu"
+      "name": "TypingMind",
+      "tagline": "Pay per use, no subscription, 18 model providers supported",
+      "url": "https://www.producthunt.com/posts/typingmind"
     },
     {
-      "name": "prostir zvuku",
-      "tagline": "A spatial nature sound mixer for Mac",
-      "url": "https://www.producthunt.com/posts/prostir-zvuku"
+      "name": "Spotlight by Backplanes",
+      "tagline": "Session reports for Claude Code & Codex to improve your code",
+      "url": "https://www.producthunt.com/posts/spotlight-by-backplanes"
     }
   ],
   "trends": [],
