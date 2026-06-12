@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-11T04:05:56.761Z",
+  "generatedAt": "2026-06-12T04:07:09.433Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Steal this template: Bring a user persona to life with Figma Weave",
+      "title": "Coding sessions in Linear",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-06-11-coding-sessions",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-06-11T18:29:43.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-11T20:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Improving performance in the layers panel",
       "summary": "",
-      "url": "https://www.figma.com/blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/",
+      "url": "https://www.figma.com/blog/improving-performance-in-the-layers-panel/",
       "source": "Figma Blog",
-      "publishedAt": "2026-06-10T17:23:00.000Z",
+      "publishedAt": "2026-06-11T17:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11T04:02:19.000Z",
+      "publishedAt": "2026-06-12T01:48:07.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s Dario Amodei has just one direct report",
-      "summary": "If you doubted his genius, doubt no more.",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11T03:53:06.000Z",
+      "publishedAt": "2026-06-12T01:04:38.000Z",
       "type": "rss"
     },
     {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T22:31:19.000Z",
+      "publishedAt": "2026-06-11T20:33:10.000Z",
       "type": "rss"
     },
     {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T20:19:31.000Z",
+      "publishedAt": "2026-06-11T19:58:01.000Z",
       "type": "rss"
     },
     {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "title": "Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and others",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T17:07:35.000Z",
+      "publishedAt": "2026-06-11T16:36:20.000Z",
       "type": "rss"
     },
     {
-      "title": "How memory tools can make AI models worse",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "title": "Pool&#8217;s new app turns your screenshots into something useful",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T16:11:08.000Z",
+      "publishedAt": "2026-06-11T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T15:41:22.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T15:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:48:01.000Z",
+      "publishedAt": "2026-06-11T14:23:43.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Publora",
-      "tagline": "The publishing API for the agent era",
-      "url": "https://www.producthunt.com/posts/publora-2"
+      "name": "Bond",
+      "tagline": "The AI to-do list that does itself",
+      "url": "https://www.producthunt.com/posts/bond-717"
     },
     {
-      "name": "TypingMind",
-      "tagline": "Pay per use, no subscription, 18 model providers supported",
-      "url": "https://www.producthunt.com/posts/typingmind"
+      "name": "Respan Gateway",
+      "tagline": "One AI gateway with built-in observability and evals",
+      "url": "https://www.producthunt.com/posts/respan-gateway"
     },
     {
-      "name": "Spotlight by Backplanes",
-      "tagline": "Session reports for Claude Code & Codex to improve your code",
-      "url": "https://www.producthunt.com/posts/spotlight-by-backplanes"
+      "name": "Asmi AI",
+      "tagline": "AI that handles your personal chores in the real world",
+      "url": "https://www.producthunt.com/posts/asmi-ai-3"
     }
   ],
   "trends": [],
