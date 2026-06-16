@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-06-15T04:24:44.723Z",
+  "generatedAt": "2026-06-16T04:18:58.575Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-14T16:38:09.000Z",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-15T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Keeping up with Agentic AI : r/AI_Agents - Reddit",
-      "summary": "Spend a lot of the day building and refining my agents. Mental model is really simple: LLM = brain in a jar, just has text in / text out (ignoring multimodal), ...",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1u5hjdi/keeping_up_with_agentic_ai/",
-      "source": "reddit.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T23:51:44.000Z",
+      "type": "rss"
     },
     {
-      "title": "Artificial Intelligence - Latest AI News and Analysis - WSJ.com",
-      "summary": "The latest artificial intelligence news coverage focusing on the technology, tools and the companies building AI technology.",
-      "url": "https://www.wsj.com/tech/ai",
-      "source": "wsj.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The US government&#8217;s Anthropic models ban was never about an AI jailbreak",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T21:50:21.000Z",
+      "type": "rss"
     },
     {
-      "title": "@openAI new model 5.6 is reported to launch on June ... - Instagram",
-      "summary": "@openAI new model 5.6 is reported to launch on June 23. This looks like a direct response to Anthropic Claude code fable five and mythos five launch that ...",
-      "url": "https://www.instagram.com/reel/DZlTblDEclb/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI #172: The First Fable | Zvi Mowshowitz (@TheZvi) on X - Twitter",
-      "summary": "AI labs should publish benchmark performance of newly released models with tokens, cost, or time on an x-axis. At a minimum, labs should report the ...",
-      "url": "https://x.com/TheZvi/article/2065146989038416366",
-      "source": "x.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T18:30:34.000Z",
+      "type": "rss"
     },
     {
-      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
-      "url": "https://www.forbes.com/lists/ai50/",
-      "source": "forbes.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropic&#8217;s most powerful models",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T15:29:51.000Z",
+      "type": "rss"
     },
     {
-      "title": "The government just switched off the two most powerful AI models ...",
-      "summary": "Claude just released their most dangerous AI model ... [ai, News, fable, Anthropic, tech news, LLM, ai models, models, Claude Mythos, artificial intelligence]",
-      "url": "https://www.instagram.com/reel/DZkg9OyH9ZU/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T14:34:45.000Z",
+      "type": "rss"
     },
     {
-      "title": "NBC News' Joanna Stern takes a look at the AI overhaul that is ...",
-      "summary": "The assistant, reportedly called “LLM Siri,” will be powered by Apple's AI models. In other advancements, OpenAI announced that it updated GPT-4o to improve ...",
-      "url": "https://www.facebook.com/NBCNews/posts/nbc-news-joanna-stern-takes-a-look-at-the-ai-overhaul-that-is-changing-the-way-y/1383672340291294/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T13:46:08.000Z",
+      "type": "rss"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you - GitHub",
-      "summary": "The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during ...",
-      "url": "https://github.com/nousresearch/hermes-agent",
-      "source": "github.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "LLM Memory - Top Picks for 2026 - Product Hunt",
-      "summary": "Top-reviewed LLM memory products cluster around three patterns: personal continuity, knowledge capture, and app-connected retrieval. Mem ...",
-      "url": "https://www.producthunt.com/categories/llm-memory",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "A satellite just learned to find things on its own — here&#8217;s what that means",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Slashy",
-      "tagline": "The AI assistant that does email for you",
-      "url": "https://www.producthunt.com/posts/slashy-3"
+      "name": "Novu Connect",
+      "tagline": "Ship agents where your users already work",
+      "url": "https://www.producthunt.com/posts/novu-connect"
     },
     {
-      "name": "Taste Lab",
-      "tagline": "Extract any website's design DNA",
-      "url": "https://www.producthunt.com/posts/taste-lab"
+      "name": "Wobo 2.0",
+      "tagline": "Tinder for jobs: swipe right and AI applies for you",
+      "url": "https://www.producthunt.com/posts/wobo-2-0"
     },
     {
-      "name": "Permute 4.0",
-      "tagline": "The ultimate media converter for macOS",
-      "url": "https://www.producthunt.com/posts/permute-4-0"
+      "name": "Kickbacks.ai",
+      "tagline": "Get paid to wait for Claude Code to finish",
+      "url": "https://www.producthunt.com/posts/kickbacks-ai"
     }
   ],
-  "trends": [
-    {
-      "title": "AI Companies Rushing to Go Public",
-      "desc": "More AI startups pursue public market listings.",
-      "ref": "As AI companies race to go public, who else is along for the ride?"
-    },
-    {
-      "title": "Fierce Competition in New AI Models",
-      "desc": "AI labs rapidly launch competing frontier models.",
-      "ref": "@openAI new model 5.6 is reported to launch on June ... - Instagram"
-    },
-    {
-      "title": "Growing Development of Agentic AI",
-      "desc": "Developers actively build and refine AI agents.",
-      "ref": "Keeping up with Agentic AI : r/AI_Agents - Reddit"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 1,
-    "fromSearch": 9,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
