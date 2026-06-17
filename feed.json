@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-16T04:18:58.575Z",
+  "generatedAt": "2026-06-17T04:15:36.450Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "title": "4 ways we’re using our MCP server at Figma",
+      "summary": "",
+      "url": "https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-16T12:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
-      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T23:51:44.000Z",
+      "publishedAt": "2026-06-16T22:34:17.000Z",
       "type": "rss"
     },
     {
-      "title": "The US government&#8217;s Anthropic models ban was never about an AI jailbreak",
-      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T21:50:21.000Z",
+      "publishedAt": "2026-06-16T20:11:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turnoff, survey finds",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T16:49:44.000Z",
       "type": "rss"
     },
     {
       "title": "SpaceX is public: Everything you need to know post-IPO",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
-      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T18:30:34.000Z",
+      "publishedAt": "2026-06-16T15:53:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropic&#8217;s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
-      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T15:29:51.000Z",
+      "publishedAt": "2026-06-16T15:05:03.000Z",
       "type": "rss"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T14:34:45.000Z",
+      "publishedAt": "2026-06-16T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "title": "Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it",
+      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T13:46:08.000Z",
+      "publishedAt": "2026-06-16T14:50:09.000Z",
       "type": "rss"
     },
     {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T13:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here&#8217;s what that means",
-      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "publishedAt": "2026-06-16T13:15:09.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Novu Connect",
-      "tagline": "Ship agents where your users already work",
-      "url": "https://www.producthunt.com/posts/novu-connect"
+      "name": "Goldfish",
+      "tagline": "Press Option. It knows your work and replies like you",
+      "url": "https://www.producthunt.com/posts/goldfish"
     },
     {
-      "name": "Wobo 2.0",
-      "tagline": "Tinder for jobs: swipe right and AI applies for you",
-      "url": "https://www.producthunt.com/posts/wobo-2-0"
+      "name": "Invoko",
+      "tagline": "A little hand on your Mac",
+      "url": "https://www.producthunt.com/posts/invoko"
     },
     {
-      "name": "Kickbacks.ai",
-      "tagline": "Get paid to wait for Claude Code to finish",
-      "url": "https://www.producthunt.com/posts/kickbacks-ai"
+      "name": "MakersClaw",
+      "tagline": "Hire AI employees that live in your Slack, Teams, Telegram",
+      "url": "https://www.producthunt.com/posts/makersclaw"
     }
   ],
   "trends": [],
