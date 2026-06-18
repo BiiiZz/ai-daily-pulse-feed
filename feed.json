@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-17T04:15:36.450Z",
+  "generatedAt": "2026-06-18T04:07:01.391Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "4 ways we’re using our MCP server at Figma",
-      "summary": "",
-      "url": "https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\"&gt;Research in “Nature” shows our conversational AI system ma",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T22:34:17.000Z",
+      "title": "Replit is now available in Claude",
+      "summary": "Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow.\n\nDesign in Cl",
+      "url": "https://replit.com/blog/replit-claude",
+      "source": "Replit Blog",
+      "publishedAt": "2026-06-17T19:05:46.000Z",
       "type": "rss"
     },
     {
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T20:11:00.000Z",
+      "publishedAt": "2026-06-18T01:23:51.000Z",
       "type": "rss"
     },
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "publishedAt": "2026-06-17T20:32:52.000Z",
       "type": "rss"
     },
     {
-      "title": "Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turnoff, survey finds",
-      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T16:49:44.000Z",
+      "publishedAt": "2026-06-17T20:24:28.000Z",
       "type": "rss"
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
-      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T15:53:12.000Z",
+      "publishedAt": "2026-06-17T20:17:38.000Z",
       "type": "rss"
     },
     {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "title": "World leaders want American AI. They just don&#8217;t want America to be able to turn it off.",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T15:05:03.000Z",
+      "publishedAt": "2026-06-17T19:01:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T15:00:00.000Z",
+      "publishedAt": "2026-06-17T18:30:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note",
-      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T14:50:09.000Z",
+      "publishedAt": "2026-06-17T18:19:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "title": "NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16T13:15:09.000Z",
+      "publishedAt": "2026-06-17T18:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Goldfish",
-      "tagline": "Press Option. It knows your work and replies like you",
-      "url": "https://www.producthunt.com/posts/goldfish"
+      "name": "Framer 3.0",
+      "tagline": "With Agents, Branching, Community, and an all-new design",
+      "url": "https://www.producthunt.com/posts/framer-3-0-2"
     },
     {
-      "name": "Invoko",
-      "tagline": "A little hand on your Mac",
-      "url": "https://www.producthunt.com/posts/invoko"
+      "name": "Swytchcode CLI",
+      "tagline": "Give agents reliable access to 2,000+ APIs w/ durable state",
+      "url": "https://www.producthunt.com/posts/swytchcode-cli"
     },
     {
-      "name": "MakersClaw",
-      "tagline": "Hire AI employees that live in your Slack, Teams, Telegram",
-      "url": "https://www.producthunt.com/posts/makersclaw"
+      "name": "Daemons by Charlie Labs",
+      "tagline": "Keep PRs, issues, CI, and docs moving with AI agents",
+      "url": "https://www.producthunt.com/posts/daemons-by-charlie-labs"
     }
   ],
   "trends": [],
