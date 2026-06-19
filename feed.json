@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-06-18T04:07:01.391Z",
+  "generatedAt": "2026-06-19T04:25:24.241Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\"&gt;Research in “Nature” shows our conversational AI system ma",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "title": "Agent assisted project updates",
+      "summary": "Fixes",
+      "url": "https://linear.app/changelog/2026-06-18-agent-assisted-project-updates",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-06-18T15:34:09.000Z",
       "type": "rss"
     },
     {
-      "title": "Replit is now available in Claude",
-      "summary": "Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow.\n\nDesign in Cl",
-      "url": "https://replit.com/blog/replit-claude",
-      "source": "Replit Blog",
-      "publishedAt": "2026-06-17T19:05:46.000Z",
+      "title": "Direct every frame with Runway Aleph 2.0, now in Figma Weave",
+      "summary": "",
+      "url": "https://www.figma.com/blog/direct-every-frame-with-runway-aleph-2/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-18T12:05:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How to turn off AI in your Google Docs",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18T01:23:51.000Z",
+      "publishedAt": "2026-06-19T00:51:11.000Z",
       "type": "rss"
     },
     {
-      "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T20:32:52.000Z",
+      "publishedAt": "2026-06-18T21:20:13.000Z",
       "type": "rss"
     },
     {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
-      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T20:24:28.000Z",
+      "publishedAt": "2026-06-18T20:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
-      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T20:17:38.000Z",
+      "publishedAt": "2026-06-18T19:59:22.000Z",
       "type": "rss"
     },
     {
-      "title": "World leaders want American AI. They just don&#8217;t want America to be able to turn it off.",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T19:01:19.000Z",
+      "publishedAt": "2026-06-18T18:51:46.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T18:30:56.000Z",
+      "publishedAt": "2026-06-18T18:22:13.000Z",
       "type": "rss"
     },
     {
-      "title": "Social media’s next evolution: user-controlled algorithms",
-      "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
-      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T18:19:48.000Z",
+      "publishedAt": "2026-06-18T17:49:23.000Z",
       "type": "rss"
     },
     {
-      "title": "NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
-      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T18:00:00.000Z",
+      "publishedAt": "2026-06-18T17:16:30.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Framer 3.0",
-      "tagline": "With Agents, Branching, Community, and an all-new design",
-      "url": "https://www.producthunt.com/posts/framer-3-0-2"
+      "name": "Upstream",
+      "tagline": "The inbox designed for humans and agents",
+      "url": "https://www.producthunt.com/posts/upstream-5"
     },
     {
-      "name": "Swytchcode CLI",
-      "tagline": "Give agents reliable access to 2,000+ APIs w/ durable state",
-      "url": "https://www.producthunt.com/posts/swytchcode-cli"
+      "name": "Honestly",
+      "tagline": "See what Reddit and TikTok honestly think about your product",
+      "url": "https://www.producthunt.com/posts/honestly-2"
     },
     {
-      "name": "Daemons by Charlie Labs",
-      "tagline": "Keep PRs, issues, CI, and docs moving with AI agents",
-      "url": "https://www.producthunt.com/posts/daemons-by-charlie-labs"
+      "name": "Jesse",
+      "tagline": "Stop building Apollo/Clay lists. Search the live internet.",
+      "url": "https://www.producthunt.com/posts/jesse-2"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI Inference Draws Big Capital",
+      "desc": "Large funding flows into AI inference startups.",
+      "ref": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round"
+    },
+    {
+      "title": "AI Chip Competition Heats Up",
+      "desc": "Amazon challenges Nvidia in AI chip market.",
+      "ref": "Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+    },
+    {
+      "title": "Niche AI Startups Get Acquired",
+      "desc": "Big firms buy specialized AI startups.",
+      "ref": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
