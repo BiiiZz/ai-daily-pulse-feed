@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-06-20T03:50:27.457Z",
+  "generatedAt": "2026-06-21T04:20:47.007Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn&#8217;t work",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T22:40:14.000Z",
+      "publishedAt": "2026-06-20T20:32:29.000Z",
       "type": "rss"
     },
     {
-      "title": "Is the US government&#8217;s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T16:08:17.000Z",
+      "publishedAt": "2026-06-20T19:41:11.000Z",
       "type": "rss"
     },
     {
-      "title": "The US banned Anthropic&#8217;s Fable 5 release, but the numbers don&#8217;t seem to care",
-      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl",
-      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T16:01:03.000Z",
+      "publishedAt": "2026-06-20T16:39:57.000Z",
       "type": "rss"
     },
     {
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T15:23:28.000Z",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "Wired AI",
+      "publishedAt": "2026-06-20T10:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T13:00:00.000Z",
-      "type": "rss"
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "AppViewX releases Agent Identity Security to treat agents as first-class identities. What changed: AppViewX launched “Agent Identity Security,” a product ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The US says ASML&#8217;s top chip tool may be in China, but how?",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T07:59:12.000Z",
-      "type": "rss"
+      "title": "Qualcomm CEO Cristiano Amon says the rise of AI agents could ...",
+      "summary": "Qualcomm CEO Cristiano Amon says the rise of AI agents could bring a new wave of companies into consumer electronics. As AI moves from chatbots to...",
+      "url": "https://www.facebook.com/cnbc/posts/qualcomm-ceo-cristiano-amon-says-the-rise-of-ai-agents-could-bring-a-new-wave-of/1402491048418951/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck tha",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-19T12:10:00.000Z",
-      "type": "rss"
+      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
+      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
+      "url": "https://letsdatascience.com/news/topic/ai-agents",
+      "source": "letsdatascience.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-19T10:40:24.000Z",
-      "type": "rss"
+      "title": "Build fully working apps, websites and softwares with Abacus AI ...",
+      "summary": "Your AI News of the day. Here is the simple upgrade many founders miss. You can run tool using AI agents on your own PC and skip most cloud costs. Local agents ...",
+      "url": "https://www.instagram.com/p/DZ1KOvuiHT6/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The inevitable weakness of metrics",
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate t",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "type": "rss"
+      "title": "Artificial Intelligence - Latest AI News and Analysis - WSJ.com",
+      "summary": "The latest artificial intelligence news coverage focusing on the technology, tools and the companies building AI technology.",
+      "url": "https://www.wsj.com/tech/ai",
+      "source": "wsj.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to sp",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "type": "rss"
+      "title": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+      "summary": "World Models: Google Ships Omni, and the LLM Monopoly Cracks. 2026-05-26 ... AI Applications: The agent is not a product anymore. 2026-04-18 · 5 mentions.",
+      "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+      "source": "aiweekly.co",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Claude Code Artifacts",
-      "tagline": "Preview and share your coding work live as it happens",
-      "url": "https://www.producthunt.com/posts/claude-code-artifacts"
+      "name": "WorkClaw",
+      "tagline": "Collaborative, proactive AI coworkers who work in Slack",
+      "url": "https://www.producthunt.com/posts/workclaw"
     },
     {
-      "name": "Zernio WhatsApp API",
-      "tagline": "One API for WhatsApp: messaging, calling, and AI agents",
-      "url": "https://www.producthunt.com/posts/zernio-whatsapp-api"
+      "name": "Reframe",
+      "tagline": "Surf like it's 1999",
+      "url": "https://www.producthunt.com/posts/reframe-9"
     },
     {
-      "name": "Midjourney Scanner",
-      "tagline": "60 second ultrasound-based full-body scanner that beats MRI",
-      "url": "https://www.producthunt.com/posts/midjourney-scanner"
+      "name": "Slackbot’s MCP Client",
+      "tagline": "Work across 20+ apps in Slack with multiplayer collaboration",
+      "url": "https://www.producthunt.com/posts/slackbot-s-mcp-client"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
     "trends": 0
   },
