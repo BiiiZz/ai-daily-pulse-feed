@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-06-21T04:20:47.007Z",
+  "generatedAt": "2026-06-22T04:23:05.054Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20T20:32:29.000Z",
+      "publishedAt": "2026-06-21T15:28:17.000Z",
       "type": "rss"
     },
     {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20T19:41:11.000Z",
+      "publishedAt": "2026-06-21T14:40:28.000Z",
       "type": "rss"
     },
     {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20T16:39:57.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
       "source": "Wired AI",
-      "publishedAt": "2026-06-20T10:00:00.000Z",
+      "publishedAt": "2026-06-21T10:30:00.000Z",
       "type": "rss"
     },
     {
       "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "AppViewX releases Agent Identity Security to treat agents as first-class identities. What changed: AppViewX launched “Agent Identity Security,” a product ...",
+      "summary": "Kantata launches an industry-focused \"Expertise Agent\" that converts services knowledge into self-executing workflows. What changed: Kantata released the ...",
       "url": "https://aiagentstore.ai/ai-agent-news/this-week",
       "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Qualcomm CEO Cristiano Amon says the rise of AI agents could ...",
-      "summary": "Qualcomm CEO Cristiano Amon says the rise of AI agents could bring a new wave of companies into consumer electronics. As AI moves from chatbots to...",
-      "url": "https://www.facebook.com/cnbc/posts/qualcomm-ceo-cristiano-amon-says-the-rise-of-ai-agents-could-bring-a-new-wave-of/1402491048418951/",
+      "title": "TechLatest AI & Tech Weekly #21 - Medium",
+      "summary": "AI/ML News Roundup: June 15–June 21, 2026. Key highlights from this week's AI developments include frontier model advancements with agentic capabilities, ...",
+      "url": "https://medium.com/@techlatest.net/techlatest-ai-tech-weekly-21-06e7363ffea1",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Within days of its release, Anthropic's most sophisticated public AI ...",
+      "summary": "Anthropic has apologized for launching its latest AI model with hidden guardrails that silently altered and degraded responses to queries it suspected were ...",
+      "url": "https://www.facebook.com/channel3000/posts/within-days-of-its-release-anthropics-most-sophisticated-public-ai-model-was-abr/1429370132562271/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI Agents News: Builders, Frameworks & Enterprise Use",
-      "summary": "News on AI agents — builders, frameworks, tool use, long-horizon planning, and enterprise deployments — curated by Let's Data Science.",
-      "url": "https://letsdatascience.com/news/topic/ai-agents",
+      "title": "Enterprise AI News: Adoption, Deployments & Platforms",
+      "summary": "Khalil stated \"an agent is an LLM and a harness,\" framing enterprise agent engineering as a problem of orchestration and tooling rather than model development.",
+      "url": "https://letsdatascience.com/news/topic/enterprise-ai",
       "source": "letsdatascience.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Build fully working apps, websites and softwares with Abacus AI ...",
-      "summary": "Your AI News of the day. Here is the simple upgrade many founders miss. You can run tool using AI agents on your own PC and skip most cloud costs. Local agents ...",
-      "url": "https://www.instagram.com/p/DZ1KOvuiHT6/",
+      "title": "ChatGPT 5.6 is coming out this week… are you excited or over the ...",
+      "summary": "[gpt 5.4, openai update, chatgpt news, artificial intelligence models, ai ... July July17,2025 2025 Product Release Introducing ChatGPT agent: bridging ...",
+      "url": "https://www.instagram.com/reel/DZ3cus0vj3d/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Artificial Intelligence - Latest AI News and Analysis - WSJ.com",
-      "summary": "The latest artificial intelligence news coverage focusing on the technology, tools and the companies building AI technology.",
-      "url": "https://www.wsj.com/tech/ai",
-      "source": "wsj.com",
+      "title": "Multi-Agent LLM Pipeline with SAP RPT and other SAP AI Core ...",
+      "summary": "Running in parallel on a separate Python thread is a news agent that calls a research LLM (via the SAP AI Core orchestration deployment) to find injuries, ...",
+      "url": "https://community.sap.com/t5/artificial-intelligence-blogs-posts/multi-agent-llm-pipeline-with-sap-rpt-and-other-sap-ai-core-llms-for-world/ba-p/14424100",
+      "source": "community.sap.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "summary": "World Models: Google Ships Omni, and the LLM Monopoly Cracks. 2026-05-26 ... AI Applications: The agent is not a product anymore. 2026-04-18 · 5 mentions.",
-      "url": "https://aiweekly.co/ai-news-today/anthropic-news",
-      "source": "aiweekly.co",
+      "title": "AI News | Latest AI Breakthroughs & Industry Updates | AI Nexus World",
+      "summary": "The marketing industry is rapidly adopting 'agentic AI,' with major platforms like Adobe and Zeta Global launching AI agents that can autonomously execute ...",
+      "url": "https://ainexusworld.com/ai-news",
+      "source": "ainexusworld.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "WorkClaw",
-      "tagline": "Collaborative, proactive AI coworkers who work in Slack",
-      "url": "https://www.producthunt.com/posts/workclaw"
+      "name": "Agent 37 Cloud",
+      "tagline": "Give every customer their own Hermes or OpenClaw agent",
+      "url": "https://www.producthunt.com/posts/agent-37-cloud"
     },
     {
-      "name": "Reframe",
-      "tagline": "Surf like it's 1999",
-      "url": "https://www.producthunt.com/posts/reframe-9"
+      "name": "Atomic Mail Agentic",
+      "tagline": "Let your agents read, send, and react to email autonomously",
+      "url": "https://www.producthunt.com/posts/atomic-mail-agentic"
     },
     {
-      "name": "Slackbot’s MCP Client",
-      "tagline": "Work across 20+ apps in Slack with multiplayer collaboration",
-      "url": "https://www.producthunt.com/posts/slackbot-s-mcp-client"
+      "name": "Grok by SpaceXAI for Word",
+      "tagline": "Draft, restructure & tighten wording from panel inside Word",
+      "url": "https://www.producthunt.com/posts/grok-by-spacexai-for-word"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 0
   },
