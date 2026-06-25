@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-24T03:41:45.619Z",
+  "generatedAt": "2026-06-25T03:41:15.640Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Closing the loop: Evaluating and improving Replit Agent at scale",
-      "summary": "Most Replit Agent users start with nothing more than an idea. They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a func",
-      "url": "https://replit.com/blog/evaluating-and-improving-agent-at-scale",
-      "source": "Replit Blog",
-      "publishedAt": "2026-06-23T20:22:20.000Z",
+      "title": "Config 2026: New materials, new tools and a more expressive canvas",
+      "summary": "",
+      "url": "https://www.figma.com/blog/config-2026-recap/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "title": "Code on the Figma canvas",
+      "summary": "",
+      "url": "https://www.figma.com/blog/code-on-the-figma-canvas/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T14:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Connecting Figma and Weave",
+      "summary": "",
+      "url": "https://www.figma.com/blog/connecting-figma-and-weave/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Introducing Figma Motion: Your canvas now has a timeline",
+      "summary": "",
+      "url": "https://www.figma.com/blog/introducing-figma-motion/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T13:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Figma’s design agent, now with custom tools and greater context",
+      "summary": "",
+      "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T13:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Figma's 2026 AI report: Can AI help us collaborate better?",
+      "summary": "",
+      "url": "https://www.figma.com/blog/2026-ai-report/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T12:45:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Principles in motion",
+      "summary": "",
+      "url": "https://www.figma.com/blog/principles-in-motion/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T12:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "What does the future of software look like?",
+      "summary": "",
+      "url": "https://www.figma.com/blog/future-states/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-24T12:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Europe is pushing back on Washington&#8217;s chip war",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-23T23:30:00.000Z",
+      "publishedAt": "2026-06-25T00:08:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-23T17:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-23T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-23T13:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Heads in the game",
-      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Super Mario is mathier than you think",
-      "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has bee",
-      "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A man of many words",
-      "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words t",
-      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Sharing a love for calculus",
-      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope yo",
-      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Stand Up for Research, Innovation, and Education",
-      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, sec",
-      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
+      "publishedAt": "2026-06-24T23:26:52.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Bluerails Discovery ",
-      "tagline": "The rails AI agents use to find and pay you",
-      "url": "https://www.producthunt.com/posts/bluerails-discovery-3"
+      "name": "Tencent EdgeOne Makers",
+      "tagline": "Ship AI agents like web apps, in minutes.",
+      "url": "https://www.producthunt.com/posts/tencent-edgeone-makers"
     },
     {
-      "name": "Cotypist",
-      "tagline": "Local AI Autocomplete in your voice, anywhere on your Mac",
-      "url": "https://www.producthunt.com/posts/cotypist-2"
+      "name": "Propane ",
+      "tagline": "Automatic customer context for product teams and agents",
+      "url": "https://www.producthunt.com/posts/propane"
     },
     {
-      "name": "OpenArt Director",
-      "tagline": "Direct cinematic videos through chat",
-      "url": "https://www.producthunt.com/posts/openart-director"
+      "name": "Crewdle AI",
+      "tagline": "Use every business AI tool without every subscription",
+      "url": "https://www.producthunt.com/posts/crewdle-ai"
     }
   ],
   "trends": [],
