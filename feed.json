@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-25T03:41:15.640Z",
+  "generatedAt": "2026-06-26T03:51:42.782Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Config 2026: New materials, new tools and a more expressive canvas",
-      "summary": "",
-      "url": "https://www.figma.com/blog/config-2026-recap/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T15:00:00.000Z",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"&gt;The new Google Finance is coming out of beta and launching",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Code on the Figma canvas",
-      "summary": "",
-      "url": "https://www.figma.com/blog/code-on-the-figma-canvas/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T14:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Connecting Figma and Weave",
-      "summary": "",
-      "url": "https://www.figma.com/blog/connecting-figma-and-weave/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Introducing Figma Motion: Your canvas now has a timeline",
-      "summary": "",
-      "url": "https://www.figma.com/blog/introducing-figma-motion/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T13:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Figma’s design agent, now with custom tools and greater context",
-      "summary": "",
-      "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T13:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Figma's 2026 AI report: Can AI help us collaborate better?",
-      "summary": "",
-      "url": "https://www.figma.com/blog/2026-ai-report/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T12:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Principles in motion",
-      "summary": "",
-      "url": "https://www.figma.com/blog/principles-in-motion/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T12:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "What does the future of software look like?",
-      "summary": "",
-      "url": "https://www.figma.com/blog/future-states/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Europe is pushing back on Washington&#8217;s chip war",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T00:08:36.000Z",
+      "publishedAt": "2026-06-25T23:34:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24T23:26:52.000Z",
+      "publishedAt": "2026-06-25T20:19:25.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T17:38:27.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T16:55:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T16:48:11.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T14:55:38.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T13:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T12:00:38.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Tencent EdgeOne Makers",
-      "tagline": "Ship AI agents like web apps, in minutes.",
-      "url": "https://www.producthunt.com/posts/tencent-edgeone-makers"
+      "name": "Oxlo.ai",
+      "tagline": "Scale across AI models without scaling your bill",
+      "url": "https://www.producthunt.com/posts/oxlo-ai"
     },
     {
-      "name": "Propane ",
-      "tagline": "Automatic customer context for product teams and agents",
-      "url": "https://www.producthunt.com/posts/propane"
+      "name": "BrowserAct",
+      "tagline": "Web browser automation for AI agents",
+      "url": "https://www.producthunt.com/posts/browseract"
     },
     {
-      "name": "Crewdle AI",
-      "tagline": "Use every business AI tool without every subscription",
-      "url": "https://www.producthunt.com/posts/crewdle-ai"
+      "name": "Zaro",
+      "tagline": "Build agents & apps on top of your context with one prompt.",
+      "url": "https://www.producthunt.com/posts/zaro"
     }
   ],
   "trends": [],
