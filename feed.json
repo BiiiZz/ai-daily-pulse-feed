@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-26T03:51:42.782Z",
+  "generatedAt": "2026-06-27T03:34:29.489Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"&gt;The new Google Finance is coming out of beta and launching",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T01:01:37.000Z",
       "type": "rss"
     },
     {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T23:34:39.000Z",
+      "publishedAt": "2026-06-26T18:32:14.000Z",
       "type": "rss"
     },
     {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T20:19:25.000Z",
+      "publishedAt": "2026-06-26T18:19:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T17:38:27.000Z",
+      "publishedAt": "2026-06-26T17:43:22.000Z",
       "type": "rss"
     },
     {
-      "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "title": "It&#8217;s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T16:55:00.000Z",
+      "publishedAt": "2026-06-26T16:24:47.000Z",
       "type": "rss"
     },
     {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "title": "OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T16:48:11.000Z",
+      "publishedAt": "2026-06-26T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T14:55:38.000Z",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-26T12:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T13:30:00.000Z",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-26T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25T12:00:38.000Z",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "source": "Wired AI",
+      "publishedAt": "2026-06-27T00:26:14.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Oxlo.ai",
-      "tagline": "Scale across AI models without scaling your bill",
-      "url": "https://www.producthunt.com/posts/oxlo-ai"
+      "name": "Agent Arena",
+      "tagline": "The first public arena for AI agents",
+      "url": "https://www.producthunt.com/posts/agent-arena"
     },
     {
-      "name": "BrowserAct",
-      "tagline": "Web browser automation for AI agents",
-      "url": "https://www.producthunt.com/posts/browseract"
+      "name": "Gemini Spark",
+      "tagline": "Your 24/7 personal AI agent",
+      "url": "https://www.producthunt.com/posts/gemini-spark-2"
     },
     {
-      "name": "Zaro",
-      "tagline": "Build agents & apps on top of your context with one prompt.",
-      "url": "https://www.producthunt.com/posts/zaro"
+      "name": "note.md",
+      "tagline": "your notes and research documentation now a local LLM Memory",
+      "url": "https://www.producthunt.com/posts/note-md-2"
     }
   ],
   "trends": [],
