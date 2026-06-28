@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-06-27T03:34:29.489Z",
+  "generatedAt": "2026-06-28T03:57:45.099Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-27T01:01:37.000Z",
+      "publishedAt": "2026-06-27T20:42:36.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T18:32:14.000Z",
+      "publishedAt": "2026-06-27T16:45:09.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "title": "The fittest founder in the room got cancer. Here&#8217;s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T18:19:36.000Z",
+      "publishedAt": "2026-06-27T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T17:43:22.000Z",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "It&#8217;s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T16:24:47.000Z",
-      "type": "rss"
+      "title": "OpenAI has reportedly begun a limited preview of its next generation ...",
+      "summary": "OpenAI can now predict model behavior before release Vitruvian AI News OpenAI's Deployment Simulation uses real conversation data to forecast how a model will ...",
+      "url": "https://www.instagram.com/p/DaGuaJCk1fG/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T14:00:00.000Z",
-      "type": "rss"
+      "title": "OpenAI is rolling out its new AI models, but access will initially be ...",
+      "summary": "Public OpenAI and Anthropic have formally agreed to give a US federal agency access to their upcoming AI models before public release.",
+      "url": "https://www.facebook.com/cybernewscom/posts/openai-is-rolling-out-its-new-ai-models-but-access-will-initially-be-limited-to-/1628448809290804/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "type": "rss"
+      "title": "What is the difference between Prompt Engineering ... - Instagram",
+      "summary": "Agentic engineering is the practice of building AI-powered systems that can plan, launch new agents, and complete complex tasks without manual intervention.",
+      "url": "https://www.instagram.com/reel/DaGMjSdpdNP/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-26T12:10:00.000Z",
-      "type": "rss"
+      "title": "Crypto Exchange Development For AI Agents: The Verdict & Steps",
+      "summary": "These AI agents, fueled by Large Language Models (LLMs), are capable of reasoning through complex market data, reading news sentiment, and creating their own ...",
+      "url": "https://www.antier.com/blogs/why-are-crypto-exchanges-building-for-ai-agents-instead-of-blocking-them-in-2026/",
+      "source": "antier.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
-      "type": "rss"
+      "title": "AI News Today June 27 2026: 15 Biggest Stories",
+      "summary": "... AI model ever released. GLM-5.2 launched June 13 under MIT license as the strongest open-weight model ever, beating GPT-5.5 on SWE-bench Pro. On the talent ...",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "source": "buildfastwithai.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "source": "Wired AI",
-      "publishedAt": "2026-06-27T00:26:14.000Z",
-      "type": "rss"
+      "title": "NousResearch/hermes-agent: The agent that grows with you - GitHub",
+      "summary": "The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop. Use any model you want — Nous Portal,",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "source": "github.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Agent Arena",
-      "tagline": "The first public arena for AI agents",
-      "url": "https://www.producthunt.com/posts/agent-arena"
+      "name": "QApilot's CoWork",
+      "tagline": "3x Mobile Automation. Same QE Team.",
+      "url": "https://www.producthunt.com/posts/qapilot-s-cowork"
     },
     {
-      "name": "Gemini Spark",
-      "tagline": "Your 24/7 personal AI agent",
-      "url": "https://www.producthunt.com/posts/gemini-spark-2"
+      "name": "Folio AI",
+      "tagline": "Claude for PowerPoint, on steroids",
+      "url": "https://www.producthunt.com/posts/folio-ai"
     },
     {
-      "name": "note.md",
-      "tagline": "your notes and research documentation now a local LLM Memory",
-      "url": "https://www.producthunt.com/posts/note-md-2"
+      "name": "Nada",
+      "tagline": "Compose music with just your voice",
+      "url": "https://www.producthunt.com/posts/nada-2"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
     "trends": 0
   },
