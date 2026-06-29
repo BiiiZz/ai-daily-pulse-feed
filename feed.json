@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-06-28T03:57:45.099Z",
+  "generatedAt": "2026-06-29T04:03:45.465Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-27T20:42:36.000Z",
+      "publishedAt": "2026-06-28T19:05:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-27T16:45:09.000Z",
+      "publishedAt": "2026-06-28T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The fittest founder in the room got cancer. Here&#8217;s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-27T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-27T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI has reportedly begun a limited preview of its next generation ...",
-      "summary": "OpenAI can now predict model behavior before release Vitruvian AI News OpenAI's Deployment Simulation uses real conversation data to forecast how a model will ...",
-      "url": "https://www.instagram.com/p/DaGuaJCk1fG/",
+      "title": "Create a \"Fleet\" of AI Agents, add them to your teams slack and ...",
+      "summary": "And these agents will have memory, skills, connections and APIs, safeguards, automations, and ideally you'll be able to use any model, not just Anthropic's or ...",
+      "url": "https://www.instagram.com/reel/DaJQsTYg4jJ/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "OpenAI is rolling out its new AI models, but access will initially be ...",
-      "summary": "Public OpenAI and Anthropic have formally agreed to give a US federal agency access to their upcoming AI models before public release.",
-      "url": "https://www.facebook.com/cybernewscom/posts/openai-is-rolling-out-its-new-ai-models-but-access-will-initially-be-limited-to-/1628448809290804/",
+      "title": "Google has put limits on Meta's use of its Gemini AI models after the ...",
+      "summary": "... AI model, Gemini, has finally joined the competition. Released yesterday, Gemini is a LLM that Google CEO Sundar Pichai and execs at the company's DeepMind ...",
+      "url": "https://www.facebook.com/financialtimes/posts/google-has-put-limits-on-metas-use-of-its-gemini-ai-models-after-the-social-medi/1425325902974116/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "What is the difference between Prompt Engineering ... - Instagram",
-      "summary": "Agentic engineering is the practice of building AI-powered systems that can plan, launch new agents, and complete complex tasks without manual intervention.",
-      "url": "https://www.instagram.com/reel/DaGMjSdpdNP/",
+      "title": "Google has reportedly curtailed Meta's access to its Gemini AI ...",
+      "summary": "Google has reportedly curtailed Meta's access to its Gemini AI models after the social media giant's demand for computing power exceeded available capacity, ...",
+      "url": "https://www.instagram.com/p/DaIa7hXNuRR/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Crypto Exchange Development For AI Agents: The Verdict & Steps",
-      "summary": "These AI agents, fueled by Large Language Models (LLMs), are capable of reasoning through complex market data, reading news sentiment, and creating their own ...",
-      "url": "https://www.antier.com/blogs/why-are-crypto-exchanges-building-for-ai-agents-instead-of-blocking-them-in-2026/",
-      "source": "antier.com",
+      "title": "Agentic AI in CPG: How Brands Stay Ahead of Market Shifts - Revuze",
+      "summary": "See how agentic AI in CPG is used to track signals, speed decisions, and stay ahead of changing consumer demand.",
+      "url": "https://www.revuze.it/blog/agentic-ai-in-cpg/",
+      "source": "revuze.it",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI News Today June 27 2026: 15 Biggest Stories",
-      "summary": "... AI model ever released. GLM-5.2 launched June 13 under MIT license as the strongest open-weight model ever, beating GPT-5.5 on SWE-bench Pro. On the talent ...",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
-      "source": "buildfastwithai.com",
+      "title": "How to Choose the Right Model for Your AI Agents",
+      "summary": "Learn how to choose the right model for your AI agents by task, risk, latency, privacy, tool reliability, cost, routing, and real workflow evals.",
+      "url": "https://buda.im/blog/how-to-choose-the-right-model-for-your-ai-agents",
+      "source": "buda.im",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you - GitHub",
-      "summary": "The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop. Use any model you want — Nous Portal,",
-      "url": "https://github.com/nousresearch/hermes-agent",
-      "source": "github.com",
+      "title": "AI Brand Safety: What Enterprises Need to Know - Witness AI",
+      "summary": "AI brand safety has expanded from ad placement to enterprise AI accountability, covering the outputs and actions of AI systems in public and internal workflows.",
+      "url": "https://witness.ai/blog/ai-brand-safety/",
+      "source": "witness.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI in Marketing Weekly: Runway, OpenAI & Getty Shifts | Selfstorming",
+      "summary": "Ask a modern LLM to compare your product's functional specs against your top three competitors. If your brand doesn't show up in the answer, your mental ...",
+      "url": "https://www.selfstorming.com/blog/ai-in-marketing/ai-news-week-27-2026",
+      "source": "selfstorming.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "most female-led product and tech team team creating ... - Instagram",
+      "summary": "AI is no longer about endless model launches. In 2026, the real race ... It is an AI agent that coordinates 19 different AI models. ChatGPT, Claude ...",
+      "url": "https://www.instagram.com/reel/DaIWpL9sCz8/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "QApilot's CoWork",
-      "tagline": "3x Mobile Automation. Same QE Team.",
-      "url": "https://www.producthunt.com/posts/qapilot-s-cowork"
+      "name": "discode.ai",
+      "tagline": "100+ AI models, one interface. ECO friendly.",
+      "url": "https://www.producthunt.com/posts/discode-ai"
     },
     {
-      "name": "Folio AI",
-      "tagline": "Claude for PowerPoint, on steroids",
-      "url": "https://www.producthunt.com/posts/folio-ai"
+      "name": "GetCompress",
+      "tagline": "Lossless media compression without context switching",
+      "url": "https://www.producthunt.com/posts/getcompress-3"
     },
     {
-      "name": "Nada",
-      "tagline": "Compose music with just your voice",
-      "url": "https://www.producthunt.com/posts/nada-2"
+      "name": "Persona.js",
+      "tagline": "Add WebMCP-native AI chat to any Frontend",
+      "url": "https://www.producthunt.com/posts/persona-js"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 2,
+    "fromSearch": 8,
     "products": 3,
     "trends": 0
   },
