@@ -1,116 +1,116 @@
 {
-  "generatedAt": "2026-06-29T04:03:45.465Z",
+  "generatedAt": "2026-06-30T03:46:12.119Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-28T19:05:39.000Z",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-28T15:00:00.000Z",
+      "title": "Start Anywhere, a magazine by Figma",
+      "summary": "",
+      "url": "https://www.figma.com/blog/start-anywhere/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-29T21:22:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Create a \"Fleet\" of AI Agents, add them to your teams slack and ...",
-      "summary": "And these agents will have memory, skills, connections and APIs, safeguards, automations, and ideally you'll be able to use any model, not just Anthropic's or ...",
-      "url": "https://www.instagram.com/reel/DaJQsTYg4jJ/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Meet the artists behind Figma’s Season 5 collection",
+      "summary": "",
+      "url": "https://www.figma.com/blog/how-season-5-merch-came-to-life/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-06-29T20:12:13.375Z",
+      "type": "rss"
     },
     {
-      "title": "Google has put limits on Meta's use of its Gemini AI models after the ...",
-      "summary": "... AI model, Gemini, has finally joined the competition. Released yesterday, Gemini is a LLM that Google CEO Sundar Pichai and execs at the company's DeepMind ...",
-      "url": "https://www.facebook.com/financialtimes/posts/google-has-put-limits-on-metas-use-of-its-gemini-ai-models-after-the-social-medi/1425325902974116/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "type": "rss"
     },
     {
-      "title": "Google has reportedly curtailed Meta's access to its Gemini AI ...",
-      "summary": "Google has reportedly curtailed Meta's access to its Gemini AI models after the social media giant's demand for computing power exceeded available capacity, ...",
-      "url": "https://www.instagram.com/p/DaIa7hXNuRR/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T20:12:59.000Z",
+      "type": "rss"
     },
     {
-      "title": "Agentic AI in CPG: How Brands Stay Ahead of Market Shifts - Revuze",
-      "summary": "See how agentic AI in CPG is used to track signals, speed decisions, and stay ahead of changing consumer demand.",
-      "url": "https://www.revuze.it/blog/agentic-ai-in-cpg/",
-      "source": "revuze.it",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T18:10:26.000Z",
+      "type": "rss"
     },
     {
-      "title": "How to Choose the Right Model for Your AI Agents",
-      "summary": "Learn how to choose the right model for your AI agents by task, risk, latency, privacy, tool reliability, cost, routing, and real workflow evals.",
-      "url": "https://buda.im/blog/how-to-choose-the-right-model-for-your-ai-agents",
-      "source": "buda.im",
-      "publishedAt": null,
-      "type": "search"
+      "title": "South Korean tech giants commit over $550B to ease &#8216;RAMageddon&#8217;",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T18:07:48.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Brand Safety: What Enterprises Need to Know - Witness AI",
-      "summary": "AI brand safety has expanded from ad placement to enterprise AI accountability, covering the outputs and actions of AI systems in public and internal workflows.",
-      "url": "https://witness.ai/blog/ai-brand-safety/",
-      "source": "witness.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T17:39:17.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI in Marketing Weekly: Runway, OpenAI & Getty Shifts | Selfstorming",
-      "summary": "Ask a modern LLM to compare your product's functional specs against your top three competitors. If your brand doesn't show up in the answer, your mental ...",
-      "url": "https://www.selfstorming.com/blog/ai-in-marketing/ai-news-week-27-2026",
-      "source": "selfstorming.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T17:03:50.000Z",
+      "type": "rss"
     },
     {
-      "title": "most female-led product and tech team team creating ... - Instagram",
-      "summary": "AI is no longer about endless model launches. In 2026, the real race ... It is an AI agent that coordinates 19 different AI models. ChatGPT, Claude ...",
-      "url": "https://www.instagram.com/reel/DaIWpL9sCz8/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T16:29:04.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "discode.ai",
-      "tagline": "100+ AI models, one interface. ECO friendly.",
-      "url": "https://www.producthunt.com/posts/discode-ai"
+      "name": "Agent Mode by Receiptor AI",
+      "tagline": "Bookkeeping assistant that runs receipt workflows end-to-end",
+      "url": "https://www.producthunt.com/posts/agent-mode-by-receiptor-ai"
     },
     {
-      "name": "GetCompress",
-      "tagline": "Lossless media compression without context switching",
-      "url": "https://www.producthunt.com/posts/getcompress-3"
+      "name": "Spira for Product Hunt Makers",
+      "tagline": "Social media growth agents that build your momentum ",
+      "url": "https://www.producthunt.com/posts/spira-for-product-hunt-makers"
     },
     {
-      "name": "Persona.js",
-      "tagline": "Add WebMCP-native AI chat to any Frontend",
-      "url": "https://www.producthunt.com/posts/persona-js"
+      "name": "ClinePass",
+      "tagline": "Run the best open-weights models in Cline",
+      "url": "https://www.producthunt.com/posts/clinepass"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 2,
-    "fromSearch": 8,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "Doubao: fetch failed"
   ]
 }
