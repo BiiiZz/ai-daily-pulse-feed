@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-30T03:46:12.119Z",
+  "generatedAt": "2026-07-01T04:01:53.509Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "publishedAt": "2026-06-30T06:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Start Anywhere, a magazine by Figma",
-      "summary": "",
-      "url": "https://www.figma.com/blog/start-anywhere/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-29T21:22:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Meet the artists behind Figma’s Season 5 collection",
-      "summary": "",
-      "url": "https://www.figma.com/blog/how-season-5-merch-came-to-life/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-06-29T20:12:13.375Z",
-      "type": "rss"
-    },
-    {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "title": "The &#8220;Father of the Internet&#8221; is finally retiring",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "publishedAt": "2026-07-01T03:15:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T20:12:59.000Z",
+      "publishedAt": "2026-07-01T02:16:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T18:10:26.000Z",
+      "publishedAt": "2026-07-01T02:04:40.000Z",
       "type": "rss"
     },
     {
-      "title": "South Korean tech giants commit over $550B to ease &#8216;RAMageddon&#8217;",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T18:07:48.000Z",
+      "publishedAt": "2026-06-30T21:53:28.000Z",
       "type": "rss"
     },
     {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T17:39:17.000Z",
+      "publishedAt": "2026-06-30T20:33:48.000Z",
       "type": "rss"
     },
     {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T17:03:50.000Z",
+      "publishedAt": "2026-06-30T19:02:38.000Z",
       "type": "rss"
     },
     {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T16:29:04.000Z",
+      "publishedAt": "2026-06-30T18:13:02.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T18:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T17:52:46.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Agent Mode by Receiptor AI",
-      "tagline": "Bookkeeping assistant that runs receipt workflows end-to-end",
-      "url": "https://www.producthunt.com/posts/agent-mode-by-receiptor-ai"
+      "name": "Cursor for iOS",
+      "tagline": "Build with coding agents from anywhere",
+      "url": "https://www.producthunt.com/posts/cursor-for-ios-2"
     },
     {
-      "name": "Spira for Product Hunt Makers",
-      "tagline": "Social media growth agents that build your momentum ",
-      "url": "https://www.producthunt.com/posts/spira-for-product-hunt-makers"
+      "name": "Skills Marketplace by Databox",
+      "tagline": "Ready-made AI analytics skills for your business data",
+      "url": "https://www.producthunt.com/posts/skills-marketplace-by-databox"
     },
     {
-      "name": "ClinePass",
-      "tagline": "Run the best open-weights models in Cline",
-      "url": "https://www.producthunt.com/posts/clinepass"
+      "name": "Foresight by Lightning Rod",
+      "tagline": "Predict anything with AI",
+      "url": "https://www.producthunt.com/posts/foresight-by-lightning-rod"
     }
   ],
   "trends": [],
@@ -111,6 +111,6 @@
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
-    "Doubao: fetch failed"
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
