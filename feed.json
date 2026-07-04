@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-03T03:22:58.796Z",
+  "generatedAt": "2026-07-04T03:16:47.038Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Initiative properties",
-      "summary": "",
-      "url": "https://linear.app/changelog/2026-07-02-initiative-properties",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-07-02T15:19:27.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "7 questions we had going into Config Leadership Collective",
-      "summary": "",
-      "url": "https://www.figma.com/blog/7-questions-from-lc/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-07-03T02:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Issue no.17: Build with joy",
-      "summary": "",
-      "url": "https://www.figma.com/blog/build-with-joy/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-07-02T23:05:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "title": "The only AI glossary you&#8217;ll need this year",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T23:38:10.000Z",
+      "publishedAt": "2026-07-03T21:20:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T20:11:59.000Z",
+      "publishedAt": "2026-07-03T18:43:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T18:44:02.000Z",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-03T17:34:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T18:31:09.000Z",
+      "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-03T12:10:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T15:20:51.000Z",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-03T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T13:53:00.000Z",
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired AI",
+      "publishedAt": "2026-07-03T16:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Yep, we&#8217;re using OpenClaw to date now",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02T12:00:00.000Z",
-      "type": "rss"
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "Ory connects coding agents to enterprise identity with Agent DX. What changed: Ory launched Agent DX, a product that plugs its identity stack into AI coding ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "How the world's top AI models were revived - Facebook",
+      "summary": "To be truly valuable in an enterprise setting LLM's requires those agentic capabilities to be applied to the right enterprise data. Thats all for today, but AI ...",
+      "url": "https://www.facebook.com/axiosnews/posts/how-the-worlds-top-ai-models-were-revived/1401368398519792/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI News Today — July 03, 2026 | Latest AI Updates - AI Herald",
+      "summary": "The latest AI news today (July 03, 2026): LLM releases, AI agent updates, model benchmarks, and industry developments. Updated daily by AI Herald.",
+      "url": "https://artificialintelligenceherald.com/ai-news-today",
+      "source": "artificialintelligenceherald.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Silicon Valley is buzzing over GLM 5.2, a highly capable ... - Instagram",
+      "summary": "China's Zhipu AI released GLM 5.2, a free open-source AI model that outperforms leading tools on coding and long-horizon agent benchmarks. With a massive 1 ...",
+      "url": "https://www.instagram.com/p/DaVYRZFiGAz/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Context.dev",
-      "tagline": "One API to scrape, enrich, and extract the internet",
-      "url": "https://www.producthunt.com/posts/context-dev-2"
+      "name": "Glaze by Raycast",
+      "tagline": "Create your own Mac apps by chatting with AI",
+      "url": "https://www.producthunt.com/posts/glaze-by-raycast-2"
     },
     {
-      "name": "Fypro",
-      "tagline": "Convert your TikTok followers into paying customers",
-      "url": "https://www.producthunt.com/posts/fypro"
+      "name": "Goals from Loops",
+      "tagline": "Measure whether a campaign drove the desired outcome",
+      "url": "https://www.producthunt.com/posts/goals-from-loops-2"
     },
     {
-      "name": "Needle",
-      "tagline": "The proactive GTM agent in Slack and Teams",
-      "url": "https://www.producthunt.com/posts/needle-3f15d2ee-0136-4ca8-b01d-b66d99cf2183"
+      "name": "Tamamon",
+      "tagline": "A desktop pet that grows as you code with Claude Code",
+      "url": "https://www.producthunt.com/posts/tamamon"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 6,
+    "fromSearch": 4,
     "products": 3,
     "trends": 0
   },
