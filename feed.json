@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-05T03:32:20.977Z",
+  "generatedAt": "2026-07-06T03:39:37.548Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-04T20:55:25.000Z",
+      "publishedAt": "2026-07-05T17:43:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-04T18:00:05.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-04T16:32:08.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-04T15:51:32.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI News - Kingy AI",
-      "summary": "AI Launch Tracker · Agent Arena: What the Launch Means for AI Product Teams. by Curtis Pyke · 5 days ago. Agent Arena guide: launch details, pricing caveats, ...",
-      "url": "https://kingy.ai/category/news/",
-      "source": "kingy.ai",
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "ICML 2026 puts agentic AI at the center of ML research. What changed: ICML 2026 opens July 6 in Seoul with a record 23,918 submissions and an unusually ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Benchmark raises its Datadog target as the AI super cycle builds",
-      "summary": "The first agentic AI infrastructure benchmark is here. An AI agent chains dozens to hundreds of AI model calls together, using tools, gathering context, and ...",
-      "url": "https://www.facebook.com/sunnews/posts/benchmark-raises-its-datadog-target-as-the-ai-super-cycle-builds/1445792940927010/",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "summary": "From the outside Meta's attempts to pivot from open source releases to fast follow closed models fell flat when they tried to prematurely monetize it. They ...",
+      "url": "https://news.ycombinator.com/item?id=48767058",
+      "source": "news.ycombinator.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "The Trump administration's latest restrictions on private AI model ...",
+      "summary": "The Trump administration's latest restrictions on private AI model releases is ramping up the push for open-source alternatives. Link in comments.",
+      "url": "https://www.facebook.com/WMBBTV/posts/the-trump-administrations-latest-restrictions-on-private-ai-model-releases-is-ra/1469303175242156/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "The AI deployment race | AWS and Microsoft want to ... - Instagram",
-      "summary": "AWS just launched a game-changing graph-based AI model that learns from agent interactions! This new technology can save you up to 30% of development time ...",
-      "url": "https://www.instagram.com/p/DaXTsn1DCDo/",
+      "title": "Product rapidfire with my AI engineer wife   - Instagram",
+      "summary": "... NEWS Claude Mythos launch leaked Deepseek made its 75% Agent Architecture comment routing ... LLM which is recently launched or a model which is launched.",
+      "url": "https://www.instagram.com/reel/DaZxvyCgHK7/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "NVIDIA quietly released a 550B open model built for long-running AI ...",
-      "summary": "NVIDIA quietly released a 550B open model built for long-running AI agents (1M context, runs locally via Ollama). News.",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ungqbl/nvidia_quietly_released_a_550b_open_model_built/",
-      "source": "reddit.com",
+      "title": "CrowdStrike Unveils Continuous Identity for AI Agents",
+      "summary": "CrowdStrike delivers a fundamentally different model: every agent action continuously authorized in real time based on who owns the agent, who is calling it, ...",
+      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-unveils-continuous-identity-for-ai-agents/",
+      "source": "crowdstrike.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI & Data Science News | Real-time Updates with Relevance Scoring",
-      "summary": "Stay informed with AI-curated news on artificial intelligence, machine learning, and data science. Every story scored for relevance with daily and weekly ...",
-      "url": "https://letsdatascience.com/news",
-      "source": "letsdatascience.com",
+      "title": "The AI agent stack is changing faster than most architecture ...",
+      "summary": "The AI agent stack is changing faster than most architecture diagrams. For years, the assumption was simple: If you wanted an agent, you built the loop.",
+      "url": "https://www.instagram.com/p/Daah4UjDtsY/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
       "title": "NI Nigel AI for Test & Measurement Workflows - NI",
       "summary": "Nigel is unlike any other AI. It's specifically built for test and measurement applications with advanced test expertise and integration into NI software.",
-      "url": "https://www.ni.com/en/shop/software-portfolio/nigel.html?srsltid=AfmBOoqQ2OnNVRwUW7bkEnIXPkNNcVDZivDZQ_DUfxckfJC6ZkuU8Ph9",
+      "url": "https://www.ni.com/en/shop/software-portfolio/nigel.html?srsltid=AfmBOorWbcQEhxX0kXKUVMTGQdDgTTrNpgoeUCSEmvmAH4kCIUSj37d_",
       "source": "ni.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Comment “AI” and I'll send you the link to try them all. China just ...",
+      "summary": "Number four: Deepreinforce releases Ornith 1.0, an open source coding model that builds its own scaffold during training, rivaling Claude. Free on Hugging Face, ...",
+      "url": "https://www.instagram.com/reel/DaaplFSxF43/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI Red Teaming Platform | Agentic AI Security Testing",
+      "summary": "Automated AI red teaming platform for LLM apps, RAG, MCP, and AI agents. Test prompt injection, tool misuse, data leakage, and multi-step agent attacks.",
+      "url": "https://generalanalysis.com/products/automated-ai-red-teaming",
+      "source": "generalanalysis.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Vida",
-      "tagline": "Clone yourself. Let AI do the work before you ask",
-      "url": "https://www.producthunt.com/posts/vida-5"
+      "name": "WorkBuddy",
+      "tagline": "Produce sharpened results faster with a team of AI experts",
+      "url": "https://www.producthunt.com/posts/workbuddy-3"
     },
     {
-      "name": "ChecklistFox",
-      "tagline": "AI checklist maker for beautiful pdfs, free & instant",
-      "url": "https://www.producthunt.com/posts/checklistfox"
+      "name": "DocsAlot",
+      "tagline": "Documentation that works for both humans and AI systems",
+      "url": "https://www.producthunt.com/posts/docsalot"
     },
     {
-      "name": "PhoneDeck",
-      "tagline": " Turn your iPhone into a free Mac controller",
-      "url": "https://www.producthunt.com/posts/phonedeck"
+      "name": "Endl",
+      "tagline": "A global operating account for fiat, stablecoins, and cards.",
+      "url": "https://www.producthunt.com/posts/endl-2"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 1,
+    "fromSearch": 9,
     "products": 3,
     "trends": 0
   },
