@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-06T03:39:37.548Z",
+  "generatedAt": "2026-07-07T03:31:12.130Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-05T17:43:36.000Z",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
       "type": "rss"
     },
     {
-      "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "ICML 2026 puts agentic AI at the center of ML research. What changed: ICML 2026 opens July 6 in Seoul with a record 23,918 submissions and an unusually ...",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "type": "rss"
     },
     {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "From the outside Meta's attempts to pivot from open source releases to fast follow closed models fell flat when they tried to prematurely monetize it. They ...",
-      "url": "https://news.ycombinator.com/item?id=48767058",
-      "source": "news.ycombinator.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T19:49:10.000Z",
+      "type": "rss"
     },
     {
-      "title": "The Trump administration's latest restrictions on private AI model ...",
-      "summary": "The Trump administration's latest restrictions on private AI model releases is ramping up the push for open-source alternatives. Link in comments.",
-      "url": "https://www.facebook.com/WMBBTV/posts/the-trump-administrations-latest-restrictions-on-private-ai-model-releases-is-ra/1469303175242156/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T19:01:59.000Z",
+      "type": "rss"
     },
     {
-      "title": "Product rapidfire with my AI engineer wife   - Instagram",
-      "summary": "... NEWS Claude Mythos launch leaked Deepseek made its 75% Agent Architecture comment routing ... LLM which is recently launched or a model which is launched.",
-      "url": "https://www.instagram.com/reel/DaZxvyCgHK7/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T18:35:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "CrowdStrike Unveils Continuous Identity for AI Agents",
-      "summary": "CrowdStrike delivers a fundamentally different model: every agent action continuously authorized in real time based on who owns the agent, who is calling it, ...",
-      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-unveils-continuous-identity-for-ai-agents/",
-      "source": "crowdstrike.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T17:04:58.000Z",
+      "type": "rss"
     },
     {
-      "title": "The AI agent stack is changing faster than most architecture ...",
-      "summary": "The AI agent stack is changing faster than most architecture diagrams. For years, the assumption was simple: If you wanted an agent, you built the loop.",
-      "url": "https://www.instagram.com/p/Daah4UjDtsY/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T15:32:43.000Z",
+      "type": "rss"
     },
     {
-      "title": "NI Nigel AI for Test & Measurement Workflows - NI",
-      "summary": "Nigel is unlike any other AI. It's specifically built for test and measurement applications with advanced test expertise and integration into NI software.",
-      "url": "https://www.ni.com/en/shop/software-portfolio/nigel.html?srsltid=AfmBOorWbcQEhxX0kXKUVMTGQdDgTTrNpgoeUCSEmvmAH4kCIUSj37d_",
-      "source": "ni.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T15:22:08.000Z",
+      "type": "rss"
     },
     {
-      "title": "Comment “AI” and I'll send you the link to try them all. China just ...",
-      "summary": "Number four: Deepreinforce releases Ornith 1.0, an open source coding model that builds its own scaffold during training, rivaling Claude. Free on Hugging Face, ...",
-      "url": "https://www.instagram.com/reel/DaaplFSxF43/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T13:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Red Teaming Platform | Agentic AI Security Testing",
-      "summary": "Automated AI red teaming platform for LLM apps, RAG, MCP, and AI agents. Test prompt injection, tool misuse, data leakage, and multi-step agent attacks.",
-      "url": "https://generalanalysis.com/products/automated-ai-red-teaming",
-      "source": "generalanalysis.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Your family&#8217;s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-06T18:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "WorkBuddy",
-      "tagline": "Produce sharpened results faster with a team of AI experts",
-      "url": "https://www.producthunt.com/posts/workbuddy-3"
+      "name": "AnySearch",
+      "tagline": "Real-time structured search trusted by agents and developers",
+      "url": "https://www.producthunt.com/posts/anysearch-3"
     },
     {
-      "name": "DocsAlot",
-      "tagline": "Documentation that works for both humans and AI systems",
-      "url": "https://www.producthunt.com/posts/docsalot"
+      "name": "Typeahead 2.0",
+      "tagline": "Private AI autocomplete for every app on your Mac",
+      "url": "https://www.producthunt.com/posts/typeahead-2-0"
     },
     {
-      "name": "Endl",
-      "tagline": "A global operating account for fiat, stablecoins, and cards.",
-      "url": "https://www.producthunt.com/posts/endl-2"
+      "name": "Octolens",
+      "tagline": "Social listening for the agent era",
+      "url": "https://www.producthunt.com/posts/octolens-4"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 1,
-    "fromSearch": 9,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
