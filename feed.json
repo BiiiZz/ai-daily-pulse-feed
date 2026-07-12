@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-11T02:44:01.552Z",
+  "generatedAt": "2026-07-12T02:52:03.727Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "How Decagon uses AI for design system saturation",
-      "summary": "",
-      "url": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-07-10T20:30:56.769Z",
-      "type": "rss"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10T23:55:07.000Z",
+      "publishedAt": "2026-07-11T14:13:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10T21:00:29.000Z",
-      "type": "rss"
+      "title": "What changes when AI agents move beyond prompt experiments ...",
+      "summary": "Thinking about building your first AI agent? OpenAI's recently released Practical Guide to Building Agents is a must-read for product and engineering ...",
+      "url": "https://www.facebook.com/OPENDATASCI/posts/what-changes-when-ai-agents-move-beyond-prompt-experiments-and-start-becoming-sy/1441227704706606/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10T19:00:00.000Z",
-      "type": "rss"
+      "title": "AI Agents News Brief: OpenAI Launches ChatGPT Work Amidst ...",
+      "summary": "OpenAI has launched ChatGPT Work, an AI agent designed to manage tasks across email, Slack, and calendars, powered by its new GPT-5.6 model.",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-openai-launches-chatgpt-work-amidst-security-concerns-and-shifting-browser-strategies",
+      "source": "aiagentsdirectory.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10T17:17:12.000Z",
-      "type": "rss"
+      "title": "How to build an AI agent that actually works - Launchcodex",
+      "summary": "Most AI agents fail on scaffolding, not the model. Learn the 3-layer playbook, context, harness, and loop, to build an agent that holds up in production.",
+      "url": "https://launchcodex.com/blog/llms-ai-agents-tools/build-an-ai-agent-that-works/",
+      "source": "launchcodex.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10T14:00:00.000Z",
-      "type": "rss"
+      "title": "The race is on to build AI that can take on more tasks, not just guide ...",
+      "summary": "Fifth: DoorDash launched an AI chatbot that lets you order food in plain language — no scrolling required. Just tell it what you want. That's your AI week in ...",
+      "url": "https://www.instagram.com/reel/Dap-raoiYsb/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-10T12:10:00.000Z",
-      "type": "rss"
+      "title": "I tracked 10 AI startup launch videos from the last 6 months. The gap ...",
+      "summary": "Some of the best performing videos look like they were shot on a phone in an office. Some genuinely mid products had monster launches and some great ones didnt ...",
+      "url": "https://www.reddit.com/r/singularity/comments/1utr9er/i_tracked_10_ai_startup_launch_videos_from_the/",
+      "source": "reddit.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Sperm donors need limits, says a European fertility group",
-      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherland",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-10T09:00:00.000Z",
-      "type": "rss"
+      "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot ...",
+      "summary": "We launched Claude Sonnet 5, our most agentic Sonnet model yet, with substantial improvements over Sonnet 4.6 in reasoning, tool use, coding, and knowledge work ...",
+      "url": "https://reconn-ai.com/llm-changelog.php",
+      "source": "reconn-ai.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "source": "Wired AI",
-      "publishedAt": "2026-07-11T01:07:26.000Z",
-      "type": "rss"
+      "title": "Robostral Navigate: single-camera AI navigation | Mistral AI",
+      "summary": "Robostral Navigate is an 8B model that enables robots to autonomously navigate complex environments using only a single RGB camera, achieving 76.6% success ...",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "source": "mistral.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "source": "Wired AI",
-      "publishedAt": "2026-07-10T20:44:05.000Z",
-      "type": "rss"
+      "title": "What is an LLM? How RAG improves AI responses What makes ...",
+      "summary": "AI Explained, LLM vs RAG, RAG vs AI Agent, Agentic AI Explained, AI Agent Tutorial, Large Language Model, Retrieval Augmented Generation, Autonomous AI, Multi ...",
+      "url": "https://www.instagram.com/reel/Dap5Z_sxKRM/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Generative AI Startups funded by Y Combinator (YC) in San ...",
+      "summary": "We've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're ...",
+      "url": "https://www.ycombinator.com/companies/industry/generative-ai/san-francisco",
+      "source": "ycombinator.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "PlugThis",
-      "tagline": "Create your own Chrome Extensions by chatting with AI",
-      "url": "https://www.producthunt.com/posts/plugthis-3"
+      "name": "Effects SDK",
+      "tagline": "AI video & audio effects SDK for real-time apps",
+      "url": "https://www.producthunt.com/posts/effects-sdk"
     },
     {
-      "name": "Sim",
-      "tagline": "Open-source workspace for AI agents and workflows",
-      "url": "https://www.producthunt.com/posts/sim-3"
+      "name": "Cloudflare Drop",
+      "tagline": "Drop your folder in browser & deploy instantly on Cloudflare",
+      "url": "https://www.producthunt.com/posts/cloudflare-drop"
     },
     {
-      "name": "ChatCut",
-      "tagline": "Your AI video editor in ChatGPT, desktop, and web",
-      "url": "https://www.producthunt.com/posts/chatcut-2"
+      "name": "San Fran Sim",
+      "tagline": "A startup tycoon game",
+      "url": "https://www.producthunt.com/posts/san-fran-sim"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 1,
+    "fromSearch": 9,
     "products": 3,
     "trends": 0
   },
