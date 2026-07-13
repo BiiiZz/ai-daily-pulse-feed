@@ -1,60 +1,76 @@
 {
-  "generatedAt": "2026-07-12T02:52:03.727Z",
+  "generatedAt": "2026-07-13T02:53:31.373Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-11T14:13:00.000Z",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "source": "Wired AI",
+      "publishedAt": "2026-07-12T10:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "What changes when AI agents move beyond prompt experiments ...",
-      "summary": "Thinking about building your first AI agent? OpenAI's recently released Practical Guide to Building Agents is a must-read for product and engineering ...",
-      "url": "https://www.facebook.com/OPENDATASCI/posts/what-changes-when-ai-agents-move-beyond-prompt-experiments-and-start-becoming-sy/1441227704706606/",
-      "source": "facebook.com",
+      "title": "Daily AI Agent News - Last 7 Days",
+      "summary": "What changed: Coasty.ai published a detailed 2026 AI agent platform comparison focused on computer-use agents from OpenAI, Anthropic, UiPath, and Coasty itself.",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI Agents News Brief: OpenAI Launches ChatGPT Work Amidst ...",
-      "summary": "OpenAI has launched ChatGPT Work, an AI agent designed to manage tasks across email, Slack, and calendars, powered by its new GPT-5.6 model.",
-      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-openai-launches-chatgpt-work-amidst-security-concerns-and-shifting-browser-strategies",
-      "source": "aiagentsdirectory.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "How to build an AI agent that actually works - Launchcodex",
-      "summary": "Most AI agents fail on scaffolding, not the model. Learn the 3-layer playbook, context, harness, and loop, to build an agent that holds up in production.",
-      "url": "https://launchcodex.com/blog/llms-ai-agents-tools/build-an-ai-agent-that-works/",
-      "source": "launchcodex.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "The race is on to build AI that can take on more tasks, not just guide ...",
-      "summary": "Fifth: DoorDash launched an AI chatbot that lets you order food in plain language — no scrolling required. Just tell it what you want. That's your AI week in ...",
-      "url": "https://www.instagram.com/reel/Dap-raoiYsb/",
+      "title": "comment “video” for the full video setup guide - Instagram",
+      "summary": "Alibaba is releasing AI brains for robots. After Elon Musk acquired Cursor, they work directly with SpaceX with the Colossal factories, which is the biggest ...",
+      "url": "https://www.instagram.com/reel/DasR240P2bi/",
       "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "I tracked 10 AI startup launch videos from the last 6 months. The gap ...",
-      "summary": "Some of the best performing videos look like they were shot on a phone in an office. Some genuinely mid products had monster launches and some great ones didnt ...",
-      "url": "https://www.reddit.com/r/singularity/comments/1utr9er/i_tracked_10_ai_startup_launch_videos_from_the/",
-      "source": "reddit.com",
+      "title": "A Chinese artificial intelligence startup, Z.ai, has released a free ...",
+      "summary": "Chinese AI startup DeepSeek is preparing to launch its V4 model in mid-February 2026, and if internal testing proves accurate, the new release could reshape ...",
+      "url": "https://www.facebook.com/ConnectedPakistan/posts/a-chinese-artificial-intelligence-startup-zai-has-released-a-free-chatbot-called/1435794115250649/",
+      "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot ...",
-      "summary": "We launched Claude Sonnet 5, our most agentic Sonnet model yet, with substantial improvements over Sonnet 4.6 in reasoning, tool use, coding, and knowledge work ...",
-      "url": "https://reconn-ai.com/llm-changelog.php",
-      "source": "reconn-ai.com",
+      "title": "Weekly Dose #10 - AI Is Getting Cheaper, and the Blast Radius Is ...",
+      "summary": "Welcome back to the Weekly Dose: your 5-minute breakdown of the AI/ML news that matters when you're building, evaluating, deploying, or operating AI systems ...",
+      "url": "https://mlpills.substack.com/p/weekly-dose-10-ai-is-getting-cheaper",
+      "source": "mlpills.substack.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "OpenAI's latest GPT-5.6 models aren't just faster. They're ... - Instagram",
+      "summary": "If you're building AI automations, SaaS products, customer support bots, or coding agents, this isn't a small update. It's a cost revolution. The companies that ...",
+      "url": "https://www.instagram.com/reel/DaryXRtBQ-4/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI models are becoming exceptionally good at generating answers ...",
+      "summary": "Researchers from Stanford, UC Berkeley and NVIDIA Research introduced LLM-as-a-Verifier, a training-free framework that evaluates complete AI-agent trajectories ...",
+      "url": "https://www.instagram.com/p/Daszbu6Afdi/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Your assistant is on the line - Product Hunt",
+      "summary": "AI agents don't just live inside the chat anymore. They want to talk to you. Here are five recent launches in the AI voice agent space: Toyo saw a bunch of AI ...",
+      "url": "https://www.producthunt.com/newsletters/archive/52533-your-assistant-is-on-the-line",
+      "source": "producthunt.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you - GitHub",
+      "summary": "The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during ...",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "source": "github.com",
       "publishedAt": null,
       "type": "search"
     },
@@ -65,39 +81,23 @@
       "source": "mistral.ai",
       "publishedAt": null,
       "type": "search"
-    },
-    {
-      "title": "What is an LLM? How RAG improves AI responses What makes ...",
-      "summary": "AI Explained, LLM vs RAG, RAG vs AI Agent, Agentic AI Explained, AI Agent Tutorial, Large Language Model, Retrieval Augmented Generation, Autonomous AI, Multi ...",
-      "url": "https://www.instagram.com/reel/Dap5Z_sxKRM/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Generative AI Startups funded by Y Combinator (YC) in San ...",
-      "summary": "We've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're ...",
-      "url": "https://www.ycombinator.com/companies/industry/generative-ai/san-francisco",
-      "source": "ycombinator.com",
-      "publishedAt": null,
-      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Effects SDK",
-      "tagline": "AI video & audio effects SDK for real-time apps",
-      "url": "https://www.producthunt.com/posts/effects-sdk"
+      "name": "JustVibe",
+      "tagline": "The search engine for doing, with apps built for you",
+      "url": "https://www.producthunt.com/posts/justvibe-3"
     },
     {
-      "name": "Cloudflare Drop",
-      "tagline": "Drop your folder in browser & deploy instantly on Cloudflare",
-      "url": "https://www.producthunt.com/posts/cloudflare-drop"
+      "name": "Miora",
+      "tagline": "Scale your creativity on editable canvas with agent memory",
+      "url": "https://www.producthunt.com/posts/miora-2"
     },
     {
-      "name": "San Fran Sim",
-      "tagline": "A startup tycoon game",
-      "url": "https://www.producthunt.com/posts/san-fran-sim"
+      "name": "FetchSandbox",
+      "tagline": "API integration testing that remembers what breaks",
+      "url": "https://www.producthunt.com/posts/fetchsandbox"
     }
   ],
   "trends": [],
@@ -111,6 +111,7 @@
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
+    "RSS Asana Blog: fetch failed",
     "Doubao: The operation was aborted due to timeout"
   ]
 }
