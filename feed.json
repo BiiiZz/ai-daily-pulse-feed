@@ -1,117 +1,116 @@
 {
-  "generatedAt": "2026-07-13T02:53:31.373Z",
+  "generatedAt": "2026-07-14T02:34:22.994Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "source": "Wired AI",
-      "publishedAt": "2026-07-12T10:00:00.000Z",
+      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T00:45:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Daily AI Agent News - Last 7 Days",
-      "summary": "What changed: Coasty.ai published a detailed 2026 AI agent platform comparison focused on computer-use agents from OpenAI, Anthropic, UiPath, and Coasty itself.",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "comment “video” for the full video setup guide - Instagram",
-      "summary": "Alibaba is releasing AI brains for robots. After Elon Musk acquired Cursor, they work directly with SpaceX with the Colossal factories, which is the biggest ...",
-      "url": "https://www.instagram.com/reel/DasR240P2bi/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T23:31:18.000Z",
+      "type": "rss"
     },
     {
-      "title": "A Chinese artificial intelligence startup, Z.ai, has released a free ...",
-      "summary": "Chinese AI startup DeepSeek is preparing to launch its V4 model in mid-February 2026, and if internal testing proves accurate, the new release could reshape ...",
-      "url": "https://www.facebook.com/ConnectedPakistan/posts/a-chinese-artificial-intelligence-startup-zai-has-released-a-free-chatbot-called/1435794115250649/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T20:59:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Weekly Dose #10 - AI Is Getting Cheaper, and the Blast Radius Is ...",
-      "summary": "Welcome back to the Weekly Dose: your 5-minute breakdown of the AI/ML news that matters when you're building, evaluating, deploying, or operating AI systems ...",
-      "url": "https://mlpills.substack.com/p/weekly-dose-10-ai-is-getting-cheaper",
-      "source": "mlpills.substack.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple ",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T18:22:10.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenAI's latest GPT-5.6 models aren't just faster. They're ... - Instagram",
-      "summary": "If you're building AI automations, SaaS products, customer support bots, or coding agents, this isn't a small update. It's a cost revolution. The companies that ...",
-      "url": "https://www.instagram.com/reel/DaryXRtBQ-4/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T17:28:37.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI models are becoming exceptionally good at generating answers ...",
-      "summary": "Researchers from Stanford, UC Berkeley and NVIDIA Research introduced LLM-as-a-Verifier, a training-free framework that evaluates complete AI-agent trajectories ...",
-      "url": "https://www.instagram.com/p/Daszbu6Afdi/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T16:31:23.000Z",
+      "type": "rss"
     },
     {
-      "title": "Your assistant is on the line - Product Hunt",
-      "summary": "AI agents don't just live inside the chat anymore. They want to talk to you. Here are five recent launches in the AI voice agent space: Toyo saw a bunch of AI ...",
-      "url": "https://www.producthunt.com/newsletters/archive/52533-your-assistant-is-on-the-line",
-      "source": "producthunt.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T15:34:59.000Z",
+      "type": "rss"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you - GitHub",
-      "summary": "The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during ...",
-      "url": "https://github.com/nousresearch/hermes-agent",
-      "source": "github.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T14:18:16.000Z",
+      "type": "rss"
     },
     {
-      "title": "Robostral Navigate: single-camera AI navigation | Mistral AI",
-      "summary": "Robostral Navigate is an 8B model that enables robots to autonomously navigate complex environments using only a single RGB camera, achieving 76.6% success ...",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "source": "mistral.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-13T18:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "JustVibe",
-      "tagline": "The search engine for doing, with apps built for you",
-      "url": "https://www.producthunt.com/posts/justvibe-3"
+      "name": "Osaurus",
+      "tagline": "Open source agents that run 100% locally on your Mac",
+      "url": "https://www.producthunt.com/posts/osaurus-ai"
     },
     {
-      "name": "Miora",
-      "tagline": "Scale your creativity on editable canvas with agent memory",
-      "url": "https://www.producthunt.com/posts/miora-2"
+      "name": "AgentKey",
+      "tagline": "One-stop live data marketplace for your agent",
+      "url": "https://www.producthunt.com/posts/agentkey"
     },
     {
-      "name": "FetchSandbox",
-      "tagline": "API integration testing that remembers what breaks",
-      "url": "https://www.producthunt.com/posts/fetchsandbox"
+      "name": "AI Media Buyer By Creatify",
+      "tagline": "Your ads, managed by AI that gets smarter daily.",
+      "url": "https://www.producthunt.com/posts/ai-media-buyer-by-creatify"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 1,
-    "fromSearch": 9,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
-    "RSS Asana Blog: fetch failed",
     "Doubao: The operation was aborted due to timeout"
   ]
 }
