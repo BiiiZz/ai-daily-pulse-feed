@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-16T02:41:05.729Z",
+  "generatedAt": "2026-07-17T02:43:35.994Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T23:59:44.000Z",
+      "title": "Connect more of your apps to Search",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp\"&gt;You’ll be able to securely link and interact with your go-to services di",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T19:41:38.000Z",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp\"&gt;Gemini Omni and personal avatars in Google Vids make video creati",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T18:06:05.000Z",
+      "title": "Sightlines issue no.1: Insights from Config",
+      "summary": "",
+      "url": "https://www.figma.com/blog/sightlines-issue-no1/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-07-16T16:37:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T18:04:06.000Z",
+      "title": "Workflow lab: Deploying designs directly with Figma Make",
+      "summary": "",
+      "url": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-07-16T12:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T17:00:34.000Z",
+      "title": "The Self-Driving Company",
+      "summary": "In the past six months, engineers at Replit have nearly tripled code output. Review times held steady. Reversions and product incidents have stayed flat. Quality metrics improved, and releases have ac",
+      "url": "https://replit.com/blog/self-driving-company",
+      "source": "Replit Blog",
+      "publishedAt": "2026-07-16T17:01:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T17:00:00.000Z",
+      "publishedAt": "2026-07-16T18:32:54.000Z",
       "type": "rss"
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T16:20:18.000Z",
+      "publishedAt": "2026-07-16T18:22:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T15:29:33.000Z",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers i",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T15:00:00.000Z",
+      "publishedAt": "2026-07-16T15:38:55.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T13:10:47.000Z",
+      "publishedAt": "2026-07-16T15:31:09.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Velo 3.0",
-      "tagline": "AI video infrastructure to explain, train, and sell faster.",
-      "url": "https://www.producthunt.com/posts/velo-3-0"
+      "name": "Paradigm",
+      "tagline": "Turn any goal into a personalized, adaptive learning path.",
+      "url": "https://www.producthunt.com/posts/paradigm-3"
     },
     {
-      "name": "V2Fun",
-      "tagline": "Generate 3D character with 8K textures and AI motion capture",
-      "url": "https://www.producthunt.com/posts/v2fun"
+      "name": "Zro",
+      "tagline": "Private inference for coding agents",
+      "url": "https://www.producthunt.com/posts/zro"
     },
     {
-      "name": "Campus",
-      "tagline": "One project space for humans and AI agents",
-      "url": "https://www.producthunt.com/posts/campus-4"
+      "name": "Albato AI",
+      "tagline": "Build AI-driven workflows across 1,000+ apps",
+      "url": "https://www.producthunt.com/posts/albato-ai"
     }
   ],
   "trends": [],
