@@ -1,117 +1,116 @@
 {
-  "generatedAt": "2026-07-20T03:17:42.831Z",
+  "generatedAt": "2026-07-21T02:46:29.051Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19T21:16:07.000Z",
+      "title": "Introducing Loops",
+      "summary": "",
+      "url": "https://linear.app/changelog/2026-07-20-introducing-loops",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-07-20T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19T19:24:45.000Z",
+      "publishedAt": "2026-07-21T00:12:24.000Z",
       "type": "rss"
     },
     {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "title": "Trump&#8217;s latest AI czar has already resigned",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19T14:52:08.000Z",
+      "publishedAt": "2026-07-20T22:21:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19T14:00:00.000Z",
+      "publishedAt": "2026-07-20T21:21:15.000Z",
       "type": "rss"
     },
     {
-      "title": "The release of Kimi K3, a 2.8 trillion-parameter large- ...",
-      "summary": "The release of Kimi K3, a 2.8 trillion-parameter large-language model (LLM) developed by Chinese artificial intelligence (AI) start-up Moonshot AI, 3,755 ...",
-      "url": "https://www.facebook.com/globaltimesnews/posts/the-release-of-kimi-k3-a-28-trillion-parameter-large-language-model-llm-develope/1580858714086330/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T20:50:40.000Z",
+      "type": "rss"
     },
     {
-      "title": "There will be more AI agents than humans on the internet very ...",
-      "summary": "Launch your first AI agent as low as $5000* Plan rates effective 6/1/2026. May be subject to change. See website for most up to date pricing. regardless of ...",
-      "url": "https://www.instagram.com/reel/Da_Kkbchzp9/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:37:39.000Z",
+      "type": "rss"
     },
     {
-      "title": "The New AI Sponsor Stack: Who Will Fund Creator Media ...",
-      "summary": "Releasing an AI product has never been easier. The AI sponsor stack has five layers: inference and model-serving providers, agent platforms, AI-native ...",
-      "url": "https://kingy.ai/blog/ai-sponsor-stack/",
-      "source": "kingy.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:33:25.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of July 19, 2026 (Daily Updates)",
-      "summary": "Supio launches Supio Agent for plaintiff law — vertical, compliant agentic workflows. What changed: Supio announced on July 13 that it launched Supio Agent ...",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Qwen 4.0 LEAKED, DeepSeek V4 GA Launching Monday ...",
-      "summary": "In today's AI News, we cover the biggest leaks and rumors surrounding the next wave of frontier AI models. Alibaba's upcoming Qwen of Your Product, Contact me: ...",
-      "url": "https://www.youtube.com/watch?v=IoqkM8rpVNo",
-      "source": "youtube.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T15:23:06.000Z",
+      "type": "rss"
     },
     {
-      "title": "Meet Grok 4.5 — xAI's most advanced AI model yet. 🚀 Built ...",
-      "summary": "Built for developers, businesses, and AI builders, Grok 4.5 delivers stronger reasoning, faster responses, and powerful agent capabilities for real-world ...",
-      "url": "https://www.instagram.com/p/Da_Y0AdTgS1/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "OpenSEO",
-      "tagline": "The open source Ahrefs alternative",
-      "url": "https://www.producthunt.com/posts/openseo"
+      "name": "Fuzzy AI",
+      "tagline": "We warm your prospects before reaching out",
+      "url": "https://www.producthunt.com/posts/fuzzy-ai-2"
     },
     {
-      "name": "Spycost",
-      "tagline": "Fell for a discount again?",
-      "url": "https://www.producthunt.com/posts/spycost-3"
+      "name": "Nautis",
+      "tagline": "The AI-native Operating System for founders.",
+      "url": "https://www.producthunt.com/posts/nautis-2"
     },
     {
-      "name": "Kobbe",
-      "tagline": "Privacy-friendly web analytics with traffic and revenue.",
-      "url": "https://www.producthunt.com/posts/kobbe"
+      "name": "Loova Ads Studio",
+      "tagline": "Create AI ads that convert, not just look good",
+      "url": "https://www.producthunt.com/posts/loova-ads-studio"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS The Verge AI: HTTP 404",
-    "RSS Asana Blog: fetch failed",
     "Doubao: The operation was aborted due to timeout"
   ]
 }
