@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-21T02:46:29.051Z",
+  "generatedAt": "2026-07-22T02:43:56.120Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Introducing Loops",
-      "summary": "",
-      "url": "https://linear.app/changelog/2026-07-20-introducing-loops",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-07-20T15:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-21T00:12:24.000Z",
+      "publishedAt": "2026-07-21T23:55:10.000Z",
       "type": "rss"
     },
     {
-      "title": "Trump&#8217;s latest AI czar has already resigned",
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T22:21:04.000Z",
+      "publishedAt": "2026-07-21T20:56:55.000Z",
       "type": "rss"
     },
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T21:21:15.000Z",
+      "publishedAt": "2026-07-21T19:43:41.000Z",
       "type": "rss"
     },
     {
-      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
-      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T20:50:40.000Z",
+      "publishedAt": "2026-07-21T19:39:30.000Z",
       "type": "rss"
     },
     {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X says the rebuilt version of its Android app is now available globally.",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T19:37:39.000Z",
+      "publishedAt": "2026-07-21T18:06:38.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T19:33:25.000Z",
+      "publishedAt": "2026-07-21T17:11:50.000Z",
       "type": "rss"
     },
     {
-      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "publishedAt": "2026-07-21T15:37:05.000Z",
       "type": "rss"
     },
     {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T15:23:06.000Z",
+      "publishedAt": "2026-07-21T13:27:42.000Z",
       "type": "rss"
     },
     {
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war wit",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "publishedAt": "2026-07-21T12:10:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Fuzzy AI",
-      "tagline": "We warm your prospects before reaching out",
-      "url": "https://www.producthunt.com/posts/fuzzy-ai-2"
+      "name": "Lev8",
+      "tagline": "Find, research, and reach the right people",
+      "url": "https://www.producthunt.com/posts/lev8"
     },
     {
-      "name": "Nautis",
-      "tagline": "The AI-native Operating System for founders.",
-      "url": "https://www.producthunt.com/posts/nautis-2"
+      "name": "CartAI",
+      "tagline": "The AI agent that handles checkout.",
+      "url": "https://www.producthunt.com/posts/cartai"
     },
     {
-      "name": "Loova Ads Studio",
-      "tagline": "Create AI ads that convert, not just look good",
-      "url": "https://www.producthunt.com/posts/loova-ads-studio"
+      "name": "ditto.site",
+      "tagline": "Clone any website into clean code. Free & open source",
+      "url": "https://www.producthunt.com/posts/ditto-site"
     }
   ],
   "trends": [],
@@ -110,6 +110,7 @@
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
+    "RSS Lovable Blog: HTTP 404",
     "RSS The Verge AI: HTTP 404",
     "Doubao: The operation was aborted due to timeout"
   ]
