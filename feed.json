@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-23T02:49:50.750Z",
+  "generatedAt": "2026-07-24T02:44:52.224Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\"&gt;We shared how Samsung users can boost productivity and get time back on new ",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "title": "Text attribution and agent-assisted editing",
+      "summary": "",
+      "url": "https://linear.app/changelog/2026-07-23-agent-assisted-editing",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-07-23T15:44:47.000Z",
       "type": "rss"
     },
     {
-      "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T23:47:54.000Z",
+      "title": "How Figma stays ahead of vulnerabilities with agents",
+      "summary": "",
+      "url": "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-07-23T21:23:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T22:01:52.000Z",
+      "publishedAt": "2026-07-24T01:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T20:49:03.000Z",
+      "publishedAt": "2026-07-23T20:33:02.000Z",
       "type": "rss"
     },
     {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T19:11:46.000Z",
+      "publishedAt": "2026-07-23T19:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
-      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T18:50:44.000Z",
+      "publishedAt": "2026-07-23T18:38:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T18:13:58.000Z",
+      "publishedAt": "2026-07-23T17:07:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T17:54:14.000Z",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T16:24:08.000Z",
+      "publishedAt": "2026-07-23T16:28:50.000Z",
       "type": "rss"
     },
     {
-      "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T16:23:09.000Z",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Humalike x Hermes",
-      "tagline": "Social intelligence plugin for Hermes Agent",
-      "url": "https://www.producthunt.com/posts/humalike-x-hermes"
+      "name": "Teable 3.0",
+      "tagline": "AI Spreadsheet for Business",
+      "url": "https://www.producthunt.com/posts/teable-3-0"
     },
     {
-      "name": "Migma AI",
-      "tagline": "AI runs your email marketing. Better with every send.",
-      "url": "https://www.producthunt.com/posts/migma-ai-4"
+      "name": "PromptQL",
+      "tagline": "Multiplayer AI that replaces Slack",
+      "url": "https://www.producthunt.com/posts/promptql-2"
     },
     {
-      "name": "Buzzy",
-      "tagline": "Your creative AI co-director",
-      "url": "https://www.producthunt.com/posts/buzzy-2"
+      "name": "PodcastorAI",
+      "tagline": "Your AI twin hosts your video podcast",
+      "url": "https://www.producthunt.com/posts/podcastorai"
     }
   ],
   "trends": [],
