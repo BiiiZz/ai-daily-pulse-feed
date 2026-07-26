@@ -1,132 +1,117 @@
 {
-  "generatedAt": "2026-07-25T02:43:43.636Z",
+  "generatedAt": "2026-07-26T02:52:20.935Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "publishedAt": "2026-07-26T01:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "title": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "publishedAt": "2026-07-25T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "publishedAt": "2026-07-25T13:05:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired AI",
+      "publishedAt": "2026-07-25T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:51:49.000Z",
-      "type": "rss"
+      "title": "Microsoft launches new MAI family of AI models at ...",
+      "summary": "Microsoft launches new personal AI agent, Microsoft Scout. There's a ton of AI announcements at Microsoft Build. This new AI agent is a big one. 06/02/2026.",
+      "url": "https://mashable.com/tech/microsoft-launches-new-mai-family-of-models-at-build",
+      "source": "mashable.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:13:57.000Z",
-      "type": "rss"
+      "title": "For years, AI companies have competed to build the biggest ...",
+      "summary": "Breaking news Mira Murati, the former OpenAI CTO, just shipped her first model for her, a startup called Thinking Machine Labs. It's called Inkling. It's an ...",
+      "url": "https://www.instagram.com/reel/DbNxOq5EU2q/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:09:55.000Z",
-      "type": "rss"
+      "title": "🚀 Big Data News Weekly is here! AI agents are becoming ...",
+      "summary": "South Korea's Upstage Launches Solar Pro 2 Upstage has released Solar Pro 2, a compact yet highly efficient “frontier” LLM that outperforms larger models in ...",
+      "url": "https://www.facebook.com/bigdataanalyticsnewss/posts/-big-data-news-weekly-is-hereai-agents-are-becoming-more-capable-engineering-tea/1503712838467271/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "type": "rss"
+      "title": "Free mode",
+      "summary": "AI tools that are completely free to use, with no hidden costs or premium features. AI Agents 150 AI",
+      "url": "https://theresanaiforthat.com/news/?topic=ai-product-launch",
+      "source": "theresanaiforthat.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T13:36:42.000Z",
-      "type": "rss"
+      "title": "A prediction for the next 12 months: \"AI-literate\" becomes ...",
+      "summary": "With our newly integrated Release Agent, the system now maps live code structures directly to cross-functional team sprints and regulatory compliance.",
+      "url": "https://www.instagram.com/p/DbOJa7XoPJC/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The quest to keep organs alive outside the body",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-24T17:03:55.000Z",
-      "type": "rss"
+      "title": "Are you relying on your LLM to act as your security guard? ...",
+      "summary": "As autonomous AI agents increasingly rely on large language models to perceive, plan, and act, they're also inheriting an expanded attack surface.",
+      "url": "https://www.facebook.com/googlecloud/posts/are-you-relying-on-your-llm-to-act-as-your-security-guard-while-foundational-mod/1366459462298044/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Fedica 2.0",
-      "tagline": "Publish and grow your profile across social apps",
-      "url": "https://www.producthunt.com/posts/fedica-2-0"
+      "name": "FluentDB",
+      "tagline": "The AI database client for Mac",
+      "url": "https://www.producthunt.com/posts/fluentdb-2"
     },
     {
-      "name": "Pushary",
-      "tagline": "Approve AI requests from your lock screen",
-      "url": "https://www.producthunt.com/posts/pushary-4"
+      "name": "Heard",
+      "tagline": "Give Claude Code and Codex a voice",
+      "url": "https://www.producthunt.com/posts/heard-3"
     },
     {
-      "name": "Fluree AI",
-      "tagline": "Give every AI agent trusted context",
-      "url": "https://www.producthunt.com/posts/fluree-ai"
+      "name": "Second Brain for Mac and Windows",
+      "tagline": "Your AI memory, everywhere you work",
+      "url": "https://www.producthunt.com/posts/second-brain-for-mac-and-windows"
     }
   ],
-  "trends": [
-    {
-      "title": "AI Personality as Competitive Edge",
-      "desc": "Interaction quality is a key AI competitive advantage.",
-      "ref": "Why Cognition bought Poke: AI personality is becoming a competitive advantage"
-    },
-    {
-      "title": "AI Firms Expand Beyond Core Domains",
-      "desc": "AI companies expand into new non-core business areas.",
-      "ref": "Midjourney acquired the astrology app Co-Star"
-    },
-    {
-      "title": "Debate Over Open-Weight AI Restrictions",
-      "desc": "Industry opposes broad open-weight AI restrictions.",
-      "ref": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
     "RSS Lovable Blog: HTTP 404",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
