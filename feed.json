@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-26T02:52:20.935Z",
+  "generatedAt": "2026-07-27T03:17:11.195Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T01:30:00.000Z",
+      "publishedAt": "2026-07-27T00:19:14.000Z",
       "type": "rss"
     },
     {
-      "title": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "publishedAt": "2026-07-26T19:40:57.000Z",
       "type": "rss"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T13:05:00.000Z",
+      "publishedAt": "2026-07-26T16:33:13.000Z",
       "type": "rss"
     },
     {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "Wired AI",
-      "publishedAt": "2026-07-25T10:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Microsoft launches new MAI family of AI models at ...",
-      "summary": "Microsoft launches new personal AI agent, Microsoft Scout. There's a ton of AI announcements at Microsoft Build. This new AI agent is a big one. 06/02/2026.",
-      "url": "https://mashable.com/tech/microsoft-launches-new-mai-family-of-models-at-build",
-      "source": "mashable.com",
+      "title": "AI Agents News — Week of July 27, 2026 (Daily Updates)",
+      "summary": "What changed: Meituan released LongCat-2.0 as an open-source model with 1.6 trillion parameters and about 48 billion active parameters, designed specifically ...",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "For years, AI companies have competed to build the biggest ...",
-      "summary": "Breaking news Mira Murati, the former OpenAI CTO, just shipped her first model for her, a startup called Thinking Machine Labs. It's called Inkling. It's an ...",
-      "url": "https://www.instagram.com/reel/DbNxOq5EU2q/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "🚀 Big Data News Weekly is here! AI agents are becoming ...",
-      "summary": "South Korea's Upstage Launches Solar Pro 2 Upstage has released Solar Pro 2, a compact yet highly efficient “frontier” LLM that outperforms larger models in ...",
-      "url": "https://www.facebook.com/bigdataanalyticsnewss/posts/-big-data-news-weekly-is-hereai-agents-are-becoming-more-capable-engineering-tea/1503712838467271/",
+      "title": "OpenAI CEO Sam Altman heads to Washington this ...",
+      "summary": "OpenAI has introduced a platform enabling businesses to create custom AI agents for tasks like financial analysis and customer service. The release is planned ...",
+      "url": "https://www.facebook.com/marius.comper/posts/openai-says-its-most-powerful-model-yet-gpt-6-can-deploy-tireless-teams-of-agent/10164697346349621/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Free mode",
-      "summary": "AI tools that are completely free to use, with no hidden costs or premium features. AI Agents 150 AI",
-      "url": "https://theresanaiforthat.com/news/?topic=ai-product-launch",
-      "source": "theresanaiforthat.com",
+      "title": "Weekly Dose #12 - Claude Opus 5, Gemini 3.6 and the New ...",
+      "summary": "At first glance, this week delivered two model releases, a cybersecurity incident, an enterprise-agent product and a full-stack infrastructure announcement.",
+      "url": "https://mlpills.substack.com/p/weekly-dose-12-claude-opus-5-gemini",
+      "source": "mlpills.substack.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "A prediction for the next 12 months: \"AI-literate\" becomes ...",
-      "summary": "With our newly integrated Release Agent, the system now maps live code structures directly to cross-functional team sprints and regulatory compliance.",
-      "url": "https://www.instagram.com/p/DbOJa7XoPJC/",
+      "title": "I built a fleet of AI agents that runs a YouTube channel end ...",
+      "summary": "It is a crew of agents with separate jobs, handoffs between them, approval gates I control, and a memory that changes what the next video looks like",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1v7h48n/i_built_a_fleet_of_ai_agents_that_runs_a_youtube/",
+      "source": "reddit.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
+      "url": "https://www.forbes.com/lists/ai50/",
+      "source": "forbes.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Parallel.ai",
+      "summary": "With Parallel, agents can find quick answers, watch the web for changes, Parallel builds web search and research APIs purpose-built for AI agents and agentic ...",
+      "url": "https://parallel.ai/",
+      "source": "parallel.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Consider this your first prompt: Stay tuned! #BIBF #AI # ...",
+      "summary": "Every day there is a new AI model tool, open source project and a product launch. It collects news from 60+ trusted AI and tech sources, An AI agent is just an ...",
+      "url": "https://www.instagram.com/p/DbQPfbJGoeq/",
       "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Are you relying on your LLM to act as your security guard? ...",
-      "summary": "As autonomous AI agents increasingly rely on large language models to perceive, plan, and act, they're also inheriting an expanded attack surface.",
-      "url": "https://www.facebook.com/googlecloud/posts/are-you-relying-on-your-llm-to-act-as-your-security-guard-while-foundational-mod/1366459462298044/",
-      "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "FluentDB",
-      "tagline": "The AI database client for Mac",
-      "url": "https://www.producthunt.com/posts/fluentdb-2"
+      "name": "TouchGrass",
+      "tagline": "Context-aware break reminders without invasive permissions",
+      "url": "https://www.producthunt.com/posts/touchgrass-2"
     },
     {
-      "name": "Heard",
-      "tagline": "Give Claude Code and Codex a voice",
-      "url": "https://www.producthunt.com/posts/heard-3"
+      "name": "Athena by Shoplazza",
+      "tagline": "An orchestrator agent for your entire commerce stack",
+      "url": "https://www.producthunt.com/posts/athena-by-shoplazza-2"
     },
     {
-      "name": "Second Brain for Mac and Windows",
-      "tagline": "Your AI memory, everywhere you work",
-      "url": "https://www.producthunt.com/posts/second-brain-for-mac-and-windows"
+      "name": "Openbase",
+      "tagline": "Manage your team of AI agents by voice, from anywhere",
+      "url": "https://www.producthunt.com/posts/openbase-d65c4e76-aef1-4209-9a77-51bdd1a0fd3e"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 0
   },
