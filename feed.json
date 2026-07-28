@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-07-27T03:17:11.195Z",
+  "generatedAt": "2026-07-28T02:36:04.092Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T00:19:14.000Z",
+      "publishedAt": "2026-07-28T00:13:33.000Z",
       "type": "rss"
     },
     {
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T19:40:57.000Z",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
       "type": "rss"
     },
     {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "publishedAt": "2026-07-27T20:19:42.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of July 27, 2026 (Daily Updates)",
-      "summary": "What changed: Meituan released LongCat-2.0 as an open-source model with 1.6 trillion parameters and about 48 billion active parameters, designed specifically ...",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T18:32:11.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenAI CEO Sam Altman heads to Washington this ...",
-      "summary": "OpenAI has introduced a platform enabling businesses to create custom AI agents for tasks like financial analysis and customer service. The release is planned ...",
-      "url": "https://www.facebook.com/marius.comper/posts/openai-says-its-most-powerful-model-yet-gpt-6-can-deploy-tireless-teams-of-agent/10164697346349621/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T17:28:42.000Z",
+      "type": "rss"
     },
     {
-      "title": "Weekly Dose #12 - Claude Opus 5, Gemini 3.6 and the New ...",
-      "summary": "At first glance, this week delivered two model releases, a cybersecurity incident, an enterprise-agent product and a full-stack infrastructure announcement.",
-      "url": "https://mlpills.substack.com/p/weekly-dose-12-claude-opus-5-gemini",
-      "source": "mlpills.substack.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T16:45:24.000Z",
+      "type": "rss"
     },
     {
-      "title": "I built a fleet of AI agents that runs a YouTube channel end ...",
-      "summary": "It is a crew of agents with separate jobs, handoffs between them, approval gates I control, and a memory that changes what the next video looks like",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1v7h48n/i_built_a_fleet_of_ai_agents_that_runs_a_youtube/",
-      "source": "reddit.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:57:12.000Z",
+      "type": "rss"
     },
     {
-      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
-      "url": "https://www.forbes.com/lists/ai50/",
-      "source": "forbes.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:30:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Parallel.ai",
-      "summary": "With Parallel, agents can find quick answers, watch the web for changes, Parallel builds web search and research APIs purpose-built for AI agents and agentic ...",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:25:37.000Z",
+      "type": "rss"
     },
     {
-      "title": "Consider this your first prompt: Stay tuned! #BIBF #AI # ...",
-      "summary": "Every day there is a new AI model tool, open source project and a product launch. It collects news from 60+ trusted AI and tech sources, An AI agent is just an ...",
-      "url": "https://www.instagram.com/p/DbQPfbJGoeq/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:01:50.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "TouchGrass",
-      "tagline": "Context-aware break reminders without invasive permissions",
-      "url": "https://www.producthunt.com/posts/touchgrass-2"
+      "name": "Adomate",
+      "tagline": "Turn data into winning ads. At scale.",
+      "url": "https://www.producthunt.com/posts/adomate"
     },
     {
-      "name": "Athena by Shoplazza",
-      "tagline": "An orchestrator agent for your entire commerce stack",
-      "url": "https://www.producthunt.com/posts/athena-by-shoplazza-2"
+      "name": "Artifacts by Databox",
+      "tagline": "Ask your AI Analyst and get back a ready-to-share report",
+      "url": "https://www.producthunt.com/posts/artifacts-by-databox"
     },
     {
-      "name": "Openbase",
-      "tagline": "Manage your team of AI agents by voice, from anywhere",
-      "url": "https://www.producthunt.com/posts/openbase-d65c4e76-aef1-4209-9a77-51bdd1a0fd3e"
+      "name": "Claude Opus 5",
+      "tagline": "Near-Fable 5 intelligence at half the price",
+      "url": "https://www.producthunt.com/posts/claude-opus-5"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
