@@ -1,132 +1,116 @@
 {
-  "generatedAt": "2026-07-29T02:42:49.277Z",
+  "generatedAt": "2026-07-30T02:28:35.206Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"&gt;We’re announcing even more new capabilities in Managed Agents in Gemini ",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "title": "Lovable apps can now work with your users&apos; connected tools",
+      "summary": "App user connectors let each person using your Lovable app connect their own tools, so it runs on their data with the permissions they already have.",
+      "url": "https://lovable.dev/blog/app-user-connectors",
+      "source": "Lovable Blog",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\"&gt;It might sound counterintuitive, but Search's AI tools can actually hel",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "title": "How Lovable secures connected data in production apps",
+      "summary": "How per-user connections let each person use their own access, and the credential, gateway, and storage design that keeps connected data safe.",
+      "url": "https://lovable.dev/blog/how-lovable-secures-connected-data",
+      "source": "Lovable Blog",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp\"&gt;These AI features can help you craft a menu, design a tablescape, and handl",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "title": "How we secure Figma’s internal systems with agents",
+      "summary": "",
+      "url": "https://www.figma.com/blog/how-we-secure-figmas-internal-systems-with-agents/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-07-29T20:44:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cursor Start",
-      "summary": "We&apos;re introducing Cursor Start , a new ₹649 monthly plan for developers in India, making daily agentic development accessible and payment easy with local pricing and UPI.",
-      "url": "https://cursor.com/changelog/cursor-start",
-      "source": "Cursor Changelog",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "title": "Introducing Replit Design",
+      "summary": "A new creative class is rising: people who see an idea in their mind and refuse to wait to make it.\n\n\n\nToday, we’re launching Replit Design, a new creative suite where anyone can shape what they see a",
+      "url": "https://replit.com/blog/introducing-replit-design",
+      "source": "Replit Blog",
+      "publishedAt": "2026-07-29T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T00:09:05.000Z",
+      "publishedAt": "2026-07-30T00:21:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T21:29:34.000Z",
+      "publishedAt": "2026-07-29T23:00:11.000Z",
       "type": "rss"
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T20:45:12.000Z",
+      "publishedAt": "2026-07-29T22:46:03.000Z",
       "type": "rss"
     },
     {
-      "title": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T20:17:08.000Z",
+      "publishedAt": "2026-07-29T22:23:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T15:42:26.000Z",
+      "publishedAt": "2026-07-29T21:16:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "publishedAt": "2026-07-29T21:07:48.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Prefactor",
-      "tagline": "Evaluate your AI Agents in real-time",
-      "url": "https://www.producthunt.com/posts/prefactor"
+      "name": "Prelint",
+      "tagline": "Prevent product drift in AI-written code",
+      "url": "https://www.producthunt.com/posts/prelint"
     },
     {
-      "name": "Cekura",
-      "tagline": "The self-improvement loop for voice agents",
-      "url": "https://www.producthunt.com/posts/cekura-3"
+      "name": "SoundGate Guitar",
+      "tagline": "AI Music Tutor that gives real-time feedback on your playing",
+      "url": "https://www.producthunt.com/posts/soundgate-guitar"
     },
     {
-      "name": "Lottie Creator 2.0",
-      "tagline": "After Effects for the web, built on Lottie",
-      "url": "https://www.producthunt.com/posts/lottie-creator-2-0"
+      "name": "Denovo",
+      "tagline": "Turn your vibe-coded app into paying customers",
+      "url": "https://www.producthunt.com/posts/denovo-2"
     }
   ],
-  "trends": [
-    {
-      "title": "Agentic AI Gains Industry Traction",
-      "desc": "Agentic AI capabilities and adoption are expanding.",
-      "ref": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
-    },
-    {
-      "title": "AI Enhances Consumer Search Tools",
-      "desc": "AI adds useful features for everyday consumer tasks.",
-      "ref": "5 ways AI Mode in Search helps you enjoy the real world"
-    },
-    {
-      "title": "Rising Investment In AI Startups",
-      "desc": "AI startups secure large new venture funding.",
-      "ref": "Bot-detection startup Spur nabs $200M from Insight"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS Lovable Blog: HTTP 404",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
