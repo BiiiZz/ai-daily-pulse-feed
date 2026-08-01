@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-31T02:53:35.855Z",
+  "generatedAt": "2026-08-01T02:52:49.012Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Coding sessions on mobile",
+      "title": "AI fluency isn't the finish line",
       "summary": "",
-      "url": "https://linear.app/changelog/2026-07-30-coding-sessions-on-mobile",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-07-30T15:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A properties panel and annotations, now in Figma Make",
-      "summary": "",
-      "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
+      "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
       "source": "Figma Blog",
-      "publishedAt": "2026-07-30T19:25:32.996Z",
+      "publishedAt": "2026-07-31T21:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-31T01:06:54.000Z",
+      "publishedAt": "2026-07-31T22:47:26.000Z",
       "type": "rss"
     },
     {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "title": "India is starting to pay for apps, not just download them",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:25:58.000Z",
+      "publishedAt": "2026-07-31T21:07:45.000Z",
       "type": "rss"
     },
     {
-      "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:08:58.000Z",
+      "publishedAt": "2026-07-31T19:47:28.000Z",
       "type": "rss"
     },
     {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T22:41:41.000Z",
+      "publishedAt": "2026-07-31T17:26:32.000Z",
       "type": "rss"
     },
     {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T20:26:38.000Z",
+      "publishedAt": "2026-07-31T16:49:08.000Z",
       "type": "rss"
     },
     {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "title": "Siri AI could come with a paywall for power users",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T19:44:16.000Z",
+      "publishedAt": "2026-07-31T16:08:18.000Z",
       "type": "rss"
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T18:57:58.000Z",
+      "publishedAt": "2026-07-31T15:16:17.000Z",
       "type": "rss"
     },
     {
-      "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T18:05:21.000Z",
+      "publishedAt": "2026-07-31T14:47:11.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-31T14:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "SKI",
-      "tagline": "Free voice coding for Claude Code, Codex and more",
-      "url": "https://www.producthunt.com/posts/ski"
+      "name": "MiniMax H3",
+      "tagline": "Unified video generation for motion design and branding",
+      "url": "https://www.producthunt.com/posts/minimax-h3"
     },
     {
-      "name": "AI Search Console",
-      "tagline": "Prompt analytics and citation mapping for AI search",
-      "url": "https://www.producthunt.com/posts/ai-search-console"
+      "name": "Cleanlist AI",
+      "tagline": "Natural-language prospecting: find, enrich and sync leads.",
+      "url": "https://www.producthunt.com/posts/cleanlist-ai-3"
     },
     {
-      "name": "Memmy Agent",
-      "tagline": "Let every AI remember the same you.",
-      "url": "https://www.producthunt.com/posts/memmy-agent"
+      "name": "mectrics",
+      "tagline": "Your Mac's vitals in the menu bar. Free and open source.",
+      "url": "https://www.producthunt.com/posts/mectrics"
     }
   ],
   "trends": [],
