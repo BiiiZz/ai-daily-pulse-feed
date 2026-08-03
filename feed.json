@@ -1,76 +1,36 @@
 {
-  "generatedAt": "2026-08-02T02:51:35.651Z",
+  "generatedAt": "2026-08-03T02:52:56.201Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "publishedAt": "2026-08-02T20:54:22.000Z",
       "type": "rss"
     },
     {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-01T19:45:45.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-01T17:07:34.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-01T15:58:17.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "source": "Wired AI",
-      "publishedAt": "2026-08-01T10:30:00.000Z",
+      "publishedAt": "2026-08-02T10:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-01T09:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI's Astra multi-agent model for long-horizon tasks ...",
-      "summary": "OpenAI is preparing Astra, a new multi-agent model family for long-horizon tasks, AI technology, known as Project Astra, will not launch until 2025 at the ...",
-      "url": "https://www.facebook.com/groups/868876935222403/posts/1374179091358849/",
-      "source": "facebook.com",
+      "title": "AI Agents News — Week of August 2, 2026 (Daily Updates)",
+      "summary": "Cequence Security has released four new AI Gateway capabilities—AI Discovery, API Registry, LLM Registry, and Skill Registry—along with upgraded Agent Personas",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "AI & Data Science News | Real-time Updates",
-      "summary": "Simon Willison released llm-mcp-client 0.1a0 on July 31, an alpha plugin that exposes tools from remote Model Context Protocol servers to his LLM command-line ...",
-      "url": "https://letsdatascience.com/news",
-      "source": "letsdatascience.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Pretty much every single agent loop bugs out and requires a hard refresh, And they have an effectively infinite LLM budget and unreleased models to fix the ...",
-      "url": "https://news.ycombinator.com/item?id=49132130",
-      "source": "news.ycombinator.com",
+      "title": "1 billion users aren't just testing AI—they are making it ...",
+      "summary": "OpenAI is expanding its product ecosystem by launching new corporate software designed to move the company beyond the current AI model war. This strategic pivot ...",
+      "url": "https://www.instagram.com/p/Dbh1M-wjQVE/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     },
@@ -81,30 +41,70 @@
       "source": "parallel.ai",
       "publishedAt": null,
       "type": "search"
+    },
+    {
+      "title": "OpenAI to release new top-tier model \"Astra\" with ...",
+      "summary": "OpenAI is preparing to launch a new artificial intelligence tool codenamed \"Operator\" that can autonomously perform tasks on a user's computer, such as writing ...",
+      "url": "https://www.facebook.com/groups/868876935222403/posts/1375002451276513/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Open Weights, Stateless Agents and the New AI Control ...",
+      "summary": "Welcome back to the Weekly Dose: your 5-minute breakdown of the AI/ML news that matters when you're building, evaluating, deploying, or operating AI systems ...",
+      "url": "https://mlpills.substack.com/p/weekly-dose-12-open-weights-stateless",
+      "source": "mlpills.substack.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "NI Nigel AI for Test & Measurement Workflows - NI",
+      "summary": "NigelTM AI is the AI optimized for test. Use Nigel as your agent, from planning to system-level debug, results analysis, and test station management.",
+      "url": "https://www.ni.com/en/shop/software-portfolio/nigel.html?srsltid=AfmBOor7wX5OtnUO9-hYgs1qX08Dmvsj6vkCTyyjQ1LQKwez7jBYxqGI",
+      "source": "ni.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Two labs, two weeks. An unreleased OpenAI model exploited ...",
+      "summary": "CNBC OpenAI's unreleased AI agent goes rogue NEWS ALERT: UNRELEASED OPENAI MODEL BREAKS OUT OF CONTAINMENT AND HACKS INFRASTRUCTURE OF AI START-UP IN TEST ...",
+      "url": "https://www.instagram.com/reel/DbiuZNHJ3YH/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "What Is an AI Agent and How Does It Work",
+      "summary": "An AI agent is a language model placed inside a loop with tools, so it can take several steps toward a goal instead of producing one answer and stopping.",
+      "url": "https://kodekloud.com/blog/what-is-an-ai-agent-and-how-does-it-work/",
+      "source": "kodekloud.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "NudgeForMe",
-      "tagline": "AI follow-up agent for missed email opportunities",
-      "url": "https://www.producthunt.com/posts/nudgeforme"
+      "name": "Zinley",
+      "tagline": "Your Personal AI Representative for calls, email, and tasks",
+      "url": "https://www.producthunt.com/posts/zinley"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "tagline": "Frontier agent intelligence at Flash prices",
-      "url": "https://www.producthunt.com/posts/deepseek-v4-flash-0731"
+      "name": "Capptivo",
+      "tagline": "Free open-source screen recorder & demo editor",
+      "url": "https://www.producthunt.com/posts/capptivo"
     },
     {
-      "name": "Port22",
-      "tagline": "Claude Code, Codex & more on your phone ",
-      "url": "https://www.producthunt.com/posts/port22"
+      "name": "YourSitee",
+      "tagline": "Make your bio link worth clicking",
+      "url": "https://www.producthunt.com/posts/yoursitee"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 6,
-    "fromSearch": 4,
+    "fromRSS": 2,
+    "fromSearch": 8,
     "products": 3,
     "trends": 0
   },
