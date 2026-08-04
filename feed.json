@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-03T02:52:56.201Z",
+  "generatedAt": "2026-08-04T02:36:45.738Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "title": "Code, craft, and the making of nested folders",
+      "summary": "",
+      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AI adoption starts with truth",
+      "summary": "The semantic layer is the foundation\n\nAI adoption is limited by trust. A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around",
+      "url": "https://replit.com/blog/ai-adoption",
+      "source": "Replit Blog",
+      "publishedAt": "2026-08-03T16:15:17.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-02T20:54:22.000Z",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
       "type": "rss"
     },
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-02T10:00:00.000Z",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of August 2, 2026 (Daily Updates)",
-      "summary": "Cequence Security has released four new AI Gateway capabilities—AI Discovery, API Registry, LLM Registry, and Skill Registry—along with upgraded Agent Personas",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "type": "rss"
     },
     {
-      "title": "1 billion users aren't just testing AI—they are making it ...",
-      "summary": "OpenAI is expanding its product ecosystem by launching new corporate software designed to move the company beyond the current AI model war. This strategic pivot ...",
-      "url": "https://www.instagram.com/p/Dbh1M-wjQVE/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "type": "rss"
     },
     {
-      "title": "Parallel.ai",
-      "summary": "Parallel builds web search and research APIs purpose-built for AI agents and agentic workflows. Parallel's Index was designed for LLMs and programmatic use ...",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T18:43:43.000Z",
+      "type": "rss"
     },
     {
-      "title": "OpenAI to release new top-tier model \"Astra\" with ...",
-      "summary": "OpenAI is preparing to launch a new artificial intelligence tool codenamed \"Operator\" that can autonomously perform tasks on a user's computer, such as writing ...",
-      "url": "https://www.facebook.com/groups/868876935222403/posts/1375002451276513/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Congress&#8217; favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T16:40:55.000Z",
+      "type": "rss"
     },
     {
-      "title": "Open Weights, Stateless Agents and the New AI Control ...",
-      "summary": "Welcome back to the Weekly Dose: your 5-minute breakdown of the AI/ML news that matters when you're building, evaluating, deploying, or operating AI systems ...",
-      "url": "https://mlpills.substack.com/p/weekly-dose-12-open-weights-stateless",
-      "source": "mlpills.substack.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "NI Nigel AI for Test & Measurement Workflows - NI",
-      "summary": "NigelTM AI is the AI optimized for test. Use Nigel as your agent, from planning to system-level debug, results analysis, and test station management.",
-      "url": "https://www.ni.com/en/shop/software-portfolio/nigel.html?srsltid=AfmBOor7wX5OtnUO9-hYgs1qX08Dmvsj6vkCTyyjQ1LQKwez7jBYxqGI",
-      "source": "ni.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Two labs, two weeks. An unreleased OpenAI model exploited ...",
-      "summary": "CNBC OpenAI's unreleased AI agent goes rogue NEWS ALERT: UNRELEASED OPENAI MODEL BREAKS OUT OF CONTAINMENT AND HACKS INFRASTRUCTURE OF AI START-UP IN TEST ...",
-      "url": "https://www.instagram.com/reel/DbiuZNHJ3YH/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "What Is an AI Agent and How Does It Work",
-      "summary": "An AI agent is a language model placed inside a loop with tools, so it can take several steps toward a goal instead of producing one answer and stopping.",
-      "url": "https://kodekloud.com/blog/what-is-an-ai-agent-and-how-does-it-work/",
-      "source": "kodekloud.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Trump’s AI protectionism has come for robotics",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Zinley",
-      "tagline": "Your Personal AI Representative for calls, email, and tasks",
-      "url": "https://www.producthunt.com/posts/zinley"
+      "name": "AgentSky",
+      "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+      "url": "https://www.producthunt.com/posts/agentsky"
     },
     {
-      "name": "Capptivo",
-      "tagline": "Free open-source screen recorder & demo editor",
-      "url": "https://www.producthunt.com/posts/capptivo"
+      "name": "Ctruh Studio",
+      "tagline": "Create interactive 3D and XR experiences without coding",
+      "url": "https://www.producthunt.com/posts/ctruh-studio-2"
     },
     {
-      "name": "YourSitee",
-      "tagline": "Make your bio link worth clicking",
-      "url": "https://www.producthunt.com/posts/yoursitee"
+      "name": "Airtop for Google Ads Automation",
+      "tagline": "Build campaigns, optimize spend, and create reports.",
+      "url": "https://www.producthunt.com/posts/airtop-for-google-ads-automation"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 2,
-    "fromSearch": 8,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
