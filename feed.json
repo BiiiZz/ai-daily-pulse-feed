@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-04T02:36:45.738Z",
+  "generatedAt": "2026-08-05T02:35:04.142Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Code, craft, and the making of nested folders",
-      "summary": "",
-      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "AI adoption starts with truth",
-      "summary": "The semantic layer is the foundation\n\nAI adoption is limited by trust. A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around",
-      "url": "https://replit.com/blog/ai-adoption",
-      "source": "Replit Blog",
-      "publishedAt": "2026-08-03T16:15:17.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "publishedAt": "2026-08-04T21:07:26.000Z",
       "type": "rss"
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "publishedAt": "2026-08-04T20:05:26.000Z",
       "type": "rss"
     },
     {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "publishedAt": "2026-08-04T19:48:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "publishedAt": "2026-08-04T19:34:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T18:43:43.000Z",
+      "publishedAt": "2026-08-04T19:28:49.000Z",
       "type": "rss"
     },
     {
-      "title": "Congress&#8217; favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T16:40:55.000Z",
+      "publishedAt": "2026-08-04T15:50:06.000Z",
       "type": "rss"
     },
     {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "publishedAt": "2026-08-04T15:42:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:20:06.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T14:03:01.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "AgentSky",
-      "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
-      "url": "https://www.producthunt.com/posts/agentsky"
+      "name": "Hey Noah",
+      "tagline": "A proactive AI executive assistant for founders",
+      "url": "https://www.producthunt.com/posts/hey-noah"
     },
     {
-      "name": "Ctruh Studio",
-      "tagline": "Create interactive 3D and XR experiences without coding",
-      "url": "https://www.producthunt.com/posts/ctruh-studio-2"
+      "name": "Wondering",
+      "tagline": "Duolingo for learning anything",
+      "url": "https://www.producthunt.com/posts/wondering-2"
     },
     {
-      "name": "Airtop for Google Ads Automation",
-      "tagline": "Build campaigns, optimize spend, and create reports.",
-      "url": "https://www.producthunt.com/posts/airtop-for-google-ads-automation"
+      "name": "Atlaso",
+      "tagline": "One memory for every AI you use",
+      "url": "https://www.producthunt.com/posts/atlaso"
     }
   ],
   "trends": [],
