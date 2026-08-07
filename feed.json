@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-06T02:38:07.970Z",
+  "generatedAt": "2026-08-07T02:42:19.671Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Lovable + Cerebras: investing in infrastructure that keeps up with your ideas",
-      "summary": "Lovable is partnering with Cerebras to build toward dramatically reduced response times by 2027, so you spend less time waiting and more time building.",
-      "url": "https://lovable.dev/blog/cerebras-partnership",
-      "source": "Lovable Blog",
-      "publishedAt": "2026-08-05T13:25:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "A dedicated security page for every business built on Lovable",
-      "summary": "Every app published on Lovable now gets a trust center — a dedicated security page at your app&apos;s own address, showing which security controls are live.",
-      "url": "https://lovable.dev/blog/trust-centers-for-business",
-      "source": "Lovable Blog",
-      "publishedAt": "2026-08-05T12:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Better code, fewer tokens: The benefits of Code Connect in MCP",
-      "summary": "",
-      "url": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-05T18:16:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T21:21:28.000Z",
+      "publishedAt": "2026-08-06T22:43:53.000Z",
       "type": "rss"
     },
     {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T20:05:00.000Z",
+      "publishedAt": "2026-08-06T17:34:42.000Z",
       "type": "rss"
     },
     {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T19:30:19.000Z",
+      "publishedAt": "2026-08-06T17:00:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T15:56:14.000Z",
+      "publishedAt": "2026-08-06T15:53:03.000Z",
       "type": "rss"
     },
     {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T15:46:27.000Z",
+      "publishedAt": "2026-08-06T15:10:32.000Z",
       "type": "rss"
     },
     {
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T15:05:00.000Z",
+      "publishedAt": "2026-08-06T13:31:57.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T14:13:18.000Z",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Wispr Flow Notetaker",
-      "tagline": "Meeting notes that get the details right.",
-      "url": "https://www.producthunt.com/posts/wispr-flow-notetaker"
+      "name": "Cloudflare OS",
+      "tagline": "Build the AI operating system for your company",
+      "url": "https://www.producthunt.com/posts/cloudflare-os-2"
     },
     {
-      "name": "AdAnt AI",
-      "tagline": "Claude for viral, high-converting social ads",
-      "url": "https://www.producthunt.com/posts/adant-ai"
+      "name": "AI Spend Console by Rippling",
+      "tagline": "Track your AI spend and connect it to business outcomes",
+      "url": "https://www.producthunt.com/posts/ai-spend-console-by-rippling"
     },
     {
-      "name": "NextDoor.Company",
-      "tagline": "Discover startups hiring near you, on a map",
-      "url": "https://www.producthunt.com/posts/nextdoor-company"
+      "name": "Superlog Responder",
+      "tagline": "Free, open-source AI bug-fixing agent",
+      "url": "https://www.producthunt.com/posts/superlog-responder"
     }
   ],
   "trends": [],
