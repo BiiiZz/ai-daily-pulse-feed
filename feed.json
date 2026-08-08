@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-08-07T02:42:19.671Z",
+  "generatedAt": "2026-08-08T01:42:39.732Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T22:43:53.000Z",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
       "type": "rss"
     },
     {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:34:42.000Z",
+      "publishedAt": "2026-08-07T21:30:11.000Z",
       "type": "rss"
     },
     {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:00:37.000Z",
+      "publishedAt": "2026-08-07T16:16:09.000Z",
       "type": "rss"
     },
     {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:53:03.000Z",
+      "publishedAt": "2026-08-07T14:22:49.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:31:57.000Z",
+      "publishedAt": "2026-08-07T11:40:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-07T14:20:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:30:00.000Z",
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-07T14:13:57.000Z",
       "type": "rss"
     },
     {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Cloudflare OS",
-      "tagline": "Build the AI operating system for your company",
-      "url": "https://www.producthunt.com/posts/cloudflare-os-2"
+      "name": "Coldtea.ai",
+      "tagline": "Make your software delivery self-driving",
+      "url": "https://www.producthunt.com/posts/coldtea"
     },
     {
-      "name": "AI Spend Console by Rippling",
-      "tagline": "Track your AI spend and connect it to business outcomes",
-      "url": "https://www.producthunt.com/posts/ai-spend-console-by-rippling"
+      "name": "Soloop",
+      "tagline": "Approval-first Agent OS for solo founders",
+      "url": "https://www.producthunt.com/posts/soloop-2"
     },
     {
-      "name": "Superlog Responder",
-      "tagline": "Free, open-source AI bug-fixing agent",
-      "url": "https://www.producthunt.com/posts/superlog-responder"
+      "name": "Nitro 4.0",
+      "tagline": "The first human translation platform built for AI agents",
+      "url": "https://www.producthunt.com/posts/nitro-4-0"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Growing AI Development Safety Concerns",
+      "desc": "AI progress raises unaddressed security risks.",
+      "ref": "OpenAI says it slowed Astra model development over security concerns"
+    },
+    {
+      "title": "AI Agent Specific Infrastructure Launches",
+      "desc": "New tools support AI agent development work.",
+      "ref": "Cloudflare launches Kitesurf, a browser built for AI agents"
+    },
+    {
+      "title": "Corporate AI Spend Management Tools Rise",
+      "desc": "New tools track business AI spending and ROI.",
+      "ref": "After Rippling blew millions on AI in months, it built an employee ROI tool"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
