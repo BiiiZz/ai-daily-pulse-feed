@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-08-08T01:42:39.732Z",
+  "generatedAt": "2026-08-09T01:48:01.246Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "publishedAt": "2026-08-08T21:24:02.000Z",
       "type": "rss"
     },
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T21:30:11.000Z",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
       "type": "rss"
     },
     {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T16:16:09.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T14:22:49.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T11:40:37.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-07T14:20:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "source": "Wired AI",
-      "publishedAt": "2026-08-07T14:13:57.000Z",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-07T10:00:00.000Z",
-      "type": "rss"
+      "title": "AI Agents News — Week of August 8, 2026 (Daily Updates)",
+      "summary": "OpenAI and partners also launched Agent Plugins, an interoperability standard designed to let agents across tools like AWS, GitHub, VS Code and Vercel call",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Meta introduces Muse Code beta with multi-agent AI for software ...",
+      "summary": "Meta rolled out Muse Code, a new artificial intelligence coding agent, made to help developers juggle complicated software engineering tasks.",
+      "url": "https://www.instagram.com/p/DbxSzjVRHAl/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Cloudflare Launched a Browser For AI Agents - Big Data News Weekly",
+      "summary": "In today's edition: Here is roundup of agent plugins, LLM costs, Astra Model. Tech giants unite behind a single standard for agent plugins.",
+      "url": "https://www.bigdatanewsweekly.com/p/cloudflare-launched-a-browser-for-ai-agents",
+      "source": "bigdatanewsweekly.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Channel8 English - Facebook",
+      "summary": "OpenAI has announced an indefinite delay in releasing its open-source AI model, originally scheduled for mid- July 2025, primarily to conduct further safety ...",
+      "url": "https://www.facebook.com/Channel8English/posts/openai-has-voluntarily-slowed-development-on-key-components-of-its-upcoming-ai-m/1127360199812511/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
+      "url": "https://www.forbes.com/lists/ai50/",
+      "source": "forbes.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Parallel.ai",
+      "summary": "Specialized agents for web research, built to outperform generalist models on cost, quality, and latency.",
+      "url": "https://parallel.ai/",
+      "source": "parallel.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "AI News Today — August 08, 2026 | Latest AI Updates - AI Herald",
+      "summary": "The latest AI news today (August 08, 2026): LLM releases, AI agent updates, model benchmarks, and industry developments. Updated daily by AI Herald.",
+      "url": "https://artificialintelligenceherald.com/ai-news-today",
+      "source": "artificialintelligenceherald.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Coldtea.ai",
-      "tagline": "Make your software delivery self-driving",
-      "url": "https://www.producthunt.com/posts/coldtea"
+      "name": "The GTM Co-Founder",
+      "tagline": "Open-source GTM skills for technical founders",
+      "url": "https://www.producthunt.com/posts/the-gtm-co-founder"
     },
     {
-      "name": "Soloop",
-      "tagline": "Approval-first Agent OS for solo founders",
-      "url": "https://www.producthunt.com/posts/soloop-2"
+      "name": "AstraPixels",
+      "tagline": "​​A pixel-art solar system at its real current positions.​",
+      "url": "https://www.producthunt.com/posts/astrapixels"
     },
     {
-      "name": "Nitro 4.0",
-      "tagline": "The first human translation platform built for AI agents",
-      "url": "https://www.producthunt.com/posts/nitro-4-0"
+      "name": "Hexis",
+      "tagline": "Git-backed skills, tools & context for AI agents",
+      "url": "https://www.producthunt.com/posts/hexis-3"
     }
   ],
-  "trends": [
-    {
-      "title": "Growing AI Development Safety Concerns",
-      "desc": "AI progress raises unaddressed security risks.",
-      "ref": "OpenAI says it slowed Astra model development over security concerns"
-    },
-    {
-      "title": "AI Agent Specific Infrastructure Launches",
-      "desc": "New tools support AI agent development work.",
-      "ref": "Cloudflare launches Kitesurf, a browser built for AI agents"
-    },
-    {
-      "title": "Corporate AI Spend Management Tools Rise",
-      "desc": "New tools track business AI spending and ROI.",
-      "ref": "After Rippling blew millions on AI in months, it built an employee ROI tool"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
