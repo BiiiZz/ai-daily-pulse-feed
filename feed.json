@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-09T01:48:01.246Z",
+  "generatedAt": "2026-08-10T01:51:54.705Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-08T21:24:02.000Z",
+      "publishedAt": "2026-08-09T20:35:17.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "publishedAt": "2026-08-09T19:20:32.000Z",
       "type": "rss"
     },
     {
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T14:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
       "source": "Wired AI",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "publishedAt": "2026-08-09T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of August 8, 2026 (Daily Updates)",
-      "summary": "OpenAI and partners also launched Agent Plugins, an interoperability standard designed to let agents across tools like AWS, GitHub, VS Code and Vercel call",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-09T09:30:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "AI Agents News — Week of August 9, 2026 (Daily Updates)",
+      "summary": "OpenAI pauses/delays its Astra model release after finding possible cyber-capability risks. What changed: Axios reports OpenAI has slowed the rollout of its ...",
       "url": "https://aiagentstore.ai/ai-agent-news/this-week",
       "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Meta introduces Muse Code beta with multi-agent AI for software ...",
-      "summary": "Meta rolled out Muse Code, a new artificial intelligence coding agent, made to help developers juggle complicated software engineering tasks.",
-      "url": "https://www.instagram.com/p/DbxSzjVRHAl/",
-      "source": "instagram.com",
+      "title": "MarkTechPost: Home",
+      "summary": "Marktechpost is a California-based AI News Platform providing easy-to-consume, byte size updates in machine learning, deep learning, and data science research.",
+      "url": "https://www.marktechpost.com/",
+      "source": "marktechpost.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Cloudflare Launched a Browser For AI Agents - Big Data News Weekly",
-      "summary": "In today's edition: Here is roundup of agent plugins, LLM costs, Astra Model. Tech giants unite behind a single standard for agent plugins.",
-      "url": "https://www.bigdatanewsweekly.com/p/cloudflare-launched-a-browser-for-ai-agents",
-      "source": "bigdatanewsweekly.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Channel8 English - Facebook",
-      "summary": "OpenAI has announced an indefinite delay in releasing its open-source AI model, originally scheduled for mid- July 2025, primarily to conduct further safety ...",
-      "url": "https://www.facebook.com/Channel8English/posts/openai-has-voluntarily-slowed-development-on-key-components-of-its-upcoming-ai-m/1127360199812511/",
+      "title": "Three AI labs admitted their own models broke into real companies ...",
+      "summary": "Ai labs just admitted their own models broke into real companies this week in security and AI in 60 seconds. Number four, Alibaba is about to release a model ...",
+      "url": "https://www.facebook.com/gotostationx/videos/three-ai-labs-admitted-their-own-models-broke-into-real-companies-during-safety-/1026053586939465/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-      "summary": "The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.",
-      "url": "https://www.forbes.com/lists/ai50/",
-      "source": "forbes.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Parallel.ai",
-      "summary": "Specialized agents for web research, built to outperform generalist models on cost, quality, and latency.",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI News Today — August 08, 2026 | Latest AI Updates - AI Herald",
-      "summary": "The latest AI news today (August 08, 2026): LLM releases, AI agent updates, model benchmarks, and industry developments. Updated daily by AI Herald.",
-      "url": "https://artificialintelligenceherald.com/ai-news-today",
-      "source": "artificialintelligenceherald.com",
+      "title": "Comment 'AI' and I'll send you the links to try them all. Here's ...",
+      "summary": "Number 5, Nous Research releases Hermes Skills Hub. Over 90,000 free community skills for your AI agent to work across 200 categories, from OpenAI, Anthropic, ...",
+      "url": "https://www.instagram.com/reel/Db0vxQexdJI/",
+      "source": "instagram.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "The GTM Co-Founder",
-      "tagline": "Open-source GTM skills for technical founders",
-      "url": "https://www.producthunt.com/posts/the-gtm-co-founder"
+      "name": "Omniwork",
+      "tagline": "The Creative Agent OS — create better with desktop AI agents",
+      "url": "https://www.producthunt.com/posts/omniwork-4"
     },
     {
-      "name": "AstraPixels",
-      "tagline": "​​A pixel-art solar system at its real current positions.​",
-      "url": "https://www.producthunt.com/posts/astrapixels"
+      "name": "VoiceOS App Store",
+      "tagline": "The app store for voice native apps that lives in your notch",
+      "url": "https://www.producthunt.com/posts/voiceos-app-store"
     },
     {
-      "name": "Hexis",
-      "tagline": "Git-backed skills, tools & context for AI agents",
-      "url": "https://www.producthunt.com/posts/hexis-3"
+      "name": "SoloUno",
+      "tagline": "Take control of hair pulling, nail biting & skin picking",
+      "url": "https://www.producthunt.com/posts/solouno"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 6,
+    "fromSearch": 4,
     "products": 3,
     "trends": 0
   },
