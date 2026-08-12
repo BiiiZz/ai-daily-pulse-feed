@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-11T01:48:20.826Z",
+  "generatedAt": "2026-08-12T02:00:43.103Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\"&gt;Learn how new AI and agentic experiences across Google Ads and Google Analy",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\"&gt;Google introduces AMIE for real-time clinical video consultati",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "source": "Google AI Blog",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "title": "Measuring time savings from Figma Make",
+      "summary": "",
+      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-08-11T19:59:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T00:03:18.000Z",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
       "type": "rss"
     },
     {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T23:56:15.000Z",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
       "type": "rss"
     },
     {
-      "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T20:53:02.000Z",
+      "publishedAt": "2026-08-11T18:49:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T20:04:24.000Z",
+      "publishedAt": "2026-08-11T17:41:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T16:20:13.000Z",
+      "publishedAt": "2026-08-11T17:41:22.000Z",
       "type": "rss"
     },
     {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "publishedAt": "2026-08-11T16:25:20.000Z",
       "type": "rss"
     },
     {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "title": "Spotify will label &#8216;AI Persona&#8217; profiles and exclude their music from recommendations",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eri",
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-10T12:10:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T12:13:47.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "oqoqo",
-      "tagline": "Build evals and custom benchmarks for real-world tasks",
-      "url": "https://www.producthunt.com/posts/oqoqo"
+      "name": "Tines 3B",
+      "tagline": "The secure environment for agents, apps, and automations",
+      "url": "https://www.producthunt.com/posts/tines-3b"
     },
     {
-      "name": "Portfolio Lab",
-      "tagline": "AI investing, done responsibly",
-      "url": "https://www.producthunt.com/posts/portfolio-lab-2"
+      "name": "BetterClaw",
+      "tagline": "Deploy AI Agent, 60 seconds & $0 forever ",
+      "url": "https://www.producthunt.com/posts/betterclaw"
     },
     {
-      "name": "Paritok",
-      "tagline": "Spend up to 85% less and run 3× longer coding agent sessions",
-      "url": "https://www.producthunt.com/posts/paritok"
+      "name": "Xirp",
+      "tagline": "The agentic development environment built by Spotify",
+      "url": "https://www.producthunt.com/posts/xirp"
     }
   ],
   "trends": [],
