@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-12T02:00:43.103Z",
+  "generatedAt": "2026-08-13T02:02:32.635Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\"&gt;Google introduces AMIE for real-time clinical video consultati",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "title": "We just raised $400M in Series C funding to help people run their businesses",
+      "summary": "Lovable has raised $400 million in Series C funding at a $13.3 billion valuation, led by Menlo Ventures and the Scaleup Europe Fund, managed by EQT.",
+      "url": "https://lovable.dev/blog/series-c",
+      "source": "Lovable Blog",
+      "publishedAt": "2026-08-12T09:59:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Measuring time savings from Figma Make",
-      "summary": "",
-      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-11T19:59:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T21:39:11.000Z",
+      "publishedAt": "2026-08-12T22:26:37.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "publishedAt": "2026-08-12T20:10:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T18:49:12.000Z",
+      "publishedAt": "2026-08-12T18:19:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T17:41:34.000Z",
+      "publishedAt": "2026-08-12T17:51:00.000Z",
       "type": "rss"
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T17:41:22.000Z",
+      "publishedAt": "2026-08-12T17:41:29.000Z",
       "type": "rss"
     },
     {
-      "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T16:25:20.000Z",
+      "publishedAt": "2026-08-12T16:57:58.000Z",
       "type": "rss"
     },
     {
-      "title": "Spotify will label &#8216;AI Persona&#8217; profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "publishedAt": "2026-08-12T16:46:02.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T12:13:47.000Z",
+      "publishedAt": "2026-08-12T16:04:27.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T15:44:56.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Tines 3B",
-      "tagline": "The secure environment for agents, apps, and automations",
-      "url": "https://www.producthunt.com/posts/tines-3b"
+      "name": "Dograh",
+      "tagline": "The open source VAPI alternative",
+      "url": "https://www.producthunt.com/posts/dograh-3"
     },
     {
-      "name": "BetterClaw",
-      "tagline": "Deploy AI Agent, 60 seconds & $0 forever ",
-      "url": "https://www.producthunt.com/posts/betterclaw"
+      "name": "Grok Bot",
+      "tagline": "AI teammates that you can give real work to",
+      "url": "https://www.producthunt.com/posts/grok-bot"
     },
     {
-      "name": "Xirp",
-      "tagline": "The agentic development environment built by Spotify",
-      "url": "https://www.producthunt.com/posts/xirp"
+      "name": "Lettertrace",
+      "tagline": "Track your AI visibility for free (using your own API keys!)",
+      "url": "https://www.producthunt.com/posts/lettertrace-2"
     }
   ],
   "trends": [],
