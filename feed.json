@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-14T02:00:36.838Z",
+  "generatedAt": "2026-08-15T01:16:20.736Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Team initiatives",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:05:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T12:17:21.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "summary": "",
-      "url": "https://linear.app/changelog/2026-08-13-team-initiatives",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-08-13T15:52:31.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\"&gt;Sheets canvas turns data into interactive dashboards, cust",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Try these 10 skills—and show off your own",
-      "summary": "",
-      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-13T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T21:13:24.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T20:14:39.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T19:22:40.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T19:19:49.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T18:28:14.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T17:07:13.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T15:30:52.000Z",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-14T18:32:14.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Kane CLI",
-      "tagline": "Natural language browser & mobile app tests from terminal",
-      "url": "https://www.producthunt.com/posts/kane-cli-2"
+      "name": "Outcome ",
+      "tagline": "Turn your content into a personal outcome for every lead",
+      "url": "https://www.producthunt.com/posts/outcome-2"
     },
     {
-      "name": "Ito",
-      "tagline": "AI code review that runs your code",
-      "url": "https://www.producthunt.com/posts/ito-6"
+      "name": "Freebuff",
+      "tagline": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
+      "url": "https://www.producthunt.com/posts/freebuff-2"
     },
     {
-      "name": "Nuphos",
-      "tagline": "The AI-Native DevOps Workspace.",
-      "url": "https://www.producthunt.com/posts/nuphos-2"
+      "name": "BrowserAct Cloud",
+      "tagline": "Scrape any data from any website with one prompt",
+      "url": "https://www.producthunt.com/posts/browseract-cloud"
     }
   ],
   "trends": [],
