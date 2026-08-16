@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-15T01:16:20.736Z",
+  "generatedAt": "2026-08-16T01:20:41.403Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14T14:05:00.000Z",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-15T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14T14:00:00.000Z",
-      "type": "rss"
+      "title": "AI Agents News — Week of August 15, 2026 (Daily Updates)",
+      "summary": "Google released Gemini 3.7 Flash, a targeted AI model optimized for software development, agent tasks, and document processing at roughly half the launch price",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-14T12:17:21.000Z",
-      "type": "rss"
+      "title": "Jerome Gouvernel's Post",
+      "summary": "Every LLM-based agent in production today operates with human supervision of some form. AI companies are priced as if unsupervised agents are imminent",
+      "url": "https://www.linkedin.com/posts/jeromegouvernel_there-is-no-such-thing-as-an-autonomous-llm-based-activity-7494444366200020992-Z9ni",
+      "source": "linkedin.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "This scientist is helping build a missing map of childhood",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "type": "rss"
+      "title": "AI Week in Review 26.08.15 - by Patrick McGuinness",
+      "summary": "This week is chock full of AI releases: Five new frontier-level AI models, several great local AI models, some new audio, image and video AI models, and new ...",
+      "url": "https://patmcguinness.substack.com/p/ai-week-in-review-260815",
+      "source": "patmcguinness.substack.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Job titles of the future: Space travel agent",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a",
-      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "type": "rss"
+      "title": "TechLatest AI & Tech Weekly #29",
+      "summary": "Liquid AI Releases LFM2.5-VL-3B: Liquid AI launched LFM2.5-VL-3B, a 3.1B-parameter open-weight vision-language model designed for on-device AI. It focuses ...",
+      "url": "https://medium.com/@techlatest.net/techlatest-ai-tech-weekly-29-0fd631692ffe",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "type": "rss"
+      "title": "A decade of internal AI battles is finally catching up to Google",
+      "summary": "NVIDIA has just expanded its “physical AI” stack with new open models for robotics, autonomous driving, and domain‐specific agents, including Alpamayo for AVs",
+      "url": "https://www.facebook.com/marketwatch/posts/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google/1422512969749020/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "summary": "",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "source": "Ars Technica AI",
-      "publishedAt": "2026-08-14T18:32:14.000Z",
-      "type": "rss"
+      "title": "LLM Daily: August 14, 2026",
+      "summary": "Writer Launches New Low-Cost Model Built on Z.ai's GLM-5.2. Enterprise AI company Writer has unveiled a new AI model built as a post-training variation on Z.",
+      "url": "https://buttondown.com/agent-k/archive/llm-daily-august-14-2026/",
+      "source": "buttondown.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Outcome ",
-      "tagline": "Turn your content into a personal outcome for every lead",
-      "url": "https://www.producthunt.com/posts/outcome-2"
+      "name": "Inferock Bench",
+      "tagline": "An independent receipt for every LLM API call",
+      "url": "https://www.producthunt.com/posts/inferock-bench"
     },
     {
-      "name": "Freebuff",
-      "tagline": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
-      "url": "https://www.producthunt.com/posts/freebuff-2"
+      "name": "GLM-5.3",
+      "tagline": "Coding leap from scaled post-training on the same base",
+      "url": "https://www.producthunt.com/posts/glm-5-3"
     },
     {
-      "name": "BrowserAct Cloud",
-      "tagline": "Scrape any data from any website with one prompt",
-      "url": "https://www.producthunt.com/posts/browseract-cloud"
+      "name": "Big Mike",
+      "tagline": "Your favorite uncle who knows sports & bets, on iMessage",
+      "url": "https://www.producthunt.com/posts/big-mike"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
     "trends": 0
   },
