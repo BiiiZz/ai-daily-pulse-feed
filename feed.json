@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-16T01:20:41.403Z",
+  "generatedAt": "2026-08-17T01:18:14.446Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "publishedAt": "2026-08-16T20:57:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "publishedAt": "2026-08-16T20:32:01.000Z",
       "type": "rss"
     },
     {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-15T09:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI Agents News — Week of August 15, 2026 (Daily Updates)",
-      "summary": "Google released Gemini 3.7 Flash, a targeted AI model optimized for software development, agent tasks, and document processing at roughly half the launch price",
+      "title": "AI Agents News — Week of August 16, 2026 (Daily Updates)",
+      "summary": "DeepSeek officially released the general-availability version of its V4-Pro language model with upgrades tailored for autonomous agent workflows,",
       "url": "https://aiagentstore.ai/ai-agent-news/this-week",
       "source": "aiagentstore.ai",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Jerome Gouvernel's Post",
-      "summary": "Every LLM-based agent in production today operates with human supervision of some form. AI companies are priced as if unsupervised agents are imminent",
-      "url": "https://www.linkedin.com/posts/jeromegouvernel_there-is-no-such-thing-as-an-autonomous-llm-based-activity-7494444366200020992-Z9ni",
-      "source": "linkedin.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI Week in Review 26.08.15 - by Patrick McGuinness",
-      "summary": "This week is chock full of AI releases: Five new frontier-level AI models, several great local AI models, some new audio, image and video AI models, and new ...",
-      "url": "https://patmcguinness.substack.com/p/ai-week-in-review-260815",
-      "source": "patmcguinness.substack.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "TechLatest AI & Tech Weekly #29",
-      "summary": "Liquid AI Releases LFM2.5-VL-3B: Liquid AI launched LFM2.5-VL-3B, a 3.1B-parameter open-weight vision-language model designed for on-device AI. It focuses ...",
-      "url": "https://medium.com/@techlatest.net/techlatest-ai-tech-weekly-29-0fd631692ffe",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "summary": "NVIDIA has just expanded its “physical AI” stack with new open models for robotics, autonomous driving, and domain‐specific agents, including Alpamayo for AVs",
-      "url": "https://www.facebook.com/marketwatch/posts/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google/1422512969749020/",
+      "title": "You tell an AI agent, capable of autonomous reasoning, “ ...",
+      "summary": "These AI agents, powered by Amazon's proprietary large language model named Rufus, can recommend products, add items to carts, and potentially complete ...",
+      "url": "https://www.facebook.com/13news/posts/you-tell-an-ai-agent-capable-of-autonomous-reasoning-find-me-a-shirt-for-less-th/1481989690631805/",
       "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "LLM Daily: August 14, 2026",
-      "summary": "Writer Launches New Low-Cost Model Built on Z.ai's GLM-5.2. Enterprise AI company Writer has unveiled a new AI model built as a post-training variation on Z.",
-      "url": "https://buttondown.com/agent-k/archive/llm-daily-august-14-2026/",
-      "source": "buttondown.com",
+      "title": "AI Signal Daily | Cloud Intelligence™ - DoiT",
+      "summary": "Daily AI signal, minus the launch spam. A nine-minute briefing on the models, deals, and infrastructure shaping how work actually gets done. LLM agents.",
+      "url": "https://www.doit.com/ai-daily",
+      "source": "doit.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "This becomes especially useful when you're building AI ...",
+      "summary": "Second, an LLM gateway. This is what real AI products need: model routing, fallbacks, token tracking, and semantic caching so companies don't keep paying for ...",
+      "url": "https://www.instagram.com/reel/DcFv8opqe6X/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "The System From Nowhere",
+      "summary": "\"The system from nowhere\" is a way of talking about AI systems that excludes its origin as a consciously, human-designed product.",
+      "url": "https://mail.cyberneticforests.com/the-system-from-nowhere/?ref=cybernetic-forests-newsletter",
+      "source": "mail.cyberneticforests.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "GPT-6 Astra: OpenAI's Next Model Just Destroyed Claude AI",
+      "summary": "OpenAI just published ten solved math and theoretical. OpenAI's Next Model Just Destroyed Claude AI. Claude agents just went. Every LLM Explained in 20 Minutes",
+      "url": "https://www.youtube.com/watch?v=Elwg-3Ql8u0",
+      "source": "youtube.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Parallel - Web Infrastructure for AI Agents",
+      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
+      "url": "https://parallel.ai/",
+      "source": "parallel.ai",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Inferock Bench",
-      "tagline": "An independent receipt for every LLM API call",
-      "url": "https://www.producthunt.com/posts/inferock-bench"
+      "name": "Blume",
+      "tagline": "AI-ready, Markdown-first documentation framework",
+      "url": "https://www.producthunt.com/posts/blume-4"
     },
     {
-      "name": "GLM-5.3",
-      "tagline": "Coding leap from scaled post-training on the same base",
-      "url": "https://www.producthunt.com/posts/glm-5-3"
+      "name": "HarnessRouter Community Edition",
+      "tagline": "Open-source unified interface for agent harnesses",
+      "url": "https://www.producthunt.com/posts/harnessrouter-community-edition"
     },
     {
-      "name": "Big Mike",
-      "tagline": "Your favorite uncle who knows sports & bets, on iMessage",
-      "url": "https://www.producthunt.com/posts/big-mike"
+      "name": "Expeditione",
+      "tagline": "The Interactive 3D Encyclopedia",
+      "url": "https://www.producthunt.com/posts/expeditione"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 3,
+    "fromSearch": 7,
     "products": 3,
     "trends": 0
   },
