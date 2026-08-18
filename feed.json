@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-17T01:18:14.446Z",
+  "generatedAt": "2026-08-18T01:15:37.758Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16T20:57:04.000Z",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\"&gt;Google Gemini and Pixel partner with five global football ",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-17T08:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16T20:32:01.000Z",
+      "title": "Black-box pen tests on Replit",
+      "summary": "Replit enables you to build apps to create and launch apps that hold real customer data within a day.\n\nBefore coding agents, a full pre-launch security review required procuring a pen test from a vend",
+      "url": "https://replit.com/blog/black-box-pen-tests",
+      "source": "Replit Blog",
+      "publishedAt": "2026-08-17T16:52:49.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of August 16, 2026 (Daily Updates)",
-      "summary": "DeepSeek officially released the general-availability version of its V4-Pro language model with upgrades tailored for autonomous agent workflows,",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "type": "rss"
     },
     {
-      "title": "You tell an AI agent, capable of autonomous reasoning, “ ...",
-      "summary": "These AI agents, powered by Amazon's proprietary large language model named Rufus, can recommend products, add items to carts, and potentially complete ...",
-      "url": "https://www.facebook.com/13news/posts/you-tell-an-ai-agent-capable-of-autonomous-reasoning-find-me-a-shirt-for-less-th/1481989690631805/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:38:44.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Signal Daily | Cloud Intelligence™ - DoiT",
-      "summary": "Daily AI signal, minus the launch spam. A nine-minute briefing on the models, deals, and infrastructure shaping how work actually gets done. LLM agents.",
-      "url": "https://www.doit.com/ai-daily",
-      "source": "doit.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:15:12.000Z",
+      "type": "rss"
     },
     {
-      "title": "This becomes especially useful when you're building AI ...",
-      "summary": "Second, an LLM gateway. This is what real AI products need: model routing, fallbacks, token tracking, and semantic caching so companies don't keep paying for ...",
-      "url": "https://www.instagram.com/reel/DcFv8opqe6X/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T15:16:24.000Z",
+      "type": "rss"
     },
     {
-      "title": "The System From Nowhere",
-      "summary": "\"The system from nowhere\" is a way of talking about AI systems that excludes its origin as a consciously, human-designed product.",
-      "url": "https://mail.cyberneticforests.com/the-system-from-nowhere/?ref=cybernetic-forests-newsletter",
-      "source": "mail.cyberneticforests.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T13:10:05.000Z",
+      "type": "rss"
     },
     {
-      "title": "GPT-6 Astra: OpenAI's Next Model Just Destroyed Claude AI",
-      "summary": "OpenAI just published ten solved math and theoretical. OpenAI's Next Model Just Destroyed Claude AI. Claude agents just went. Every LLM Explained in 20 Minutes",
-      "url": "https://www.youtube.com/watch?v=Elwg-3Ql8u0",
-      "source": "youtube.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "What Flock’s defenders are missing",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-17T19:16:09.000Z",
+      "type": "rss"
     },
     {
-      "title": "Parallel - Web Infrastructure for AI Agents",
-      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? ",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-17T12:10:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Blume",
-      "tagline": "AI-ready, Markdown-first documentation framework",
-      "url": "https://www.producthunt.com/posts/blume-4"
+      "name": "Meridian",
+      "tagline": "Don't let your work go unnoticed. Get promoted!",
+      "url": "https://www.producthunt.com/posts/meridian-19"
     },
     {
-      "name": "HarnessRouter Community Edition",
-      "tagline": "Open-source unified interface for agent harnesses",
-      "url": "https://www.producthunt.com/posts/harnessrouter-community-edition"
+      "name": "Omni by xpander",
+      "tagline": "Stop babysitting your AI agents",
+      "url": "https://www.producthunt.com/posts/omni-by-xpander"
     },
     {
-      "name": "Expeditione",
-      "tagline": "The Interactive 3D Encyclopedia",
-      "url": "https://www.producthunt.com/posts/expeditione"
+      "name": "Vendo ",
+      "tagline": "Let your users build their own features inside your product",
+      "url": "https://www.producthunt.com/posts/vendo-2"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 3,
-    "fromSearch": 7,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
     "trends": 0
   },
