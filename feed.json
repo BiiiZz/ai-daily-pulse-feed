@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-08-20T01:16:30.656Z",
+  "generatedAt": "2026-08-21T01:20:15.942Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "5 new ways to level up your learning with Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\"&gt;Here’s how you can use Google Search tools to study for classes and ",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "title": "Coding sessions: environments, browser use, and updated pricing",
+      "summary": "",
+      "url": "https://linear.app/changelog/2026-08-20-coding-environments",
+      "source": "Linear Changelog",
+      "publishedAt": "2026-08-20T15:32:55.000Z",
       "type": "rss"
     },
     {
-      "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T23:32:00.000Z",
+      "title": "How to get your app verified for third-party data access",
+      "summary": "How to navigate provider review when your Lovable app connects to users&apos; third-party data, using one builder&apos;s Google OAuth verification as the example.",
+      "url": "https://lovable.dev/blog/how-to-get-your-app-verified-for-third-party-data-access",
+      "source": "Lovable Blog",
+      "publishedAt": "2026-08-20T08:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T22:10:46.000Z",
+      "title": "Sightlines issue no.2: What leaders need to know about building agents",
+      "summary": "",
+      "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-08-20T19:36:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T21:51:23.000Z",
+      "publishedAt": "2026-08-21T00:13:44.000Z",
       "type": "rss"
     },
     {
-      "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
-      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T19:11:40.000Z",
+      "publishedAt": "2026-08-20T22:36:37.000Z",
       "type": "rss"
     },
     {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "publishedAt": "2026-08-20T22:09:51.000Z",
       "type": "rss"
     },
     {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T18:46:14.000Z",
+      "publishedAt": "2026-08-20T20:53:13.000Z",
       "type": "rss"
     },
     {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T17:26:48.000Z",
+      "publishedAt": "2026-08-20T19:18:21.000Z",
       "type": "rss"
     },
     {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T15:44:53.000Z",
+      "publishedAt": "2026-08-20T19:15:05.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T15:00:00.000Z",
+      "publishedAt": "2026-08-20T18:20:35.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Astute",
-      "tagline": "Automate your B2B brand going viral, with new media creators",
-      "url": "https://www.producthunt.com/posts/astute-2"
+      "name": "HyNote for Mac",
+      "tagline": "Free local transcription that is 100% Private",
+      "url": "https://www.producthunt.com/posts/hynote-for-mac"
     },
     {
-      "name": "Clipto MCP",
-      "tagline": "Let agents source clips from terabytes of your local video",
-      "url": "https://www.producthunt.com/posts/clipto-mcp"
+      "name": "Grok 4.6",
+      "tagline": "Frontier Intelligence for Long-Running Agents",
+      "url": "https://www.producthunt.com/posts/grok-4-6-8"
     },
     {
-      "name": "Origin by Cursor",
-      "tagline": "The Git forge built for the age of coding agents",
-      "url": "https://www.producthunt.com/posts/origin-by-cursor"
+      "name": "Checksum AI",
+      "tagline": "Your coding agent’s testing buddy",
+      "url": "https://www.producthunt.com/posts/checksum-ai"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "Booming Demand For AI Training Data",
+      "desc": "AI training data demand is growing rapidly.",
+      "ref": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
+    },
+    {
+      "title": "Volatile Enterprise AI User Loyalty",
+      "desc": "Businesses frequently switch between AI providers.",
+      "ref": "OpenAI is gaining on Anthropic with business users, new data indicates"
+    },
+    {
+      "title": "AI Integrating Into Daily Consumer Tools",
+      "desc": "AI adds new everyday consumer integrations.",
+      "ref": "ChatGPT can now send texts for you with new Apple Messages plug-in"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
