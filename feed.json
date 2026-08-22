@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-08-21T01:20:15.942Z",
+  "generatedAt": "2026-08-22T01:16:05.636Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Coding sessions: environments, browser use, and updated pricing",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T23:07:25.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T22:37:38.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T19:43:39.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-21T12:10:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Mother tongue",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "",
-      "url": "https://linear.app/changelog/2026-08-20-coding-environments",
-      "source": "Linear Changelog",
-      "publishedAt": "2026-08-20T15:32:55.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "How to get your app verified for third-party data access",
-      "summary": "How to navigate provider review when your Lovable app connects to users&apos; third-party data, using one builder&apos;s Google OAuth verification as the example.",
-      "url": "https://lovable.dev/blog/how-to-get-your-app-verified-for-third-party-data-access",
-      "source": "Lovable Blog",
-      "publishedAt": "2026-08-20T08:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Sightlines issue no.2: What leaders need to know about building agents",
-      "summary": "",
-      "url": "https://www.figma.com/blog/sightlines-issue-no2/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-20T19:36:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T00:13:44.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T22:36:37.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T22:09:51.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T20:53:13.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T19:18:21.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T19:15:05.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T18:20:35.000Z",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-21T13:11:35.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "HyNote for Mac",
-      "tagline": "Free local transcription that is 100% Private",
-      "url": "https://www.producthunt.com/posts/hynote-for-mac"
+      "name": "Wizstar",
+      "tagline": "Digital avatars that move and act like professional actors",
+      "url": "https://www.producthunt.com/posts/wizstar-2"
     },
     {
-      "name": "Grok 4.6",
-      "tagline": "Frontier Intelligence for Long-Running Agents",
-      "url": "https://www.producthunt.com/posts/grok-4-6-8"
+      "name": "Supernova",
+      "tagline": "All your data in Claude and Codex",
+      "url": "https://www.producthunt.com/posts/supernova-6"
     },
     {
-      "name": "Checksum AI",
-      "tagline": "Your coding agent’s testing buddy",
-      "url": "https://www.producthunt.com/posts/checksum-ai"
+      "name": "Mindcase",
+      "tagline": "Extract data from anywhere on the web within minutes",
+      "url": "https://www.producthunt.com/posts/mindcase"
     }
   ],
-  "trends": [
-    {
-      "title": "Booming Demand For AI Training Data",
-      "desc": "AI training data demand is growing rapidly.",
-      "ref": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
-    },
-    {
-      "title": "Volatile Enterprise AI User Loyalty",
-      "desc": "Businesses frequently switch between AI providers.",
-      "ref": "OpenAI is gaining on Anthropic with business users, new data indicates"
-    },
-    {
-      "title": "AI Integrating Into Daily Consumer Tools",
-      "desc": "AI adds new everyday consumer integrations.",
-      "ref": "ChatGPT can now send texts for you with new Apple Messages plug-in"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
