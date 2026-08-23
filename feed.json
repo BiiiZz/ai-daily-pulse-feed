@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-08-22T01:16:05.636Z",
+  "generatedAt": "2026-08-23T01:22:33.504Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T23:07:25.000Z",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
       "type": "rss"
     },
     {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T22:37:38.000Z",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T19:43:39.000Z",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
       "type": "rss"
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "type": "rss"
+      "title": "AI Agents News — Week of August 22, 2026 (Daily Updates)",
+      "summary": "The updated release combines natural-language agent creation, reusable skills, AI-assisted workflow building, and governance-aware deployment",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21T12:10:00.000Z",
-      "type": "rss"
+      "title": "AI Signal Daily | Cloud Intelligence™ - DoiT",
+      "summary": "Daily AI signal, minus the launch spam. A nine-minute briefing on the models, deals, and infrastructure shaping how work actually gets done.",
+      "url": "https://www.doit.com/ai-daily",
+      "source": "doit.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Mother tongue",
-      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,",
-      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "type": "rss"
+      "title": "AI Agents Are Getting Their Own Protocol Stack",
+      "summary": "A practical guide to MCP and A2A in 2026, showing how AI agents connect with tools, data, and other agents to build secure, production-ready systems.",
+      "url": "https://medium.com/lets-code-future/ai-agents-are-getting-their-own-protocol-stack-e2e661f526b8",
+      "source": "medium.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "type": "rss"
+      "title": "Parallel - Web Infrastructure for AI Agents",
+      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
+      "url": "https://parallel.ai/",
+      "source": "parallel.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "type": "rss"
+      "title": "Jonathan Parsons' Post",
+      "summary": "Build a personal AI agent that works in the background. AI agents are just structured workflows. And AI. LLM (decision-making) launch AI agents you can build: ...",
+      "url": "https://www.linkedin.com/posts/jonathan-parsons-marketing_everyone-is-talking-about-ai-agents-almost-activity-7496914095657541632-67dL",
+      "source": "linkedin.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary": "",
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "source": "Ars Technica AI",
-      "publishedAt": "2026-08-21T13:11:35.000Z",
-      "type": "rss"
+      "title": "Startup cofounder Brian Distelburger learned his lesson ...",
+      "summary": "Startup cofounder Brian Distelburger learned his lesson: set up guardrails for AI agents. \"They can really go wild,\" he said. https://bit.ly/4xW7LKM.",
+      "url": "https://www.facebook.com/FoodInsider/posts/startup-cofounder-brian-distelburger-learned-his-lesson-set-up-guardrails-for-ai/1417327196930155/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Wizstar",
-      "tagline": "Digital avatars that move and act like professional actors",
-      "url": "https://www.producthunt.com/posts/wizstar-2"
+      "name": "Toplify",
+      "tagline": "Track your App Store ranking worldwide",
+      "url": "https://www.producthunt.com/posts/toplify"
     },
     {
-      "name": "Supernova",
-      "tagline": "All your data in Claude and Codex",
-      "url": "https://www.producthunt.com/posts/supernova-6"
+      "name": "Open Analytics",
+      "tagline": "AI-Native Google Analytics alternative for the modern web",
+      "url": "https://www.producthunt.com/posts/open-analytics-5"
     },
     {
-      "name": "Mindcase",
-      "tagline": "Extract data from anywhere on the web within minutes",
-      "url": "https://www.producthunt.com/posts/mindcase"
+      "name": "SubtitleGenerator",
+      "tagline": "From video to publish-ready AI subtitles—all in one browser",
+      "url": "https://www.producthunt.com/posts/subtitlegenerator"
     }
   ],
   "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 4,
+    "fromSearch": 6,
     "products": 3,
     "trends": 0
   },
