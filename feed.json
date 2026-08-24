@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-23T01:22:33.504Z",
+  "generatedAt": "2026-08-24T01:19:46.401Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
       "type": "rss"
     },
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "publishedAt": "2026-08-23T15:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of August 22, 2026 (Daily Updates)",
+      "title": "AI Agents News — Week of August 23, 2026 (Daily Updates)",
       "summary": "The updated release combines natural-language agent creation, reusable skills, AI-assisted workflow building, and governance-aware deployment",
       "url": "https://aiagentstore.ai/ai-agent-news/this-week",
       "source": "aiagentstore.ai",
@@ -51,14 +51,6 @@
       "type": "search"
     },
     {
-      "title": "AI Agents Are Getting Their Own Protocol Stack",
-      "summary": "A practical guide to MCP and A2A in 2026, showing how AI agents connect with tools, data, and other agents to build secure, production-ready systems.",
-      "url": "https://medium.com/lets-code-future/ai-agents-are-getting-their-own-protocol-stack-e2e661f526b8",
-      "source": "medium.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
       "title": "Parallel - Web Infrastructure for AI Agents",
       "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
       "url": "https://parallel.ai/",
@@ -67,37 +59,45 @@
       "type": "search"
     },
     {
-      "title": "Jonathan Parsons' Post",
-      "summary": "Build a personal AI agent that works in the background. AI agents are just structured workflows. And AI. LLM (decision-making) launch AI agents you can build: ...",
-      "url": "https://www.linkedin.com/posts/jonathan-parsons-marketing_everyone-is-talking-about-ai-agents-almost-activity-7496914095657541632-67dL",
-      "source": "linkedin.com",
+      "title": "Towards an Agentic Era of AI Design Principles",
+      "summary": "This paper argues that the design of AI agents has largely been approached as an engineering challenge driven by experimentation and human intuition.",
+      "url": "https://www.facebook.com/SSRNcommunity/posts/towards-an-agentic-era-of-ai-by-tianyu-liu-and-co-authors-as-ai-moves-beyond-gen/1692874606177170/",
+      "source": "facebook.com",
       "publishedAt": null,
       "type": "search"
     },
     {
-      "title": "Startup cofounder Brian Distelburger learned his lesson ...",
-      "summary": "Startup cofounder Brian Distelburger learned his lesson: set up guardrails for AI agents. \"They can really go wild,\" he said. https://bit.ly/4xW7LKM.",
-      "url": "https://www.facebook.com/FoodInsider/posts/startup-cofounder-brian-distelburger-learned-his-lesson-set-up-guardrails-for-ai/1417327196930155/",
-      "source": "facebook.com",
+      "title": "Harness Launches AI Agents for Machine-Speed ...",
+      "summary": "LLM-based scanning, LLM Scan Orchestration, patching are available now as part of the Harness platform.",
+      "url": "https://www.aol.com/articles/harness-launches-ai-agents-machine-150000000.html",
+      "source": "aol.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Etzioni on AI: An Opinionated Glossary of AI",
+      "summary": "Model, LLM, frontier model ChatGPT is the app you open; an LLM, or large language model, is the AI running inside it.",
+      "url": "https://www.geekwire.com/2026/etzioni-on-ai-an-opinionated-glossary-of-ai/",
+      "source": "geekwire.com",
       "publishedAt": null,
       "type": "search"
     }
   ],
   "products": [
     {
-      "name": "Toplify",
-      "tagline": "Track your App Store ranking worldwide",
-      "url": "https://www.producthunt.com/posts/toplify"
+      "name": "Construct Computer",
+      "tagline": "Your AI coworker gets a computer. You get your day back.",
+      "url": "https://www.producthunt.com/posts/construct-computer"
     },
     {
-      "name": "Open Analytics",
-      "tagline": "AI-Native Google Analytics alternative for the modern web",
-      "url": "https://www.producthunt.com/posts/open-analytics-5"
+      "name": "FetchSandbox MCP",
+      "tagline": "The MCP that proves your AI's integration fixes work",
+      "url": "https://www.producthunt.com/posts/fetchsandbox-mcp"
     },
     {
-      "name": "SubtitleGenerator",
-      "tagline": "From video to publish-ready AI subtitles—all in one browser",
-      "url": "https://www.producthunt.com/posts/subtitlegenerator"
+      "name": "Aximote",
+      "tagline": "Your car data, finally in your pocket",
+      "url": "https://www.producthunt.com/posts/aximote"
     }
   ],
   "trends": [],
