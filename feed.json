@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-08-24T01:19:46.401Z",
+  "generatedAt": "2026-08-25T01:17:48.224Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "publishedAt": "2026-08-25T00:23:12.000Z",
       "type": "rss"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "publishedAt": "2026-08-24T21:24:17.000Z",
       "type": "rss"
     },
     {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23T15:30:00.000Z",
+      "publishedAt": "2026-08-24T19:54:19.000Z",
       "type": "rss"
     },
     {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "publishedAt": "2026-08-24T18:03:55.000Z",
       "type": "rss"
     },
     {
-      "title": "AI Agents News — Week of August 23, 2026 (Daily Updates)",
-      "summary": "The updated release combines natural-language agent creation, reusable skills, AI-assisted workflow building, and governance-aware deployment",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T15:24:18.000Z",
+      "type": "rss"
     },
     {
-      "title": "AI Signal Daily | Cloud Intelligence™ - DoiT",
-      "summary": "Daily AI signal, minus the launch spam. A nine-minute briefing on the models, deals, and infrastructure shaping how work actually gets done.",
-      "url": "https://www.doit.com/ai-daily",
-      "source": "doit.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Parallel - Web Infrastructure for AI Agents",
-      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T13:47:26.000Z",
+      "type": "rss"
     },
     {
-      "title": "Towards an Agentic Era of AI Design Principles",
-      "summary": "This paper argues that the design of AI agents has largely been approached as an engineering challenge driven by experimentation and human intuition.",
-      "url": "https://www.facebook.com/SSRNcommunity/posts/towards-an-agentic-era-of-ai-by-tianyu-liu-and-co-authors-as-ai-moves-beyond-gen/1692874606177170/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-24T14:20:19.000Z",
+      "type": "rss"
     },
     {
-      "title": "Harness Launches AI Agents for Machine-Speed ...",
-      "summary": "LLM-based scanning, LLM Scan Orchestration, patching are available now as part of the Harness platform.",
-      "url": "https://www.aol.com/articles/harness-launches-ai-agents-machine-150000000.html",
-      "source": "aol.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teach",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-24T12:10:00.000Z",
+      "type": "rss"
     },
     {
-      "title": "Etzioni on AI: An Opinionated Glossary of AI",
-      "summary": "Model, LLM, frontier model ChatGPT is the app you open; an LLM, or large language model, is the AI running inside it.",
-      "url": "https://www.geekwire.com/2026/etzioni-on-ai-an-opinionated-glossary-of-ai/",
-      "source": "geekwire.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "Kids outlearn AI—and we still don&#8217;t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Construct Computer",
-      "tagline": "Your AI coworker gets a computer. You get your day back.",
-      "url": "https://www.producthunt.com/posts/construct-computer"
+      "name": "PaymentKit",
+      "tagline": "Billing that survives a processor shutdown",
+      "url": "https://www.producthunt.com/posts/paymentkit"
     },
     {
-      "name": "FetchSandbox MCP",
-      "tagline": "The MCP that proves your AI's integration fixes work",
-      "url": "https://www.producthunt.com/posts/fetchsandbox-mcp"
+      "name": "Decawork",
+      "tagline": "Control your company's internal AI agents and tools",
+      "url": "https://www.producthunt.com/posts/decawork"
     },
     {
-      "name": "Aximote",
-      "tagline": "Your car data, finally in your pocket",
-      "url": "https://www.producthunt.com/posts/aximote"
+      "name": "Navigara",
+      "tagline": "Connect Your AI Spend Directly to Your Roadmap",
+      "url": "https://www.producthunt.com/posts/navigara"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "General AI Agents Gain Investment",
+      "desc": "Investors fund AI agent startups expanding into new sectors.",
+      "ref": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
+    },
+    {
+      "title": "AI Assistants Face Privacy Scrutiny",
+      "desc": "New capable AI assistants raise privacy and security concerns.",
+      "ref": "Instinct’s powerful AI assistant is raising privacy and security concerns"
+    },
+    {
+      "title": "Major AI Startup Draws Acquisition Bids",
+      "desc": "Leading AI startup gets $13B valuation acquisition offers.",
+      "ref": "Hugging Face reportedly in talks to be acquired for $13B"
+    }
+  ],
   "stats": {
     "total": 10,
-    "fromRSS": 4,
-    "fromSearch": 6,
+    "fromRSS": 10,
+    "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
