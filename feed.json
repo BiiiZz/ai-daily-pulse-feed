@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-26T01:20:43.305Z",
+  "generatedAt": "2026-08-27T07:59:01.491Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\"&gt;Learn how to use Google Search tools to find home decor inspiration, shop for f",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "How we made Lovable apps work with the rest of your stack",
-      "summary": "How Lovable went from no formal integrations to nearly 100 app connectors in six months, and what&apos;s next for OAuth, permissions, and app user connections.",
-      "url": "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack",
-      "source": "Lovable Blog",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "publishedAt": "2026-08-27T06:32:51.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T00:06:20.000Z",
+      "publishedAt": "2026-08-27T00:24:57.000Z",
       "type": "rss"
     },
     {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "publishedAt": "2026-08-26T23:47:18.000Z",
       "type": "rss"
     },
     {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T17:50:33.000Z",
+      "publishedAt": "2026-08-26T21:37:39.000Z",
       "type": "rss"
     },
     {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T15:00:00.000Z",
+      "publishedAt": "2026-08-26T19:37:34.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "title": "How do we explain OpenAI&#8217;s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T14:22:04.000Z",
+      "publishedAt": "2026-08-26T19:34:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "publishedAt": "2026-08-26T19:05:22.000Z",
       "type": "rss"
     },
     {
-      "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "publishedAt": "2026-08-26T15:47:28.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "type": "rss"
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T14:37:01.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "akta.pro",
-      "tagline": "Private company data and signals API for the agent economy",
-      "url": "https://www.producthunt.com/posts/akta-pro"
+      "name": "Enter Pro",
+      "tagline": "The AI-native platform to build and scale your apps",
+      "url": "https://www.producthunt.com/posts/enter-pro-2"
     },
     {
-      "name": "Diet Claude",
-      "tagline": "Never get blindsided by Claude's usage limits again",
-      "url": "https://www.producthunt.com/posts/diet-claude"
+      "name": "Pluto",
+      "tagline": "Your professional profile is now an AI agent",
+      "url": "https://www.producthunt.com/posts/pluto-6"
     },
     {
-      "name": "Agnost AI",
-      "tagline": "Catch agent failures your evals miss",
-      "url": "https://www.producthunt.com/posts/agnost-ai"
+      "name": "Skydive",
+      "tagline": "Build cloud agents that work across your tools",
+      "url": "https://www.producthunt.com/posts/skydive"
     }
   ],
   "trends": [],
