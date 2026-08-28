@@ -1,116 +1,131 @@
 {
-  "generatedAt": "2026-08-27T07:59:01.491Z",
+  "generatedAt": "2026-08-28T10:02:10.963Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T06:32:51.000Z",
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\"&gt;Book hotels and track airfares, plus view miles and rewards w",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T00:24:57.000Z",
+      "publishedAt": "2026-08-27T23:16:45.000Z",
       "type": "rss"
     },
     {
-      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T23:47:18.000Z",
+      "publishedAt": "2026-08-27T19:52:52.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T21:37:39.000Z",
+      "publishedAt": "2026-08-27T17:43:24.000Z",
       "type": "rss"
     },
     {
-      "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:37:34.000Z",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "How do we explain OpenAI&#8217;s executive exodus?",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:34:04.000Z",
+      "publishedAt": "2026-08-27T14:56:52.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "title": "AI&#8217;s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:05:22.000Z",
+      "publishedAt": "2026-08-27T14:27:04.000Z",
       "type": "rss"
     },
     {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T15:47:28.000Z",
+      "publishedAt": "2026-08-27T14:01:42.000Z",
       "type": "rss"
     },
     {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T14:37:01.000Z",
+      "publishedAt": "2026-08-27T11:35:59.000Z",
       "type": "rss"
     }
   ],
   "products": [
     {
-      "name": "Enter Pro",
-      "tagline": "The AI-native platform to build and scale your apps",
-      "url": "https://www.producthunt.com/posts/enter-pro-2"
+      "name": "PageIndex",
+      "tagline": "Accurate, trustworthy answers across professional documents",
+      "url": "https://www.producthunt.com/posts/pageindex-9"
     },
     {
-      "name": "Pluto",
-      "tagline": "Your professional profile is now an AI agent",
-      "url": "https://www.producthunt.com/posts/pluto-6"
+      "name": "Firecrawl Developer Index",
+      "tagline": "A curated index of 70M+ artifacts for coding agents.",
+      "url": "https://www.producthunt.com/posts/firecrawl-developer-index"
     },
     {
-      "name": "Skydive",
-      "tagline": "Build cloud agents that work across your tools",
-      "url": "https://www.producthunt.com/posts/skydive"
+      "name": "Microduck",
+      "tagline": "A tiny open-source biped you can train yourself",
+      "url": "https://www.producthunt.com/posts/microduck"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "title": "AI Powers Consumer Travel Tools",
+      "desc": "AI increasingly handles end-to-end travel planning tasks.",
+      "ref": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more"
+    },
+    {
+      "title": "Joint Action Against Rogue AI Risks",
+      "desc": "Top AI firms unite to counter harmful rogue AI.",
+      "ref": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
+    },
+    {
+      "title": "Ad Monetization For Free AI Services",
+      "desc": "Free AI tiers run ads to generate new revenue.",
+      "ref": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India"
+    }
+  ],
   "stats": {
     "total": 10,
     "fromRSS": 10,
     "fromSearch": 0,
     "products": 3,
-    "trends": 0
+    "trends": 3
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS The Verge AI: HTTP 404"
   ]
 }
