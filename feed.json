@@ -1,85 +1,85 @@
 {
-  "generatedAt": "2026-08-28T10:02:10.963Z",
+  "generatedAt": "2026-08-29T06:00:25.214Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "3 new ways to plan and book travel in Search",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\"&gt;Book hotels and track airfares, plus view miles and rewards w",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "title": "How do you actually measure the impact of AI on design?",
+      "summary": "",
+      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-08-28T19:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T23:16:45.000Z",
+      "title": "Source material: i-D Magazine’s editor in chief is not afraid of visual chaos",
+      "summary": "",
+      "url": "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/",
+      "source": "Figma Blog",
+      "publishedAt": "2026-08-28T19:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T19:52:52.000Z",
+      "publishedAt": "2026-08-28T20:24:11.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T17:43:24.000Z",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
       "type": "rss"
     },
     {
-      "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "publishedAt": "2026-08-28T18:19:40.000Z",
       "type": "rss"
     },
     {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:56:52.000Z",
+      "publishedAt": "2026-08-28T12:46:12.000Z",
       "type": "rss"
     },
     {
-      "title": "AI&#8217;s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:27:04.000Z",
+      "publishedAt": "2026-08-28T12:21:06.000Z",
       "type": "rss"
     },
     {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:01:42.000Z",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-28T12:35:27.000Z",
       "type": "rss"
     },
     {
-      "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-28T09:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T11:35:59.000Z",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "summary": "",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-28T11:15:05.000Z",
       "type": "rss"
     }
   ],
@@ -90,9 +90,9 @@
       "url": "https://www.producthunt.com/posts/pageindex-9"
     },
     {
-      "name": "Firecrawl Developer Index",
-      "tagline": "A curated index of 70M+ artifacts for coding agents.",
-      "url": "https://www.producthunt.com/posts/firecrawl-developer-index"
+      "name": "Caddi",
+      "tagline": "Agent that builds agents by only showing your work only once",
+      "url": "https://www.producthunt.com/posts/caddi-3"
     },
     {
       "name": "Microduck",
@@ -102,19 +102,19 @@
   ],
   "trends": [
     {
-      "title": "AI Powers Consumer Travel Tools",
-      "desc": "AI increasingly handles end-to-end travel planning tasks.",
-      "ref": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more"
+      "title": "High Cost of AI Boom Drives Financing",
+      "desc": "Firms raise debt to acquire scarce AI chips.",
+      "ref": "Neocloud Lambda secures $1B in debt to buy more chips"
     },
     {
-      "title": "Joint Action Against Rogue AI Risks",
-      "desc": "Top AI firms unite to counter harmful rogue AI.",
-      "ref": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
+      "title": "Open-weight AI Firms Top Acquisition Targets",
+      "desc": "Capital pours into open-weight AI businesses.",
+      "ref": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets"
     },
     {
-      "title": "Ad Monetization For Free AI Services",
-      "desc": "Free AI tiers run ads to generate new revenue.",
-      "ref": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India"
+      "title": "New Advances in Self-Improving AI",
+      "desc": "Self-improving AI shows promising aligned progress.",
+      "ref": "An Anthropic researcher just gave us a peek at self-improving AI"
     }
   ],
   "stats": {
