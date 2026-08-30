@@ -1,131 +1,116 @@
 {
-  "generatedAt": "2026-08-29T06:00:25.214Z",
+  "generatedAt": "2026-08-30T04:06:39.728Z",
   "lookbackHours": 24,
   "news": [
     {
-      "title": "How do you actually measure the impact of AI on design?",
-      "summary": "",
-      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-28T19:30:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Source material: i-D Magazine’s editor in chief is not afraid of visual chaos",
-      "summary": "",
-      "url": "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/",
-      "source": "Figma Blog",
-      "publishedAt": "2026-08-28T19:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "publishedAt": "2026-08-29T18:41:59.000Z",
       "type": "rss"
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "publishedAt": "2026-08-29T17:36:47.000Z",
       "type": "rss"
     },
     {
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T18:19:40.000Z",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T12:46:12.000Z",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-29T10:30:00.000Z",
       "type": "rss"
     },
     {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T12:21:06.000Z",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source": "Wired AI",
+      "publishedAt": "2026-08-29T10:00:00.000Z",
       "type": "rss"
     },
     {
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-28T12:35:27.000Z",
-      "type": "rss"
+      "title": "AI Agents News — Week of August 29, 2026 (Daily Updates)",
+      "summary": "AccuKnox released AgentZ, a model-agnostic platform that bundles agents, sandboxes, workflows, role-based access, runtime credential injection, and audit traces",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "source": "aiagentstore.ai",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-28T09:00:00.000Z",
-      "type": "rss"
+      "title": "AI news update for entrepreneurs on August 28, 2026 ...",
+      "summary": "Autonomous AI agent for real-time malware detection and threat analysis Microsoft has released Project Ire, an AI agent built to detect malware on its own. ...",
+      "url": "https://www.facebook.com/jonathanjmast/posts/%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%84%F0%9D%98%80-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80august-28-2026%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%B2%F0%9D%9F%AC-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A7%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2the-line-be/28733163352956459/",
+      "source": "facebook.com",
+      "publishedAt": null,
+      "type": "search"
     },
     {
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "summary": "",
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "source": "Ars Technica AI",
-      "publishedAt": "2026-08-28T11:15:05.000Z",
-      "type": "rss"
+      "title": "What if your AI assistant could actually finish the task ...",
+      "summary": "❗️Meta is preparing to launch its consumer AI agent 'Hatch' within weeks, followed by its next AI model 'Watermelon' in October, per The Information.",
+      "url": "https://www.instagram.com/reel/DcniaCIy4VQ/",
+      "source": "instagram.com",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Parallel - Web Infrastructure for AI Agents",
+      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
+      "url": "https://parallel.ai/",
+      "source": "parallel.ai",
+      "publishedAt": null,
+      "type": "search"
+    },
+    {
+      "title": "Most AI agents are just glorified workflow engines with an ...",
+      "summary": "Most AI agents are just glorified workflow engines with an LLM. The model gets some context, chooses one of a handful of tools, gets the result, and moves on ...",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1w1rkoi/most_ai_agents_are_just_glorified_workflow/",
+      "source": "reddit.com",
+      "publishedAt": null,
+      "type": "search"
     }
   ],
   "products": [
     {
-      "name": "PageIndex",
-      "tagline": "Accurate, trustworthy answers across professional documents",
-      "url": "https://www.producthunt.com/posts/pageindex-9"
+      "name": "1752vc Pitch Deck Analyzer",
+      "tagline": "Know what investors will say before you ever hit send.",
+      "url": "https://www.producthunt.com/posts/1752vc-pitch-deck-analyzer"
     },
     {
-      "name": "Caddi",
-      "tagline": "Agent that builds agents by only showing your work only once",
-      "url": "https://www.producthunt.com/posts/caddi-3"
+      "name": "Hy4 preview",
+      "tagline": "Tencent’s 770B open model for long-horizon work",
+      "url": "https://www.producthunt.com/posts/hy4-preview"
     },
     {
-      "name": "Microduck",
-      "tagline": "A tiny open-source biped you can train yourself",
-      "url": "https://www.producthunt.com/posts/microduck"
+      "name": "Cohere Parse 5",
+      "tagline": "Turn complex docs, tables & images into AI-ready data",
+      "url": "https://www.producthunt.com/posts/cohere-parse-5"
     }
   ],
-  "trends": [
-    {
-      "title": "High Cost of AI Boom Drives Financing",
-      "desc": "Firms raise debt to acquire scarce AI chips.",
-      "ref": "Neocloud Lambda secures $1B in debt to buy more chips"
-    },
-    {
-      "title": "Open-weight AI Firms Top Acquisition Targets",
-      "desc": "Capital pours into open-weight AI businesses.",
-      "ref": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets"
-    },
-    {
-      "title": "New Advances in Self-Improving AI",
-      "desc": "Self-improving AI shows promising aligned progress.",
-      "ref": "An Anthropic researcher just gave us a peek at self-improving AI"
-    }
-  ],
+  "trends": [],
   "stats": {
     "total": 10,
-    "fromRSS": 10,
-    "fromSearch": 0,
+    "fromRSS": 5,
+    "fromSearch": 5,
     "products": 3,
-    "trends": 3
+    "trends": 0
   },
   "errors": [
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404"
+    "RSS The Verge AI: HTTP 404",
+    "Doubao: The operation was aborted due to timeout"
   ]
 }
