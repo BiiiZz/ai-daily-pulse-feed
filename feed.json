@@ -1,116 +1,157 @@
 {
-  "generatedAt": "2026-08-30T04:06:39.728Z",
+  "generatedAt": "2026-08-31T03:13:40.373Z",
   "lookbackHours": 24,
+  "maxItemsPerSource": 5,
+  "categories": [
+    "模型厂商官方",
+    "AI 开发工具与变更日志",
+    "B 端协作与效率产品",
+    "设计",
+    "产品与商业策略",
+    "科技媒体",
+    "视频"
+  ],
   "news": [
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "title": "0.152.0-alpha.6",
+      "summary": "<p>Release 0.152.0-alpha.6</p>",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.6",
+      "source": "codex Releases",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-08-31T02:15:59.000Z"
+    },
+    {
+      "title": "0.152.0-alpha.5",
+      "summary": "<p>Release 0.152.0-alpha.5</p>",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.5",
+      "source": "codex Releases",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-08-31T01:14:34.000Z"
+    },
+    {
+      "title": "0.152.0-alpha.4",
+      "summary": "<p>Release 0.152.0-alpha.4</p>",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.4",
+      "source": "codex Releases",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-08-30T13:58:42.000Z"
+    },
+    {
+      "title": "rust-v0.152.0-alpha.3",
+      "summary": "<p>Release 0.152.0-alpha.3</p>",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.3",
+      "source": "codex Releases",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-08-30T12:51:26.000Z"
+    },
+    {
+      "title": "Neuroqueering design practice",
+      "summary": "",
+      "url": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-08-30T21:46:34.000Z"
+    },
+    {
+      "title": "Rethinking success beyond the corporate stairs in the world of design",
+      "summary": "",
+      "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-08-30T19:20:13.000Z"
+    },
+    {
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "summary": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to thr",
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-08-30T12:31:30.000Z"
+    },
+    {
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-08-31T03:01:29.000Z"
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-29T18:41:59.000Z",
-      "type": "rss"
+      "category": "科技媒体",
+      "publishedAt": "2026-08-31T02:34:00.000Z"
     },
     {
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-29T17:36:47.000Z",
-      "type": "rss"
+      "category": "科技媒体",
+      "publishedAt": "2026-08-30T16:54:25.000Z"
     },
     {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "type": "rss"
+      "category": "科技媒体",
+      "publishedAt": "2026-08-30T15:00:00.000Z"
     },
     {
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-29T10:30:00.000Z",
-      "type": "rss"
+      "title": "The Making of i-D Magazines' 375 \"The Beta Issue\"  - Designed in Figma",
+      "summary": "Thom Bettridge shares the inspiration and process for designing i-D Magazine's 375 “The Beta Issue” - taking the phrase “youth culture magazine” as literally as possible.\n_____________________________",
+      "url": "https://www.youtube.com/shorts/Y_78H41mw4A",
+      "source": "Figma YouTube",
+      "category": "视频",
+      "publishedAt": "2026-08-30T15:55:29.000Z"
     },
     {
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "source": "Wired AI",
-      "publishedAt": "2026-08-29T10:00:00.000Z",
-      "type": "rss"
-    },
-    {
-      "title": "AI Agents News — Week of August 29, 2026 (Daily Updates)",
-      "summary": "AccuKnox released AgentZ, a model-agnostic platform that bundles agents, sandboxes, workflows, role-based access, runtime credential injection, and audit traces",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "source": "aiagentstore.ai",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "AI news update for entrepreneurs on August 28, 2026 ...",
-      "summary": "Autonomous AI agent for real-time malware detection and threat analysis Microsoft has released Project Ire, an AI agent built to detect malware on its own. ...",
-      "url": "https://www.facebook.com/jonathanjmast/posts/%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%84%F0%9D%98%80-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80august-28-2026%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%B2%F0%9D%9F%AC-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A7%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2the-line-be/28733163352956459/",
-      "source": "facebook.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "What if your AI assistant could actually finish the task ...",
-      "summary": "❗️Meta is preparing to launch its consumer AI agent 'Hatch' within weeks, followed by its next AI model 'Watermelon' in October, per The Information.",
-      "url": "https://www.instagram.com/reel/DcniaCIy4VQ/",
-      "source": "instagram.com",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Parallel - Web Infrastructure for AI Agents",
-      "summary": "Web infrastructure for AI to search, extract, monitor, and reason. Give your assistant, copilot, or coding agent current, LLM only Your agent. Product releases ...",
-      "url": "https://parallel.ai/",
-      "source": "parallel.ai",
-      "publishedAt": null,
-      "type": "search"
-    },
-    {
-      "title": "Most AI agents are just glorified workflow engines with an ...",
-      "summary": "Most AI agents are just glorified workflow engines with an LLM. The model gets some context, chooses one of a handful of tools, gets the result, and moves on ...",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1w1rkoi/most_ai_agents_are_just_glorified_workflow/",
-      "source": "reddit.com",
-      "publishedAt": null,
-      "type": "search"
+      "title": "How I Make Retro Video Games Graphics",
+      "summary": "I built an AI tool for my own video production workflow. Intelligence this cheap changes what's actually worth building. Try it yourself → link in bio @OpenAI  #ChatGPT_Partner",
+      "url": "https://www.youtube.com/shorts/pw8Bt97U6fk",
+      "source": "Tina Huang",
+      "category": "视频",
+      "publishedAt": "2026-08-30T15:00:30.000Z"
     }
   ],
   "products": [
     {
-      "name": "1752vc Pitch Deck Analyzer",
-      "tagline": "Know what investors will say before you ever hit send.",
-      "url": "https://www.producthunt.com/posts/1752vc-pitch-deck-analyzer"
+      "name": "Topview Motion Studio",
+      "tagline": "Create launch videos without touching After Effects",
+      "url": "https://www.producthunt.com/posts/topview-motion-studio"
     },
     {
-      "name": "Hy4 preview",
-      "tagline": "Tencent’s 770B open model for long-horizon work",
-      "url": "https://www.producthunt.com/posts/hy4-preview"
+      "name": "Hyperfocus",
+      "tagline": "Planner that turns goals into daily progress",
+      "url": "https://www.producthunt.com/posts/hyperfocus-3"
     },
     {
-      "name": "Cohere Parse 5",
-      "tagline": "Turn complex docs, tables & images into AI-ready data",
-      "url": "https://www.producthunt.com/posts/cohere-parse-5"
+      "name": "Olostep",
+      "tagline": "Turn the Web into Clean Data for AI",
+      "url": "https://www.producthunt.com/posts/olostep-2"
     }
   ],
-  "trends": [],
   "stats": {
-    "total": 10,
-    "fromRSS": 5,
-    "fromSearch": 5,
-    "products": 3,
-    "trends": 0
+    "total": 13,
+    "byCategory": {
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 4,
+      "B 端协作与效率产品": 0,
+      "设计": 2,
+      "产品与商业策略": 1,
+      "科技媒体": 4,
+      "视频": 2
+    },
+    "sourcesTotal": 37,
+    "sourcesFailed": 3,
+    "products": 3
   },
   "errors": [
+    "RSS Meta AI: HTTP 400",
     "RSS LottieFiles Blog: HTTP 403",
-    "RSS The Verge AI: HTTP 404",
-    "Doubao: The operation was aborted due to timeout"
+    "RSS NN/g: HTTP 404"
   ]
 }
