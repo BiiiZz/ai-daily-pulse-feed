@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:13:40.373Z",
+  "generatedAt": "2026-08-31T03:33:18.949Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -12,38 +12,6 @@
     "视频"
   ],
   "news": [
-    {
-      "title": "0.152.0-alpha.6",
-      "summary": "<p>Release 0.152.0-alpha.6</p>",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.6",
-      "source": "codex Releases",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-31T02:15:59.000Z"
-    },
-    {
-      "title": "0.152.0-alpha.5",
-      "summary": "<p>Release 0.152.0-alpha.5</p>",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.5",
-      "source": "codex Releases",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-31T01:14:34.000Z"
-    },
-    {
-      "title": "0.152.0-alpha.4",
-      "summary": "<p>Release 0.152.0-alpha.4</p>",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.4",
-      "source": "codex Releases",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-30T13:58:42.000Z"
-    },
-    {
-      "title": "rust-v0.152.0-alpha.3",
-      "summary": "<p>Release 0.152.0-alpha.3</p>",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0-alpha.3",
-      "source": "codex Releases",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-30T12:51:26.000Z"
-    },
     {
       "title": "Neuroqueering design practice",
       "summary": "",
@@ -67,14 +35,6 @@
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
       "publishedAt": "2026-08-30T12:31:30.000Z"
-    },
-    {
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
-      "url": "https://www.qbitai.com/2026/08/481475.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-08-31T03:01:29.000Z"
     },
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -135,23 +95,18 @@
     }
   ],
   "stats": {
-    "total": 13,
+    "total": 8,
     "byCategory": {
       "模型厂商官方": 0,
-      "AI 开发工具与变更日志": 4,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
       "设计": 2,
       "产品与商业策略": 1,
-      "科技媒体": 4,
+      "科技媒体": 3,
       "视频": 2
     },
-    "sourcesTotal": 37,
-    "sourcesFailed": 3,
+    "sourcesTotal": 33,
+    "sourcesFailed": 0,
     "products": 3
-  },
-  "errors": [
-    "RSS Meta AI: HTTP 400",
-    "RSS LottieFiles Blog: HTTP 403",
-    "RSS NN/g: HTTP 404"
-  ]
+  }
 }
