@@ -39,7 +39,6 @@ const RSS_SOURCES = [
   { name: 'Google DeepMind',      url: 'https://deepmind.com/blog/feed/basic/',                                                    category: CAT.vendor },
   { name: 'Google AI Blog',       url: 'https://blog.google/technology/ai/rss/',                                                   category: CAT.vendor },
   { name: 'Google Research',      url: 'https://research.google/blog/rss/',                                                        category: CAT.vendor },
-  { name: 'Meta AI',              url: 'https://ai.meta.com/blog/rss/',                                                            category: CAT.vendor },
   { name: 'Hugging Face',         url: 'https://huggingface.co/blog/feed.xml',                                                     category: CAT.vendor },
   { name: '智谱',                 url: 'https://wechat2rss.bestblogs.dev/feed/433d2134dca54d80804daf32e8be546155be3300.xml',      category: CAT.vendor },
   { name: 'DeepSeek',             url: 'https://wechat2rss.bestblogs.dev/feed/1709da4f538d4ce4fb6d7a8ba1a5a1c297919601.xml',      category: CAT.vendor },
@@ -48,9 +47,7 @@ const RSS_SOURCES = [
   { name: '通义',                 url: 'https://wechat2rss.bestblogs.dev/feed/4ebee6222ae08705b8aabc9116f0defbcb6b17c6.xml',      category: CAT.vendor },
   { name: '阶跃',                 url: 'https://wechat2rss.bestblogs.dev/feed/3e2714d06aa36142e8ed6b3f4e5cf9090a069dd2.xml',      category: CAT.vendor },
 
-  // ② AI 开发工具与变更日志（6）—— agent 过程可视化 / 编辑 AI 生成内容
-  { name: 'claude-code Releases', url: 'https://github.com/anthropics/claude-code/releases.atom',                                  category: CAT.devtool },
-  { name: 'codex Releases',       url: 'https://github.com/openai/codex/releases.atom',                                            category: CAT.devtool },
+  // ② AI 开发工具与变更日志（4）—— agent 过程可视化 / 编辑 AI 生成内容
   { name: 'Cursor Changelog',     url: 'https://cursor.com/changelog/rss.xml',                                                     category: CAT.devtool },
   { name: 'Lovable Blog',         url: 'https://lovable.dev/blog/rss.xml',                                                         category: CAT.devtool },
   { name: 'Replit Blog',          url: 'https://blog.replit.com/feed.xml',                                                         category: CAT.devtool },
@@ -65,9 +62,8 @@ const RSS_SOURCES = [
 
   // ④ 设计（4）
   { name: 'Figma Blog',           url: 'https://www.figma.com/blog/feed/atom.xml',                                                 category: CAT.design },
-  { name: 'NN/g',                 url: 'https://www.nngroup.com/articles/feed/',                                                   category: CAT.design },
+  { name: 'NN/g',                 url: 'https://www.nngroup.com/feed/rss/',                                                        category: CAT.design },
   { name: 'UX Collective',        url: 'https://uxdesign.cc/feed',                                                                 category: CAT.design },
-  { name: 'LottieFiles Blog',     url: 'https://lottiefiles.com/blog/rss.xml',                                                     category: CAT.design },
 
   // ⑤ 产品与商业策略（2）
   { name: "Lenny's Newsletter",   url: 'https://www.lennysnewsletter.com/feed',                                                    category: CAT.product },
@@ -164,13 +160,15 @@ async function parseRSSFeed(source, errors) {
            block.match(/<link\s+href="([^"]+)"/)?.[1] || '');
 
       // 简介：依次尝试 description / summary / content / media:description（YouTube）
-      const summary = (
+      // 先解 HTML 转义再剥标签，否则 GitHub Atom 里被转义的 <p> 会残留
+      const summaryRaw = (
         block.match(/<description[^>]*><!\[CDATA\[(.*?)\]\]><\/description>/s)?.[1] ||
         block.match(/<description[^>]*>(.*?)<\/description>/s)?.[1] ||
         block.match(/<summary[^>]*>(.*?)<\/summary>/s)?.[1] ||
         block.match(/<content[^>]*>(.*?)<\/content>/s)?.[1] ||
         block.match(/<media:description>(.*?)<\/media:description>/s)?.[1] || ''
-      ).replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim().slice(0, 200);
+      ).replace(/<!\[CDATA\[|\]\]>/g, '');
+      const summary = decodeEntities(summaryRaw).replace(/<[^>]+>/g, '').trim().slice(0, 200);
 
       const pubDate =
         block.match(/<pubDate>(.*?)<\/pubDate>/s)?.[1] ||
@@ -182,7 +180,7 @@ async function parseRSSFeed(source, errors) {
 
       items.push({
         title: decodeEntities(title),
-        summary: decodeEntities(summary),
+        summary,
         url: url.trim(),
         source: source.name,
         category: source.category,
