@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:33:18.949Z",
+  "generatedAt": "2026-08-31T04:12:00.695Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -37,6 +37,14 @@
       "publishedAt": "2026-08-30T12:31:30.000Z"
     },
     {
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-08-31T03:01:29.000Z"
+    },
+    {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
       "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
       "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
@@ -45,7 +53,7 @@
       "publishedAt": "2026-08-31T02:34:00.000Z"
     },
     {
-      "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
       "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "source": "TechCrunch AI",
@@ -95,14 +103,14 @@
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 9,
     "byCategory": {
       "模型厂商官方": 0,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
       "设计": 2,
       "产品与商业策略": 1,
-      "科技媒体": 3,
+      "科技媒体": 4,
       "视频": 2
     },
     "sourcesTotal": 33,
