@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T03:58:44.896Z",
+  "generatedAt": "2026-09-02T03:19:20.927Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,216 +13,264 @@
   ],
   "news": [
     {
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "summary": "Data Management",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T21:39:07.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T20:45:00.000Z"
+    },
+    {
+      "title": "Mapping global methane emissions from space with deep learning",
+      "summary": "Climate & Sustainability",
+      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
       "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-08-31T17:19:40.000Z"
+      "publishedAt": "2026-09-01T18:40:06.000Z"
     },
     {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "url": "https://openai.com/index/polimill",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T17:08:51.000Z"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-08-31T07:00:00.000Z"
+      "publishedAt": "2026-09-01T17:00:00.000Z"
     },
     {
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-08-31T04:00:00.000Z"
+      "publishedAt": "2026-09-01T13:00:00.000Z"
     },
     {
-      "title": "fx is now available in the AI SDK harness layer",
-      "summary": "The AI SDK harness layer now supports fx, Vercel's lightweight, open-source coding agent. The harness layer provides one API for running coding agents in your application, so you can add fx without bu",
-      "url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "title": "1.5 TB 压到 214 GB，Hy4 preview 轻量版来了",
+      "summary": "",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498506&amp;idx=1&amp;sn=9d0a30eb4a08acd79a00b379127f6c7e",
+      "source": "腾讯混元",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-01T03:41:00.000Z"
+    },
+    {
+      "title": "Lovable now builds with Fable 5.1",
+      "summary": "",
+      "url": "https://lovable.dev/blog/fable-5-1-now-in-lovable",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "title": "Compute that takes any shape",
+      "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations ",
+      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-31T06:00:00.000Z"
+      "publishedAt": "2026-09-01T07:00:00.000Z"
     },
     {
-      "title": "Set per-user budgets on AI Gateway",
-      "summary": "You can now use AI Gateway budgets to set a dollar spending limit for each user on your team. The limit covers spend from every API key attributed to the user, along with their app tokens. After it's ",
-      "url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-31T06:00:00.000Z"
-    },
-    {
-      "title": "How our agents build on-brand pages with design.md",
-      "summary": "Across Vercel, we use coding agents to design and build pages that have to look and feel like Vercel. The typography, color, and composition all need to carry the same judgment that we put into the pa",
-      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
+      "title": "What Minority Report got right about AI",
       "summary": "",
-      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-08-31T21:47:30.000Z"
+      "publishedAt": "2026-09-01T22:16:54.000Z"
     },
     {
-      "title": "Design has outgrown the traditional designer",
-      "summary": "",
-      "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+      "title": "UX Conference September Announced (Sep 14 - Sep 25)",
+      "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.",
+      "url": "https://www.nngroup.com/training/september/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-09-01T20:37:45.000Z"
+    },
+    {
+      "title": "Behind the build: Generative plugins and shaders at Figma",
+      "summary": "Starting today, you’ll have more creative control over generative plugins and shaders, and a way to share what you’ve made with the community. Product Designer Rogie King tells the story of how we got",
+      "url": "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-09-01T14:39:43.296Z"
+    },
+    {
+      "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
+      "summary": "How to design for advanced features nobody usesContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-08-31T15:56:24.000Z"
+      "publishedAt": "2026-09-01T11:29:44.000Z"
     },
     {
-      "title": "You can’t grow roses in a cornfield",
-      "summary": "",
-      "url": "https://uxdesign.cc/you-cant-grow-roses-in-a-cornfield-490d47dd8f74?source=rss----138adf9c44c---4",
+      "title": "Users don’t see your design system",
+      "summary": "How Gestalt principles power any great design systemContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-08-31T15:56:04.000Z"
+      "publishedAt": "2026-09-01T11:28:51.000Z"
     },
     {
-      "title": "Blank pages, Researcher-in-the-loop, Design’s craft crisis",
-      "summary": "",
-      "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+      "title": "Color scheming with Perplexity tetrads",
+      "summary": "A case study in GenAI accessible color palettes.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-08-31T11:59:52.000Z"
+      "publishedAt": "2026-09-01T11:28:18.000Z"
     },
     {
-      "title": "UX in 2027 may be less about interfaces and more about behavior",
-      "summary": "",
-      "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-08-31T11:09:53.000Z"
-    },
-    {
-      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "title": "How to turn your AI into a world-class designer",
+      "summary": "An end-to-end process for tapping into AI’s hidden creativity",
+      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-08-31T15:01:58.000Z"
+      "publishedAt": "2026-09-01T12:45:59.000Z"
     },
     {
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "summary": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a fin",
-      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-08-31T12:04:18.000Z"
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T00:13:00.000Z"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-08-31T20:13:45.000Z"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-08-31T19:16:59.000Z"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-08-31T18:35:11.000Z"
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-08-31T16:00:00.000Z"
-    },
-    {
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "summary": "AI客服日扛1.5万通电话",
+      "url": "https://www.qbitai.com/2026/09/482967.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-08-31T13:20:29.000Z"
+      "publishedAt": "2026-09-02T02:48:06.000Z"
     },
     {
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+      "url": "https://www.qbitai.com/2026/09/482652.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-08-31T07:53:12.000Z"
+      "publishedAt": "2026-09-02T02:18:12.000Z"
     },
     {
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+      "url": "https://www.qbitai.com/2026/09/482855.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-08-31T07:34:02.000Z"
+      "publishedAt": "2026-09-02T02:06:08.000Z"
     },
     {
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "summary": "核弹爆炸",
-      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+      "url": "https://www.qbitai.com/2026/09/482699.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-08-31T04:47:26.000Z"
+      "publishedAt": "2026-09-02T01:44:24.000Z"
     },
     {
-      "title": "9 Designs That Inspired Meshtimes, One of Tech's Most Creative Minds | Source Material",
-      "summary": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that shaped them. Our next guest is Marisa Chentakul (@meshtimes)! One of the i",
-      "url": "https://www.youtube.com/watch?v=V19x5yo-Sa8",
-      "source": "Figma YouTube",
+      "title": "李飞飞发布：全球首个多模态世界模型",
+      "summary": "一张图补全3D世界，还能给机器人造训练场",
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T01:07:13.000Z"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-01T22:08:24.000Z"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-01T21:06:24.000Z"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-01T20:53:05.000Z"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-01T19:39:22.000Z"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-01T17:35:37.000Z"
+    },
+    {
+      "title": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)",
+      "summary": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)\n\nGet started with SerpApi using 250 free credits: \nhttps://serpapi.com/?utm_source=youtube&utm_campaign=allaboutai_august_2026\n\nx:\nht",
+      "url": "https://www.youtube.com/watch?v=CmmLZeuK4lg",
+      "source": "All About AI",
       "category": "视频",
-      "publishedAt": "2026-08-31T18:00:23.000Z"
+      "publishedAt": "2026-09-01T13:37:41.000Z"
     }
   ],
   "products": [
     {
-      "name": "Video Agent by Fotor",
-      "tagline": "Create and edit precision motion graphics & video with chat",
-      "url": "https://www.producthunt.com/posts/video-agent-by-fotor"
+      "name": "Kilo Code for JetBrains",
+      "tagline": "Fully native, open-source coding agent built for JetBrains",
+      "url": "https://www.producthunt.com/posts/kilo-code-for-jetbrains-2"
     },
     {
-      "name": "BrandJet",
-      "tagline": "Turn public buying signals into sales pipeline",
-      "url": "https://www.producthunt.com/posts/brandjet"
+      "name": "Computable GPU Index (CGI)",
+      "tagline": "The first open-source price index for GPU compute",
+      "url": "https://www.producthunt.com/posts/computable-gpu-index-cgi"
     },
     {
-      "name": "Interactive Sessions",
-      "tagline": "Drive the full SDLC with AI agents, step by step",
-      "url": "https://www.producthunt.com/posts/interactive-sessions"
+      "name": "Creatium Coach",
+      "tagline": "Your multimedia mentor that takes you from mid to great",
+      "url": "https://www.producthunt.com/posts/creatium-coach-2"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 29,
     "byCategory": {
-      "模型厂商官方": 3,
-      "AI 开发工具与变更日志": 3,
+      "模型厂商官方": 9,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 2,
-      "科技媒体": 9,
+      "设计": 6,
+      "产品与商业策略": 1,
+      "科技媒体": 10,
       "视频": 1
     },
     "sourcesTotal": 33,
@@ -230,9 +278,9 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 500",
-    "RSS Tina Huang: HTTP 500"
+    "RSS Tina Huang: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
