@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T03:19:20.927Z",
+  "generatedAt": "2026-09-02T09:49:18.567Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -77,28 +77,12 @@
       "publishedAt": "2026-09-01T12:00:00.000Z"
     },
     {
-      "title": "1.5 TB 压到 214 GB，Hy4 preview 轻量版来了",
-      "summary": "",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498506&amp;idx=1&amp;sn=9d0a30eb4a08acd79a00b379127f6c7e",
-      "source": "腾讯混元",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T03:41:00.000Z"
-    },
-    {
       "title": "Lovable now builds with Fable 5.1",
       "summary": "",
       "url": "https://lovable.dev/blog/fable-5-1-now-in-lovable",
       "source": "Lovable Blog",
       "category": "AI 开发工具与变更日志",
       "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "title": "Compute that takes any shape",
-      "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations ",
-      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-01T07:00:00.000Z"
     },
     {
       "title": "What Minority Report got right about AI",
@@ -157,6 +141,30 @@
       "publishedAt": "2026-09-01T12:45:59.000Z"
     },
     {
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T06:20:17.000Z"
+    },
+    {
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/09/483101.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T06:10:26.000Z"
+    },
+    {
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+      "url": "https://www.qbitai.com/2026/09/483097.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T06:06:50.000Z"
+    },
+    {
       "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
       "summary": "AI客服日扛1.5万通电话",
       "url": "https://www.qbitai.com/2026/09/482967.html",
@@ -171,30 +179,6 @@
       "source": "量子位",
       "category": "科技媒体",
       "publishedAt": "2026-09-02T02:18:12.000Z"
-    },
-    {
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T02:06:08.000Z"
-    },
-    {
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T01:44:24.000Z"
-    },
-    {
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "summary": "一张图补全3D世界，还能给机器人造训练场",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T01:07:13.000Z"
     },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -237,6 +221,14 @@
       "publishedAt": "2026-09-01T17:35:37.000Z"
     },
     {
+      "title": "Share shaders and generative plugins in the Figma Community",
+      "summary": "Starting today, you can share shader effects, fills, and generative plugins via the Figma Community. Make them with the Figma agent, share them in community for others to use! Here are four to get you",
+      "url": "https://www.youtube.com/shorts/QO2cA4dXURc",
+      "source": "Figma YouTube",
+      "category": "视频",
+      "publishedAt": "2026-09-02T00:06:59.000Z"
+    },
+    {
       "title": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)",
       "summary": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)\n\nGet started with SerpApi using 250 free credits: \nhttps://serpapi.com/?utm_source=youtube&utm_campaign=allaboutai_august_2026\n\nx:\nht",
       "url": "https://www.youtube.com/watch?v=CmmLZeuK4lg",
@@ -247,40 +239,34 @@
   ],
   "products": [
     {
-      "name": "Kilo Code for JetBrains",
-      "tagline": "Fully native, open-source coding agent built for JetBrains",
-      "url": "https://www.producthunt.com/posts/kilo-code-for-jetbrains-2"
+      "name": "Monid",
+      "tagline": "OpenRouter for agent tools",
+      "url": "https://www.producthunt.com/posts/monid-3"
     },
     {
-      "name": "Computable GPU Index (CGI)",
-      "tagline": "The first open-source price index for GPU compute",
-      "url": "https://www.producthunt.com/posts/computable-gpu-index-cgi"
+      "name": "Browzer",
+      "tagline": "Put your technical content on autopilot",
+      "url": "https://www.producthunt.com/posts/browzer-2"
     },
     {
-      "name": "Creatium Coach",
-      "tagline": "Your multimedia mentor that takes you from mid to great",
-      "url": "https://www.producthunt.com/posts/creatium-coach-2"
+      "name": "CleanShot 5.0 with Studio Mode",
+      "tagline": "Mac-native app for screenshots, recordings and collaboration",
+      "url": "https://www.producthunt.com/posts/cleanshot-5-0-with-studio-mode"
     }
   ],
   "stats": {
-    "total": 29,
+    "total": 28,
     "byCategory": {
-      "模型厂商官方": 9,
-      "AI 开发工具与变更日志": 2,
+      "模型厂商官方": 8,
+      "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
       "设计": 6,
       "产品与商业策略": 1,
       "科技媒体": 10,
-      "视频": 1
+      "视频": 2
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 4,
+    "sourcesFailed": 0,
     "products": 3
-  },
-  "errors": [
-    "RSS AI Jason: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
-    "RSS Figma YouTube: HTTP 404"
-  ]
+  }
 }
