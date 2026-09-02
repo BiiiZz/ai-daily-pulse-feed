@@ -73,12 +73,12 @@ const RSS_SOURCES = [
   { name: 'TechCrunch AI',        url: 'https://techcrunch.com/category/artificial-intelligence/feed/',                            category: CAT.media },
   { name: '量子位',               url: 'https://www.qbitai.com/feed',                                                              category: CAT.media },
 
-  // ⑦ 视频（5）—— 归 raw/notes
-  { name: 'Jeff Su',              url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCwAnu01qlnVg1Ai2AbtTMaA',             category: CAT.video },
-  { name: 'All About AI',         url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCR9j1jqqB5Rse69wjUnbYwA',             category: CAT.video },
-  { name: 'Tina Huang',           url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC2UXDak6o7rBm23k3Vv5dww',             category: CAT.video },
-  { name: 'Figma YouTube',        url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsVmhSa4X-G3lHlUtejzLA',             category: CAT.video },
-  { name: 'AI Jason',             url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw',             category: CAT.video },
+  // ⑦ 视频（5）—— 归 raw/notes（playlist_id 形式，绕开 channel_id 接口的 404）
+  { name: 'Jeff Su',              url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUwAnu01qlnVg1Ai2AbtTMaA',            category: CAT.video },
+  { name: 'All About AI',         url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUR9j1jqqB5Rse69wjUnbYwA',            category: CAT.video },
+  { name: 'Tina Huang',           url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=UU2UXDak6o7rBm23k3Vv5dww',            category: CAT.video },
+  { name: 'Figma YouTube',        url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUQsVmhSa4X-G3lHlUtejzLA',            category: CAT.video },
+  { name: 'AI Jason',             url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUrXSVX9a1mj8l0CMLwKgMVw',            category: CAT.video },
 ];
 
 // ── 工具函数 ─────────────────────────────────────────────────────────────────
