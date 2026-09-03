@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:49:18.567Z",
+  "generatedAt": "2026-09-03T03:21:25.259Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,132 +13,156 @@
   ],
   "news": [
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T21:39:07.000Z"
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T20:45:00.000Z"
-    },
-    {
-      "title": "Mapping global methane emissions from space with deep learning",
-      "summary": "Climate & Sustainability",
-      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T18:40:06.000Z"
-    },
-    {
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "source": "Google DeepMind",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T17:08:51.000Z"
+      "publishedAt": "2026-09-02T16:24:24.000Z"
     },
     {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T16:00:00.000Z"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T13:00:00.000Z"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "title": "Lovable now builds with Fable 5.1",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
       "summary": "",
-      "url": "https://lovable.dev/blog/fable-5-1-now-in-lovable",
-      "source": "Lovable Blog",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-02T16:18:31.000Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-02T13:49:14.000Z"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "title": "Free domain with Pro offer now includes .app and .dev",
+      "summary": "We recently announced that all Pro teams can claim a free domain for one year. That offer now includes .app and .dev, bringing the eligible TLDs to eight:.app.dev.online.site.space.store.tech.websiteT",
+      "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+      "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
+      "publishedAt": "2026-09-02T07:00:00.000Z"
     },
     {
-      "title": "What Minority Report got right about AI",
+      "title": "When the canvas starts acting, who’s really in control?",
       "summary": "",
-      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-01T22:16:54.000Z"
+      "publishedAt": "2026-09-02T22:13:30.000Z"
     },
     {
-      "title": "UX Conference September Announced (Sep 14 - Sep 25)",
-      "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.",
-      "url": "https://www.nngroup.com/training/september/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
+      "title": "AI took away engineering’s right to say no",
+      "summary": "",
+      "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-01T20:37:45.000Z"
+      "publishedAt": "2026-09-02T22:13:11.000Z"
     },
     {
-      "title": "Behind the build: Generative plugins and shaders at Figma",
-      "summary": "Starting today, you’ll have more creative control over generative plugins and shaders, and a way to share what you’ve made with the community. Product Designer Rogie King tells the story of how we got",
-      "url": "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/",
+      "title": "How Coinbase used Code Connect to guide agents and shrink token costs",
+      "summary": "The Coinbase Design System team put Code Connect to the test against coding agents—and found that it boosted design system adherence while cutting token costs by an average of 22.5%.",
+      "url": "https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/",
       "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-09-01T14:39:43.296Z"
+      "publishedAt": "2026-09-02T20:28:00.000Z"
     },
     {
-      "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
-      "summary": "How to design for advanced features nobody usesContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+      "title": "Making kyōwa possible with AI",
+      "summary": "On unbundling the Send button, so that words can work as sketchesContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-01T11:29:44.000Z"
+      "publishedAt": "2026-09-02T11:15:14.000Z"
     },
     {
-      "title": "Users don’t see your design system",
-      "summary": "How Gestalt principles power any great design systemContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-01T11:28:51.000Z"
-    },
-    {
-      "title": "Color scheming with Perplexity tetrads",
-      "summary": "A case study in GenAI accessible color palettes.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-01T11:28:18.000Z"
-    },
-    {
-      "title": "How to turn your AI into a world-class designer",
-      "summary": "An end-to-end process for tapping into AI’s hidden creativity",
-      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+      "summary": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my",
+      "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-09-01T12:45:59.000Z"
+      "publishedAt": "2026-09-02T12:03:39.000Z"
+    },
+    {
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-03T01:31:45.000Z"
+    },
+    {
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "summary": "4激光雷达+双M100上车",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-03T01:27:05.000Z"
+    },
+    {
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "summary": "遥操，可能真的危险了",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-03T00:51:16.000Z"
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T23:01:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T22:44:56.000Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T22:24:09.000Z"
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T20:19:14.000Z"
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T17:18:13.000Z"
+    },
+    {
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+      "url": "https://www.qbitai.com/2026/09/483274.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-02T09:22:16.000Z"
     },
     {
       "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
@@ -147,94 +171,6 @@
       "source": "量子位",
       "category": "科技媒体",
       "publishedAt": "2026-09-02T06:20:17.000Z"
-    },
-    {
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/09/483101.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T06:10:26.000Z"
-    },
-    {
-      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-      "url": "https://www.qbitai.com/2026/09/483097.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T06:06:50.000Z"
-    },
-    {
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "summary": "AI客服日扛1.5万通电话",
-      "url": "https://www.qbitai.com/2026/09/482967.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T02:48:06.000Z"
-    },
-    {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-      "url": "https://www.qbitai.com/2026/09/482652.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-02T02:18:12.000Z"
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T22:08:24.000Z"
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T21:06:24.000Z"
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T20:53:05.000Z"
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T19:39:22.000Z"
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-01T17:35:37.000Z"
-    },
-    {
-      "title": "Share shaders and generative plugins in the Figma Community",
-      "summary": "Starting today, you can share shader effects, fills, and generative plugins via the Figma Community. Make them with the Figma agent, share them in community for others to use! Here are four to get you",
-      "url": "https://www.youtube.com/shorts/QO2cA4dXURc",
-      "source": "Figma YouTube",
-      "category": "视频",
-      "publishedAt": "2026-09-02T00:06:59.000Z"
-    },
-    {
-      "title": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)",
-      "summary": "Infinite AI Streaming Will Change Content Forever (Minimax FastH3)\n\nGet started with SerpApi using 250 free credits: \nhttps://serpapi.com/?utm_source=youtube&utm_campaign=allaboutai_august_2026\n\nx:\nht",
-      "url": "https://www.youtube.com/watch?v=CmmLZeuK4lg",
-      "source": "All About AI",
-      "category": "视频",
-      "publishedAt": "2026-09-01T13:37:41.000Z"
     }
   ],
   "products": [
@@ -249,24 +185,31 @@
       "url": "https://www.producthunt.com/posts/browzer-2"
     },
     {
-      "name": "CleanShot 5.0 with Studio Mode",
-      "tagline": "Mac-native app for screenshots, recordings and collaboration",
-      "url": "https://www.producthunt.com/posts/cleanshot-5-0-with-studio-mode"
+      "name": "Articos",
+      "tagline": "Launch with confidence, not gut instinct",
+      "url": "https://www.producthunt.com/posts/articos"
     }
   ],
   "stats": {
-    "total": 28,
+    "total": 20,
     "byCategory": {
-      "模型厂商官方": 8,
+      "模型厂商官方": 4,
       "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
-      "设计": 6,
+      "设计": 4,
       "产品与商业策略": 1,
       "科技媒体": 10,
-      "视频": 2
+      "视频": 0
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 0,
+    "sourcesFailed": 5,
     "products": 3
-  }
+  },
+  "errors": [
+    "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
+    "RSS AI Jason: HTTP 404"
+  ]
 }
