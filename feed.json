@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:19:26.281Z",
+  "generatedAt": "2026-09-05T03:22:20.738Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,207 +13,127 @@
   ],
   "news": [
     {
-      "title": "Transfer learning for genomic prediction in underrepresented populations",
-      "summary": "General Science",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T18:20:31.000Z"
-    },
-    {
-      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "summary": "General Science",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T16:00:03.000Z"
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "title": "Reading and writing are interfaces. And AI can reduce their friction.",
       "summary": "",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T15:02:08.000Z"
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T13:15:00.000Z"
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T13:13:48.000Z"
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
-      "summary": "Cursor Cloud Agents can now run in Vercel Sandbox instead of Cursor's hosted machines. Cursor manages the agent harness and inference loop. Its Self-Hosted Machines APIs let you supply the execution e",
-      "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "title": "Priority inbox",
-      "summary": "",
-      "url": "https://linear.app/changelog/2026-09-03-priority-inbox",
-      "source": "Linear Changelog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-09-03T15:35:17.000Z"
-    },
-    {
-      "title": "What Minority Report got wrong about AI (so far)",
-      "summary": "",
-      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-03T22:39:12.000Z"
+      "publishedAt": "2026-09-05T00:21:17.000Z"
     },
     {
-      "title": "UX Conference November Announced (Nov 16 - Nov 19)",
-      "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. Nov 16 - Nov 19, 2026 (",
-      "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "title": "Using AI for UX Work: Study Guide",
+      "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
+      "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-09-03T04:50:49.000Z"
+      "publishedAt": "2026-09-04T17:00:00.000Z"
     },
     {
-      "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-      "summary": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
-      "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-03T19:34:20.000Z"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-04T00:48:42.000Z"
-    },
-    {
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "summary": "改进GPT Image 2的噪点问题",
-      "url": "https://www.qbitai.com/2026/09/483948.html",
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "summary": "最后靠Harness救回来",
+      "url": "https://www.qbitai.com/2026/09/484551.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T21:57:08.000Z"
+      "publishedAt": "2026-09-05T01:17:56.000Z"
     },
     {
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "summary": "全球最强C",
-      "url": "https://www.qbitai.com/2026/09/483898.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-03T21:50:07.000Z"
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T19:36:29.000Z"
+      "publishedAt": "2026-09-04T23:36:14.000Z"
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T18:37:57.000Z"
+      "publishedAt": "2026-09-04T23:15:11.000Z"
     },
     {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T18:19:56.000Z"
+      "publishedAt": "2026-09-04T21:12:11.000Z"
     },
     {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "title": "What will Apple’s John Ternus era look like?",
+      "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timin",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T18:01:45.000Z"
+      "publishedAt": "2026-09-04T17:18:00.000Z"
     },
     {
-      "title": "“没有Token的CS学生，应立即退学”",
-      "summary": "禁止古法编程、Token自费",
-      "url": "https://www.qbitai.com/2026/09/483839.html",
-      "source": "量子位",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T11:32:08.000Z"
+      "publishedAt": "2026-09-04T16:21:11.000Z"
     },
     {
-      "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-      "summary": "眼镜、耳机、麦克风都来了",
-      "url": "https://www.qbitai.com/2026/09/483786.html",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T11:25:29.000Z"
+      "publishedAt": "2026-09-04T09:23:24.000Z"
     },
     {
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-      "summary": "单图直出场景，顶会最佳论文落地",
-      "url": "https://www.qbitai.com/2026/09/483189.html",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-03T10:18:36.000Z"
+      "publishedAt": "2026-09-04T09:19:29.000Z"
+    },
+    {
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "summary": "不训练模型、不调参数",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-04T08:57:14.000Z"
+    },
+    {
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "summary": "5000支队伍同台做题，写尽行业四年变化",
+      "url": "https://www.qbitai.com/2026/09/484203.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-04T07:09:43.000Z"
     }
   ],
   "products": [
     {
-      "name": "Nex",
-      "tagline": "Claude Cowork for high-volume GTM workflows",
-      "url": "https://www.producthunt.com/posts/nex-4"
+      "name": "GPT-6 Astra",
+      "tagline": "OpenAI's most capable model for end-to-end work",
+      "url": "https://www.producthunt.com/posts/gpt-6-astra-2"
     },
     {
-      "name": "Agent Builder by Airtop",
-      "tagline": "Build agents that heal themselves. ",
-      "url": "https://www.producthunt.com/posts/agent-builder-by-airtop"
+      "name": "myAIcademy",
+      "tagline": "Learn AI skills for your specific role and team",
+      "url": "https://www.producthunt.com/posts/myaicademy"
     },
     {
-      "name": "MagiCrew",
-      "tagline": "Give everyone their own AI workforce in one platform",
-      "url": "https://www.producthunt.com/posts/magicrew"
+      "name": "Compliance by TwelveLabs",
+      "tagline": "Video compliance review powered by rules you control",
+      "url": "https://www.producthunt.com/posts/compliance-by-twelvelabs"
     }
   ],
   "stats": {
-    "total": 22,
+    "total": 12,
     "byCategory": {
-      "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 1,
-      "B 端协作与效率产品": 1,
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 0,
+      "B 端协作与效率产品": 0,
       "设计": 2,
-      "产品与商业策略": 1,
+      "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
     },
@@ -222,10 +142,10 @@
     "products": 3
   },
   "errors": [
-    "RSS AI Jason: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS Tina Huang: HTTP 500",
+    "RSS AI Jason: HTTP 404"
   ]
 }
