@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:22:16.310Z",
+  "generatedAt": "2026-09-07T03:20:57.511Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,96 +13,104 @@
   ],
   "news": [
     {
-      "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
-      "summary": "Community Wisdom 200",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+      "title": "An Alien Mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-06T09:00:00.000Z"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-06T08:00:00.000Z"
+    },
+    {
+      "title": "AI canvas, Synthetic self, The prompt is the product",
+      "summary": "",
+      "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-06T23:49:45.000Z"
+    },
+    {
+      "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+      "summary": "",
+      "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-06T23:47:16.000Z"
+    },
+    {
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-09-05T17:00:46.000Z"
+      "publishedAt": "2026-09-06T12:32:00.000Z"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-05T22:49:55.000Z"
+      "publishedAt": "2026-09-06T20:47:37.000Z"
     },
     {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-05T19:35:24.000Z"
+      "publishedAt": "2026-09-06T16:45:00.000Z"
     },
     {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-05T18:05:27.000Z"
-    },
-    {
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "summary": "手握两篇顶会论文",
-      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "summary": "让机器人学会利用更长的多模态Context",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-05T15:07:08.000Z"
+      "publishedAt": "2026-09-06T11:44:21.000Z"
     },
     {
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "summary": "当AI开始“预演”一场暴雨",
-      "url": "https://www.qbitai.com/2026/09/484683.html",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-05T14:46:15.000Z"
-    },
-    {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-05T04:24:25.000Z"
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-05T04:18:54.000Z"
+      "publishedAt": "2026-09-06T04:40:15.000Z"
     }
   ],
   "products": [
     {
-      "name": "dif.sh",
-      "tagline": "Markdown feature flags your coding agent installs for you",
-      "url": "https://www.producthunt.com/posts/dif-sh"
+      "name": "AI Toolbox 3.0",
+      "tagline": "Search, organize and export every AI chat in one place",
+      "url": "https://www.producthunt.com/posts/ai-toolbox-3-0"
     },
     {
-      "name": "Reflexio",
-      "tagline": "Behavioral learning that makes AI agents better over time",
-      "url": "https://www.producthunt.com/posts/reflexio-2"
+      "name": "Tadata",
+      "tagline": "The AI employee in Slack that reads the room.",
+      "url": "https://www.producthunt.com/posts/tadata"
     },
     {
-      "name": "Ponytail",
-      "tagline": "Make new code the last resort",
-      "url": "https://www.producthunt.com/posts/ponytail"
+      "name": "Notify.domains",
+      "tagline": "Know the moment a domain opportunity appears",
+      "url": "https://www.producthunt.com/posts/notify-domains"
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 9,
     "byCategory": {
-      "模型厂商官方": 0,
+      "模型厂商官方": 2,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 0,
+      "设计": 2,
       "产品与商业策略": 1,
-      "科技媒体": 7,
+      "科技媒体": 4,
       "视频": 0
     },
     "sourcesTotal": 33,
