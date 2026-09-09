@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:27:53.278Z",
+  "generatedAt": "2026-09-09T03:31:35.155Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,144 +13,200 @@
   ],
   "news": [
     {
-      "title": "Hy4 preview 模型升级公告",
-      "summary": "",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498516&amp;idx=1&amp;sn=0c2ace9c79e7919d37e8decb2f699382",
-      "source": "腾讯混元",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-07T09:00:00.000Z"
+      "publishedAt": "2026-09-08T17:00:00.000Z"
     },
     {
-      "title": "Introducing drafts: an easier way to collaborate and explore new ideas",
-      "summary": "Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.",
-      "url": "https://lovable.dev/blog/introducing-drafts",
-      "source": "Lovable Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T14:23:07.000Z"
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T14:00:15.000Z"
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T13:00:00.000Z"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T11:30:00.000Z"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T10:00:00.000Z"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-08T09:00:00.000Z"
+    },
+    {
+      "title": "Vercel Sandbox routing is now 18x faster globally",
+      "summary": "Requests to Vercel Sandbox public domains are now routed 18x faster.Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instead of a single centraliz",
+      "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+      "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-07T09:00:00.000Z"
+      "publishedAt": "2026-09-08T20:00:00.000Z"
     },
     {
-      "title": "Tetris had to cheat to feel random",
-      "summary": "Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
+      "title": "Introducing Flat Rate CDN",
+      "summary": "Over the past year, we have improved Vercel’s Pro pricing to better reflect how teams build, with expanded user roles, flexible credits, access to enterprise features, and more. But one area our custo",
+      "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "title": "Most AI problems are really human problems",
+      "summary": "",
+      "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-07T22:27:53.000Z"
+      "publishedAt": "2026-09-08T20:37:28.000Z"
     },
     {
-      "title": "The model is behaving impeccably. Your information architecture isn’t.",
-      "summary": "What a 1960 study of city maps explains about AI context.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+      "title": "Persistent lessons in human-centered automation",
+      "summary": "",
+      "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-07T22:27:32.000Z"
+      "publishedAt": "2026-09-08T20:34:18.000Z"
     },
     {
-      "title": "The sycophancy trap: what happens when feelings become the metric",
-      "summary": "A framework for emotional design that survives contact with an engagement dashboardContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
+      "title": "If you can externalize your design process, you can win back your time",
+      "summary": "How Skill.MD helps you spell out the depth of your work for your team and organizationContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-07T22:27:01.000Z"
+      "publishedAt": "2026-09-08T11:13:56.000Z"
     },
     {
-      "title": "Villains plan. Heroes react.",
-      "summary": "What product teams should borrow from the people who want to take over the world.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-07T22:26:09.000Z"
-    },
-    {
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
+      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-09-07T15:02:41.000Z"
+      "publishedAt": "2026-09-08T12:31:49.000Z"
     },
     {
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
-      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-07T12:04:19.000Z"
-    },
-    {
-      "title": "王云鹤创业后交出首个模型",
-      "summary": "把多模型执行经验用到了模型训练",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-08T02:14:47.000Z"
+      "publishedAt": "2026-09-09T02:15:54.000Z"
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-07T19:24:00.000Z"
+      "publishedAt": "2026-09-08T21:10:27.000Z"
     },
     {
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "summary": "谁说现在机器人都长得差不多的！",
-      "url": "https://www.qbitai.com/2026/09/485525.html",
-      "source": "量子位",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-07T09:34:06.000Z"
+      "publishedAt": "2026-09-08T21:04:06.000Z"
     },
     {
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "summary": "OpenAI研究院人均带3个AI实习生",
-      "url": "https://www.qbitai.com/2026/09/485431.html",
-      "source": "量子位",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-07T09:04:06.000Z"
+      "publishedAt": "2026-09-08T19:00:00.000Z"
     },
     {
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
-      "url": "https://www.qbitai.com/2026/09/485154.html",
-      "source": "量子位",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-07T08:51:30.000Z"
+      "publishedAt": "2026-09-08T17:32:15.000Z"
     },
     {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-      "url": "https://www.qbitai.com/2026/09/485108.html",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-08T16:20:31.000Z"
+    },
+    {
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "summary": "Blender也不用学了",
+      "url": "https://www.qbitai.com/2026/09/485854.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-07T08:36:30.000Z"
+      "publishedAt": "2026-09-08T06:05:30.000Z"
+    },
+    {
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "summary": "百万奖金、大厂直通、VC跟投",
+      "url": "https://www.qbitai.com/2026/09/485794.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-08T05:05:03.000Z"
     }
   ],
   "products": [
     {
-      "name": "PR Lens by Coldtea.ai",
-      "tagline": "See code through a new lens",
-      "url": "https://www.producthunt.com/posts/pr-lens-by-coldtea-ai"
+      "name": "Switch",
+      "tagline": "Bring any AI agent into Slack, Teams & Discord",
+      "url": "https://www.producthunt.com/posts/switch-14"
     },
     {
-      "name": "Scriptly",
-      "tagline": "An iOS teleprompter app controlled by your voice",
-      "url": "https://www.producthunt.com/posts/scriptly-3"
+      "name": "Widgo",
+      "tagline": "AI Sales rep for your website visitors",
+      "url": "https://www.producthunt.com/posts/widgo"
     },
     {
-      "name": "Tucky",
-      "tagline": "Notes docked to your screen edge, with an AI agent inside",
-      "url": "https://www.producthunt.com/posts/tucky"
+      "name": "Kombai Gallery",
+      "tagline": "20,000+ curated UI designs for agents and humans",
+      "url": "https://www.producthunt.com/posts/kombai-gallery"
     }
   ],
   "stats": {
-    "total": 14,
+    "total": 21,
     "byCategory": {
-      "模型厂商官方": 1,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 7,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 4,
-      "产品与商业策略": 2,
-      "科技媒体": 6,
+      "设计": 3,
+      "产品与商业策略": 1,
+      "科技媒体": 8,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -158,10 +214,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Tina Huang: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404"
   ]
 }
