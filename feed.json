@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T03:31:35.155Z",
+  "generatedAt": "2026-09-10T03:29:20.580Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,200 +13,208 @@
   ],
   "news": [
     {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T17:00:00.000Z"
+      "publishedAt": "2026-09-09T17:00:00.000Z"
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "title": "Get ready for the game with new football features in Search",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T14:23:07.000Z"
+      "publishedAt": "2026-09-09T15:36:24.000Z"
     },
     {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
+      "title": "We Hire Taste：Kimi 全球寻找7名「Wild Card」，校招同步开启",
+      "summary": "流浪的群星，欢迎回家。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487474&amp;idx=1&amp;sn=927c1b09b76e3ac959231822b228d489",
+      "source": "Kimi",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T14:00:15.000Z"
+      "publishedAt": "2026-09-09T13:37:00.000Z"
     },
     {
-      "title": "The Work Now Within Reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "url": "https://openai.com/index/the-work-now-within-reach",
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T13:00:00.000Z"
+      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T11:30:00.000Z"
+      "publishedAt": "2026-09-09T11:00:00.000Z"
     },
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T10:00:00.000Z"
+      "title": "Introducing the Lovable Partner Program",
+      "summary": "The Lovable Partner Program helps experts and solution providers grow, and gives companies a trusted way to find partners who can build what they need.",
+      "url": "https://lovable.dev/blog/introducing-lovable-partner-program",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-08T09:00:00.000Z"
-    },
-    {
-      "title": "Vercel Sandbox routing is now 18x faster globally",
-      "summary": "Requests to Vercel Sandbox public domains are now routed 18x faster.Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instead of a single centraliz",
-      "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+      "title": "Password Protection is now available per project on Pro",
+      "summary": "Pro teams can now enable Password Protection for individual projects at $20 per project per month. When enabled, Password Protection requires visitors to enter a password you set before they can view ",
+      "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-08T20:00:00.000Z"
+      "publishedAt": "2026-09-09T06:00:00.000Z"
     },
     {
-      "title": "Introducing Flat Rate CDN",
-      "summary": "Over the past year, we have improved Vercel’s Pro pricing to better reflect how teams build, with expanded user roles, flexible credits, access to enterprise features, and more. But one area our custo",
-      "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+      "title": "Protect production deployments for free on every plan",
+      "summary": "Vercel Authentication can now protect all deployments in a project, including production, at no additional cost on every plan. Previously, protecting production domains required the $150-per-month Adv",
+      "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-08T04:00:00.000Z"
+      "publishedAt": "2026-09-09T06:00:00.000Z"
     },
     {
-      "title": "Most AI problems are really human problems",
+      "title": "What Shakespeare got right about AI",
       "summary": "",
-      "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-08T20:37:28.000Z"
+      "publishedAt": "2026-09-09T23:04:39.000Z"
     },
     {
-      "title": "Persistent lessons in human-centered automation",
+      "title": "The origins — the birth, lonely childhood, and adoption of software",
+      "summary": "Side A, meaning is irrelevant to the problemContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-09T23:04:27.000Z"
+    },
+    {
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-10T01:39:13.000Z"
+    },
+    {
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "summary": "赶上了API限时五折",
+      "url": "https://www.qbitai.com/2026/09/486350.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-10T00:42:06.000Z"
+    },
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-10T00:00:37.000Z"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-09T21:43:34.000Z"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-09T20:24:48.000Z"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-09T20:03:43.000Z"
+    },
+    {
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "summary": "一比根号二的小胖折叠",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-09T19:24:22.000Z"
+    },
+    {
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
       "summary": "",
-      "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-08T20:34:18.000Z"
-    },
-    {
-      "title": "If you can externalize your design process, you can win back your time",
-      "summary": "How Skill.MD helps you spell out the depth of your work for your team and organizationContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-08T11:13:56.000Z"
-    },
-    {
-      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-      "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
-      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-08T12:31:49.000Z"
-    },
-    {
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-09T02:15:54.000Z"
+      "publishedAt": "2026-09-09T09:57:54.000Z"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T21:10:27.000Z"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T21:04:06.000Z"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T17:32:15.000Z"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T16:20:31.000Z"
-    },
-    {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "summary": "Blender也不用学了",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-08T06:05:30.000Z"
-    },
-    {
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "summary": "百万奖金、大厂直通、VC跟投",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-08T05:05:03.000Z"
+      "publishedAt": "2026-09-09T05:02:30.000Z"
     }
   ],
   "products": [
     {
-      "name": "Switch",
-      "tagline": "Bring any AI agent into Slack, Teams & Discord",
-      "url": "https://www.producthunt.com/posts/switch-14"
+      "name": "Mastra Factory",
+      "tagline": "From issue to production, run by agents.",
+      "url": "https://www.producthunt.com/posts/mastra-factory"
     },
     {
-      "name": "Widgo",
-      "tagline": "AI Sales rep for your website visitors",
-      "url": "https://www.producthunt.com/posts/widgo"
+      "name": "Harden",
+      "tagline": "A security layer for AI coding agents",
+      "url": "https://www.producthunt.com/posts/harden"
     },
     {
-      "name": "Kombai Gallery",
-      "tagline": "20,000+ curated UI designs for agents and humans",
-      "url": "https://www.producthunt.com/posts/kombai-gallery"
+      "name": "ChatGPT Images 2.5",
+      "tagline": "Sharper visuals, faster flow, better creative control",
+      "url": "https://www.producthunt.com/posts/chatgpt-images-2-5"
     }
   ],
   "stats": {
-    "total": 21,
+    "total": 22,
     "byCategory": {
       "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 2,
+      "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
-      "设计": 3,
-      "产品与商业策略": 1,
-      "科技媒体": 8,
+      "设计": 2,
+      "产品与商业策略": 0,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -214,10 +222,10 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS All About AI: HTTP 404"
   ]
 }
