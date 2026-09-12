@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T03:26:58.385Z",
+  "generatedAt": "2026-09-12T03:32:26.294Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,68 +13,28 @@
   ],
   "news": [
     {
-      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-      "summary": "Machine Intelligence",
-      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T22:50:22.000Z"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
+      "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
+      "publishedAt": "2026-09-11T16:00:00.000Z"
     },
     {
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash：更强、更快、更普惠",
-      "summary": "原生多模态，全新基座模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a",
-      "source": "DeepSeek",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T05:44:00.000Z"
-    },
-    {
-      "title": "让前沿智能抵达「最后一公里」",
-      "summary": "Kimi 启动企业合作伙伴计划",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487494&amp;idx=1&amp;sn=9fc28b464eb6cb7fb24d7bde34b5ea0d",
-      "source": "Kimi",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-10T05:16:00.000Z"
+      "publishedAt": "2026-09-11T10:00:00.000Z"
     },
     {
       "title": "Vercel Sandbox now provides 64 GB of storage",
@@ -85,182 +45,158 @@
       "publishedAt": "2026-09-11T06:00:00.000Z"
     },
     {
-      "title": "GitHub Copilot is now available in the AI SDK harness layer",
-      "summary": "The AI SDK harness layer now supports GitHub Copilot through the official @ai-sdk/harness-github-copilot adapter. The harness layer lets your application run different coding agents through the same H",
-      "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+      "title": "How Featured's users make 100K media pitches per month on Vercel",
+      "summary": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to VercelAI SDK and AI Gateway power Featured's chat bot across 17 ",
+      "url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-10T17:39:00.000Z"
+      "publishedAt": "2026-09-11T04:00:00.000Z"
     },
     {
-      "title": "How Kedde used Lovable to challenge Stockholm’s zone-based logistics system",
-      "summary": "Groundworks contractor Kedde built Kbag on Lovable in three weeks: real-time, address-based pricing for materials and waste that grew from one truck to five.",
-      "url": "https://lovable.dev/blog/kbag-logistics",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-10T17:30:00.000Z"
-    },
-    {
-      "title": "FastAPI frontends and static files served from the CDN",
-      "summary": "FastAPI frontends and static files, served with app.frontend() or StaticFiles, are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invo",
-      "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+      "title": "How Tailscale built a customer-facing model router on AI Gateway",
+      "summary": "Tailscale on VercelHundreds of AI models shipped to customers in-productModel access granted and revoked by tailnet network identityWent from model routing prototype to paying customers in monthsTails",
+      "url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-10T17:00:00.000Z"
+      "publishedAt": "2026-09-11T04:00:00.000Z"
     },
     {
-      "title": "Replit | Databricks Integration is Now Generally Available with Native Lakebase Support",
-      "summary": "The Replit | Databricks integration gives enterprise teams a faster path to utilizing governed data for production-ready applications. Today, we’re excited to announce the integration is generally ava",
-      "url": "https://replit.com/blog/databricks2026",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-10T14:00:00.000Z"
+      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-11T21:04:03.000Z"
     },
     {
-      "title": "8 voice AIUX patterns",
+      "title": "Test Complex Interactions Earlier with AI Prototyping",
+      "summary": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.",
+      "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-09-11T17:00:00.000Z"
+    },
+    {
+      "title": "AI Can Help Write an Article, but It Can’t Stand Behind It",
+      "summary": "NN/G uses AI for clarity, formatting, and critique, but humans retain editorial judgment and responsibility for every article.",
+      "url": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-09-11T17:00:00.000Z"
+    },
+    {
+      "title": "Figma launches data residency in Japan",
+      "summary": "Figma strengthens data protection and security for enterprise customers with local data hosting.",
+      "url": "https://www.figma.com/blog/japan-local-data-hosting/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-09-11T15:25:00.000Z"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T22:58:17.000Z"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T20:59:47.000Z"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T20:57:36.000Z"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T20:33:18.000Z"
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T20:30:17.000Z"
+    },
+    {
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "summary": "看清「一个真正的人」",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T18:02:36.000Z"
+    },
+    {
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "summary": "原来你俩互相下单呢",
+      "url": "https://www.qbitai.com/2026/09/487573.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T14:05:16.000Z"
+    },
+    {
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "summary": "把开发、交付和接单全打通了",
+      "url": "https://www.qbitai.com/2026/09/487415.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-11T13:59:09.000Z"
+    },
+    {
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
       "summary": "",
-      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-10T22:40:55.000Z"
-    },
-    {
-      "title": "How authentication friction frustrates users — and how to stop it",
-      "summary": "We’ve been doing authentication all wrong. Here’s how to fix it.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-10T22:39:57.000Z"
-    },
-    {
-      "title": "Death of the iPod",
-      "summary": "The hacks that made chip-stored sound a standard feature of digital interactionContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-10T22:38:24.000Z"
-    },
-    {
-      "title": "Five eras of UX design and the lessons to keep in the AI era",
-      "summary": "",
-      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-10T22:38:12.000Z"
-    },
-    {
-      "title": "A short history of logos made of data",
-      "summary": "",
-      "url": "https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-10T15:57:51.000Z"
-    },
-    {
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "summary": "爆料直指霍奇猜想",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "url": "https://www.qbitai.com/2026/09/487282.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-11T01:46:55.000Z"
+      "publishedAt": "2026-09-11T08:59:28.000Z"
     },
     {
-      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-      "summary": "15秒视频，50秒出片",
-      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "url": "https://www.qbitai.com/2026/09/487273.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-11T00:55:01.000Z"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T21:51:59.000Z"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T21:35:00.000Z"
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T20:59:51.000Z"
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T20:57:30.000Z"
-    },
-    {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T19:50:04.000Z"
-    },
-    {
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T10:17:46.000Z"
-    },
-    {
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-      "url": "https://www.qbitai.com/2026/09/486900.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T08:17:05.000Z"
-    },
-    {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-      "url": "https://www.qbitai.com/2026/09/486747.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-10T07:57:55.000Z"
+      "publishedAt": "2026-09-11T06:19:03.000Z"
     }
   ],
   "products": [
     {
-      "name": "Typewise Nova",
-      "tagline": "AI customer experience that builds and improves itself",
-      "url": "https://www.producthunt.com/posts/typewise-nova"
+      "name": "Anysite.io",
+      "tagline": "Build and enrich B2B lists by chatting to your agent",
+      "url": "https://www.producthunt.com/posts/anysite-io"
     },
     {
-      "name": "AI Observability by OpenObserve",
-      "tagline": "OpenTelemetry-native observability for agents and LLMs",
-      "url": "https://www.producthunt.com/posts/ai-observability-by-openobserve"
+      "name": "Loqua",
+      "tagline": "Speak naturally and move from thoughts to being done",
+      "url": "https://www.producthunt.com/posts/loqua-3"
     },
     {
-      "name": "iPhone Duo",
-      "tagline": "The largest iPhone display ever. In a thin, foldable design.",
-      "url": "https://www.producthunt.com/posts/iphone-duo"
+      "name": "Raycast 2.0",
+      "tagline": "The next generation of Raycast is here",
+      "url": "https://www.producthunt.com/posts/raycast-2-0"
     }
   ],
   "stats": {
-    "total": 28,
+    "total": 20,
     "byCategory": {
-      "模型厂商官方": 8,
-      "AI 开发工具与变更日志": 5,
+      "模型厂商官方": 3,
+      "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
-      "设计": 5,
+      "设计": 4,
       "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
@@ -270,10 +206,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Tina Huang: HTTP 404",
-    "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Figma YouTube: HTTP 404"
+    "RSS All About AI: HTTP 404"
   ]
 }
