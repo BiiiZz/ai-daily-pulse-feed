@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:47:38.144Z",
+  "generatedAt": "2026-09-15T03:48:13.659Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,107 +13,212 @@
   ],
   "news": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-14T19:00:00.000Z"
+    },
+    {
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-14T00:00:00.000Z"
+      "publishedAt": "2026-09-14T12:00:00.000Z"
     },
     {
-      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-      "summary": "还是太嫩了啊Dario",
-      "url": "https://www.qbitai.com/2026/09/488699.html",
+      "title": "AI SDK harness layer now supports native subscription authentication",
+      "summary": "The AI SDK harness layer now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through th",
+      "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-14T21:28:00.000Z"
+    },
+    {
+      "title": "Loops for product management",
+      "summary": "",
+      "url": "https://linear.app/changelog/2026-09-14-loops-for-product-management",
+      "source": "Linear Changelog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-09-14T15:07:55.000Z"
+    },
+    {
+      "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+      "summary": "",
+      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-14T18:52:50.000Z"
+    },
+    {
+      "title": "For the Designless",
+      "summary": "",
+      "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-14T13:59:28.000Z"
+    },
+    {
+      "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
+      "summary": "",
+      "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-14T11:26:18.000Z"
+    },
+    {
+      "title": "How to say no when a friend asks for a discount",
+      "summary": "How thinking about price can connect to much bigger things.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-14T11:20:16.000Z"
+    },
+    {
+      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-09-14T15:03:48.000Z"
+    },
+    {
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "summary": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-09-14T12:04:39.000Z"
+    },
+    {
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "summary": "几百个Agent参与研发，AI开始造AI",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-14T02:56:45.000Z"
+      "publishedAt": "2026-09-15T02:17:34.000Z"
     },
     {
-      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
-      "url": "https://www.qbitai.com/2026/09/488694.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-14T00:30:56.000Z"
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-13T19:40:15.000Z"
+      "publishedAt": "2026-09-15T01:50:48.000Z"
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-13T16:30:00.000Z"
+      "publishedAt": "2026-09-14T21:51:02.000Z"
     },
     {
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "summary": "亮源新创的Physical Al路线清晰了",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "source": "量子位",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-13T07:38:20.000Z"
+      "publishedAt": "2026-09-14T20:44:14.000Z"
     },
     {
-      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-      "summary": "出身寒微不是耻辱，放弃自己才是。",
-      "url": "https://www.qbitai.com/2026/09/488519.html",
-      "source": "量子位",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-13T07:20:19.000Z"
+      "publishedAt": "2026-09-14T17:10:30.000Z"
     },
     {
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "summary": "Agent的下一步是关系型生产力",
-      "url": "https://www.qbitai.com/2026/09/488447.html",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-14T17:00:00.000Z"
+    },
+    {
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-13T06:40:25.000Z"
+      "publishedAt": "2026-09-14T09:47:07.000Z"
+    },
+    {
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "summary": "业界首个5A算电协同认证",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-14T09:46:40.000Z"
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/09/489037.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-14T09:36:28.000Z"
+    },
+    {
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "summary": "AI 蛋白质设计迈入“动态时代”",
+      "url": "https://www.qbitai.com/2026/09/489023.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-14T08:17:22.000Z"
     }
   ],
   "products": [
     {
-      "name": "Resurf",
-      "tagline": "A Personal Context Library for Mac",
-      "url": "https://www.producthunt.com/posts/resurf-2"
+      "name": "Naoma AI Demo Agent V2",
+      "tagline": "Turns website traffic into booked, qualified meetings",
+      "url": "https://www.producthunt.com/posts/naoma-ai-demo-agent-v2"
     },
     {
-      "name": "Perplexity Hybrid Compute ",
-      "tagline": "Splitting AI tasks: Cloud for research, Mac for privacy",
-      "url": "https://www.producthunt.com/posts/perplexity-hybrid-compute"
+      "name": "Web Search Agents by Nimble",
+      "tagline": "Self-learning agents automate web research + retrieval",
+      "url": "https://www.producthunt.com/posts/web-search-agents-by-nimble"
     },
     {
-      "name": "ScreenCursor",
-      "tagline": "Screen recorder with auto zoom effects",
-      "url": "https://www.producthunt.com/posts/screencursor"
+      "name": "Hello Inbox",
+      "tagline": "Get more marketing emails into the inbox",
+      "url": "https://www.producthunt.com/posts/hello-inbox-2"
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 21,
     "byCategory": {
-      "模型厂商官方": 1,
-      "AI 开发工具与变更日志": 0,
-      "B 端协作与效率产品": 0,
-      "设计": 0,
-      "产品与商业策略": 0,
-      "科技媒体": 7,
+      "模型厂商官方": 3,
+      "AI 开发工具与变更日志": 1,
+      "B 端协作与效率产品": 1,
+      "设计": 4,
+      "产品与商业策略": 2,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 5,
+    "sourcesFailed": 6,
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS AI Jason: HTTP 404"
+    "RSS All About AI: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
+    "RSS NN/g: The operation was aborted due to timeout"
   ]
 }
