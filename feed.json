@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:50:02.829Z",
+  "generatedAt": "2026-09-18T03:37:01.304Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,228 +13,235 @@
   ],
   "news": [
     {
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "summary": "Education Innovation",
+      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-16T17:00:00.000Z"
+      "publishedAt": "2026-09-17T20:45:00.000Z"
     },
     {
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-16T16:00:00.000Z"
+      "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
-      "title": "Reimagining advertising with AI",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-16T13:00:00.000Z"
+      "publishedAt": "2026-09-17T12:00:00.000Z"
     },
     {
-      "title": "How to connect AI usage to business value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
+      "title": "Kimi 发布金融行业解决方案",
+      "summary": "涵盖 10+ 权威数据源、9 项金融技能和 5 项合规安全措施",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487594&amp;idx=1&amp;sn=514dc0f6f8ed91229f01466164d7087f",
+      "source": "Kimi",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
+      "publishedAt": "2026-09-17T07:19:00.000Z"
     },
     {
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-16T09:00:00.000Z"
-    },
-    {
-      "title": "Hobby projects now retain fewer deployments to free up storage",
-      "summary": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage. Every deployment you keep uses some of it, and going over the limit can block ",
-      "url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+      "title": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "summary": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your ",
+      "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-16T18:00:00.000Z"
+      "publishedAt": "2026-09-17T22:00:00.000Z"
     },
     {
-      "title": "Secure Compute and Static IP builds start 64% faster",
-      "summary": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds.Previously, each build waited for",
-      "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+      "title": "Turbo build machines can now be enabled per deployment",
+      "summary": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways:",
+      "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-16T17:00:00.000Z"
+      "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
-      "title": "Mem0 joins the Vercel Marketplace",
-      "summary": "Mem0 is now available as a native integration on the Vercel Marketplace, giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your a",
-      "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+      "title": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "summary": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench, whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass -",
+      "url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-16T17:00:00.000Z"
+      "publishedAt": "2026-09-17T19:00:00.000Z"
     },
     {
-      "title": "What Shakespeare got wrong about AI",
+      "title": "The skills CLI now supports Notion hosted skills",
+      "summary": "skills@1.7.0 adds Notion skills databases as an install source for agent skills .Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace",
+      "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-17T18:00:00.000Z"
+    },
+    {
+      "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
+      "summary": "AI Gateway Production Index — September 2026Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actual",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "title": "Please don’t stretch your app for foldables",
       "summary": "",
-      "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-16T15:21:34.000Z"
+      "publishedAt": "2026-09-17T21:34:12.000Z"
     },
     {
-      "title": "Try these 5 Weave tools—and share your own",
-      "summary": "Community publishing is now live for Weave tools. Here are a few tools that stand out, from turning a moodboard into a realistic room mockup to previewing your next nail set.",
-      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "title": "Don’t let AI build a Winchester Mystery House",
+      "title": "Rethinking writing in the world of design and AI",
       "summary": "",
-      "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-16T07:27:23.000Z"
+      "publishedAt": "2026-09-17T21:33:43.000Z"
     },
     {
-      "title": "UX Conference December Announced (Dec 2 - Dec 15)",
-      "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. December 2 - December 15, 2026.",
-      "url": "https://www.nngroup.com/training/december/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
+      "title": "The evidence at work",
+      "summary": "The floor plan and the flexibility policy were chosen deliberately, by people who had an outcome in mind. When the results arrived, they…Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-16T06:59:19.000Z"
+      "publishedAt": "2026-09-17T21:29:20.000Z"
     },
     {
-      "title": "Muse review: The personal AI agent that gets consumer UX right",
-      "summary": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Code",
-      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-16T12:02:14.000Z"
+      "title": "Nothing has changed other than how we talk about it",
+      "summary": "",
+      "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-17T21:29:03.000Z"
     },
     {
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
-      "url": "https://www.qbitai.com/2026/09/491062.html",
+      "title": "Lost dog—or lost designer?",
+      "summary": "",
+      "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-17T04:31:32.000Z"
+    },
+    {
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "summary": "作价40亿美元推进新融资",
+      "url": "https://www.qbitai.com/2026/09/491764.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-17T02:01:15.000Z"
+      "publishedAt": "2026-09-18T00:37:13.000Z"
     },
     {
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "summary": "Git白学了？？？",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-17T01:55:14.000Z"
+      "publishedAt": "2026-09-18T00:34:34.000Z"
     },
     {
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "summary": "奖励曲线、显卡故障全公开",
-      "url": "https://www.qbitai.com/2026/09/490950.html",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-17T23:25:52.000Z"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their ",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-17T23:21:17.000Z"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-17T22:14:59.000Z"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-17T20:34:47.000Z"
+    },
+    {
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "summary": "构建个体专属AI助理",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-17T01:09:25.000Z"
+      "publishedAt": "2026-09-17T12:03:24.000Z"
     },
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-17T00:58:49.000Z"
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-16T23:43:09.000Z"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-16T21:07:24.000Z"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-16T20:12:00.000Z"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-16T18:25:25.000Z"
-    },
-    {
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "summary": "九大空间测试10B规模通用模型中8项第一",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "summary": "工程师的核心永远是Problem Solving。",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-16T13:08:20.000Z"
+      "publishedAt": "2026-09-17T11:56:13.000Z"
     },
     {
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-      "url": "https://www.qbitai.com/2026/09/490760.html",
+      "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+      "url": "https://www.qbitai.com/2026/09/491522.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-16T08:51:02.000Z"
+      "publishedAt": "2026-09-17T09:42:12.000Z"
     }
   ],
   "products": [
     {
-      "name": "Weave Router 2.0",
-      "tagline": "Subscription aware coding agent router",
-      "url": "https://www.producthunt.com/posts/weave-router-2-0"
+      "name": "CREEM 2.0",
+      "tagline": "Sell and grow your AI built products",
+      "url": "https://www.producthunt.com/posts/creem-2-0"
     },
     {
-      "name": "Appwrite 2.0",
-      "tagline": "The open-source cloud for agents and developers",
-      "url": "https://www.producthunt.com/posts/appwrite-2-0"
+      "name": "Bitrise Remote Dev Environments",
+      "tagline": "Cloud Macs your coding agents can actually build on",
+      "url": "https://www.producthunt.com/posts/bitrise-remote-dev-environments"
     },
     {
-      "name": "Gemini 3.8 & 3.8 Live Extended Thinking",
-      "tagline": "Our most advanced Gemini Audio models yet",
-      "url": "https://www.producthunt.com/posts/gemini-3-8-3-8-live-extended-thinking"
+      "name": "Modaal for Android",
+      "tagline": "Ship on both stores from one project using Swift + Kotlin",
+      "url": "https://www.producthunt.com/posts/modaal-for-android"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 24,
     "byCategory": {
-      "模型厂商官方": 5,
-      "AI 开发工具与变更日志": 3,
+      "模型厂商官方": 4,
+      "AI 开发工具与变更日志": 5,
       "B 端协作与效率产品": 0,
-      "设计": 4,
-      "产品与商业策略": 1,
+      "设计": 5,
+      "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 6,
+    "sourcesFailed": 5,
     "products": 3
   },
   "errors": [
-    "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS Jeff Su: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Linear Changelog: HTTP 503"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS Tina Huang: HTTP 404"
   ]
 }
