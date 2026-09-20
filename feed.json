@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:34:00.323Z",
+  "generatedAt": "2026-09-20T03:49:56.032Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,215 +13,119 @@
   ],
   "news": [
     {
-      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-18T17:46:09.000Z"
+      "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "summary": "Community Wisdom 299",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-09-19T19:42:24.000Z"
     },
     {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-18T14:00:00.000Z"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-18T13:00:00.000Z"
-    },
-    {
-      "title": "GLM-5.3-FlashX上线：大大方方、好好用用、嗖嗖嗖嗖",
-      "summary": "",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&amp;mid=2247494219&amp;idx=1&amp;sn=f42bab9190e6e13f6db5cf5c90d850a9",
-      "source": "智谱",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-18T04:37:00.000Z"
-    },
-    {
-      "title": "Spend Management expands to Enterprise Flexible Commitment plans",
-      "summary": "Enterprise teams on Flexible Commitment plans can now use Spend Management, already available on Pro, at no additional cost.You can set a budget at any time in Spend Management settings.Set a budget p",
-      "url": "https://vercel.com/changelog/spend-management-enterprise-flex",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-18T20:00:00.000Z"
-    },
-    {
-      "title": "WebMCP support now available in mcp-handler",
-      "summary": "mcp-handler now has experimental support for WebMCP, the proposed web standard for exposing tools to in-browser agents. Add a single script tag to your site, and your existing MCP tools become availab",
-      "url": "https://vercel.com/changelog/webmcp-mcp-handler",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-18T18:00:00.000Z"
-    },
-    {
-      "title": "v0 now reads npm credentials from shared environment variables",
-      "summary": "v0 now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel.This makes it easier for teams to build with their existing design sy",
-      "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-18T17:00:00.000Z"
-    },
-    {
-      "title": "Lovable acquires Sutro to make software easier to explain and easier to trust",
-      "summary": "Lovable has acquired Sutro. Founder Tomas Halgas and three Sutro engineers join Lovable to make how software works understandable to the people building with it.",
-      "url": "https://lovable.dev/blog/lovable-acquires-sutro-to-make-software-easier-to-explain-and-easier-to-trust",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-18T09:30:00.000Z"
-    },
-    {
-      "title": "Jev is the fastest-adopted model in AI Gateway history",
-      "summary": "Within 24 hours of launching on AI Gateway, Jev from TypeSafe AI reached more than twice as many paid teams as any previous model launch, making it the fastest-adopted model in gateway history.Jev pas",
-      "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-18T07:00:00.000Z"
-    },
-    {
-      "title": "Whatever happened to “Download on the App Store” buttons?",
-      "summary": "",
-      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-18T21:20:51.000Z"
-    },
-    {
-      "title": "Designing AI Products and Features: Study Guide",
-      "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about recommendations for designing AI products and features.",
-      "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-09-18T17:00:00.000Z"
-    },
-    {
-      "title": "The 3 Roles of Context for AI Agents",
-      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
-      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-09-18T17:00:00.000Z"
-    },
-    {
-      "title": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
-      "summary": "",
-      "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-18T07:38:53.000Z"
-    },
-    {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-19T01:00:00.000Z"
+      "publishedAt": "2026-09-19T20:39:13.000Z"
     },
     {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-19T00:12:07.000Z"
+      "publishedAt": "2026-09-19T19:57:47.000Z"
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T23:25:01.000Z"
+      "publishedAt": "2026-09-19T17:30:00.000Z"
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T23:13:31.000Z"
+      "publishedAt": "2026-09-19T15:00:00.000Z"
     },
     {
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T23:12:32.000Z"
+      "publishedAt": "2026-09-19T15:00:00.000Z"
     },
     {
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "summary": "协同布局AI基础设施",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "summary": "AI有可能终结我们所有人",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T15:58:21.000Z"
+      "publishedAt": "2026-09-19T11:53:12.000Z"
     },
     {
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "summary": "老马想买倒闭公司数据为哪般",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T15:50:20.000Z"
+      "publishedAt": "2026-09-19T11:48:06.000Z"
     },
     {
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-      "url": "https://www.qbitai.com/2026/09/492238.html",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "summary": "设计、前端一口气全干了，结果后端没来上班",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T13:16:33.000Z"
+      "publishedAt": "2026-09-19T11:43:12.000Z"
     },
     {
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "summary": "LimiX让模型理解数据背后的因果机制",
-      "url": "https://www.qbitai.com/2026/09/492175.html",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "summary": "AI能否提出相对论？",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T12:22:47.000Z"
+      "publishedAt": "2026-09-19T11:36:11.000Z"
     },
     {
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-      "url": "https://www.qbitai.com/2026/09/492015.html",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "summary": "1000万，把才华送上真正的大舞台",
+      "url": "https://www.qbitai.com/2026/09/492501.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-18T09:19:37.000Z"
+      "publishedAt": "2026-09-19T08:34:35.000Z"
     }
   ],
   "products": [
     {
-      "name": "Ami AI",
-      "tagline": "Lovable for getting customers",
-      "url": "https://www.producthunt.com/posts/ami-ai"
+      "name": "Bolt Forge",
+      "tagline": "Bolt's new agent with open-source models and 50X usage",
+      "url": "https://www.producthunt.com/posts/bolt-forge-2"
     },
     {
-      "name": "AINA",
-      "tagline": "Find your job search blind spots with an AI coach",
-      "url": "https://www.producthunt.com/posts/aina"
+      "name": "Mantra Timer",
+      "tagline": "A minimalist mantra meditation timer for iOS.",
+      "url": "https://www.producthunt.com/posts/mantra-timer"
     },
     {
-      "name": "MosMos",
-      "tagline": "Voice writing that works before, during, and after meetings",
-      "url": "https://www.producthunt.com/posts/mosmos"
+      "name": "Lumiko",
+      "tagline": "Screen recordings that edit themselves with Auto Zoom-Pan ",
+      "url": "https://www.producthunt.com/posts/lumiko"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 11,
     "byCategory": {
-      "模型厂商官方": 4,
-      "AI 开发工具与变更日志": 5,
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 4,
-      "产品与商业策略": 0,
+      "设计": 0,
+      "产品与商业策略": 1,
       "科技媒体": 10,
       "视频": 0
     },
@@ -230,10 +134,10 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
-    "RSS AI Jason: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS AI Jason: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
+    "RSS All About AI: HTTP 404",
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
