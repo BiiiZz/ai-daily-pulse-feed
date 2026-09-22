@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:46:18.226Z",
+  "generatedAt": "2026-09-22T03:44:01.123Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,135 +13,223 @@
   ],
   "news": [
     {
-      "title": "WebCraftBench：给 AI 生成的网页来一场「实测大考」",
-      "summary": "如何评价 AI 写出的网页？我们尝试让 AI 自己来打分。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498548&amp;idx=1&amp;sn=558b3cfdc594a8f1d4a91ea892702b4d",
-      "source": "腾讯混元",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-09-20T07:58:00.000Z"
+      "publishedAt": "2026-09-21T13:44:34.000Z"
     },
     {
-      "title": "AI nutrition facts",
-      "summary": "Designing an interface between writers, readers, and AIContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-21T10:00:00.000Z"
+    },
+    {
+      "title": "Kimi Code Desktop 正式与你见面",
+      "summary": "macOS 和 Windows 版同步上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487615&amp;idx=1&amp;sn=1969ad8d7fe3d87d538e983fb6c1963f",
+      "source": "Kimi",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-21T07:24:00.000Z"
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
+    },
+    {
+      "title": "Vercel Connect now supports Microsoft Teams",
+      "summary": "Vercel Connect now includes a managed connector for Microsoft Teams. Creating one gives your organization a Teams bot that your apps and agents run. People can @mention it in channels or message it di",
+      "url": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-21T17:10:00.000Z"
+    },
+    {
+      "title": "Deployments now show billable duration and CPU minutes",
+      "summary": "Deployments now show their billable duration and CPU minutes in the dashboard, vc inspect, and the REST API. Use it to understand how each build contributes to your usage.Billable duration is the buil",
+      "url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-09-21T15:00:00.000Z"
+    },
+    {
+      "title": "The lie we keep telling ourselves about regulating AI",
+      "summary": "",
+      "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-09-20T12:36:44.000Z"
+      "publishedAt": "2026-09-21T22:47:57.000Z"
     },
     {
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
-      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "title": "Should the job of a UX designer be reserved for humans?",
+      "summary": "Should some jobs stay human even when AI does them better?Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-21T22:47:25.000Z"
+    },
+    {
+      "title": "Source material: Graphic designer Aitana Picó wants us to appreciate bad trends",
+      "summary": "The multidisciplinary designer and artist shares what’s in her “mental database”: an off-putting tarot deck, a Jockstrap CD, and a recurring dream about aerial silks.",
+      "url": "https://www.figma.com/blog/source-material-aitana-pico/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-09-21T17:24:00.000Z"
+    },
+    {
+      "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
+      "summary": "",
+      "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-21T11:36:07.000Z"
+    },
+    {
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-09-20T12:32:17.000Z"
+      "publishedAt": "2026-09-21T15:03:51.000Z"
     },
     {
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "url": "https://www.qbitai.com/2026/09/493114.html",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI softwar",
+      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-09-21T12:04:11.000Z"
+    },
+    {
+      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "url": "https://www.qbitai.com/2026/09/493485.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-21T02:28:46.000Z"
+      "publishedAt": "2026-09-22T02:52:05.000Z"
     },
     {
-      "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "url": "https://www.qbitai.com/2026/09/493109.html",
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "summary": "弥补算力缺口，不能只靠堆料",
+      "url": "https://www.qbitai.com/2026/09/493363.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-21T02:17:33.000Z"
+      "publishedAt": "2026-09-22T02:22:06.000Z"
     },
     {
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "url": "https://www.qbitai.com/2026/09/493091.html",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-21T23:44:28.000Z"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-21T20:15:58.000Z"
+    },
+    {
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-21T19:25:00.000Z"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-21T19:19:21.000Z"
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-21T17:55:18.000Z"
+    },
+    {
+      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+      "url": "https://www.qbitai.com/2026/09/493268.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-21T01:48:50.000Z"
+      "publishedAt": "2026-09-21T08:25:44.000Z"
     },
     {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-20T21:41:08.000Z"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-20T20:29:07.000Z"
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-20T18:56:04.000Z"
-    },
-    {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-20T18:32:52.000Z"
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-20T18:00:00.000Z"
-    },
-    {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "summary": "剪映Hub+剪映助手，好用",
-      "url": "https://www.qbitai.com/2026/09/492973.html",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "summary": "97%尝试危险行为",
+      "url": "https://www.qbitai.com/2026/09/493241.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-20T14:30:26.000Z"
+      "publishedAt": "2026-09-21T08:21:55.000Z"
     },
     {
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "summary": "AI越来越能干，企业该怎么用",
-      "url": "https://www.qbitai.com/2026/09/493068.html",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "url": "https://www.qbitai.com/2026/09/493235.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-20T14:23:52.000Z"
+      "publishedAt": "2026-09-21T07:52:46.000Z"
     }
   ],
   "products": [
     {
-      "name": "Mycel",
-      "tagline": "Bring one past deliverable. Mycel drafts every future one.",
-      "url": "https://www.producthunt.com/posts/mycel"
+      "name": "Superset Mobile",
+      "tagline": "Your coding agents, now in your pocket",
+      "url": "https://www.producthunt.com/posts/superset-mobile-2"
     },
     {
-      "name": "Minicart",
-      "tagline": "Launch your store. Let AI run the busywork.",
-      "url": "https://www.producthunt.com/posts/minicart"
+      "name": "Jev",
+      "tagline": "Fast, structured AI decisions for software automation",
+      "url": "https://www.producthunt.com/posts/jev"
     },
     {
-      "name": "Answers by Context.dev",
-      "tagline": "Give it a research task + the JSON shape you want back.",
-      "url": "https://www.producthunt.com/posts/answers-by-context-dev"
+      "name": "Arcjet",
+      "tagline": "Secure the AI agents you're building at runtime",
+      "url": "https://www.producthunt.com/posts/arcjet"
     }
   ],
   "stats": {
-    "total": 13,
+    "total": 24,
     "byCategory": {
-      "模型厂商官方": 1,
-      "AI 开发工具与变更日志": 0,
+      "模型厂商官方": 6,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 1,
-      "产品与商业策略": 1,
+      "设计": 4,
+      "产品与商业策略": 2,
       "科技媒体": 10,
       "视频": 0
     },
@@ -150,10 +238,10 @@
     "products": 3
   },
   "errors": [
+    "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
     "RSS AI Jason: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS All About AI: HTTP 404"
   ]
 }
