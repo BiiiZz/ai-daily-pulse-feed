@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:42:55.604Z",
+  "generatedAt": "2026-09-24T03:34:06.152Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,215 +13,223 @@
   ],
   "news": [
     {
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-22T21:00:00.000Z"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "title": "Faster builds, same quality: Opus 5.5 now in Lovable",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "summary": "",
-      "url": "https://lovable.dev/blog/opus-5-5-now-in-lovable",
-      "source": "Lovable Blog",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T18:41:40.000Z"
+    },
+    {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T16:00:57.000Z"
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T15:25:14.000Z"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T13:00:00.000Z"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "title": "Vercel Connect now supports TanStack AI",
+      "summary": "Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate.The new @vercel/connect/tanstack-ai subpath exports connec",
+      "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+      "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-22T16:30:00.000Z"
+      "publishedAt": "2026-09-24T00:00:00.000Z"
     },
     {
-      "title": "Lovable is a founding member of the Blueprint Alliance",
-      "summary": "Lovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding member of the Blueprint Alliance.",
-      "url": "https://lovable.dev/blog/lovable-founding-member-blueprint-alliance",
-      "source": "Lovable Blog",
+      "title": "Unlimited Vercel Blob stores on every plan",
+      "summary": "You can now create as many Vercel Blob stores as you need. The previous limits of 100 stores on Hobby, 500 on Pro, and 1,000 on Enterprise no longer apply.Blob store creation is now billed alongside o",
+      "url": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
+      "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
+      "publishedAt": "2026-09-23T18:00:00.000Z"
     },
     {
-      "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+      "title": "The power of product-based learning",
+      "summary": "There’s a big difference between having an idea and making it real, and in that space is where learning happens. Here’s how teachers are using Figma to give their students hands-on design experiences.",
+      "url": "https://www.figma.com/blog/the-power-of-product-based-learning/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-09-23T15:56:00.000Z"
+    },
+    {
+      "title": "Why the best resume may be the wrong resume for a design team",
+      "summary": "What design leadership gets wrong about experience, expertise, and innovation on a team.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-23T04:06:17.000Z"
+    },
+    {
+      "title": "The origins, side B — birth of the un-cool",
+      "summary": "Software adoption followed crises of complexity… and then it kept growingContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-09-23T04:04:28.000Z"
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-09-24T01:13:32.000Z"
+    },
+    {
+      "title": "成立九年，中科类脑把积累装进Token工厂",
       "summary": "",
-      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-22T21:27:21.000Z"
-    },
-    {
-      "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
-      "summary": "If screens don’t work as a unit of measurement, what does instead?Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-22T11:23:11.000Z"
-    },
-    {
-      "title": "The variance problem in AI products",
-      "summary": "",
-      "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-22T11:22:49.000Z"
-    },
-    {
-      "title": "What is a screen made of?",
-      "summary": "Flat design was right that the screen isn’t leather. Then it assumed that meant nothing.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-22T11:22:00.000Z"
-    },
-    {
-      "title": "Where does your work go when the tool shuts down?",
-      "summary": "A quarter of the last decade’s web pages have vanished, mostly from sites still online. Who’s archiving yours?Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-22T11:21:28.000Z"
-    },
-    {
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "summary": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
-      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-22T23:12:49.000Z"
-    },
-    {
-      "title": "I left Claude for months. Opus 5.5 is why I'm back",
-      "summary": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and ",
-      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-22T19:06:40.000Z"
-    },
-    {
-      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-      "summary": "Why you should never skip error discovery",
-      "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-09-22T12:45:14.000Z"
-    },
-    {
-      "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
-      "summary": "纯电120kWh大电池，18.1吨压着照样开",
-      "url": "https://www.qbitai.com/2026/09/495959.html",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-23T01:00:54.000Z"
+      "publishedAt": "2026-09-24T00:48:02.000Z"
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T23:21:49.000Z"
+      "publishedAt": "2026-09-24T00:46:17.000Z"
     },
     {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T21:56:43.000Z"
+      "publishedAt": "2026-09-23T23:39:44.000Z"
     },
     {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
+      "publishedAt": "2026-09-23T22:17:39.000Z"
     },
     {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T19:09:11.000Z"
+      "publishedAt": "2026-09-23T19:31:28.000Z"
     },
     {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
-      "url": "https://www.qbitai.com/2026/09/494429.html",
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+      "url": "https://www.qbitai.com/2026/09/496609.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T15:59:35.000Z"
+      "publishedAt": "2026-09-23T10:35:16.000Z"
     },
     {
-      "title": "Agent时代，CPU的价值该重估了",
-      "summary": "CPU与GPU趋近1∶1",
-      "url": "https://www.qbitai.com/2026/09/494430.html",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "summary": "商汤大装置异构混推创新实践与技术演进",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T15:46:54.000Z"
+      "publishedAt": "2026-09-23T09:56:53.000Z"
     },
     {
-      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
-      "url": "https://www.qbitai.com/2026/09/494420.html",
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "summary": "企业AI服务迎来平台化交付时代",
+      "url": "https://www.qbitai.com/2026/09/496493.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T14:28:59.000Z"
+      "publishedAt": "2026-09-23T09:50:26.000Z"
     },
     {
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "summary": "商汤U1 Pro，正式发布",
-      "url": "https://www.qbitai.com/2026/09/494263.html",
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "summary": "打造算电协同领域“Windows”级操作系统",
+      "url": "https://www.qbitai.com/2026/09/496494.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-22T13:57:10.000Z"
+      "publishedAt": "2026-09-23T09:46:57.000Z"
     }
   ],
   "products": [
     {
-      "name": "Clueso MCP",
-      "tagline": "Create and edit videos by chatting",
-      "url": "https://www.producthunt.com/posts/clueso-mcp-2"
+      "name": "Solid",
+      "tagline": "Agents with their own computers, accounts, and budgets.",
+      "url": "https://www.producthunt.com/posts/solid-9"
     },
     {
-      "name": "Anomalo",
-      "tagline": "Your data is always talking. Don't miss what it's saying.",
-      "url": "https://www.producthunt.com/posts/anomalo"
+      "name": "Naise AI",
+      "tagline": "Autonomous marketing agents that actually execute",
+      "url": "https://www.producthunt.com/posts/naise-ai"
     },
     {
-      "name": "WZRD",
-      "tagline": "AI-native documents, slides, forms and sheets that talk back",
-      "url": "https://www.producthunt.com/posts/wzrd-3"
+      "name": "Claude Opus 5.5",
+      "tagline": "Anthropic's first model in their new Claude 5.5 family",
+      "url": "https://www.producthunt.com/posts/claude-opus-5-5"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 24,
     "byCategory": {
-      "模型厂商官方": 3,
+      "模型厂商官方": 9,
       "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 3,
+      "设计": 3,
+      "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
     },
@@ -230,10 +238,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
