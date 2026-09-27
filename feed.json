@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:56:45.431Z",
+  "generatedAt": "2026-09-27T04:07:26.270Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,168 +13,104 @@
   ],
   "news": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-09-25T19:00:00.000Z"
+      "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+      "summary": "Community Wisdom 300",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-09-26T17:54:02.000Z"
     },
     {
-      "title": "Putting business analysis in everyone’s hands",
-      "summary": "Today, we’re announcing that Replit has acquired Atta, bringing its approach to business analysis and high-quality, purpose-built charting into Replit.\n\n\n\nOur mission is to make useful intelligence ac",
-      "url": "https://replit.com/blog/replit-acquires-atta",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-25T15:12:00.000Z"
-    },
-    {
-      "title": "Push images to Vercel Container Registry from GitHub Actions",
-      "summary": "You can now push container images from GitHub Actions to Vercel Container Registry (VCR) without storing long-lived registry credentials.The new vercel/vcr-action/login action authenticates your workf",
-      "url": "https://vercel.com/changelog/vcr-login-github-action",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-25T09:15:00.000Z"
-    },
-    {
-      "title": "State of agent skills",
-      "summary": "In seven months, the skills.sh registry grew to one million agent skills and recorded nearly 280 million installs.A skill gives an AI agent reusable instructions for a particular job. Agents are capab",
-      "url": "https://vercel.com/blog/state-of-agent-skills",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-09-25T06:00:00.000Z"
-    },
-    {
-      "title": "Is this the line for burgers?",
-      "summary": "On something already in the scene solving a problem outside its briefContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-09-25T21:51:14.000Z"
-    },
-    {
-      "title": "How AI Works and How Users Think About It: Study Guide",
-      "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
-      "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-09-25T17:00:00.000Z"
-    },
-    {
-      "title": "When Should You Disclose AI Use? The PACED Framework",
-      "summary": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
-      "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-09-25T17:00:00.000Z"
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-26T01:08:57.000Z"
+      "publishedAt": "2026-09-27T01:30:00.000Z"
     },
     {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T23:11:10.000Z"
+      "publishedAt": "2026-09-26T21:02:06.000Z"
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T22:20:47.000Z"
+      "publishedAt": "2026-09-26T14:00:00.000Z"
     },
     {
-      "title": "Meta opens early access program for new Muse features",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-25T20:34:53.000Z"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-09-25T19:13:38.000Z"
-    },
-    {
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/09/497278.html",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T13:24:20.000Z"
+      "publishedAt": "2026-09-26T11:49:43.000Z"
     },
     {
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "url": "https://www.qbitai.com/2026/09/498271.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T13:15:45.000Z"
+      "publishedAt": "2026-09-26T09:07:41.000Z"
     },
     {
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "url": "https://www.qbitai.com/2026/09/497108.html",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "url": "https://www.qbitai.com/2026/09/497624.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T10:00:14.000Z"
+      "publishedAt": "2026-09-26T09:01:00.000Z"
     },
     {
-      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-      "summary": "Agent的手越伸越长",
-      "url": "https://www.qbitai.com/2026/09/497075.html",
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "url": "https://www.qbitai.com/2026/09/497613.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T06:20:56.000Z"
+      "publishedAt": "2026-09-26T07:18:05.000Z"
     },
     {
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "summary": "一场物理世界的基模实验",
-      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "summary": "vLLM人马创业公司团队出品",
+      "url": "https://www.qbitai.com/2026/09/497425.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-09-25T06:14:07.000Z"
+      "publishedAt": "2026-09-26T07:12:05.000Z"
     }
   ],
   "products": [
     {
-      "name": "PixVerse R2",
-      "tagline": "A real-time world model you can explore and change",
-      "url": "https://www.producthunt.com/posts/pixverse-r2-2"
+      "name": "Hemory",
+      "tagline": "Keep listening. Searchable memory for your AI agents.",
+      "url": "https://www.producthunt.com/posts/hemory"
     },
     {
-      "name": "Bleetz Network",
-      "tagline": "AI agent-to-agent VC fundraising & scouting network",
-      "url": "https://www.producthunt.com/posts/bleetz-network"
+      "name": "Eclatira",
+      "tagline": "Conversational Video Agent That Plugs Into Any Stack",
+      "url": "https://www.producthunt.com/posts/eclatira"
     },
     {
-      "name": "Quiver GTM",
-      "tagline": "Run developer marketing like an engineering system",
-      "url": "https://www.producthunt.com/posts/quiver-gtm"
+      "name": "Chit",
+      "tagline": "A printed receipt of your day in Claude Code",
+      "url": "https://www.producthunt.com/posts/chit-2"
     }
   ],
   "stats": {
-    "total": 17,
+    "total": 9,
     "byCategory": {
-      "模型厂商官方": 1,
-      "AI 开发工具与变更日志": 3,
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 3,
-      "产品与商业策略": 0,
-      "科技媒体": 10,
+      "设计": 0,
+      "产品与商业策略": 1,
+      "科技媒体": 8,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -182,9 +118,9 @@
     "products": 3
   },
   "errors": [
-    "RSS AI Jason: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS All About AI: HTTP 404",
     "RSS Tina Huang: HTTP 404"
   ]
