@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:11:50.406Z",
+  "generatedAt": "2026-10-04T04:43:33.006Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,168 +13,96 @@
   ],
   "news": [
     {
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-02T16:15:00.000Z"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-02T15:19:50.000Z"
+      "publishedAt": "2026-10-03T22:56:48.000Z"
     },
     {
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "summary": "Mobile Systems",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-02T14:57:41.000Z"
-    },
-    {
-      "title": "Jev for Python engineers",
-      "summary": "It's simply impossible to not hear about Jev. Seemingly everyone is tinkering with it in some way, from using it to make trading decisions (what could possibly go wrong?) to generating UIs with it (ma",
-      "url": "https://vercel.com/blog/jev-for-python-engineers",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-02T07:00:00.000Z"
-    },
-    {
-      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
-      "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
-      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-02T17:00:00.000Z"
-    },
-    {
-      "title": "Empathy Mapping: The First Step in Design Thinking",
-      "summary": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
-      "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-02T17:00:00.000Z"
-    },
-    {
-      "title": "In/tension modeling: what gives us the right?",
+      "title": "The feed I produce myself",
       "summary": "",
-      "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-02T11:09:56.000Z"
+      "publishedAt": "2026-10-03T11:12:42.000Z"
     },
     {
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
+      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+      "summary": "Community Wisdom 301",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-03T17:00:49.000Z"
+    },
+    {
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "summary": "专业3D模型反而更稀缺了",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T02:38:19.000Z"
+      "publishedAt": "2026-10-04T00:53:29.000Z"
     },
     {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T00:45:39.000Z"
+      "publishedAt": "2026-10-03T18:43:57.000Z"
     },
     {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-02T21:09:14.000Z"
+      "publishedAt": "2026-10-03T16:30:01.000Z"
     },
     {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-02T19:15:51.000Z"
+      "publishedAt": "2026-10-03T14:00:00.000Z"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-02T18:11:27.000Z"
-    },
-    {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-02T17:56:00.000Z"
-    },
-    {
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary": "岗位JD甩了篇技术报告",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-02T07:34:15.000Z"
-    },
-    {
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "summary": "44年前被亲自列入问题清单",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-02T07:27:03.000Z"
-    },
-    {
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "summary": "换区也没用",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-02T06:46:32.000Z"
+      "publishedAt": "2026-10-03T07:54:43.000Z"
     }
   ],
   "products": [
     {
-      "name": "Gauth Unlimited Digital Canvas ",
-      "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
-      "url": "https://www.producthunt.com/posts/gauth-unlimited-digital-canvas"
+      "name": "ZooWork",
+      "tagline": "The AI agent delivery platform for FDEs and domain experts",
+      "url": "https://www.producthunt.com/posts/zoowork"
     },
     {
-      "name": "Veltrix AI for E-commerce",
-      "tagline": "Find how your e-commerce business could earn more",
-      "url": "https://www.producthunt.com/posts/veltrix-ai-for-e-commerce"
+      "name": "miso.com",
+      "tagline": "Book flights and hotels through iMessage",
+      "url": "https://www.producthunt.com/posts/miso-com"
     },
     {
-      "name": "Teachoo",
-      "tagline": "AI that helps you learn anything and everything.",
-      "url": "https://www.producthunt.com/posts/teachoo-2"
+      "name": "Prefer",
+      "tagline": "The execution layer for AEO",
+      "url": "https://www.producthunt.com/posts/prefer-2"
     }
   ],
   "stats": {
-    "total": 17,
+    "total": 8,
     "byCategory": {
-      "模型厂商官方": 4,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 1,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 3,
-      "产品与商业策略": 0,
-      "科技媒体": 9,
+      "设计": 1,
+      "产品与商业策略": 1,
+      "科技媒体": 5,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -183,9 +111,9 @@
   },
   "errors": [
     "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS AI Jason: HTTP 404"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS AI Jason: HTTP 404",
+    "RSS Tina Huang: HTTP 404"
   ]
 }
