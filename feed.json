@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T04:43:33.006Z",
+  "generatedAt": "2026-10-05T04:31:33.049Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,96 +13,96 @@
   ],
   "news": [
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "title": "The feed I produce myself",
-      "summary": "",
-      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+      "title": "The building was there first",
+      "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-03T11:12:42.000Z"
+      "publishedAt": "2026-10-04T14:34:28.000Z"
     },
     {
-      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-      "summary": "Community Wisdom 301",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-03T17:00:49.000Z"
+      "publishedAt": "2026-10-04T12:32:47.000Z"
     },
     {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "summary": "专业3D模型反而更稀缺了",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T00:53:29.000Z"
+      "publishedAt": "2026-10-05T02:50:46.000Z"
     },
     {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T18:43:57.000Z"
+      "publishedAt": "2026-10-04T20:31:07.000Z"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T16:30:01.000Z"
+      "publishedAt": "2026-10-04T20:08:34.000Z"
     },
     {
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T14:00:00.000Z"
+      "publishedAt": "2026-10-04T15:15:10.000Z"
     },
     {
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "summary": "岗位JD甩了篇技术报告",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-03T07:54:43.000Z"
+      "publishedAt": "2026-10-04T06:12:22.000Z"
+    },
+    {
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "summary": "什么是FDE？它会一直存在吗？",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-04T06:05:35.000Z"
     }
   ],
   "products": [
     {
-      "name": "ZooWork",
-      "tagline": "The AI agent delivery platform for FDEs and domain experts",
-      "url": "https://www.producthunt.com/posts/zoowork"
+      "name": "CoreSpeed",
+      "tagline": "One MCP for everything your agents need: apps, memory, tools",
+      "url": "https://www.producthunt.com/posts/corespeed"
     },
     {
-      "name": "miso.com",
-      "tagline": "Book flights and hotels through iMessage",
-      "url": "https://www.producthunt.com/posts/miso-com"
+      "name": "Gemini 4 Argon",
+      "tagline": "Google's frontier model for careful reasoning & complex work",
+      "url": "https://www.producthunt.com/posts/gemini-4-argon"
     },
     {
-      "name": "Prefer",
-      "tagline": "The execution layer for AEO",
-      "url": "https://www.producthunt.com/posts/prefer-2"
+      "name": "Smooth Recorder",
+      "tagline": "  Mac screen recordings that look edited when you hit stop",
+      "url": "https://www.producthunt.com/posts/smooth-recorder"
     }
   ],
   "stats": {
     "total": 8,
     "byCategory": {
-      "模型厂商官方": 1,
+      "模型厂商官方": 0,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
       "设计": 1,
       "产品与商业策略": 1,
-      "科技媒体": 5,
+      "科技媒体": 6,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -112,8 +112,8 @@
   "errors": [
     "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS Tina Huang: HTTP 404",
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
