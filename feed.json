@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:31:33.049Z",
+  "generatedAt": "2026-10-06T05:17:38.366Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,95 +13,151 @@
   ],
   "news": [
     {
-      "title": "The building was there first",
-      "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "summary": "Education Innovation",
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-05T21:08:31.000Z"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-05T15:00:00.000Z"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "summary": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-04T14:34:28.000Z"
+      "publishedAt": "2026-10-05T22:00:31.000Z"
     },
     {
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "summary": "The hidden cost of outsourcing our thinking to AI.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-05T22:00:12.000Z"
+    },
+    {
+      "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
+      "summary": "",
+      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-05T21:59:40.000Z"
+    },
+    {
+      "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+      "summary": "",
+      "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-05T11:01:01.000Z"
+    },
+    {
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-04T12:32:47.000Z"
+      "publishedAt": "2026-10-05T15:03:24.000Z"
     },
     {
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "summary": "有改进就体验，没改进就重置，横竖不亏。",
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-05T02:50:46.000Z"
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "summary": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-05T12:04:54.000Z"
     },
     {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T20:31:07.000Z"
+      "publishedAt": "2026-10-05T20:36:48.000Z"
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T20:08:34.000Z"
+      "publishedAt": "2026-10-05T19:33:53.000Z"
     },
     {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T15:15:10.000Z"
+      "publishedAt": "2026-10-05T18:54:30.000Z"
     },
     {
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "source": "量子位",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T06:12:22.000Z"
+      "publishedAt": "2026-10-05T18:29:00.000Z"
     },
     {
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "summary": "什么是FDE？它会一直存在吗？",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-05T17:29:22.000Z"
+    },
+    {
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "summary": "从绿藻里的光开关，到控制神经元",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-04T06:05:35.000Z"
+      "publishedAt": "2026-10-05T10:37:01.000Z"
     }
   ],
   "products": [
     {
-      "name": "CoreSpeed",
-      "tagline": "One MCP for everything your agents need: apps, memory, tools",
-      "url": "https://www.producthunt.com/posts/corespeed"
+      "name": "Spira Maxima",
+      "tagline": "Video model that turns script into viral social media videos",
+      "url": "https://www.producthunt.com/posts/spira-maxima"
     },
     {
-      "name": "Gemini 4 Argon",
-      "tagline": "Google's frontier model for careful reasoning & complex work",
-      "url": "https://www.producthunt.com/posts/gemini-4-argon"
+      "name": "FastRouter.ai",
+      "tagline": "Route requests to the right LLM for cost, latency & quality",
+      "url": "https://www.producthunt.com/posts/fastrouter-ai-2"
     },
     {
-      "name": "Smooth Recorder",
-      "tagline": "  Mac screen recordings that look edited when you hit stop",
-      "url": "https://www.producthunt.com/posts/smooth-recorder"
+      "name": "Invofox Self Serve",
+      "tagline": "99% accurate document extraction, SLA guaranteed",
+      "url": "https://www.producthunt.com/posts/invofox-self-serve"
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 15,
     "byCategory": {
-      "模型厂商官方": 0,
+      "模型厂商官方": 3,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 1,
-      "产品与商业策略": 1,
+      "设计": 4,
+      "产品与商业策略": 2,
       "科技媒体": 6,
       "视频": 0
     },
@@ -112,8 +168,8 @@
   "errors": [
     "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS AI Jason: HTTP 404",
     "RSS Tina Huang: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS Figma YouTube: HTTP 404"
   ]
 }
