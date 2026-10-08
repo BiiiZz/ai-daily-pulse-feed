@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:46:11.579Z",
+  "generatedAt": "2026-10-08T04:56:33.765Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,216 +13,176 @@
   ],
   "news": [
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title": "Does better work always mean better workers?",
       "summary": "",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T16:00:00.000Z"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Earth AI",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
       "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T15:05:11.000Z"
+      "publishedAt": "2026-10-07T20:19:57.000Z"
     },
     {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "title": "Multimodal open d1 decision models for the edge",
       "summary": "",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-06T06:44:39.000Z"
+      "publishedAt": "2026-10-07T16:54:33.000Z"
     },
     {
-      "title": "AI Gateway adds confidence-based decision fallbacks",
-      "summary": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set.Conditions can be combined, so an escalation can depend on more ",
-      "url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-06T17:19:00.000Z"
-    },
-    {
-      "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "summary": "",
-      "url": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-07T12:45:31.000Z"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
+    },
+    {
+      "title": "Bounded delegation: How much authority should AI have?",
+      "summary": "",
+      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-06T23:35:43.000Z"
+      "publishedAt": "2026-10-07T19:54:06.000Z"
     },
     {
-      "title": "Why designers need to stop reporting and start recommending at work",
-      "summary": "Sticky notes don’t help your team. They need your directionContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+      "title": "Beyond streaks and nudges: ethical gamification & AI design",
+      "summary": "Part 1 of 3 on designing systems that inspire rather than manipulate.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-06T23:35:06.000Z"
+      "publishedAt": "2026-10-07T19:48:49.000Z"
     },
     {
-      "title": "How apps know us better than we do and influence our decisions",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
       "summary": "",
-      "url": "https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-06T23:34:41.000Z"
-    },
-    {
-      "title": "3 ways product designers use the Figma agent for craft, speed, and creative expression",
-      "summary": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available.",
-      "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-06T14:00:00.000Z"
-    },
-    {
-      "title": "Workflow lab: Staying in the flow with Figma’s agent",
-      "summary": "Knowing what work to hand to an agent is a skill of its own. This workflow shows how a designer shapes a new temporary-access feature while the Figma agent handles the library updates, crit feedback, ",
-      "url": "https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-06T14:00:00.000Z"
-    },
-    {
-      "title": "How to lighten design system upkeep with the Figma agent",
-      "summary": "Figma’s agent can take on repetitive work across your design system, from maintaining your library to automating how designs adhere to it. Here, we share a few ways to put the Figma agent to work.",
-      "url": "https://www.figma.com/blog/figma-agent-and-design-systems/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-06T14:00:00.000Z"
-    },
-    {
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "summary": "三位菲尔兹奖得主：不代表认可",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "url": "https://www.qbitai.com/2026/10/501915.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-07T01:05:13.000Z"
+      "publishedAt": "2026-10-08T02:15:37.000Z"
     },
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T22:34:03.000Z"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T20:35:20.000Z"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T20:00:30.000Z"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T19:56:50.000Z"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T18:22:45.000Z"
-    },
-    {
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "summary": "南极洲甚至有一座高地以他名字命名",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-06T10:44:58.000Z"
-    },
-    {
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
       "summary": "",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "url": "https://www.qbitai.com/2026/10/501913.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-06T07:59:17.000Z"
+      "publishedAt": "2026-10-08T02:04:36.000Z"
     },
     {
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "summary": "ChatGPT聊天框长出界面",
+      "url": "https://www.qbitai.com/2026/10/501834.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-06T06:45:40.000Z"
+      "publishedAt": "2026-10-08T01:07:19.000Z"
+    },
+    {
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "summary": "小模型新守门员",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T01:04:00.000Z"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T20:48:45.000Z"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T20:22:37.000Z"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T18:30:57.000Z"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T18:15:28.000Z"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T18:00:19.000Z"
+    },
+    {
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-07T14:10:33.000Z"
     }
   ],
   "products": [
     {
-      "name": "Rill Browser",
-      "tagline": "The browser where Claude Code and Codex work beside you",
-      "url": "https://www.producthunt.com/posts/rill-browser"
+      "name": "IrisGo for Solopreneurs",
+      "tagline": "AI workflow automation: show it once, let it run",
+      "url": "https://www.producthunt.com/posts/irisgo-for-solopreneurs"
     },
     {
-      "name": "AUDR by Chargebee",
-      "tagline": "Open standard for tracking agent run costs",
-      "url": "https://www.producthunt.com/posts/audr-by-chargebee"
+      "name": "Velozity",
+      "tagline": "The Multiplayer AI Office where your team and agents work.",
+      "url": "https://www.producthunt.com/posts/velozity-3"
     },
     {
-      "name": "OpenBot",
-      "tagline": "Grok Bot alternative: free, local, open-source, multiplayer",
-      "url": "https://www.producthunt.com/posts/openbot-4"
+      "name": "GenPage 3.0",
+      "tagline": "Build, personalize, and optimize landing pages with AI",
+      "url": "https://www.producthunt.com/posts/genpage-3-0"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 18,
     "byCategory": {
-      "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 6,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 6,
+      "设计": 2,
       "产品与商业策略": 0,
-      "科技媒体": 9,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -230,10 +190,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Jeff Su: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Tina Huang: HTTP 500"
+    "RSS Tina Huang: HTTP 404"
   ]
 }
