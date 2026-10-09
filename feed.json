@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T04:56:33.765Z",
+  "generatedAt": "2026-10-09T04:59:32.782Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,187 +13,215 @@
   ],
   "news": [
     {
-      "title": "Does better work always mean better workers?",
-      "summary": "",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T20:19:57.000Z"
-    },
-    {
-      "title": "Multimodal open d1 decision models for the edge",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T16:54:33.000Z"
-    },
-    {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T12:45:31.000Z"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
+      "publishedAt": "2026-10-08T16:00:00.000Z"
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "url": "https://openai.com/index/radisson",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
+      "publishedAt": "2026-10-08T12:00:00.000Z"
     },
     {
-      "title": "Bounded delegation: How much authority should AI have?",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "Skip sending request bodies to Routing Middleware",
+      "summary": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody. This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to",
+      "url": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-08T16:05:00.000Z"
+    },
+    {
+      "title": "Vercel Sandbox creation now returns a ready sandbox",
+      "summary": "A new Vercel Sandbox is now ready to run commands and read or write files when creation completes.Sandbox.create() now resolves only after snapshot restoration completes, so the first command or file ",
+      "url": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-08T06:00:00.000Z"
+    },
+    {
+      "title": "Stacked pull requests",
       "summary": "",
-      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+      "url": "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
+      "source": "Linear Changelog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-10-08T15:44:14.000Z"
+    },
+    {
+      "title": "Tesler’s Law: complexity moved to a different part of the journey",
+      "summary": "",
+      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-07T19:54:06.000Z"
+      "publishedAt": "2026-10-08T23:17:58.000Z"
     },
     {
-      "title": "Beyond streaks and nudges: ethical gamification & AI design",
-      "summary": "Part 1 of 3 on designing systems that inspire rather than manipulate.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+      "title": "Are synthetic users (really) the future of UX research?",
+      "summary": "",
+      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-07T19:48:49.000Z"
+      "publishedAt": "2026-10-08T23:16:42.000Z"
     },
     {
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "title": "Synthetic users are making me rethink “imperfect research”",
       "summary": "",
-      "url": "https://www.qbitai.com/2026/10/501915.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-08T02:15:37.000Z"
+      "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-08T23:16:30.000Z"
     },
     {
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "title": "AI-generated UI is fast design, not UX",
       "summary": "",
-      "url": "https://www.qbitai.com/2026/10/501913.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-08T02:04:36.000Z"
+      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-08T23:16:10.000Z"
     },
     {
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "summary": "ChatGPT聊天框长出界面",
-      "url": "https://www.qbitai.com/2026/10/501834.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-08T01:07:19.000Z"
-    },
-    {
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "summary": "小模型新守门员",
-      "url": "https://www.qbitai.com/2026/10/501832.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-08T01:04:00.000Z"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-07T20:48:45.000Z"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-07T20:22:37.000Z"
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-07T18:30:57.000Z"
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-07T18:15:28.000Z"
-    },
-    {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-07T18:00:19.000Z"
-    },
-    {
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "title": "What the AI era owes you",
       "summary": "",
-      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-08T23:15:43.000Z"
+    },
+    {
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "url": "https://www.qbitai.com/2026/10/502125.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-07T14:10:33.000Z"
+      "publishedAt": "2026-10-09T03:52:21.000Z"
+    },
+    {
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "summary": "江淮再度跌停",
+      "url": "https://www.qbitai.com/2026/10/502114.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-09T02:51:10.000Z"
+    },
+    {
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "summary": "多Agent协同还能自我进化",
+      "url": "https://www.qbitai.com/2026/10/502106.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-09T02:37:22.000Z"
+    },
+    {
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "summary": "让AI反复试错的“练兵场”来了",
+      "url": "https://www.qbitai.com/2026/10/502096.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-09T02:03:48.000Z"
+    },
+    {
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "summary": "彻底撕破脸了",
+      "url": "https://www.qbitai.com/2026/10/502089.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-09T00:35:57.000Z"
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T21:00:00.000Z"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T20:04:26.000Z"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T18:20:32.000Z"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T18:19:45.000Z"
+    },
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-08T18:19:42.000Z"
+    },
+    {
+      "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
+      "summary": "What if your whole team could create motion with ease? Learn how to build a reusable motion toolkit in Figma Motion that makes it easier to create, iterate, and scale animation across your team. Explo",
+      "url": "https://www.youtube.com/watch?v=IjtOndtmC-Q",
+      "source": "Figma YouTube",
+      "category": "视频",
+      "publishedAt": "2026-10-08T13:00:28.000Z"
     }
   ],
   "products": [
     {
-      "name": "IrisGo for Solopreneurs",
-      "tagline": "AI workflow automation: show it once, let it run",
-      "url": "https://www.producthunt.com/posts/irisgo-for-solopreneurs"
+      "name": "OpenSwarm",
+      "tagline": "A swarm of agents, in the same place you work",
+      "url": "https://www.producthunt.com/posts/openswarm-3"
     },
     {
-      "name": "Velozity",
-      "tagline": "The Multiplayer AI Office where your team and agents work.",
-      "url": "https://www.producthunt.com/posts/velozity-3"
+      "name": "OpenSEO",
+      "tagline": "The open source Semrush alternative",
+      "url": "https://www.producthunt.com/posts/openseo-2"
     },
     {
-      "name": "GenPage 3.0",
-      "tagline": "Build, personalize, and optimize landing pages with AI",
-      "url": "https://www.producthunt.com/posts/genpage-3-0"
+      "name": "Claude Haiku 5.5",
+      "tagline": "Anthropic's fastest and most capable Haiku yet",
+      "url": "https://www.producthunt.com/posts/claude-haiku-5-5"
     }
   ],
   "stats": {
-    "total": 18,
+    "total": 22,
     "byCategory": {
-      "模型厂商官方": 6,
-      "AI 开发工具与变更日志": 0,
-      "B 端协作与效率产品": 0,
-      "设计": 2,
+      "模型厂商官方": 3,
+      "AI 开发工具与变更日志": 2,
+      "B 端协作与效率产品": 1,
+      "设计": 5,
       "产品与商业策略": 0,
       "科技媒体": 10,
-      "视频": 0
+      "视频": 1
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 5,
+    "sourcesFailed": 1,
     "products": 3
   },
   "errors": [
-    "RSS Figma YouTube: HTTP 404",
-    "RSS All About AI: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
-    "RSS AI Jason: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS Jeff Su: HTTP 500"
   ]
 }
