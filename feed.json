@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T04:45:42.228Z",
+  "generatedAt": "2026-10-13T05:49:44.643Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,96 +13,136 @@
   ],
   "news": [
     {
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "summary": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
-      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "title": "EU inference: control where AI processes your requests",
+      "summary": "Enterprise teams can route supported AI model requests to European endpoints, both while building in Lovable and in the AI features of their published apps.",
+      "url": "https://lovable.dev/blog/eu-inference",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-12T08:30:00.000Z"
+    },
+    {
+      "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+      "summary": "",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-12T20:19:31.000Z"
+    },
+    {
+      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+      "summary": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-12T20:17:45.000Z"
+    },
+    {
+      "title": "On M.F. Husain and multiple meanings of the colour orange",
+      "summary": "The painting that introduced me to the power and purpose of artContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-12T11:35:46.000Z"
+    },
+    {
+      "title": "Borrowed slopes",
+      "summary": "When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-12T11:35:36.000Z"
+    },
+    {
+      "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+      "summary": "",
+      "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-12T09:07:53.000Z"
+    },
+    {
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-11T12:31:59.000Z"
+      "publishedAt": "2026-10-12T15:00:38.000Z"
     },
     {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "summary": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-12T12:03:55.000Z"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-11T21:14:40.000Z"
+      "publishedAt": "2026-10-12T17:56:56.000Z"
     },
     {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-11T19:00:00.000Z"
+      "publishedAt": "2026-10-12T17:19:14.000Z"
     },
     {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-11T16:52:33.000Z"
+      "publishedAt": "2026-10-12T15:45:00.000Z"
     },
     {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-11T14:00:00.000Z"
+      "publishedAt": "2026-10-12T15:31:19.000Z"
     },
     {
-      "title": "王的猜想，刚刚扩展到四维",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/10/502584.html",
-      "source": "量子位",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-11T05:23:47.000Z"
-    },
-    {
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-11T05:22:38.000Z"
-    },
-    {
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "summary": "初代4o的API快照进入停用倒计时",
-      "url": "https://www.qbitai.com/2026/10/502550.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-11T05:18:04.000Z"
+      "publishedAt": "2026-10-12T15:27:59.000Z"
     }
   ],
   "products": [
     {
-      "name": "HireKey",
-      "tagline": "Your recruiter-informed AI copilot for tech job search",
-      "url": "https://www.producthunt.com/posts/hirekey-2"
+      "name": "Google EmbeddingGemma 2",
+      "tagline": "An open, lightweight multimodal embedding model",
+      "url": "https://www.producthunt.com/posts/google-embeddinggemma-2"
     },
     {
-      "name": "kōdlo",
-      "tagline": "End-to-end sales workspace with unified context",
-      "url": "https://www.producthunt.com/posts/kodlo-2"
+      "name": "ngram 2.0",
+      "tagline": "Create explainers, screencasts, and AI avatar videos",
+      "url": "https://www.producthunt.com/posts/ngram-2-0-2"
     },
     {
-      "name": "Automations in Perplexity Computer",
-      "tagline": "Automations that remember, act, and keep work moving",
-      "url": "https://www.producthunt.com/posts/automations-in-perplexity-computer"
+      "name": "Base Code",
+      "tagline": "Let your whole team build on your product",
+      "url": "https://www.producthunt.com/posts/base-code"
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 13,
     "byCategory": {
       "模型厂商官方": 0,
-      "AI 开发工具与变更日志": 0,
+      "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
-      "设计": 0,
-      "产品与商业策略": 1,
-      "科技媒体": 7,
+      "设计": 5,
+      "产品与商业策略": 2,
+      "科技媒体": 5,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -110,10 +150,10 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
-    "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS AI Jason: HTTP 404",
+    "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404"
   ]
 }
