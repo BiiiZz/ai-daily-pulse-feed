@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:52:51.218Z",
+  "generatedAt": "2026-10-15T03:34:56.499Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,222 +13,230 @@
   ],
   "news": [
     {
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "Google DeepMind",
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "summary": "General Science",
+      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
+      "publishedAt": "2026-10-14T16:14:34.000Z"
     },
     {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "summary": "Earth AI",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
+      "publishedAt": "2026-10-14T16:14:00.000Z"
     },
     {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "title": "Analyzing technical documents with Deep Review",
+      "summary": "General Science",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-14T16:14:00.000Z"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T17:05:48.000Z"
+      "publishedAt": "2026-10-14T16:12:42.000Z"
     },
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
+      "publishedAt": "2026-10-14T12:00:00.000Z"
     },
     {
-      "title": "Kimi 校招活动报名 | No Genre",
-      "summary": "10.24 北京，一座古寺见",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487627&amp;idx=1&amp;sn=78025f074625bc63acf24ea9a9af8b62",
-      "source": "Kimi",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-13T10:00:00.000Z"
+      "publishedAt": "2026-10-14T12:00:00.000Z"
     },
     {
-      "title": "Introducing Replit Solutions Partners",
-      "summary": "When anyone in an organization can put AI to work on the problems they know best, the way the organization operates starts to change. Designers turn ideas into working software that engineers can revi",
-      "url": "https://replit.com/blog/introducing-replit-solutions-partners",
-      "source": "Replit Blog",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "From building your app to growing it: Lovable now helps you find customers",
+      "summary": "Ask Lovable how to grow your app, and it creates a growth plan and helps you carry it out across Google Search, YouTube, Google Maps, Google Ads, Facebook, and Instagram.",
+      "url": "https://lovable.dev/blog/introducing-growth-tools",
+      "source": "Lovable Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-13T17:25:04.000Z"
+      "publishedAt": "2026-10-14T12:50:00.000Z"
     },
     {
-      "title": "Taste is not a design methodology",
+      "title": "Deploy your Lovable apps in your own AWS account",
+      "summary": "Your teams keep building with Lovable. The apps they create, and the data behind them, can now run inside your own AWS account. Available in private preview for Enterprise customers.",
+      "url": "https://lovable.dev/blog/deploy-on-aws",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-14T11:45:00.000Z"
+    },
+    {
+      "title": "Findings from the $1M Vercel Sandbox challenge",
+      "summary": "In August, we launched the $1M hacker challenge for Vercel Sandbox, inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to revi",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "Nobody wants your AI app",
       "summary": "",
-      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-13T22:27:46.000Z"
+      "publishedAt": "2026-10-14T22:09:56.000Z"
     },
     {
-      "title": "How to talk about a design that looks worse on paper",
-      "summary": "Why it took Microsoft 5 years to roll out an ‘obvious fix’Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-13T22:26:58.000Z"
-    },
-    {
-      "title": "Source material: Creative director Manon Macasaet’s spirituality shapes her process",
-      "summary": "The creative behind Poison Candy Apple is inspired by Harajuku fashion, early internet Tumblr, old rave graphics, and kidrobots.",
-      "url": "https://www.figma.com/blog/source-material-manon-macasaet/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-13T14:35:00.000Z"
-    },
-    {
-      "title": "The synth everyone owned and few could program: a lesson for AI design",
+      "title": "What I told the CFO when he asked why design matters",
       "summary": "",
-      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-13T09:03:24.000Z"
+      "publishedAt": "2026-10-14T22:09:29.000Z"
     },
     {
-      "title": "What are we willing to sacrifice for AI?",
-      "summary": "",
-      "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
+      "title": "How getting good at your job can stop you getting better",
+      "summary": "Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they’re given to tackle.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-13T07:30:43.000Z"
+      "publishedAt": "2026-10-14T08:53:49.000Z"
     },
     {
-      "title": "How to tell if a startup has a moat",
-      "summary": "A framework for assessing whether the company you’re considering joining is built to last",
-      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "summary": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
+      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-13T12:45:41.000Z"
+      "publishedAt": "2026-10-14T12:04:05.000Z"
     },
     {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-13T23:13:31.000Z"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-13T23:05:34.000Z"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-13T23:00:00.000Z"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-13T22:36:59.000Z"
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-13T20:36:44.000Z"
-    },
-    {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "summary": "让VLA从“演示可用”逼近“产线可用”",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "summary": "给企业Agent打了个样",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-13T11:05:39.000Z"
+      "publishedAt": "2026-10-15T01:56:20.000Z"
     },
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "summary": "Winverse AI",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "source": "量子位",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-13T09:33:37.000Z"
+      "publishedAt": "2026-10-15T01:01:32.000Z"
     },
     {
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "summary": "宝马保时捷缺席",
-      "url": "https://www.qbitai.com/2026/10/502992.html",
-      "source": "量子位",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-13T07:20:23.000Z"
+      "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "source": "量子位",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-13T07:19:21.000Z"
+      "publishedAt": "2026-10-14T21:30:33.000Z"
     },
     {
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "summary": "拉马克进化的幽灵",
-      "url": "https://www.qbitai.com/2026/10/502920.html",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-14T18:23:46.000Z"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-14T18:00:00.000Z"
+    },
+    {
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "summary": "“具身进实景，劳动最光荣”",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-13T06:19:10.000Z"
+      "publishedAt": "2026-10-14T10:41:47.000Z"
+    },
+    {
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "summary": "这妥妥是个物理版Agent啊！",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-14T08:01:18.000Z"
+    },
+    {
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "summary": "汽车竞争正在回归汽车本身",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-14T07:12:02.000Z"
+    },
+    {
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-14T07:03:44.000Z"
     }
   ],
   "products": [
     {
-      "name": "Articos MCP",
-      "tagline": "See how simulated buyers react, right in your agent",
-      "url": "https://www.producthunt.com/posts/articos-mcp"
+      "name": "Pancake",
+      "tagline": "The Vercel for GTM",
+      "url": "https://www.producthunt.com/posts/pancake-7"
     },
     {
-      "name": "OpenCode 2.0",
-      "tagline": "The open source AI coding agent",
-      "url": "https://www.producthunt.com/posts/opencode-2-0"
+      "name": "Inferock",
+      "tagline": "Serverless inference, with credits back for failed calls.",
+      "url": "https://www.producthunt.com/posts/inferock"
     },
     {
-      "name": "Muse Wonder",
-      "tagline": "Meta’s most capable models for personal agents",
-      "url": "https://www.producthunt.com/posts/muse-wonder"
+      "name": "Retriever AI",
+      "tagline": "Free AI browser agent: find leads, reach out, apply to jobs",
+      "url": "https://www.producthunt.com/posts/retriever-ai"
     }
   ],
   "stats": {
-    "total": 24,
+    "total": 25,
     "byCategory": {
-      "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 8,
+      "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
-      "设计": 5,
+      "设计": 3,
       "产品与商业策略": 1,
       "科技媒体": 10,
       "视频": 0
@@ -239,9 +247,9 @@
   },
   "errors": [
     "RSS Tina Huang: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
     "RSS AI Jason: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS Jeff Su: HTTP 404"
   ]
 }
