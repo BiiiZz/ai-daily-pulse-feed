@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:30:35.905Z",
+  "generatedAt": "2026-10-17T03:20:49.629Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,296 +13,128 @@
   ],
   "news": [
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-16T01:44:47.000Z"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-15T20:34:01.000Z"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "url": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-15T19:00:00.000Z"
+      "publishedAt": "2026-10-16T19:00:00.000Z"
     },
     {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "summary": "General Science",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
+      "publishedAt": "2026-10-16T18:11:34.000Z"
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
+      "title": "Hy Memory 2.0 发布：模型、框架、应用三层全开源",
+      "summary": "打造私人记忆管家",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498682&amp;idx=1&amp;sn=c05eb139c48a0ba10cf4434f6489ac63",
+      "source": "腾讯混元",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-15T13:00:00.000Z"
+      "publishedAt": "2026-10-16T09:15:00.000Z"
     },
     {
-      "title": "10 分钟，Kimi Work 从入门到精通",
-      "summary": "Kimi Work 是我们推出的本地 AI Agent，就像住在电脑里的 AI 同事，可以直接读取本地文件、操作浏览器和其他常用软件工具。\n\n今天我们从下载安装开始，手把手带大家完成基础任务，再进一步解锁进阶能力。希望能给你带来灵感，找到更适合自己的 AI 协作方式。\n\n开始使用：kimi.com/products/kimi-work",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487633&amp;idx=1&amp;sn=16d7e00bdc390709f314cc8f229bba6e",
-      "source": "Kimi",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-15T10:20:00.000Z"
+      "title": "Bring Your Own Cloud to Replit",
+      "summary": "Enterprise teams want to build apps connected to their company’s systems and data. But strict security requirements often mean development and production must stay within the isolation and control of ",
+      "url": "https://replit.com/blog/bring-your-own-cloud",
+      "source": "Replit Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-16T09:30:00.000Z"
     },
     {
-      "title": "Vercel Ship 2026 recap",
-      "summary": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and ",
-      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "title": "Vercel and Shopify make agents first-class shoppers",
+      "summary": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class s",
+      "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T16:00:00.000Z"
+      "publishedAt": "2026-10-16T07:00:00.000Z"
     },
     {
-      "title": "The AI you already use, now powering the apps you create",
-      "summary": "GPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria, Perplexity, Firecrawl, Parallel and Jev are now in Lovable. Describe what you want to build and add voice, reasoning, video, mus",
-      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T15:30:00.000Z"
-    },
-    {
-      "title": "Deploy on Azure: keep your Lovable apps in your own subscription",
-      "summary": "Deploy on Azure is now in private preview, so your apps and their data can run in your own Azure subscription. Here&apos;s every way to build with Lovable on Microsoft today, from fully inside your Mi",
-      "url": "https://lovable.dev/blog/deploy-on-azure",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T12:45:00.000Z"
-    },
-    {
-      "title": "What financial services marketing teams need to know about data, access, and security before publishing",
-      "summary": "How financial services marketing teams can assess the risk of an app, control who sees which data, and check what matters before publishing with Lovable.",
-      "url": "https://lovable.dev/blog/financial-services-marketing-data-access-and-security",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T11:00:00.000Z"
-    },
-    {
-      "title": "Open weight takes 71.5% of tokens and 23% of spend",
-      "summary": "AI Gateway Production Index — October 2026Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually",
-      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "Vercel for Enterprise",
-      "summary": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recentl",
-      "url": "https://vercel.com/blog/vercel-for-enterprise",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "Introducing Vercel Drives: persistent storage for agents",
-      "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working w",
-      "url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "Backends on Vercel: Python, containers, and Daemons",
-      "summary": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate",
-      "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "Human in the loop means making sure the human is not out of the loop",
-      "summary": "",
-      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title": "UX Maps: Glossary",
+      "summary": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+      "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-10-15T22:09:29.000Z"
+      "publishedAt": "2026-10-16T17:00:00.000Z"
     },
     {
-      "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
-      "summary": "It was about what a designer really needed to know about shipping to production, and what people truly wanted from online learningContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
+      "summary": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+      "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-10-15T22:08:34.000Z"
+      "publishedAt": "2026-10-16T17:00:00.000Z"
     },
     {
-      "title": "Nobody feels heard by a report",
-      "summary": "Why the forward-deployed engineer boom stops at the customer.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-15T22:02:52.000Z"
-    },
-    {
-      "title": "The AI experience doesn’t care about your org chart",
-      "summary": "",
-      "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-15T22:00:47.000Z"
-    },
-    {
-      "title": "Figma deepens investment in India with largest international Config yet",
-      "summary": "Building off the Config momentum in India, Figma is launching an education program, new research, and an MCP partnership with Sarvam.",
-      "url": "https://www.figma.com/blog/figma-deepens-investment-in-india/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-15T04:55:00.000Z"
-    },
-    {
-      "title": "Build by design: New workflows for new ways of building",
-      "summary": "Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative canvas.",
-      "url": "https://www.figma.com/blog/build-by-design/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-15T04:53:00.000Z"
-    },
-    {
-      "title": "Design together with code layers on the canvas",
-      "summary": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas.",
-      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-15T04:52:00.000Z"
-    },
-    {
-      "title": "Introducing Specs: Markdown as a medium",
-      "summary": "We’re launching Specs, a container for your context that lives on the Figma canvas.",
-      "url": "https://www.figma.com/blog/introducing-figma-specs/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-15T04:51:00.000Z"
-    },
-    {
-      "title": "Create, ship, and manage data-backed websites with Payload in Figma",
-      "summary": "With Payload in Figma, teams can go from prototype to production together, managing their content and data all in one place.",
-      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-15T04:50:00.000Z"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-15T23:44:56.000Z"
+      "publishedAt": "2026-10-16T21:22:28.000Z"
     },
     {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-15T20:04:53.000Z"
+      "publishedAt": "2026-10-16T17:52:24.000Z"
     },
     {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-15T19:55:25.000Z"
+      "publishedAt": "2026-10-16T16:30:00.000Z"
     },
     {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-15T19:14:26.000Z"
+      "publishedAt": "2026-10-16T16:30:00.000Z"
     },
     {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-15T18:56:46.000Z"
-    },
-    {
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-      "url": "https://www.qbitai.com/2026/10/503645.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-15T10:07:08.000Z"
-    },
-    {
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "summary": "Siri AI这次不包括在内",
-      "url": "https://www.qbitai.com/2026/10/503640.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-15T09:43:29.000Z"
-    },
-    {
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "summary": "Agent究竟该如何深入业务毛细血管？",
-      "url": "https://www.qbitai.com/2026/10/503614.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-15T08:48:31.000Z"
-    },
-    {
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-      "url": "https://www.qbitai.com/2026/10/503611.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-15T08:16:19.000Z"
-    },
-    {
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "summary": "大模型好不好用，百灵拿成品说话",
-      "url": "https://www.qbitai.com/2026/10/503532.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-15T07:35:24.000Z"
+      "publishedAt": "2026-10-16T16:01:37.000Z"
     }
   ],
   "products": [
     {
-      "name": "Talanoa",
-      "tagline": "Email that feels like chat",
-      "url": "https://www.producthunt.com/posts/talanoa-2"
+      "name": "Jockey by TwelveLabs",
+      "tagline": "Your entire video library: organized, searchable, understood",
+      "url": "https://www.producthunt.com/posts/jockey-by-twelvelabs-2"
     },
     {
-      "name": "Navige",
-      "tagline": "Cut AI agent costs and control runaway spending",
-      "url": "https://www.producthunt.com/posts/navige"
+      "name": "Harness by Autonomous",
+      "tagline": "Every coding agent, every machine, one command center.",
+      "url": "https://www.producthunt.com/posts/harness-by-autonomous-2"
     },
     {
-      "name": "GLM-Legal",
-      "tagline": "Z.ai’s legal AI model for contract review and compliance",
-      "url": "https://www.producthunt.com/posts/glm-legal"
+      "name": "Tesla Roadster",
+      "tagline": "The hypercar that flies",
+      "url": "https://www.producthunt.com/posts/tesla-roadster"
     }
   ],
   "stats": {
-    "total": 33,
+    "total": 12,
     "byCategory": {
-      "模型厂商官方": 6,
-      "AI 开发工具与变更日志": 8,
+      "模型厂商官方": 3,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 9,
+      "设计": 2,
       "产品与商业策略": 0,
-      "科技媒体": 10,
+      "科技媒体": 5,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -310,10 +142,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Figma YouTube: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
     "RSS AI Jason: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
     "RSS All About AI: HTTP 404"
   ]
 }
