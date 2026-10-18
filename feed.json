@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:20:49.629Z",
+  "generatedAt": "2026-10-18T03:26:11.997Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,128 +13,80 @@
   ],
   "news": [
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI News",
+      "title": "DeepSeek V4.1 Flash 新版本：许愿式编程一键成真",
+      "summary": "0-1 项目开发性能增强、成本更低，同步开放自研搜索 API",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485876&amp;idx=1&amp;sn=2606d3fa9ac085f94290ddd1d94649cc",
+      "source": "DeepSeek",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-16T19:00:00.000Z"
+      "publishedAt": "2026-10-17T08:11:00.000Z"
     },
     {
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "summary": "General Science",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-16T18:11:34.000Z"
-    },
-    {
-      "title": "Hy Memory 2.0 发布：模型、框架、应用三层全开源",
-      "summary": "打造私人记忆管家",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498682&amp;idx=1&amp;sn=c05eb139c48a0ba10cf4434f6489ac63",
-      "source": "腾讯混元",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-16T09:15:00.000Z"
-    },
-    {
-      "title": "Bring Your Own Cloud to Replit",
-      "summary": "Enterprise teams want to build apps connected to their company’s systems and data. But strict security requirements often mean development and production must stay within the isolation and control of ",
-      "url": "https://replit.com/blog/bring-your-own-cloud",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-16T09:30:00.000Z"
-    },
-    {
-      "title": "Vercel and Shopify make agents first-class shoppers",
-      "summary": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class s",
-      "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+      "title": "AI Gateway logs now show session affinity",
+      "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude ",
+      "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-16T07:00:00.000Z"
+      "publishedAt": "2026-10-17T20:03:00.000Z"
     },
     {
-      "title": "UX Maps: Glossary",
-      "summary": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
-      "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-16T17:00:00.000Z"
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "summary": "Community Wisdom 302",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-17T13:53:57.000Z"
     },
     {
-      "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
-      "summary": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
-      "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-16T17:00:00.000Z"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-16T21:22:28.000Z"
+      "publishedAt": "2026-10-17T21:31:32.000Z"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-16T17:52:24.000Z"
+      "publishedAt": "2026-10-17T20:21:19.000Z"
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-16T16:30:00.000Z"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-16T16:30:00.000Z"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-16T16:01:37.000Z"
+      "publishedAt": "2026-10-17T18:48:08.000Z"
     }
   ],
   "products": [
     {
-      "name": "Jockey by TwelveLabs",
-      "tagline": "Your entire video library: organized, searchable, understood",
-      "url": "https://www.producthunt.com/posts/jockey-by-twelvelabs-2"
+      "name": "NitroStack",
+      "tagline": "Build, test, and deploy MCP servers in one place",
+      "url": "https://www.producthunt.com/posts/nitrostack"
     },
     {
-      "name": "Harness by Autonomous",
-      "tagline": "Every coding agent, every machine, one command center.",
-      "url": "https://www.producthunt.com/posts/harness-by-autonomous-2"
+      "name": "Caldera",
+      "tagline": "Your Obsidian vault as a living profile and linked garden",
+      "url": "https://www.producthunt.com/posts/caldera"
     },
     {
-      "name": "Tesla Roadster",
-      "tagline": "The hypercar that flies",
-      "url": "https://www.producthunt.com/posts/tesla-roadster"
+      "name": "Notion: Context for your agents",
+      "tagline": "Switch AI agents without re-explaining your work",
+      "url": "https://www.producthunt.com/posts/notion-context-for-your-agents"
     }
   ],
   "stats": {
-    "total": 12,
+    "total": 6,
     "byCategory": {
-      "模型厂商官方": 3,
-      "AI 开发工具与变更日志": 2,
+      "模型厂商官方": 1,
+      "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
-      "设计": 2,
-      "产品与商业策略": 0,
-      "科技媒体": 5,
+      "设计": 0,
+      "产品与商业策略": 1,
+      "科技媒体": 3,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -143,9 +95,9 @@
   },
   "errors": [
     "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS AI Jason: HTTP 404",
+    "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS All About AI: HTTP 404"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS AI Jason: HTTP 404"
   ]
 }
