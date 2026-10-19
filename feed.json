@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T03:26:11.997Z",
+  "generatedAt": "2026-10-19T03:37:37.252Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,80 +13,88 @@
   ],
   "news": [
     {
-      "title": "DeepSeek V4.1 Flash 新版本：许愿式编程一键成真",
-      "summary": "0-1 项目开发性能增强、成本更低，同步开放自研搜索 API",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485876&amp;idx=1&amp;sn=2606d3fa9ac085f94290ddd1d94649cc",
-      "source": "DeepSeek",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-17T08:11:00.000Z"
-    },
-    {
       "title": "AI Gateway logs now show session affinity",
       "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude ",
       "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-17T20:03:00.000Z"
+      "publishedAt": "2026-10-18T20:03:00.000Z"
     },
     {
-      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
-      "summary": "Community Wisdom 302",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "title": "How to build a brand foundation with AI without losing your craft",
+      "summary": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-18T19:06:49.000Z"
+    },
+    {
+      "title": "Design in the material you ship",
+      "summary": "",
+      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-18T12:11:43.000Z"
+    },
+    {
+      "title": "A thousand days of stale popcorn",
+      "summary": "A gym, a morning radio broadcast, and a streak counter are all answers to one question: how do you get someone to keep going when you…Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-18T12:11:30.000Z"
+    },
+    {
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-17T13:53:57.000Z"
+      "publishedAt": "2026-10-18T12:31:36.000Z"
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-17T21:31:32.000Z"
+      "publishedAt": "2026-10-18T20:37:40.000Z"
     },
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-17T20:21:19.000Z"
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-17T18:48:08.000Z"
+      "publishedAt": "2026-10-18T16:30:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "NitroStack",
-      "tagline": "Build, test, and deploy MCP servers in one place",
-      "url": "https://www.producthunt.com/posts/nitrostack"
+      "name": "Inbox Zero",
+      "tagline": "Open-source Superhuman alternative",
+      "url": "https://www.producthunt.com/posts/inbox-zero-7"
     },
     {
-      "name": "Caldera",
-      "tagline": "Your Obsidian vault as a living profile and linked garden",
-      "url": "https://www.producthunt.com/posts/caldera"
+      "name": "MyLens",
+      "tagline": "1-1 Live Presentations at Scale with AI.",
+      "url": "https://www.producthunt.com/posts/mylens-23606f5c-c212-4382-854f-b920d35917a7"
     },
     {
-      "name": "Notion: Context for your agents",
-      "tagline": "Switch AI agents without re-explaining your work",
-      "url": "https://www.producthunt.com/posts/notion-context-for-your-agents"
+      "name": "shim-cli",
+      "tagline": "See what your coding agent sends. Mask what you can.",
+      "url": "https://www.producthunt.com/posts/shim-cli"
     }
   ],
   "stats": {
-    "total": 6,
+    "total": 7,
     "byCategory": {
-      "模型厂商官方": 1,
+      "模型厂商官方": 0,
       "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
-      "设计": 0,
+      "设计": 3,
       "产品与商业策略": 1,
-      "科技媒体": 3,
+      "科技媒体": 2,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -95,9 +103,9 @@
   },
   "errors": [
     "RSS Tina Huang: HTTP 404",
-    "RSS All About AI: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS AI Jason: HTTP 404"
+    "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404"
   ]
 }
