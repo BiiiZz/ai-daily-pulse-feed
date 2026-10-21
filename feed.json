@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:48:22.523Z",
+  "generatedAt": "2026-10-21T03:39:12.998Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,184 +13,160 @@
   ],
   "news": [
     {
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-20T18:17:47.000Z"
+    },
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-20T16:09:19.000Z"
+    },
+    {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-20T15:19:48.000Z"
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-19T12:00:00.000Z"
+      "publishedAt": "2026-10-20T10:00:00.000Z"
     },
     {
-      "title": "Updates to Hobby and Pro Terms of Service",
-      "summary": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and cr",
-      "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+      "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
+      "summary": "全面支持开源社区优化部署，扩大服务、提效节能",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836",
+      "source": "DeepSeek",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-20T08:54:00.000Z"
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "title": "WebSocket support is now generally available",
+      "summary": "WebSocket support in Vercel Functions is now generally available.Since the public beta launched in late June, Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day",
+      "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-19T18:39:47.247Z"
+      "publishedAt": "2026-10-20T20:00:00.000Z"
     },
     {
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "title": "Enterprise features October roundup",
+      "summary": "This month&apos;s Enterprise releases help central teams take AI-built apps to production: deploy in your own AWS or Azure account, EU inference, Organizations, workspace policies and approvals, the A",
+      "url": "https://lovable.dev/blog/enterprise-features-october-roundup",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-20T11:30:00.000Z"
+    },
+    {
+      "title": "Let AI have the average user: Why User Research should focus on bad days",
+      "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-20T21:30:52.000Z"
+    },
+    {
+      "title": "AI doesn’t care about your job title",
       "summary": "",
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-19T21:39:27.000Z"
+      "publishedAt": "2026-10-20T21:29:28.000Z"
     },
     {
-      "title": "Playing the sanshin without a sound",
-      "summary": "The slot machine and the checklist: a dilemma in feedback design.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title": "Source material: Designer Ben Ganz on pushing the limits of what we can do",
+      "summary": "From experimental typography and print artifacts to architecture, furniture, and fashion, PIN-UP Magazine’s creative director explores how materials, systems, and unexpected connections can shape new ",
+      "url": "https://www.figma.com/blog/source-material-ben-ganz/",
+      "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-10-19T21:38:20.000Z"
+      "publishedAt": "2026-10-20T19:18:00.000Z"
     },
     {
-      "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes",
-      "summary": "",
-      "url": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-19T11:50:05.000Z"
-    },
-    {
-      "title": "What if AI sets us free?",
-      "summary": "",
-      "url": "https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-19T11:12:29.000Z"
-    },
-    {
-      "title": "UX designers are not designing interfaces, they design personalities",
-      "summary": "",
-      "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-19T11:12:12.000Z"
-    },
-    {
-      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-10-19T15:03:35.000Z"
-    },
-    {
-      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-      "summary": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
-      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-10-19T12:04:52.000Z"
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-20T01:27:03.000Z"
+      "publishedAt": "2026-10-20T23:01:23.000Z"
     },
     {
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "summary": "OpenAI只掏出一个6.1 Terra…",
-      "url": "https://www.qbitai.com/2026/10/504314.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-20T01:09:43.000Z"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-19T23:39:38.000Z"
+      "publishedAt": "2026-10-20T22:24:02.000Z"
     },
     {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a ",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-19T22:49:27.000Z"
+      "publishedAt": "2026-10-20T21:25:22.000Z"
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-19T22:04:28.000Z"
+      "publishedAt": "2026-10-20T20:40:41.000Z"
     },
     {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-19T20:09:24.000Z"
-    },
-    {
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "summary": "同步搭建千比特规模量子算力云平台",
-      "url": "https://www.qbitai.com/2026/10/504277.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-19T14:33:26.000Z"
-    },
-    {
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "summary": "当AI越来越懂你，如何让智能真正属于你？",
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-19T14:31:12.000Z"
-    },
-    {
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-      "url": "https://www.qbitai.com/2026/10/504266.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-19T10:27:39.000Z"
-    },
-    {
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "summary": "六年蛰伏出货80万颗",
-      "url": "https://www.qbitai.com/2026/10/504225.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-19T10:15:19.000Z"
+      "publishedAt": "2026-10-20T20:35:10.000Z"
     }
   ],
   "products": [
     {
-      "name": "Beam.win",
-      "tagline": "Run AI agents on one Mac and use its windows on another",
-      "url": "https://www.producthunt.com/posts/beam-win"
+      "name": "/dev/null",
+      "tagline": "a social network for devs",
+      "url": "https://www.producthunt.com/posts/dev-null"
     },
     {
-      "name": "Figma Specs",
-      "tagline": "A container for your context that lives on the Figma canvas",
-      "url": "https://www.producthunt.com/posts/figma-specs"
+      "name": "Composio Instant",
+      "tagline": "The easiest way for AI agents to pay for their own tools",
+      "url": "https://www.producthunt.com/posts/composio-instant"
     },
     {
-      "name": "readywhen",
-      "tagline": "The senior personal assistant that works inside WhatsApp",
-      "url": "https://www.producthunt.com/posts/readywhen-2"
+      "name": "Harness²",
+      "tagline": "Harness the agent. Then harness its self-improvement.",
+      "url": "https://www.producthunt.com/posts/harness-6c72f469-0ceb-4bd8-a470-a028991b1f97"
     }
   ],
   "stats": {
-    "total": 19,
+    "total": 16,
     "byCategory": {
-      "模型厂商官方": 1,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 6,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 2,
-      "科技媒体": 10,
+      "设计": 3,
+      "产品与商业策略": 0,
+      "科技媒体": 5,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -198,10 +174,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Figma YouTube: HTTP 404",
-    "RSS All About AI: HTTP 404",
     "RSS AI Jason: HTTP 404",
+    "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
     "RSS Tina Huang: HTTP 404"
   ]
 }
