@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:39:12.998Z",
+  "generatedAt": "2026-10-22T03:38:48.183Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,159 +13,207 @@
   ],
   "news": [
     {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T18:17:47.000Z"
-    },
-    {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T16:09:19.000Z"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T15:19:48.000Z"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T10:00:00.000Z"
+      "publishedAt": "2026-10-21T21:00:00.000Z"
     },
     {
-      "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
-      "summary": "全面支持开源社区优化部署，扩大服务、提效节能",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836",
-      "source": "DeepSeek",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T08:54:00.000Z"
+      "publishedAt": "2026-10-21T18:26:30.000Z"
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T17:35:36.000Z"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "url": "https://openai.com/index/att-legal",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
+      "publishedAt": "2026-10-21T17:00:00.000Z"
     },
     {
-      "title": "WebSocket support is now generally available",
-      "summary": "WebSocket support in Vercel Functions is now generally available.Since the public beta launched in late June, Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day",
-      "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "summary": "Health & Bioscience",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T16:23:53.000Z"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T16:04:43.000Z"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T14:58:18.000Z"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "title": "Routing Middleware now supports Python",
+      "summary": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them.To set it up, ",
+      "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-20T20:00:00.000Z"
+      "publishedAt": "2026-10-21T17:00:00.000Z"
     },
     {
-      "title": "Enterprise features October roundup",
-      "summary": "This month&apos;s Enterprise releases help central teams take AI-built apps to production: deploy in your own AWS or Azure account, EU inference, Organizations, workspace policies and approvals, the A",
-      "url": "https://lovable.dev/blog/enterprise-features-october-roundup",
+      "title": "Lovable’s compliance and your app: what’s covered, what’s your responsibility",
+      "summary": "Lovable’s SOC 2, ISO 27001, GDPR, and AIUC-1 commitments cover the platform, not the apps you build. Here’s what each one means for your project and how to think about your own compliance.",
+      "url": "https://lovable.dev/blog/lovable-compliance-and-your-app",
       "source": "Lovable Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-20T11:30:00.000Z"
+      "publishedAt": "2026-10-21T09:00:00.000Z"
     },
     {
-      "title": "Let AI have the average user: Why User Research should focus on bad days",
-      "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-20T21:30:52.000Z"
-    },
-    {
-      "title": "AI doesn’t care about your job title",
+      "title": "A founder with a tool is not a founder with a clue",
       "summary": "",
-      "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-20T21:29:28.000Z"
+      "publishedAt": "2026-10-21T21:50:55.000Z"
     },
     {
-      "title": "Source material: Designer Ben Ganz on pushing the limits of what we can do",
-      "summary": "From experimental typography and print artifacts to architecture, furniture, and fashion, PIN-UP Magazine’s creative director explores how materials, systems, and unexpected connections can shape new ",
-      "url": "https://www.figma.com/blog/source-material-ben-ganz/",
-      "source": "Figma Blog",
+      "title": "Can you take AI at its word?",
+      "summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-20T19:18:00.000Z"
+      "publishedAt": "2026-10-21T21:50:06.000Z"
     },
     {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-20T23:01:23.000Z"
+      "title": "Design v ADHD",
+      "summary": "",
+      "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-21T08:18:25.000Z"
     },
     {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-20T22:24:02.000Z"
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "summary": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-21T20:25:18.000Z"
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-20T21:25:22.000Z"
+      "publishedAt": "2026-10-21T22:51:22.000Z"
     },
     {
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-20T20:40:41.000Z"
+      "publishedAt": "2026-10-21T21:16:20.000Z"
     },
     {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-20T20:35:10.000Z"
+      "publishedAt": "2026-10-21T21:14:19.000Z"
+    },
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-21T20:27:41.000Z"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-21T19:30:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "/dev/null",
-      "tagline": "a social network for devs",
-      "url": "https://www.producthunt.com/posts/dev-null"
+      "name": "UseIt Studio",
+      "tagline": "Your AI design agent for real, editable project files.",
+      "url": "https://www.producthunt.com/posts/useit-studio"
     },
     {
-      "name": "Composio Instant",
-      "tagline": "The easiest way for AI agents to pay for their own tools",
-      "url": "https://www.producthunt.com/posts/composio-instant"
+      "name": "Needle",
+      "tagline": "The agent-native outbound engine",
+      "url": "https://www.producthunt.com/posts/needle-391a6980-1f80-4939-8a6d-535d2f72c156"
     },
     {
-      "name": "Harness²",
-      "tagline": "Harness the agent. Then harness its self-improvement.",
-      "url": "https://www.producthunt.com/posts/harness-6c72f469-0ceb-4bd8-a470-a028991b1f97"
+      "name": "BAND for Developers",
+      "tagline": "Coding agents, meet teamwork",
+      "url": "https://www.producthunt.com/posts/band-for-developers"
     }
   ],
   "stats": {
-    "total": 16,
+    "total": 22,
     "byCategory": {
-      "模型厂商官方": 6,
+      "模型厂商官方": 11,
       "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
       "设计": 3,
-      "产品与商业策略": 0,
+      "产品与商业策略": 1,
       "科技媒体": 5,
       "视频": 0
     },
@@ -174,10 +222,10 @@
     "products": 3
   },
   "errors": [
-    "RSS AI Jason: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404"
   ]
 }
