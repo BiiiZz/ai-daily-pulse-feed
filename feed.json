@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:37:44.662Z",
+  "generatedAt": "2026-10-25T03:35:09.191Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,192 +13,72 @@
   ],
   "news": [
     {
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-23T18:51:33.000Z"
+      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+      "summary": "Community Wisdom 303",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-10-24T15:11:42.000Z"
     },
     {
-      "title": "Kimi K3.1 Pro：智能前沿，更进一步",
-      "summary": "高速版同步上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487748&amp;idx=1&amp;sn=ceec50327d6be7c1e07203c9306c9ebc",
-      "source": "Kimi",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-23T17:16:00.000Z"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-23T16:15:50.000Z"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-23T10:00:00.000Z"
-    },
-    {
-      "title": "Vercel CLI adds Spend Management",
-      "summary": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget.Vi",
-      "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-23T21:44:00.000Z"
-    },
-    {
-      "title": "Send feedback from the Vercel MCP",
-      "summary": "Vercel MCP now includes submit_feedback, a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness.Ask your agent to give feedback i",
-      "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-23T20:53:00.000Z"
-    },
-    {
-      "title": "How Vercel Agent accesses production safely",
-      "summary": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad",
-      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-23T20:29:00.000Z"
-    },
-    {
-      "title": "Deployments now show build cache size",
-      "summary": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine. The same information is in the CLI with vercel inspect on versio",
-      "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-23T19:00:00.000Z"
-    },
-    {
-      "title": "Vercel Connect adds managed Stripe API keys",
-      "summary": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creat",
-      "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "6 ways teams are experimenting with code layers",
-      "summary": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
-      "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-10-23T22:43:00.000Z"
-    },
-    {
-      "title": "UX Disciplines: Glossary",
-      "summary": "Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps",
-      "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings",
-      "summary": "AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.",
-      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "title": "Entering Atomic Design from the screen",
-      "summary": "",
-      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-23T11:16:30.000Z"
-    },
-    {
-      "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
-      "summary": "",
-      "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-23T11:15:20.000Z"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-23T23:05:49.000Z"
+      "publishedAt": "2026-10-24T19:00:00.000Z"
     },
     {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-23T21:59:19.000Z"
+      "publishedAt": "2026-10-24T16:00:00.000Z"
     },
     {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-23T19:06:23.000Z"
+      "publishedAt": "2026-10-24T15:00:00.000Z"
     },
     {
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-23T07:35:51.000Z"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-23T04:00:00.000Z"
+      "publishedAt": "2026-10-24T14:00:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "Product Hunt Visual Launch Editor",
-      "tagline": "See your launch as you build it",
-      "url": "https://www.producthunt.com/posts/product-hunt-visual-launch-editor"
+      "name": "zCAD AI",
+      "tagline": "AI 3D that creates real parts, not just shapes",
+      "url": "https://www.producthunt.com/posts/zcad-ai"
     },
     {
-      "name": "MOVO AI",
-      "tagline": "The world's first long-form video agent for mobile",
-      "url": "https://www.producthunt.com/posts/movo-ai"
+      "name": "myPip",
+      "tagline": "Vibe code, publish, and monetize games with AI",
+      "url": "https://www.producthunt.com/posts/mypip-2"
     },
     {
-      "name": "Agent Hunt",
-      "tagline": "Live rankings of the tools AI agents use most",
-      "url": "https://www.producthunt.com/posts/agent-hunt"
+      "name": "1Password for Agents",
+      "tagline": "Let AI agents sign in for you without seeing your passwords",
+      "url": "https://www.producthunt.com/posts/1password-for-agents"
     }
   ],
   "stats": {
-    "total": 20,
+    "total": 5,
     "byCategory": {
-      "模型厂商官方": 5,
-      "AI 开发工具与变更日志": 5,
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 0,
-      "科技媒体": 5,
+      "设计": 0,
+      "产品与商业策略": 1,
+      "科技媒体": 4,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -206,10 +86,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Jeff Su: HTTP 404",
-    "RSS AI Jason: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Tina Huang: HTTP 404"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
+    "RSS AI Jason: HTTP 404",
+    "RSS Jeff Su: HTTP 404"
   ]
 }
