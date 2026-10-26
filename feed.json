@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:35:09.191Z",
+  "generatedAt": "2026-10-26T03:37:48.411Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,72 +13,88 @@
   ],
   "news": [
     {
-      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
-      "summary": "Community Wisdom 303",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "title": "The context advantage of human UX",
+      "summary": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-25T12:34:03.000Z"
+    },
+    {
+      "title": "Nobody asked for the sparkle button",
+      "summary": "",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-25T12:33:57.000Z"
+    },
+    {
+      "title": "Where to draw the line before AI reaches professional users",
+      "summary": "",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-25T12:31:45.000Z"
+    },
+    {
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-24T15:11:42.000Z"
+      "publishedAt": "2026-10-25T12:31:34.000Z"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-24T19:00:00.000Z"
+      "publishedAt": "2026-10-25T21:31:16.000Z"
     },
     {
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
+      "publishedAt": "2026-10-25T16:57:32.000Z"
     },
     {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
+      "publishedAt": "2026-10-25T14:10:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "zCAD AI",
-      "tagline": "AI 3D that creates real parts, not just shapes",
-      "url": "https://www.producthunt.com/posts/zcad-ai"
+      "name": "Moli by Lexmount",
+      "tagline": "The fastest headless browser for agents and harnesses",
+      "url": "https://www.producthunt.com/posts/moli-by-lexmount"
     },
     {
-      "name": "myPip",
-      "tagline": "Vibe code, publish, and monetize games with AI",
-      "url": "https://www.producthunt.com/posts/mypip-2"
+      "name": "Badgey",
+      "tagline": "Your iPhone becomes a name badge that faces the room",
+      "url": "https://www.producthunt.com/posts/badgey"
     },
     {
-      "name": "1Password for Agents",
-      "tagline": "Let AI agents sign in for you without seeing your passwords",
-      "url": "https://www.producthunt.com/posts/1password-for-agents"
+      "name": "AgentGrid.io",
+      "tagline": "Shared workspace for humans and agents",
+      "url": "https://www.producthunt.com/posts/agentgrid-io"
     }
   ],
   "stats": {
-    "total": 5,
+    "total": 7,
     "byCategory": {
       "模型厂商官方": 0,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 0,
+      "设计": 3,
       "产品与商业策略": 1,
-      "科技媒体": 4,
+      "科技媒体": 3,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -86,10 +102,10 @@
     "products": 3
   },
   "errors": [
+    "RSS Jeff Su: HTTP 404",
     "RSS All About AI: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS Tina Huang: HTTP 404"
   ]
 }
