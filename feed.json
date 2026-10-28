@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T04:02:24.825Z",
+  "generatedAt": "2026-10-28T04:27:58.140Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,232 +13,208 @@
   ],
   "news": [
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary": "Education Innovation",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T22:00:00.000Z"
+      "publishedAt": "2026-10-27T17:35:00.000Z"
     },
     {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T16:00:00.000Z"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T14:30:00.000Z"
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T13:45:00.000Z"
-    },
-    {
-      "title": "腾讯混元同声传译大模型开源，效果跑赢主流商用 API",
+      "title": "Build specialized multimodal models with LFM3",
       "summary": "",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498743&amp;idx=1&amp;sn=3ffbc2e287aaedc8c3814e4c75030b96",
-      "source": "腾讯混元",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T11:53:00.000Z"
+      "publishedAt": "2026-10-27T17:16:52.000Z"
     },
     {
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-27T16:12:42.000Z"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "url": "https://openai.com/index/retell-ai",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T10:00:00.000Z"
+      "publishedAt": "2026-10-27T15:00:00.000Z"
     },
     {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-26T07:00:00.000Z"
+      "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
-      "title": "Discover 1000+ services on Vercel Connect from the CLI",
-      "summary": "You and your agents can now browse and search more than 1000 services available in Vercel Connect  without leaving your terminal. vercel connect discover searches by name, alias, keyword, and descript",
-      "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T20:00:00.000Z"
-    },
-    {
-      "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
-      "summary": "AgentEnv, Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox. The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and ",
-      "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T19:00:00.000Z"
-    },
-    {
-      "title": "The Rise of the Self-Driving Company",
-      "summary": "In 1937, British Nobel Prize-winning economist Ronald Coase asked: Why do firms exist? His answer was transaction costs. It’s often cheaper to organize economic activity inside a company than to coord",
-      "url": "https://replit.com/blog/rise-of-self-driving-company",
+      "title": "Anyone can now bring their ideas into the company codebase",
+      "summary": "Since we launched the first generally available coding agent in 2024, almost anyone can build an app. But changing your company’s core product is still out of reach for anyone outside engineering, and",
+      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
       "source": "Replit Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T15:50:00.000Z"
+      "publishedAt": "2026-10-27T15:30:00.000Z"
     },
     {
-      "title": "Create custom monitors in Vercel Observability",
-      "summary": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance me",
-      "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+      "title": "Your workspace has undead apps",
+      "summary": "Forgotten projects can stay published, connected to data, and unowned. This Halloween, hunt them down in our free game, and see how Enterprise admins can clean up abandoned projects automatically.",
+      "url": "https://lovable.dev/blog/your-workspace-has-undead-apps",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-10-27T12:30:00.000Z"
+    },
+    {
+      "title": "ElevenLabs on AI Gateway",
+      "summary": "Vercel and ElevenLabs are partnering to bring 14 ElevenLabs models to AI Gateway. To celebrate the launch, all ElevenLabs models are 50% off on AI Gateway for the first 14 days, through November 9th.A",
+      "url": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T06:00:00.000Z"
+      "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
-      "title": "Vercel Agent can now validate alerts before paging",
-      "summary": "Vercel Agent can now investigate alerts from Vercel monitors before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as Critical are sent ",
-      "url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+      "title": "The fx adapter now runs the harness on the host",
+      "summary": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox.Th",
+      "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T06:00:00.000Z"
+      "publishedAt": "2026-10-27T06:00:00.000Z"
     },
     {
-      "title": "Vercel Sandbox commands now support stdin",
-      "summary": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser, or send data to other command-line ",
-      "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-26T06:00:00.000Z"
+      "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
+      "summary": "What a survey of 521 UX professionals found about AI in UXContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-27T11:13:45.000Z"
     },
     {
-      "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+      "title": "Going nowhere fast",
       "summary": "",
-      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-10-26T21:33:16.000Z"
+      "publishedAt": "2026-10-27T11:13:03.000Z"
     },
     {
-      "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
-      "summary": "",
-      "url": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-26T21:32:18.000Z"
-    },
-    {
-      "title": "Who gets to name the future?",
-      "summary": "",
-      "url": "https://uxdesign.cc/who-gets-to-name-the-future-436d069f16af?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-26T11:26:31.000Z"
-    },
-    {
-      "title": "The tap that pours hot water, not cold",
-      "summary": "On where a sushi self-service system quietly puts its riskContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-26T11:26:19.000Z"
-    },
-    {
-      "title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title",
-      "summary": "",
-      "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-26T11:20:17.000Z"
-    },
-    {
-      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-10-26T15:00:53.000Z"
-    },
-    {
-      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-      "summary": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Gi",
-      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-10-26T12:04:20.000Z"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-27T02:00:00.000Z"
+      "publishedAt": "2026-10-28T01:15:28.000Z"
     },
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-27T01:12:21.000Z"
+      "publishedAt": "2026-10-27T23:34:27.000Z"
     },
     {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-26T16:49:42.000Z"
+      "publishedAt": "2026-10-27T22:55:41.000Z"
     },
     {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-26T16:46:36.000Z"
+      "publishedAt": "2026-10-27T21:44:34.000Z"
     },
     {
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-26T14:35:22.000Z"
+      "publishedAt": "2026-10-27T21:38:28.000Z"
+    },
+    {
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-27T12:57:51.000Z"
+    },
+    {
+      "title": "印奇把4D雷达也端到端了",
+      "summary": "毫米波雷达，AI算力10TOPS",
+      "url": "https://www.qbitai.com/2026/10/505852.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-27T10:40:12.000Z"
+    },
+    {
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+      "url": "https://www.qbitai.com/2026/10/505830.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-27T09:54:51.000Z"
+    },
+    {
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "summary": "无人在环进店实测啃下长尾场景",
+      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-27T08:46:12.000Z"
+    },
+    {
+      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+      "summary": "OCR 3.0时代，来了",
+      "url": "https://www.qbitai.com/2026/10/505773.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-27T08:35:33.000Z"
     }
   ],
   "products": [
     {
-      "name": "Strawberry 1.0",
-      "tagline": "AI Browser that saves your team >100h/week",
-      "url": "https://www.producthunt.com/posts/strawberry-1-0"
+      "name": "TheySaid 4.0",
+      "tagline": "See how users will react, right where you build.",
+      "url": "https://www.producthunt.com/posts/theysaid-4-0"
     },
     {
-      "name": "SurgePix",
-      "tagline": "AI visuals. Edit every layer. Agent-callable. ",
-      "url": "https://www.producthunt.com/posts/surgepix"
+      "name": "Overmind",
+      "tagline": "Open-source platform for continuous learning",
+      "url": "https://www.producthunt.com/posts/overmind-2"
     },
     {
-      "name": "MiniMax M3.1 Flash",
-      "tagline": "MiniMax’s Flash model, 3x faster and 70% cheaper for agents",
-      "url": "https://www.producthunt.com/posts/minimax-m3-1-flash"
+      "name": "Orbit",
+      "tagline": "Stop doomscrolling. Earn every app unlock.",
+      "url": "https://www.producthunt.com/posts/orbit-e8ac4f51-8930-424c-895e-7d3365ab0467"
     }
   ],
   "stats": {
-    "total": 25,
+    "total": 22,
     "byCategory": {
-      "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 6,
+      "模型厂商官方": 6,
+      "AI 开发工具与变更日志": 4,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 2,
-      "科技媒体": 5,
+      "设计": 2,
+      "产品与商业策略": 0,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -246,10 +222,10 @@
     "products": 3
   },
   "errors": [
-    "RSS AI Jason: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404",
+    "RSS All About AI: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS All About AI: HTTP 404"
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
