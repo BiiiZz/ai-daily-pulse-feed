@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:45:01.437Z",
+  "generatedAt": "2026-10-30T04:44:28.588Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,264 +13,160 @@
   ],
   "news": [
     {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-28T17:00:58.000Z"
+      "publishedAt": "2026-10-29T17:00:00.000Z"
     },
     {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
       "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-28T14:58:17.000Z"
+      "publishedAt": "2026-10-29T13:37:07.000Z"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-28T13:15:00.000Z"
+      "publishedAt": "2026-10-29T09:00:00.000Z"
     },
     {
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-28T10:00:00.000Z"
+      "publishedAt": "2026-10-29T07:00:00.000Z"
     },
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-28T09:30:00.000Z"
-    },
-    {
-      "title": "Vercel CI is now in beta",
-      "summary": "You can now run CI for your Turborepo with one line of configuration.In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abil",
-      "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+      "title": "Strix now supports Vercel AI Gateway",
+      "summary": "Strix, the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway.Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a ",
+      "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T19:00:00.000Z"
+      "publishedAt": "2026-10-29T18:44:00.000Z"
     },
     {
-      "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
-      "summary": "Today we’re releasing ViBench 2.0, a benchmark for long-horizon software development. It joins the Specialized Intelligence Index (SII) from Fireworks [1], our partner for open-weight model inference ",
-      "url": "https://replit.com/blog/vibench-2-long-horizon-software-benchmark",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T18:50:00.000Z"
-    },
-    {
-      "title": "Box Mount now runs in Vercel Sandbox",
-      "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
-      "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+      "title": "IP geolocation now covers more visitors at higher resolution",
+      "summary": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic.Geolocation data is n",
+      "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T18:00:00.000Z"
+      "publishedAt": "2026-10-29T17:00:00.000Z"
     },
     {
-      "title": "Replit’s Architecture Behind Secure Agent Work",
-      "summary": "Last week’s security disclosures offered a glimpse of the challenges ahead. Critical flaws surfaced across software that much of the internet depends on. AI agents are making vulnerabilities faster an",
-      "url": "https://replit.com/blog/architecture-behind-secure-agent-work",
-      "source": "Replit Blog",
+      "title": "Hello from Lovable&apos;s new London home",
+      "summary": "We&apos;re opening our first London office, our second engineering, product, and design hub after Stockholm. Here&apos;s what the London team is building, and what the UK is building with Lovable.",
+      "url": "https://lovable.dev/blog/hello-from-lovables-new-london-home",
+      "source": "Lovable Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T16:00:00.000Z"
+      "publishedAt": "2026-10-29T08:00:00.000Z"
     },
     {
-      "title": "Vercel Container Registry now supports 2 GB compressed image layers",
-      "summary": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB.The h",
-      "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+      "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+      "summary": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response.Faster cold startsTwo changes speed up SDK initializatio",
+      "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T09:32:00.000Z"
+      "publishedAt": "2026-10-29T06:00:00.000Z"
     },
     {
-      "title": "Introducing Virtual Models on AI Gateway",
-      "summary": "Today, we are introducing Virtual Models on AI Gateway.Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can ch",
-      "url": "https://vercel.com/blog/ai-gateway-virtual-models",
+      "title": "The fx adapter now runs the harness on the host",
+      "summary": "The fx adapter for the AI SDK’s HarnessAgent now uses libfx, the TypeScript library for fx. The harness and model requests run in your application’s process, while built-in filesystem and shell operat",
+      "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T07:25:00.000Z"
+      "publishedAt": "2026-10-29T06:00:00.000Z"
     },
     {
-      "title": "Introducing Vercel CI",
-      "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. Th",
-      "url": "https://vercel.com/blog/introducing-vercel-ci",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-28T07:00:00.000Z"
-    },
-    {
-      "title": "How I stopped dreading AI and started studying it full-time",
-      "summary": "",
-      "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-28T23:24:01.000Z"
-    },
-    {
-      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
-      "summary": "6 UX questions for AI research tasks that take timeContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-28T23:23:05.000Z"
-    },
-    {
-      "title": "The AI reckoning in UX was 20 years in the making",
-      "summary": "",
-      "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-28T23:22:26.000Z"
-    },
-    {
-      "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
-      "summary": "All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-10-28T23:21:43.000Z"
-    },
-    {
-      "title": "Source material: \"BRAT\" Art Director Brent David Freaney finds design inspiration from everyday life",
-      "summary": "The designer takes us through his world of color theory, photography, graphic systems, and found ephemeral.",
-      "url": "https://www.figma.com/blog/source-material-brent-david-freaney/",
+      "title": "How we’re training a Figma-fluent editing model",
+      "summary": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-10-28T13:00:00.000Z"
+      "publishedAt": "2026-10-29T21:00:00.000Z"
     },
     {
-      "title": "Smaller teams want design leaders who make, again. Here’s how.",
-      "summary": "",
-      "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title": "Making something human: 4 things we took away from Config India",
+      "summary": "AI can help us create almost anything now. But from icons and NFTs to art installations and fashion design, it's still up to the maker to deliver something that resonates.",
+      "url": "https://www.figma.com/blog/making-something-human-4-things-we-took-away-from-config-india/",
+      "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-10-28T09:37:57.000Z"
+      "publishedAt": "2026-10-29T20:00:00.000Z"
     },
     {
-      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-      "summary": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
-      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-10-28T12:04:22.000Z"
-    },
-    {
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T03:27:50.000Z"
-    },
-    {
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T02:51:45.000Z"
-    },
-    {
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "summary": "用扩散模型怎么做做Agent？",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T02:18:28.000Z"
-    },
-    {
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T00:59:26.000Z"
-    },
-    {
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "summary": "能连肝数日修Bug，免疫提示词注入",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T00:03:58.000Z"
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-28T21:58:32.000Z"
+      "publishedAt": "2026-10-30T01:20:48.000Z"
     },
     {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-28T21:48:37.000Z"
+      "publishedAt": "2026-10-29T23:42:22.000Z"
     },
     {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-28T21:34:30.000Z"
+      "publishedAt": "2026-10-29T20:08:31.000Z"
     },
     {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-28T21:25:30.000Z"
+      "publishedAt": "2026-10-29T20:05:47.000Z"
     },
     {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-28T19:19:58.000Z"
+      "publishedAt": "2026-10-29T19:56:19.000Z"
     }
   ],
   "products": [
     {
-      "name": "Dedica",
-      "tagline": "Check if AI agents can use your website",
-      "url": "https://www.producthunt.com/posts/dedica"
+      "name": "Empacer",
+      "tagline": " The voice-first assistant for small business owners",
+      "url": "https://www.producthunt.com/posts/empacer"
     },
     {
-      "name": "bytemail",
-      "tagline": "Native Mac email: every inbox, in your notch, no trackers",
-      "url": "https://www.producthunt.com/posts/bytemail"
+      "name": "Scape",
+      "tagline": "An intelligent email inbox that works for you",
+      "url": "https://www.producthunt.com/posts/scape-6"
     },
     {
-      "name": "BotGauge",
-      "tagline": "The trust layer for your agents ",
-      "url": "https://www.producthunt.com/posts/botgauge-4"
+      "name": "Floot in ChatGPT",
+      "tagline": "Build and publish real apps without leaving ChatGPT",
+      "url": "https://www.producthunt.com/posts/floot-in-chatgpt"
     }
   ],
   "stats": {
-    "total": 29,
+    "total": 16,
     "byCategory": {
-      "模型厂商官方": 5,
-      "AI 开发工具与变更日志": 7,
+      "模型厂商官方": 4,
+      "AI 开发工具与变更日志": 5,
       "B 端协作与效率产品": 0,
-      "设计": 6,
-      "产品与商业策略": 1,
-      "科技媒体": 10,
+      "设计": 2,
+      "产品与商业策略": 0,
+      "科技媒体": 5,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -278,9 +174,9 @@
     "products": 3
   },
   "errors": [
+    "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS All About AI: HTTP 404",
     "RSS AI Jason: HTTP 404",
     "RSS Figma YouTube: HTTP 404"
   ]
