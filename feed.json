@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:44:28.588Z",
+  "generatedAt": "2026-10-31T04:29:03.926Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,160 +13,160 @@
   ],
   "news": [
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-10-29T17:00:00.000Z"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "title": "nemotron-halloween",
       "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-29T13:37:07.000Z"
+      "publishedAt": "2026-10-30T17:57:24.000Z"
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-29T09:00:00.000Z"
+      "publishedAt": "2026-10-30T09:30:00.000Z"
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-10-29T07:00:00.000Z"
+      "publishedAt": "2026-10-30T09:00:00.000Z"
     },
     {
-      "title": "Strix now supports Vercel AI Gateway",
-      "summary": "Strix, the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway.Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a ",
-      "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+      "title": "Introducing Geist Serif",
+      "summary": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and th",
+      "url": "https://vercel.com/blog/introducing-geist-serif",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-29T18:44:00.000Z"
+      "publishedAt": "2026-10-30T13:00:00.000Z"
     },
     {
-      "title": "IP geolocation now covers more visitors at higher resolution",
-      "summary": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic.Geolocation data is n",
-      "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-29T17:00:00.000Z"
-    },
-    {
-      "title": "Hello from Lovable&apos;s new London home",
-      "summary": "We&apos;re opening our first London office, our second engineering, product, and design hub after Stockholm. Here&apos;s what the London team is building, and what the UK is building with Lovable.",
-      "url": "https://lovable.dev/blog/hello-from-lovables-new-london-home",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Vercel Flags starts 7x faster and no longer extends function duration",
-      "summary": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response.Faster cold startsTwo changes speed up SDK initializatio",
-      "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-29T06:00:00.000Z"
-    },
-    {
-      "title": "The fx adapter now runs the harness on the host",
-      "summary": "The fx adapter for the AI SDK’s HarnessAgent now uses libfx, the TypeScript library for fx. The harness and model requests run in your application’s process, while built-in filesystem and shell operat",
-      "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-10-29T06:00:00.000Z"
-    },
-    {
-      "title": "How we’re training a Figma-fluent editing model",
-      "summary": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "summary": "Figma Weave brings AI generation and editing tools together into connected, reusable workflows, giving you a process your team can shape, refine, and repeat. Here’s what it unlocks for creative teams ",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
       "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-10-29T21:00:00.000Z"
+      "publishedAt": "2026-10-31T00:58:00.000Z"
     },
     {
-      "title": "Making something human: 4 things we took away from Config India",
-      "summary": "AI can help us create almost anything now. But from icons and NFTs to art installations and fashion design, it's still up to the maker to deliver something that resonates.",
-      "url": "https://www.figma.com/blog/making-something-human-4-things-we-took-away-from-config-india/",
-      "source": "Figma Blog",
+      "title": "The Role of UX in Agentic Software Factories",
+      "summary": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-10-29T20:00:00.000Z"
+      "publishedAt": "2026-10-30T17:00:00.000Z"
     },
     {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-30T01:20:48.000Z"
+      "title": "Experience Design: Dropping the “User” from “User Experience”",
+      "summary": "AI is expanding UX beyond human users to agents acting on their behalf. Experience  design names this broader field, which still centers on people’s goals.",
+      "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-10-30T17:00:00.000Z"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-29T23:42:22.000Z"
+      "title": "The people using AI should set its strategy",
+      "summary": "",
+      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-10-30T07:06:26.000Z"
     },
     {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-29T20:08:31.000Z"
+      "publishedAt": "2026-10-31T01:20:05.000Z"
     },
     {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-29T20:05:47.000Z"
+      "publishedAt": "2026-10-30T22:56:13.000Z"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-29T19:56:19.000Z"
+      "publishedAt": "2026-10-30T21:54:34.000Z"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-30T21:52:03.000Z"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-30T21:26:59.000Z"
+    },
+    {
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-30T07:31:11.000Z"
+    },
+    {
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "summary": "解析一切",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-30T05:52:47.000Z"
+    },
+    {
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-10-30T05:50:44.000Z"
     }
   ],
   "products": [
     {
-      "name": "Empacer",
-      "tagline": " The voice-first assistant for small business owners",
-      "url": "https://www.producthunt.com/posts/empacer"
+      "name": "Vaani Developer Platform",
+      "tagline": "The only voice AI harness that you'll ever need",
+      "url": "https://www.producthunt.com/posts/vaani-developer-platform"
     },
     {
-      "name": "Scape",
-      "tagline": "An intelligent email inbox that works for you",
-      "url": "https://www.producthunt.com/posts/scape-6"
+      "name": "Knocket AI",
+      "tagline": "Chat with visitors from your website or link",
+      "url": "https://www.producthunt.com/posts/knocket-ai"
     },
     {
-      "name": "Floot in ChatGPT",
-      "tagline": "Build and publish real apps without leaving ChatGPT",
-      "url": "https://www.producthunt.com/posts/floot-in-chatgpt"
+      "name": "SpeakON Agent",
+      "tagline": "Turn natural speech into real work for an agent to complete",
+      "url": "https://www.producthunt.com/posts/speakon-agent"
     }
   ],
   "stats": {
     "total": 16,
     "byCategory": {
-      "模型厂商官方": 4,
-      "AI 开发工具与变更日志": 5,
+      "模型厂商官方": 3,
+      "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
-      "设计": 2,
+      "设计": 4,
       "产品与商业策略": 0,
-      "科技媒体": 5,
+      "科技媒体": 8,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -176,8 +176,8 @@
   "errors": [
     "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS Figma YouTube: HTTP 404"
   ]
 }
