@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:49:07.320Z",
+  "generatedAt": "2026-11-02T04:50:41.595Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,96 +13,128 @@
   ],
   "news": [
     {
-      "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-      "summary": "Community Wisdom 304",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+      "title": "When colors pass but palettes fail",
+      "summary": "The accessibility challenge of generative AI diverging color palettes.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-01T14:34:07.000Z"
+    },
+    {
+      "title": "How to design transparent AI cost controls",
+      "summary": "",
+      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-01T14:33:14.000Z"
+    },
+    {
+      "title": "Context is the new interface",
+      "summary": "",
+      "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-01T14:32:56.000Z"
+    },
+    {
+      "title": "Your design system was never about components",
+      "summary": "Google, Atlassian and Figma now ship a file for the reasons behind a design. Nothing makes the machine follow it.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-01T14:32:36.000Z"
+    },
+    {
+      "title": "Samia Halaby and the Amiga 1000",
+      "summary": "The unique features of the Motorola 68000 that facilitated an enchanting Golden Age for pixel artContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-01T14:32:15.000Z"
+    },
+    {
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-10-31T16:14:41.000Z"
+      "publishedAt": "2026-11-01T13:31:36.000Z"
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-31T21:41:00.000Z"
+      "publishedAt": "2026-11-01T21:55:23.000Z"
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-10-31T21:36:07.000Z"
+      "publishedAt": "2026-11-01T20:57:58.000Z"
     },
     {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-31T21:17:03.000Z"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-10-31T16:12:55.000Z"
-    },
-    {
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "summary": "苹果“牛奶倒河里”式操作翻红",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "summary": "西湖世界模型研究中心成立",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-31T05:17:50.000Z"
+      "publishedAt": "2026-11-01T13:28:10.000Z"
     },
     {
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "summary": "AI算力利用“九九成”",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-31T05:11:19.000Z"
+      "publishedAt": "2026-11-01T13:09:55.000Z"
     },
     {
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "summary": "200美元Ultra用户先用",
-      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "summary": "让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-10-31T05:05:29.000Z"
+      "publishedAt": "2026-11-01T08:02:37.000Z"
+    },
+    {
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "summary": "这事还是想得太简单了",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-01T07:50:57.000Z"
     }
   ],
   "products": [
     {
-      "name": "SKI",
-      "tagline": "Voice-first coding harness ",
-      "url": "https://www.producthunt.com/posts/ski-2"
+      "name": "Screen Studio 4.0",
+      "tagline": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
+      "url": "https://www.producthunt.com/posts/screen-studio-4-0"
     },
     {
-      "name": "Specsight",
-      "tagline": "Product observability for teams shipping fast with AI",
-      "url": "https://www.producthunt.com/posts/specsight-2"
+      "name": "ClawsGO Science",
+      "tagline": "The AI research agent with its own cloud lab",
+      "url": "https://www.producthunt.com/posts/clawsgo-science"
     },
     {
-      "name": "telemetry.dev",
-      "tagline": "LLM observability for AI agents",
-      "url": "https://www.producthunt.com/posts/telemetry-dev"
+      "name": "Riverside Agents",
+      "tagline": "A team of AI agents for video: produce, edit, clip, post",
+      "url": "https://www.producthunt.com/posts/riverside-agents-2"
     }
   ],
   "stats": {
-    "total": 8,
+    "total": 12,
     "byCategory": {
       "模型厂商官方": 0,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 0,
+      "设计": 5,
       "产品与商业策略": 1,
-      "科技媒体": 7,
+      "科技媒体": 6,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -110,10 +142,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Jeff Su: HTTP 404",
-    "RSS All About AI: HTTP 404",
-    "RSS AI Jason: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404"
+    "RSS Figma YouTube: HTTP 404",
+    "RSS AI Jason: HTTP 404",
+    "RSS All About AI: HTTP 404",
+    "RSS Jeff Su: HTTP 404"
   ]
 }
