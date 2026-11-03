@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:50:41.595Z",
+  "generatedAt": "2026-11-03T05:40:31.715Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,128 +13,272 @@
   ],
   "news": [
     {
-      "title": "When colors pass but palettes fail",
-      "summary": "The accessibility challenge of generative AI diverging color palettes.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-01T14:34:07.000Z"
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T18:00:00.000Z"
     },
     {
-      "title": "How to design transparent AI cost controls",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T15:30:00.000Z"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "title": "Hyra 2.0 发布：为模型研发打造可复用工具",
+      "summary": "AutoResearch 从「抽卡刷题」转向「工具升级」。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498763&amp;idx=1&amp;sn=279f8fb4e43a987fdc0aa2af0b0f7958",
+      "source": "腾讯混元",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T10:06:00.000Z"
+    },
+    {
+      "title": "Kimi 发布游戏开发与创意工作解决方案",
+      "summary": "从创意落地到持续迭代",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487910&amp;idx=1&amp;sn=77f860453cdfbb0fb6080903fd863c24",
+      "source": "Kimi",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T09:21:00.000Z"
+    },
+    {
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-02T09:00:00.000Z"
+    },
+    {
+      "title": "Projects can now be configured with vercel.toml",
+      "summary": "Vercel now supports vercel.toml, which allows you to to configure your project using the TOML configuration format. All of the same configuration properties are supported as in vercel.json, but it sup",
+      "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-02T21:00:00.000Z"
+    },
+    {
+      "title": "Vercel MCP now supports Client ID Metadata Documents",
+      "summary": "Any MCP client can now ask to connect to Vercel MCP. You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlis",
+      "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-02T20:09:00.000Z"
+    },
+    {
+      "title": "Vercel MCP now renders deployments as an interactive card",
+      "summary": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps.The card shows live deployment status, build logs, and source and commit det",
+      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-02T17:05:00.000Z"
+    },
+    {
+      "title": "Flags Explorer redesigned for easier override sharing",
+      "summary": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL.The E",
+      "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-02T16:58:00.000Z"
+    },
+    {
+      "title": "Vercel Sandbox with Drives now starts up to 2.4x faster",
+      "summary": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s.The speedup applies automatically to every sandbox that uses Driv",
+      "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-02T16:39:00.000Z"
+    },
+    {
+      "title": "State of a system",
       "summary": "",
-      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-01T14:33:14.000Z"
+      "publishedAt": "2026-11-02T17:56:46.000Z"
     },
     {
-      "title": "Context is the new interface",
+      "title": "Virtue ethics in everyday interface design",
       "summary": "",
-      "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-01T14:32:56.000Z"
+      "publishedAt": "2026-11-02T17:55:34.000Z"
     },
     {
-      "title": "Your design system was never about components",
-      "summary": "Google, Atlassian and Figma now ship a file for the reasons behind a design. Nothing makes the machine follow it.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+      "title": "How we brought Hello Kitty® and Friends to Figma",
+      "summary": "Since Hello Kitty® first stepped onto the world stage in 1974, she and her friends have connected generations of fans through the spirit of togetherness and thoughtful design. Here’s how our shared lo",
+      "url": "https://www.figma.com/blog/hello-kitty-and-friends-in-figma/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-02T14:58:00.000Z"
+    },
+    {
+      "title": "Figma and Sanrio® celebrate Hello Kitty® and the joy of making things with friends",
+      "summary": "In honor of Hello Kitty®’s birthday, Hello Kitty® and Friends are moving into FigJam, and throwing a party in NYC.",
+      "url": "https://www.figma.com/blog/figma-and-sanrio-celebrate-hello-kitty-and-friends/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-02T14:00:00.000Z"
+    },
+    {
+      "title": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP",
+      "summary": "",
+      "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-01T14:32:36.000Z"
+      "publishedAt": "2026-11-02T10:22:22.000Z"
     },
     {
-      "title": "Samia Halaby and the Amiga 1000",
-      "summary": "The unique features of the Motorola 68000 that facilitated an enchanting Golden Age for pixel artContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-01T14:32:15.000Z"
-    },
-    {
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
-      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-11-01T13:31:36.000Z"
+      "publishedAt": "2026-11-02T16:02:08.000Z"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "summary": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-02T13:04:11.000Z"
+    },
+    {
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "summary": "单季狂揽1130亿人民币，但...",
+      "url": "https://www.qbitai.com/2026/11/507382.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-03T03:41:06.000Z"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T21:55:23.000Z"
+      "publishedAt": "2026-11-03T03:30:00.000Z"
     },
     {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "summary": "GPU迭代一百次的事，它一步做完",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-03T03:16:23.000Z"
+    },
+    {
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "url": "https://www.qbitai.com/2026/11/507339.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-03T02:02:05.000Z"
+    },
+    {
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "summary": "指令执行能力也同步提升",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-03T01:57:30.000Z"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T20:57:58.000Z"
+      "publishedAt": "2026-11-03T01:49:52.000Z"
     },
     {
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "summary": "西湖世界模型研究中心成立",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+      "url": "https://www.qbitai.com/2026/11/507313.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T13:28:10.000Z"
+      "publishedAt": "2026-11-03T01:46:55.000Z"
     },
     {
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "source": "量子位",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T13:09:55.000Z"
+      "publishedAt": "2026-11-03T00:35:52.000Z"
     },
     {
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "summary": "让AI像牛顿一样思考",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "source": "量子位",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T08:02:37.000Z"
+      "publishedAt": "2026-11-02T23:13:53.000Z"
     },
     {
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "summary": "这事还是想得太简单了",
-      "url": "https://www.qbitai.com/2026/11/506990.html",
-      "source": "量子位",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-01T07:50:57.000Z"
+      "publishedAt": "2026-11-02T22:14:50.000Z"
     }
   ],
   "products": [
     {
-      "name": "Screen Studio 4.0",
-      "tagline": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "url": "https://www.producthunt.com/posts/screen-studio-4-0"
+      "name": "beacon.sh",
+      "tagline": "Open-source self-improving memory for AI coding agents",
+      "url": "https://www.producthunt.com/posts/beacon-sh"
     },
     {
-      "name": "ClawsGO Science",
-      "tagline": "The AI research agent with its own cloud lab",
-      "url": "https://www.producthunt.com/posts/clawsgo-science"
+      "name": "Xmind 2027",
+      "tagline": "Your mind map is now an AI thinking partner",
+      "url": "https://www.producthunt.com/posts/xmind-2027"
     },
     {
-      "name": "Riverside Agents",
-      "tagline": "A team of AI agents for video: produce, edit, clip, post",
-      "url": "https://www.producthunt.com/posts/riverside-agents-2"
+      "name": "UnleashX",
+      "tagline": "The AI workforce that turns conversations into outcomes. ",
+      "url": "https://www.producthunt.com/posts/unleashx"
     }
   ],
   "stats": {
-    "total": 12,
+    "total": 30,
     "byCategory": {
-      "模型厂商官方": 0,
-      "AI 开发工具与变更日志": 0,
+      "模型厂商官方": 8,
+      "AI 开发工具与变更日志": 5,
       "B 端协作与效率产品": 0,
       "设计": 5,
-      "产品与商业策略": 1,
-      "科技媒体": 6,
+      "产品与商业策略": 2,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -142,10 +286,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS AI Jason: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Jeff Su: HTTP 404"
+    "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
