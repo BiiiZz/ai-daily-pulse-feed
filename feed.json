@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T05:11:25.003Z",
+  "generatedAt": "2026-11-05T05:31:40.792Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,223 +13,223 @@
   ],
   "news": [
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "summary": "Data Mining & Modeling",
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-04T18:07:05.000Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/statebench",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T17:15:21.000Z"
+      "publishedAt": "2026-11-04T17:50:10.000Z"
     },
     {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T17:01:49.000Z"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T16:35:36.000Z"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T12:00:00.000Z"
+      "publishedAt": "2026-11-04T14:30:00.000Z"
     },
     {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
+      "title": "阶跃Step 5 Preview上线Qoder CN全家桶！",
+      "summary": "现在，在 Qoder CN 全系产品中可以直接调用阶跃 Step 5 Preview 啦！\n\n🐤 Qoder 是由阿里巴巴出品、以编程智能体为核心的生产力平台，支持用户通过自然语言完成软件开发、数据分析、内容创作等任务，目前已服务全球超 800 万开发者。\n\n从 Bug 修复、功能开发与代码重构，到网页搭建、数据可视化与 3D 交互创作，再到深度研究、信息检索与复杂任务的持续执行，Step 5 ",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg==&amp;mid=2247488202&amp;idx=1&amp;sn=5aa4e51740d7d20a3290c6ea43d3fc3b",
+      "source": "阶跃",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-04T08:55:00.000Z"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T08:00:00.000Z"
+      "publishedAt": "2026-11-04T08:00:00.000Z"
     },
     {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "url": "https://openai.com/index/heimstaden",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-03T08:00:00.000Z"
+      "publishedAt": "2026-11-04T07:00:00.000Z"
     },
     {
-      "title": "Vercel Security Review now in public beta",
-      "summary": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are rep",
-      "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+      "title": "Workflow SDK adds idempotent starts",
+      "summary": "The Workflow SDK's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken()-then-start()",
+      "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-03T20:00:00.000Z"
+      "publishedAt": "2026-11-04T18:55:00.000Z"
     },
     {
-      "title": "Vercel CI no longer requires a linked Vercel project",
-      "summary": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository.To enable it, you need:The Vercel GitHub App instal",
-      "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+      "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+      "summary": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed, are now available on AI Gateway from more  Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serv",
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-03T18:00:00.000Z"
+      "publishedAt": "2026-11-04T17:00:00.000Z"
     },
     {
-      "title": "Everyone is building AI agents. Who’s designing the stop button?",
+      "title": "How we built Lovable, and why we keep rebuilding it",
+      "summary": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
+      "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-04T12:30:00.000Z"
+    },
+    {
+      "title": "In a world of panic, calm and certainty win",
       "summary": "",
-      "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-03T22:40:34.000Z"
+      "publishedAt": "2026-11-04T22:13:21.000Z"
     },
     {
-      "title": "I let AI build. I don’t let AI decide.",
+      "title": "AI can generate the interface. What makes it worth caring about?",
       "summary": "",
-      "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-03T22:37:40.000Z"
+      "publishedAt": "2026-11-04T22:12:46.000Z"
     },
     {
-      "title": "What do you do when a design solution is already pre-built?",
-      "summary": "How to deal with the “Fastest Idea in the Room”Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-03T22:36:49.000Z"
-    },
-    {
-      "title": "Agents struggle with the same bad UX we do",
+      "title": "What AI has changed in Design Systems, and what is still up to us",
       "summary": "",
-      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-03T22:36:33.000Z"
+      "publishedAt": "2026-11-04T22:12:09.000Z"
     },
     {
-      "title": "What I learned teaching AI prototyping at university",
-      "summary": "",
-      "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title": "Workflow lab: Test ideas with code layers and the Figma agent",
+      "summary": "Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer use",
+      "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+      "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-11-03T10:09:09.000Z"
+      "publishedAt": "2026-11-04T22:12:00.000Z"
     },
     {
-      "title": "Lenny’s Newsletter holiday gift guide 2026",
-      "summary": "100+ gift ideas—all things I actually use, love, and recommend",
-      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-03T14:45:33.000Z"
+      "title": "How Figma manages sandboxes at scale",
+      "summary": "Figma’s AI products require tens of thousands of sandboxes to run untrusted code safely. That’s why we built Nimbus: a platform that makes sandboxes fast, reliable, and easy for Figma product teams an",
+      "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-04T16:23:00.000Z"
     },
     {
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "summary": "长视频记忆精度飙升，问答时延最高降97%",
-      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "summary": "Data + AI 技术实践巡展 · 上海站",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-04T02:49:02.000Z"
+      "publishedAt": "2026-11-05T02:01:51.000Z"
     },
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-03T22:41:03.000Z"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-03T22:19:53.000Z"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-03T21:43:08.000Z"
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-03T21:05:55.000Z"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-03T19:34:43.000Z"
-    },
-    {
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "summary": "AI接管调度运营，仓库越干越聪明",
-      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "summary": "最快6秒出图",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-03T13:57:11.000Z"
+      "publishedAt": "2026-11-05T01:59:37.000Z"
     },
     {
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "summary": "两位CTO，关起门来吵架",
-      "url": "https://www.qbitai.com/2026/11/507473.html",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "summary": "被轰成筛子了…",
+      "url": "https://www.qbitai.com/2026/11/507697.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-03T12:57:35.000Z"
+      "publishedAt": "2026-11-05T01:54:44.000Z"
     },
     {
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "summary": "AI的下一程是生产力系统之争",
-      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "url": "https://www.qbitai.com/2026/11/507688.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-03T11:13:49.000Z"
+      "publishedAt": "2026-11-05T01:42:43.000Z"
     },
     {
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "summary": "终于，有了一个可以触摸的起点",
-      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-05T01:26:22.000Z"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-05T01:02:14.000Z"
+    },
+    {
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "summary": "薪资+期权不限！实习生也能训核心模型",
+      "url": "https://www.qbitai.com/2026/11/507675.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-03T06:55:30.000Z"
+      "publishedAt": "2026-11-05T00:41:34.000Z"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-04T22:45:09.000Z"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-04T22:13:16.000Z"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-04T21:56:01.000Z"
     }
   ],
   "products": [
     {
-      "name": "AgentKit by Scalekit",
-      "tagline": "MCP gateway for production agents that acts on your behalf",
-      "url": "https://www.producthunt.com/posts/agentkit-by-scalekit"
+      "name": "Wanaka Studio",
+      "tagline": "Make and publish 3D games with the first AI game engine",
+      "url": "https://www.producthunt.com/posts/wanaka-studio"
     },
     {
-      "name": "Teamily AI",
-      "tagline": "Your personal agent, agent teams & people in one messenger",
-      "url": "https://www.producthunt.com/posts/teamily-ai"
+      "name": "Floot Payments ",
+      "tagline": "Take payments in apps you build in ChatGPT and Claude",
+      "url": "https://www.producthunt.com/posts/floot-payments"
     },
     {
-      "name": "Testifly",
-      "tagline": "Autonomous AI QA. Zero prompting. Zero maintenance. ",
-      "url": "https://www.producthunt.com/posts/testifly"
+      "name": "Prelulu",
+      "tagline": "Be the main character: chat & video roleplay any story",
+      "url": "https://www.producthunt.com/posts/prelulu"
     }
   ],
   "stats": {
     "total": 24,
     "byCategory": {
       "模型厂商官方": 6,
-      "AI 开发工具与变更日志": 2,
+      "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
       "设计": 5,
-      "产品与商业策略": 1,
+      "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
     },
@@ -238,10 +238,10 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
+    "RSS All About AI: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS Tina Huang: HTTP 404",
     "RSS AI Jason: HTTP 404"
   ]
 }
