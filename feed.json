@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:58:20.474Z",
+  "generatedAt": "2026-11-08T04:53:13.592Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,192 +13,64 @@
   ],
   "news": [
     {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title": "Otherwise you’re just a machine",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-06T14:00:48.000Z"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-06T08:00:00.000Z"
-    },
-    {
-      "title": "Chat SDK agents can now stream generative UI with json-render",
-      "summary": "You can now stream generative UI from your Chat SDK agent with json-render.With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-06T21:00:00.000Z"
-    },
-    {
-      "title": "AI Gateway adds DeepSeek Search and Fetch tools",
-      "summary": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway. Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read.U",
-      "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-06T21:00:00.000Z"
-    },
-    {
-      "title": "Vercel CLI can now set new projects to expire",
-      "summary": "You can now set a new project to expire when you deploy it with Vercel CLI. Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand.Run vercel de",
-      "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "Vercel Tracing is now generally available",
-      "summary": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI, and new Next.js projects get tracing by default. Pricing is unchange",
-      "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-06T17:00:00.000Z"
-    },
-    {
-      "title": "After the AI bubble: a manifesto",
-      "summary": "",
-      "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-06T22:42:58.000Z"
+      "publishedAt": "2026-11-07T20:15:42.000Z"
     },
     {
-      "title": "In conversation: Dylan Field and David Friedberg on the human role in creating with AI",
-      "summary": "On why design is the new code, shaping AI’s creative output, and the human vision and judgment behind what we make.",
-      "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-11-06T20:31:00.000Z"
-    },
-    {
-      "title": "Agent Harness: Definition",
-      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
-      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "Usability 101: Introduction to Usability",
-      "summary": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
-      "url": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "summary": "全新的电脑病毒",
-      "url": "https://www.qbitai.com/2026/11/508244.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-07T03:43:55.000Z"
-    },
-    {
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "summary": "RSI不可能无限快",
-      "url": "https://www.qbitai.com/2026/11/508196.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-07T03:23:29.000Z"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-07T01:40:28.000Z"
+      "publishedAt": "2026-11-07T22:07:22.000Z"
     },
     {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-06T22:53:46.000Z"
+      "publishedAt": "2026-11-07T21:17:08.000Z"
     },
     {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-06T18:44:38.000Z"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-06T18:44:20.000Z"
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "summary": "Dario刚喊减速…",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-06T15:21:56.000Z"
-    },
-    {
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-      "url": "https://www.qbitai.com/2026/11/508174.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-06T09:25:59.000Z"
-    },
-    {
-      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-      "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-      "url": "https://www.qbitai.com/2026/11/508170.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-06T09:21:51.000Z"
+      "publishedAt": "2026-11-07T05:01:17.000Z"
     }
   ],
   "products": [
     {
-      "name": "Tobira Site Agent",
-      "tagline": "Turn your website into an AI agent that sells to AI agents",
-      "url": "https://www.producthunt.com/posts/tobira-site-agent"
+      "name": "ChatGPT Images 2.6",
+      "tagline": "Create, edit, and animate images with AI",
+      "url": "https://www.producthunt.com/posts/chatgpt-images-2-6-8"
     },
     {
-      "name": "Turnstone",
-      "tagline": "Grok Bot alternative that runs on your AI, completely free",
-      "url": "https://www.producthunt.com/posts/turnstone"
+      "name": "Exa Monitors v2",
+      "tagline": "Web search on a schedule that calls your agent, $2/1k runs",
+      "url": "https://www.producthunt.com/posts/exa-monitors-v2"
     },
     {
-      "name": "Rankfender v3.0",
-      "tagline": "The SEO/GEO operating system, built for people and AI agents",
-      "url": "https://www.producthunt.com/posts/rankfender-v3-0"
+      "name": "LiveReview",
+      "tagline": "Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes",
+      "url": "https://www.producthunt.com/posts/livereview"
     }
   ],
   "stats": {
-    "total": 20,
+    "total": 4,
     "byCategory": {
-      "模型厂商官方": 2,
-      "AI 开发工具与变更日志": 4,
+      "模型厂商官方": 0,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 4,
+      "设计": 1,
       "产品与商业策略": 0,
-      "科技媒体": 10,
+      "科技媒体": 3,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -206,10 +78,10 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS Jeff Su: HTTP 404",
-    "RSS AI Jason: HTTP 404"
+    "RSS Tina Huang: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
+    "RSS All About AI: HTTP 404"
   ]
 }
