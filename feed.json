@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:53:13.592Z",
+  "generatedAt": "2026-11-09T05:00:09.742Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,64 +13,48 @@
   ],
   "news": [
     {
-      "title": "Otherwise you’re just a machine",
-      "summary": "",
-      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-07T20:15:42.000Z"
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-08T13:31:32.000Z"
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-07T22:07:22.000Z"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-07T21:17:08.000Z"
-    },
-    {
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "url": "https://www.qbitai.com/2026/11/508264.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-07T05:01:17.000Z"
+      "publishedAt": "2026-11-08T21:00:11.000Z"
     }
   ],
   "products": [
     {
-      "name": "ChatGPT Images 2.6",
-      "tagline": "Create, edit, and animate images with AI",
-      "url": "https://www.producthunt.com/posts/chatgpt-images-2-6-8"
+      "name": "AXL",
+      "tagline": "GTM copilot for AI product founders: 1,200+ actions via MCP",
+      "url": "https://www.producthunt.com/posts/axl-27e6ef30-42b0-46a6-a379-a3fcb659e6dd"
     },
     {
-      "name": "Exa Monitors v2",
-      "tagline": "Web search on a schedule that calls your agent, $2/1k runs",
-      "url": "https://www.producthunt.com/posts/exa-monitors-v2"
+      "name": "Sage2 by Levanto Labs",
+      "tagline": "Turn live talk into structured data and instant actions",
+      "url": "https://www.producthunt.com/posts/sage2-by-levanto-labs"
     },
     {
-      "name": "LiveReview",
-      "tagline": "Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes",
-      "url": "https://www.producthunt.com/posts/livereview"
+      "name": "Inkling 2 Small",
+      "tagline": "A model that can see and refine what it builds",
+      "url": "https://www.producthunt.com/posts/inkling-2-small"
     }
   ],
   "stats": {
-    "total": 4,
+    "total": 2,
     "byCategory": {
       "模型厂商官方": 0,
       "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 1,
-      "产品与商业策略": 0,
-      "科技媒体": 3,
+      "设计": 0,
+      "产品与商业策略": 1,
+      "科技媒体": 1,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -78,10 +62,10 @@
     "products": 3
   },
   "errors": [
-    "RSS AI Jason: HTTP 404",
     "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS Figma YouTube: HTTP 404",
-    "RSS All About AI: HTTP 404"
+    "RSS All About AI: HTTP 404",
+    "RSS Figma YouTube: HTTP 404"
   ]
 }
