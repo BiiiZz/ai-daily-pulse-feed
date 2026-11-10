@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:00:09.742Z",
+  "generatedAt": "2026-11-10T06:17:49.134Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,48 +13,256 @@
   ],
   "news": [
     {
-      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-08T13:31:32.000Z"
+      "title": "Exploring the world's languages with Language Explorer",
+      "summary": "Natural Language Processing",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T20:29:39.000Z"
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T15:05:57.000Z"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T13:00:00.000Z"
+    },
+    {
+      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T12:34:29.000Z"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+      "summary": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50.S",
+      "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-09T21:00:00.000Z"
+    },
+    {
+      "title": "The Radish AI team joins Lovable to scale agentic capabilities for businesses",
+      "summary": "Lovable has acquired the team behind Radish AI, an agentic infrastructure platform. Its co-founders join our engineering team in London and Stockholm to build the agent capabilities and infrastructure",
+      "url": "https://lovable.dev/blog/radish-ai-team-joins-lovable",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "title": "6 easy ways to use the Figma agent right now",
+      "summary": "From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with the Figma agent.",
+      "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-09T21:46:00.000Z"
+    },
+    {
+      "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+      "summary": "",
+      "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-09T12:20:07.000Z"
+    },
+    {
+      "title": "What a ruler leaves out",
+      "summary": "On designing tools as rules — and what they quietly subtract from the worldContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-09T12:13:57.000Z"
+    },
+    {
+      "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+      "summary": "",
+      "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-09T12:13:36.000Z"
+    },
+    {
+      "title": "Infinite tokens: the new country club flex",
+      "summary": "Well-chosen constraints organize your thinking.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-09T12:11:27.000Z"
+    },
+    {
+      "title": "Before you ship your Wrapped this year",
+      "summary": "What last December’s recaps got right, what changed in 2026, and the step almost nobody takes.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-09T12:11:16.000Z"
+    },
+    {
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-09T20:37:49.000Z"
+    },
+    {
+      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-09T16:01:20.000Z"
+    },
+    {
+      "title": "How this founder built a better Duolingo with Codex | William Imoh",
+      "summary": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
+      "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-09T13:04:17.000Z"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-08T21:00:11.000Z"
+      "publishedAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "title": "“AI毁了我的计算机学位”",
+      "summary": "教授也用Claude糊弄…",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T08:57:20.000Z"
+    },
+    {
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T08:44:00.000Z"
+    },
+    {
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T08:34:03.000Z"
+    },
+    {
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T08:26:45.000Z"
+    },
+    {
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "summary": "最早量产的亲自泼冷水",
+      "url": "https://www.qbitai.com/2026/11/508629.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-09T07:02:36.000Z"
     }
   ],
   "products": [
     {
-      "name": "AXL",
-      "tagline": "GTM copilot for AI product founders: 1,200+ actions via MCP",
-      "url": "https://www.producthunt.com/posts/axl-27e6ef30-42b0-46a6-a379-a3fcb659e6dd"
+      "name": "Product Hunt MCP",
+      "tagline": "The community you trust in the assistant you use",
+      "url": "https://www.producthunt.com/posts/product-hunt-mcp-2"
     },
     {
-      "name": "Sage2 by Levanto Labs",
-      "tagline": "Turn live talk into structured data and instant actions",
-      "url": "https://www.producthunt.com/posts/sage2-by-levanto-labs"
+      "name": "Dageno AI 2.0",
+      "tagline": "See why AI recommends your competitors instead of you",
+      "url": "https://www.producthunt.com/posts/dageno-ai-2-0"
     },
     {
-      "name": "Inkling 2 Small",
-      "tagline": "A model that can see and refine what it builds",
-      "url": "https://www.producthunt.com/posts/inkling-2-small"
+      "name": "Databox CLI",
+      "tagline": "Your agentic analytics platform in the terminal",
+      "url": "https://www.producthunt.com/posts/databox-cli"
     }
   ],
   "stats": {
-    "total": 2,
+    "total": 28,
     "byCategory": {
-      "模型厂商官方": 0,
-      "AI 开发工具与变更日志": 0,
+      "模型厂商官方": 7,
+      "AI 开发工具与变更日志": 2,
       "B 端协作与效率产品": 0,
-      "设计": 0,
-      "产品与商业策略": 1,
-      "科技媒体": 1,
+      "设计": 6,
+      "产品与商业策略": 3,
+      "科技媒体": 10,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -62,10 +270,10 @@
     "products": 3
   },
   "errors": [
-    "RSS Jeff Su: HTTP 404",
     "RSS AI Jason: HTTP 404",
-    "RSS Tina Huang: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS Figma YouTube: HTTP 404",
     "RSS All About AI: HTTP 404",
-    "RSS Figma YouTube: HTTP 404"
+    "RSS Tina Huang: HTTP 404"
   ]
 }
