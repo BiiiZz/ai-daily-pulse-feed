@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:29:05.192Z",
+  "generatedAt": "2026-11-14T05:19:09.324Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,206 +13,238 @@
   ],
   "news": [
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "summary": "Education Innovation",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T20:00:00.000Z"
+      "publishedAt": "2026-11-13T20:47:18.000Z"
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T19:07:35.000Z"
+      "publishedAt": "2026-11-13T18:00:39.000Z"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
+      "title": "XYBench: Helping with the problem behind the question",
       "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T18:00:50.000Z"
+      "publishedAt": "2026-11-13T17:02:35.000Z"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "url": "https://openai.com/business/customer-stories/gondola",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
+      "publishedAt": "2026-11-13T15:00:00.000Z"
     },
     {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "DeepSeek 发布全家桶应用 API",
+      "summary": "全面开放联网搜索、文件、语音等产品能力，支持独立调用",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485910&amp;idx=1&amp;sn=529f50ba3b37e39319dad1faf7a122cf",
+      "source": "DeepSeek",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-13T14:19:00.000Z"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-13T14:05:22.000Z"
+    },
+    {
+      "title": "实时语音模型 Hy Realtime 发布：能说会唱、还能调用工具",
+      "summary": "Hy Realtime",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247498965&amp;idx=1&amp;sn=fc0a8fa819b333cf16814ae46d6ccd4f",
+      "source": "腾讯混元",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-13T08:32:00.000Z"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T09:30:00.000Z"
+      "publishedAt": "2026-11-13T08:00:00.000Z"
     },
     {
-      "title": "深势科技如何用 Kimi 模型加速生物医学科研",
-      "summary": "从复现已有工作，到验证新想法。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&amp;mid=2247487947&amp;idx=1&amp;sn=511170a299fbb5f0dde17edd5a508765",
-      "source": "Kimi",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-12T09:05:00.000Z"
-    },
-    {
-      "title": "Replit Agent can now buy for your business and help you reach customers",
-      "summary": "Today we’re giving Replit Agent two new jobs: buying supplies for your business with Link and Visa, and helping you reach customers with Google Ads.\n\n\nIn September 2024, we launched Replit Agent, the ",
-      "url": "https://replit.com/blog/replit-agent-ads-commerce",
-      "source": "Replit Blog",
+      "title": "Daemons can now send traces to Vercel Tracing",
+      "summary": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing, allowing you and your agents to inspect background worker operations alongside the rest of your project's traces.Vercel provides eac",
+      "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+      "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-12T16:45:00.000Z"
+      "publishedAt": "2026-11-13T22:24:00.000Z"
     },
     {
-      "title": "Bring your own key (BYOK)",
-      "summary": "Fixes",
-      "url": "https://linear.app/changelog/2026-11-12-bring-your-own-key",
-      "source": "Linear Changelog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-11-12T16:36:46.000Z"
+      "title": "Token Pass now includes $150 in tokens for $30/month",
+      "summary": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month.The credit applies to featured open-weight models served through AI Gateway, including Kimi K3",
+      "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-13T18:42:00.000Z"
     },
     {
-      "title": "AI is the new old design material",
+      "title": "Decision theatre or decision design?",
       "summary": "",
-      "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-13T02:33:09.000Z"
+      "publishedAt": "2026-11-13T23:51:42.000Z"
     },
     {
-      "title": "How 3D transforms and Figma’s agent brought a launch video to life",
-      "summary": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.",
-      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+      "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
+      "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneouslyContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-13T23:51:27.000Z"
+    },
+    {
+      "title": "AI’s role in the creative process",
+      "summary": "Which parts of the creative process can AI do for us—and which do we insist on keeping for ourselves?",
+      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
       "source": "Figma Blog",
       "category": "设计",
-      "publishedAt": "2026-11-12T14:00:00.000Z"
+      "publishedAt": "2026-11-13T20:00:00.000Z"
     },
     {
-      "title": "The AI mind tax that afflicts those who use AI best",
-      "summary": "",
-      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "summary": "As AI speeds up development, it can be a challenge for research to adapt. Research can define what each release must measure and what it can help teams discover.",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-11-13T18:00:00.000Z"
+    },
+    {
+      "title": "Journey Mapping 101",
+      "summary": "A journey map is a visualization of the process that a person goes through in order to accomplish a goal.",
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-11-13T18:00:00.000Z"
+    },
+    {
+      "title": "The crooked plate that felt more human than the algorithm",
+      "summary": "We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-12T11:14:40.000Z"
+      "publishedAt": "2026-11-13T10:58:22.000Z"
     },
     {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T22:42:51.000Z"
+      "publishedAt": "2026-11-13T22:43:00.000Z"
     },
     {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T22:22:28.000Z"
+      "publishedAt": "2026-11-13T19:37:57.000Z"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-13T18:40:30.000Z"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-13T16:00:12.000Z"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T21:35:00.000Z"
+      "publishedAt": "2026-11-13T15:58:00.000Z"
     },
     {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-12T21:27:10.000Z"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-12T20:26:47.000Z"
-    },
-    {
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "summary": "「CAD拆解」",
-      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "summary": "一个时代结束了",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T11:36:20.000Z"
+      "publishedAt": "2026-11-13T09:02:39.000Z"
     },
     {
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "summary": "12.9 北京，来MEET2027现场",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T10:45:33.000Z"
+      "publishedAt": "2026-11-13T07:51:08.000Z"
     },
     {
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "summary": "250名国内顶尖三甲医院医生联合评测",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T10:11:29.000Z"
+      "publishedAt": "2026-11-13T07:43:03.000Z"
     },
     {
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
-      "url": "https://www.qbitai.com/2026/11/509355.html",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+      "url": "https://www.qbitai.com/2026/11/509730.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T10:08:24.000Z"
+      "publishedAt": "2026-11-13T07:17:54.000Z"
     },
     {
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "summary": "企业 AI 的难题，不只是模型够不够强",
-      "url": "https://www.qbitai.com/2026/11/509349.html",
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+      "url": "https://www.qbitai.com/2026/11/509716.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-12T09:34:06.000Z"
+      "publishedAt": "2026-11-13T07:12:42.000Z"
     }
   ],
   "products": [
     {
-      "name": "Plurai Simulation",
-      "tagline": "A simulated world that makes your agent improve on every run",
-      "url": "https://www.producthunt.com/posts/plurai-simulation"
+      "name": "Templify AI",
+      "tagline": "Powerful content editor for people who aren’t editors",
+      "url": "https://www.producthunt.com/posts/templify-ai-2"
     },
     {
-      "name": "YouArt Desktop App",
-      "tagline": "Codex for creative team",
-      "url": "https://www.producthunt.com/posts/youart-desktop-app"
+      "name": "Filament by Galaxy",
+      "tagline": "Move data using your terminal or agent. Fast & open source.",
+      "url": "https://www.producthunt.com/posts/filament-by-galaxy"
     },
     {
-      "name": "Omnigraph",
-      "tagline": "Open source graph database for your AI agents",
-      "url": "https://www.producthunt.com/posts/omnigraph"
+      "name": "Claude Meetings",
+      "tagline": "Add Claude to your call and get work started as you talk",
+      "url": "https://www.producthunt.com/posts/claude-meetings"
     }
   ],
   "stats": {
-    "total": 22,
+    "total": 26,
     "byCategory": {
-      "模型厂商官方": 7,
-      "AI 开发工具与变更日志": 1,
-      "B 端协作与效率产品": 1,
-      "设计": 3,
+      "模型厂商官方": 8,
+      "AI 开发工具与变更日志": 2,
+      "B 端协作与效率产品": 0,
+      "设计": 6,
       "产品与商业策略": 0,
       "科技媒体": 10,
       "视频": 0
@@ -222,10 +254,10 @@
     "products": 3
   },
   "errors": [
+    "RSS All About AI: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
-    "RSS AI Jason: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
     "RSS Tina Huang: HTTP 404",
-    "RSS All About AI: HTTP 404"
+    "RSS Jeff Su: HTTP 404",
+    "RSS AI Jason: HTTP 404"
   ]
 }
