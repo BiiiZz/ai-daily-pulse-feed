@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:14:53.872Z",
+  "generatedAt": "2026-11-16T05:12:15.743Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,104 +13,96 @@
   ],
   "news": [
     {
-      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-      "summary": "Community Wisdom 305",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "title": "Qwen4-Max now available on AI Gateway",
+      "summary": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional wor",
+      "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-15T20:00:00.000Z"
+    },
+    {
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-11-14T21:15:46.000Z"
+      "publishedAt": "2026-11-15T13:31:28.000Z"
     },
     {
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-15T00:08:07.000Z"
+      "publishedAt": "2026-11-16T01:30:00.000Z"
     },
     {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-14T21:41:22.000Z"
+      "publishedAt": "2026-11-15T23:30:00.000Z"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-14T17:30:00.000Z"
+      "publishedAt": "2026-11-15T21:56:35.000Z"
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-14T16:34:15.000Z"
-    },
-    {
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "summary": "马斯克也签名了",
-      "url": "https://www.qbitai.com/2026/11/510297.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-14T10:08:08.000Z"
-    },
-    {
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-      "url": "https://www.qbitai.com/2026/11/510232.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-14T09:58:22.000Z"
-    },
-    {
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "summary": "童年的纸飞机，现在终于飞回我手里～",
-      "url": "https://www.qbitai.com/2026/11/510150.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-14T09:48:34.000Z"
-    },
-    {
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "summary": "年产2000万亿Token，成本狂降70%",
-      "url": "https://www.qbitai.com/2026/11/510094.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-14T09:41:02.000Z"
+      "publishedAt": "2026-11-15T20:20:57.000Z"
     }
   ],
   "products": [
     {
-      "name": "HiringNow",
-      "tagline": "AI job agent that finds & apply for jobs before anyone else.",
-      "url": "https://www.producthunt.com/posts/hiringnow-3"
+      "name": "Rakazo",
+      "tagline": "The open source Grok Bot alternative you actually own",
+      "url": "https://www.producthunt.com/posts/rakazo-2"
     },
     {
-      "name": "Businesses in ChatGPT",
-      "tagline": "Help customers discover your business through ChatGPT",
-      "url": "https://www.producthunt.com/posts/businesses-in-chatgpt"
+      "name": "Frevana Multiplayer",
+      "tagline": "AI that grows your business alongside your team",
+      "url": "https://www.producthunt.com/posts/frevana-multiplayer"
     },
     {
-      "name": "Dex Semantics",
-      "tagline": "Let your agent build analytics with 25% fewer errors",
-      "url": "https://www.producthunt.com/posts/dex-semantics"
+      "name": "Tulvo",
+      "tagline": "Smart & adaptive workspace to manage all your work",
+      "url": "https://www.producthunt.com/posts/tulvo"
     }
   ],
   "stats": {
-    "total": 9,
+    "total": 8,
     "byCategory": {
-      "模型厂商官方": 0,
-      "AI 开发工具与变更日志": 0,
+      "模型厂商官方": 2,
+      "AI 开发工具与变更日志": 1,
       "B 端协作与效率产品": 0,
       "设计": 0,
       "产品与商业策略": 1,
-      "科技媒体": 8,
+      "科技媒体": 4,
       "视频": 0
     },
     "sourcesTotal": 33,
@@ -118,9 +110,9 @@
     "products": 3
   },
   "errors": [
-    "RSS All About AI: HTTP 404",
-    "RSS Jeff Su: HTTP 404",
     "RSS AI Jason: HTTP 404",
+    "RSS Jeff Su: HTTP 404",
+    "RSS All About AI: HTTP 404",
     "RSS Figma YouTube: HTTP 404",
     "RSS Tina Huang: HTTP 404"
   ]
