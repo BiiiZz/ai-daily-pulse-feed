@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:56:10.439Z",
+  "generatedAt": "2026-11-18T06:18:03.392Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,260 +13,207 @@
   ],
   "news": [
     {
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T17:00:00.000Z"
+      "publishedAt": "2026-11-17T17:45:00.000Z"
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "title": "Put Gemini to work for you",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T14:00:00.000Z"
+      "publishedAt": "2026-11-17T17:00:00.000Z"
     },
     {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T09:30:00.000Z"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-16T09:00:00.000Z"
-    },
-    {
-      "title": "Hy4 Flash now available on AI Gateway for 50% off",
-      "summary": "Hy4 Flash from Tencent is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026.Hy4 Flash is the new lower-cost model in the",
-      "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+      "title": "Standard builds move to usage-based billing for new teams",
+      "summary": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard bui",
+      "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-16T17:00:00.000Z"
+      "publishedAt": "2026-11-17T20:00:00.000Z"
     },
     {
-      "title": "Now you can explore any idea in parallel without touching what&apos;s live",
-      "summary": "Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.",
-      "url": "https://lovable.dev/blog/introducing-drafts",
-      "source": "Lovable Blog",
+      "title": "Introducing Replit Missions",
+      "summary": "Today, we’re launching Replit Missions to help your teams take on the complex work they haven't had time or capacity for: winning more enterprise customers, improving product performance, or replacing",
+      "url": "https://replit.com/blog/introducing-replit-missions",
+      "source": "Replit Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-16T13:30:00.000Z"
+      "publishedAt": "2026-11-17T18:00:00.000Z"
     },
     {
-      "title": "AI Gateway now supports Private Inference",
-      "summary": "Private Inference connects your own model endpoints to AI Gateway.Enterprises running fine-tuned, self-hosted, or prerelease models used to need separate keys, client code, and logs for them. Those mo",
-      "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+      "title": "Vercel Blob now supports TTLs for automatic deletion",
+      "summary": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date.Use TTL",
+      "url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-16T07:47:00.000Z"
+      "publishedAt": "2026-11-17T18:00:00.000Z"
     },
     {
-      "title": "Why bother paying for software anymore?",
-      "summary": "And why design is the answer AI bros didn’t expect.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-16T21:27:14.000Z"
-    },
-    {
-      "title": "UI edge cases: A reference guide",
+      "title": "What is a researcher’s worth?",
       "summary": "",
-      "url": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-16T21:20:24.000Z"
+      "publishedAt": "2026-11-17T23:26:24.000Z"
     },
     {
-      "title": "How 1Password uses Figma Make to design for trust and certainty",
-      "summary": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
-      "url": "https://www.figma.com/blog/1password-figma-make/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-11-16T18:03:00.000Z"
-    },
-    {
-      "title": "Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens",
-      "summary": "",
-      "url": "https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4",
+      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+      "summary": "How to decipher your PM’s AI-generated mockup without losing hoursContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-16T12:17:08.000Z"
+      "publishedAt": "2026-11-17T23:25:21.000Z"
     },
     {
-      "title": "The trash robot that doesn’t pick up, but hands out",
-      "summary": "On kawaii, embarrassment, and designing to inviteContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-16T12:16:15.000Z"
-    },
-    {
-      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+      "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
+      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-11-16T16:02:55.000Z"
+      "publishedAt": "2026-11-17T18:02:02.000Z"
     },
     {
-      "title": "How I fight token fraud as a solo founder",
-      "summary": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
-      "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-16T13:04:09.000Z"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-16T23:32:32.000Z"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-16T22:03:02.000Z"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-16T20:07:13.000Z"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-16T19:12:02.000Z"
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-16T18:11:10.000Z"
-    },
-    {
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-16T10:57:31.000Z"
+      "publishedAt": "2026-11-18T04:49:51.000Z"
     },
     {
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "summary": "12月1日，细数AI的未竟之问。",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "summary": "具身全栈玩家",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-16T08:45:17.000Z"
+      "publishedAt": "2026-11-18T04:28:57.000Z"
     },
     {
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "summary": "在华为待了快10000天。",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-16T08:02:07.000Z"
+      "publishedAt": "2026-11-18T02:49:23.000Z"
     },
     {
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-18T01:44:21.000Z"
+    },
+    {
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "summary": "英伟达公布了老黄离职后的首份财报",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-16T07:58:57.000Z"
+      "publishedAt": "2026-11-18T01:03:42.000Z"
     },
     {
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "summary": "Sol逼近旗舰性能",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-16T07:51:57.000Z"
+      "publishedAt": "2026-11-18T00:49:14.000Z"
     },
     {
-      "title": "24 Hours with Brent David Freaney",
-      "summary": "We spent 24 hours in New York City with Brent David Freaney - founder of Special Offer, the studio behind the design and art direction for Madonna, Rosalia, Charli xcx, and more.\n_____________________",
-      "url": "https://www.youtube.com/shorts/LHvS_H5yyIs",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-18T00:16:50.000Z"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-17T23:37:48.000Z"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-17T23:04:35.000Z"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-17T22:42:27.000Z"
+    },
+    {
+      "title": "Figma Motion basics: Export animations",
+      "summary": "Let’s learn how to export animations from Figma. You can export animations created in Figma Motion to share designs with others, move content between tools, or save copies of your work outside of Figm",
+      "url": "https://www.youtube.com/watch?v=8y7T-Yb0VGE",
       "source": "Figma YouTube",
       "category": "视频",
-      "publishedAt": "2026-11-16T15:16:14.000Z"
+      "publishedAt": "2026-11-17T15:16:07.000Z"
     },
     {
-      "title": "Learn 3D transform in Figma",
-      "summary": "3D transform effects let you combine your favorite Figma features with new 3D effects to take your designs to a whole new dimension.\nIn this video, we’ll learn about two types of effects in Figma: 3D ",
-      "url": "https://www.youtube.com/watch?v=9u_DZRaPTV8",
-      "source": "Figma YouTube",
+      "title": "8 AI Predictions for GTA 6 — Will Jason or Lucia Die?",
+      "summary": "8 AI Predictions for GTA VI — Will Jason or Lucia Die?\n\nGet early access:\nhttps://www.siktintelligence.com/\n\n🐦‍⬛ Tomorrow’s headlines, before they happen.\nSikt Intelligence is building an AI superfor",
+      "url": "https://www.youtube.com/watch?v=EPopZq-vJjA",
+      "source": "All About AI",
       "category": "视频",
-      "publishedAt": "2026-11-16T14:00:00.000Z"
+      "publishedAt": "2026-11-17T14:28:32.000Z"
     }
   ],
   "products": [
     {
-      "name": "Zoom Slides",
-      "tagline": "Turn your Zoom meetings into ready-to-present slides",
-      "url": "https://www.producthunt.com/posts/zoom-slides"
+      "name": "Creatify Max",
+      "tagline": "Your ad teammate, from strategy to creation to launch",
+      "url": "https://www.producthunt.com/posts/creatify-max"
     },
     {
-      "name": "Boost.space AgentOS",
-      "tagline": "One operating system for all your AI agents",
-      "url": "https://www.producthunt.com/posts/boost-space-agentos"
+      "name": "RankSpot",
+      "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
+      "url": "https://www.producthunt.com/posts/rankspot-2"
     },
     {
-      "name": "OpenBot",
-      "tagline": "Grok Bot alternative: self-host, fully customize, any stack",
-      "url": "https://www.producthunt.com/posts/openbot-3"
+      "name": "TheBold",
+      "tagline": "Turn execution into meetings with investors",
+      "url": "https://www.producthunt.com/posts/thebold"
     }
   ],
   "stats": {
-    "total": 28,
+    "total": 21,
     "byCategory": {
-      "模型厂商官方": 6,
+      "模型厂商官方": 3,
       "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 2,
+      "设计": 2,
+      "产品与商业策略": 1,
       "科技媒体": 10,
       "视频": 2
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 0,
+    "sourcesFailed": 1,
     "products": 3
-  }
+  },
+  "errors": [
+    "RSS NN/g: HTTP 403"
+  ]
 }
