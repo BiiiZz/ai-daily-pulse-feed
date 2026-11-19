@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:18:03.392Z",
+  "generatedAt": "2026-11-19T06:19:26.587Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,207 +13,268 @@
   ],
   "news": [
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI News",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-17T17:45:00.000Z"
+      "publishedAt": "2026-11-18T21:35:43.000Z"
     },
     {
-      "title": "Put Gemini to work for you",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T19:54:56.000Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T18:53:43.000Z"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T18:13:42.000Z"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-17T17:00:00.000Z"
+      "publishedAt": "2026-11-18T17:00:00.000Z"
     },
     {
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T15:00:23.000Z"
+    },
+    {
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-17T08:00:00.000Z"
+      "publishedAt": "2026-11-18T10:00:00.000Z"
     },
     {
-      "title": "Standard builds move to usage-based billing for new teams",
-      "summary": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard bui",
-      "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-17T20:00:00.000Z"
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
-      "title": "Introducing Replit Missions",
-      "summary": "Today, we’re launching Replit Missions to help your teams take on the complex work they haven't had time or capacity for: winning more enterprise customers, improving product performance, or replacing",
-      "url": "https://replit.com/blog/introducing-replit-missions",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "title": "Build where your business works: Replit at Microsoft Ignite",
+      "summary": "The people closest to a business problem often know what needs to change, but haven’t always had the tools to change it themselves. AI is giving more of them the ability to turn that knowledge into wo",
+      "url": "https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite",
       "source": "Replit Blog",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-17T18:00:00.000Z"
+      "publishedAt": "2026-11-18T17:00:00.000Z"
     },
     {
-      "title": "Vercel Blob now supports TTLs for automatic deletion",
-      "summary": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date.Use TTL",
-      "url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+      "title": "Two years of Lovable: more people with ideas, more power to act on them",
+      "summary": "New research, customer stories, and perspectives on how people are creating businesses, changing companies, and shaping the future with Lovable.",
+      "url": "https://lovable.dev/blog/two-years-of-lovable",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "title": "Introducing Vercel Board",
+      "summary": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purp",
+      "url": "https://vercel.com/blog/introducing-vercel-board",
       "source": "Vercel",
       "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-17T18:00:00.000Z"
+      "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
-      "title": "What is a researcher’s worth?",
+      "title": "Start Small, Keep Control: monday.com’s Leaders on Adopting AI",
+      "summary": "The post Start Small, Keep Control: monday.com’s Leaders on Adopting AI appeared first on monday.com Blog.",
+      "url": "https://monday.com/blog/updates/start-small-keep-control-monday-coms-leaders-on-adopting-ai/",
+      "source": "Monday.com Blog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-11-18T13:07:50.000Z"
+    },
+    {
+      "title": "From Hardware Aisles to Hunger Relief: How AI Is Rewriting the Way Work Gets Done",
+      "summary": "The post From Hardware Aisles to Hunger Relief: How AI Is Rewriting the Way Work Gets Done appeared first on monday.com Blog.",
+      "url": "https://monday.com/blog/updates/from-hardware-aisles-to-hunger-relief-how-ai-is-rewriting-the-way-work-gets-done/",
+      "source": "Monday.com Blog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-11-18T13:04:58.000Z"
+    },
+    {
+      "title": "No-code builder evaluation: how to choose the right platform",
+      "summary": "The post No-code builder evaluation: how to choose the right platform appeared first on monday.com Blog.",
+      "url": "https://monday.com/blog/vibe-coding/no-code-builder-evaluation/",
+      "source": "Monday.com Blog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-11-18T11:27:22.000Z"
+    },
+    {
+      "title": "If AI works from anywhere, why are we commuting to watch it?",
       "summary": "",
-      "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-17T23:26:24.000Z"
+      "publishedAt": "2026-11-18T20:17:39.000Z"
     },
     {
-      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
-      "summary": "How to decipher your PM’s AI-generated mockup without losing hoursContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
+      "title": "Too Claudified",
+      "summary": "A client rejected my motion work for looking machine-made. I’d published the diagnosis five months earlier.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-17T23:25:21.000Z"
+      "publishedAt": "2026-11-18T20:17:05.000Z"
     },
     {
-      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-      "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
-      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-17T18:02:02.000Z"
+      "title": "Source material: Creative Director Chase Rutherford on what makes something iconic",
+      "summary": "From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart, recontextualized, and turned into something new.",
+      "url": "https://www.figma.com/blog/source-material-chase-rutherford/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-18T19:43:00.000Z"
     },
     {
-      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
-      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+      "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+      "url": "https://www.qbitai.com/2026/11/511088.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T04:49:51.000Z"
+      "publishedAt": "2026-11-19T04:51:31.000Z"
     },
     {
-      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-      "summary": "具身全栈玩家",
-      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+      "url": "https://www.qbitai.com/2026/11/511079.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T04:28:57.000Z"
+      "publishedAt": "2026-11-19T04:02:39.000Z"
     },
     {
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "summary": "语言模型单张3090卡即可运行",
+      "url": "https://www.qbitai.com/2026/11/511071.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T02:49:23.000Z"
+      "publishedAt": "2026-11-19T03:01:45.000Z"
     },
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T01:44:21.000Z"
+      "publishedAt": "2026-11-19T00:42:56.000Z"
     },
     {
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-      "summary": "英伟达公布了老黄离职后的首份财报",
-      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "summary": "国产AI工具实现「一个人就是一个剧组」",
+      "url": "https://www.qbitai.com/2026/11/510947.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T01:03:42.000Z"
+      "publishedAt": "2026-11-19T00:26:40.000Z"
     },
     {
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-      "summary": "Sol逼近旗舰性能",
-      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-18T23:45:00.000Z"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-18T23:25:17.000Z"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-18T22:58:11.000Z"
+    },
+    {
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "summary": "氖人寻味！",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T00:49:14.000Z"
+      "publishedAt": "2026-11-18T09:41:55.000Z"
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-18T00:16:50.000Z"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-17T23:37:48.000Z"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-17T23:04:35.000Z"
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-17T22:42:27.000Z"
-    },
-    {
-      "title": "Figma Motion basics: Export animations",
-      "summary": "Let’s learn how to export animations from Figma. You can export animations created in Figma Motion to share designs with others, move content between tools, or save copies of your work outside of Figm",
-      "url": "https://www.youtube.com/watch?v=8y7T-Yb0VGE",
-      "source": "Figma YouTube",
+      "title": "arduino local AI build",
+      "summary": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the wai",
+      "url": "https://www.youtube.com/shorts/kmnApfAmoj0",
+      "source": "Tina Huang",
       "category": "视频",
-      "publishedAt": "2026-11-17T15:16:07.000Z"
-    },
-    {
-      "title": "8 AI Predictions for GTA 6 — Will Jason or Lucia Die?",
-      "summary": "8 AI Predictions for GTA VI — Will Jason or Lucia Die?\n\nGet early access:\nhttps://www.siktintelligence.com/\n\n🐦‍⬛ Tomorrow’s headlines, before they happen.\nSikt Intelligence is building an AI superfor",
-      "url": "https://www.youtube.com/watch?v=EPopZq-vJjA",
-      "source": "All About AI",
-      "category": "视频",
-      "publishedAt": "2026-11-17T14:28:32.000Z"
+      "publishedAt": "2026-11-18T12:00:28.000Z"
     }
   ],
   "products": [
     {
-      "name": "Creatify Max",
-      "tagline": "Your ad teammate, from strategy to creation to launch",
-      "url": "https://www.producthunt.com/posts/creatify-max"
+      "name": "S.Space",
+      "tagline": "Your team and everyone's AI agents, in one workspace",
+      "url": "https://www.producthunt.com/posts/s-space"
     },
     {
-      "name": "RankSpot",
-      "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
-      "url": "https://www.producthunt.com/posts/rankspot-2"
+      "name": "Bluedot Phone Calls",
+      "tagline": "AI note taker for phone calls",
+      "url": "https://www.producthunt.com/posts/bluedot-phone-calls"
     },
     {
-      "name": "TheBold",
-      "tagline": "Turn execution into meetings with investors",
-      "url": "https://www.producthunt.com/posts/thebold"
+      "name": "Toone",
+      "tagline": "Grokbot meets n8n/zapier",
+      "url": "https://www.producthunt.com/posts/toone-4"
     }
   ],
   "stats": {
-    "total": 21,
+    "total": 29,
     "byCategory": {
-      "模型厂商官方": 3,
+      "模型厂商官方": 10,
       "AI 开发工具与变更日志": 3,
-      "B 端协作与效率产品": 0,
-      "设计": 2,
-      "产品与商业策略": 1,
-      "科技媒体": 10,
-      "视频": 2
+      "B 端协作与效率产品": 3,
+      "设计": 3,
+      "产品与商业策略": 0,
+      "科技媒体": 9,
+      "视频": 1
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 1,
+    "sourcesFailed": 0,
     "products": 3
-  },
-  "errors": [
-    "RSS NN/g: HTTP 403"
-  ]
+  }
 }
