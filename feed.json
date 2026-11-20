@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:19:26.587Z",
+  "generatedAt": "2026-11-20T06:03:17.981Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,264 +13,184 @@
   ],
   "news": [
     {
-      "title": "Introducing Gemini 4 Neon",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
+      "title": "A game you cannot win unless you have a quantum computer",
+      "summary": "Quantum",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T21:35:43.000Z"
+      "publishedAt": "2026-11-19T20:03:00.000Z"
     },
     {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T19:54:56.000Z"
-    },
-    {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T18:53:43.000Z"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "summary": "",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T17:00:00.000Z"
+      "publishedAt": "2026-11-19T18:00:00.000Z"
     },
     {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T15:00:23.000Z"
+      "publishedAt": "2026-11-19T17:00:00.000Z"
     },
     {
-      "title": "The Silent Consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T10:00:00.000Z"
+      "publishedAt": "2026-11-19T08:00:00.000Z"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T08:00:00.000Z"
+      "title": "UX Conference March Announced (Mar 1 - Mar 4)",
+      "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. March 1-4, 2027 (Americ",
+      "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-11-20T03:44:24.000Z"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T08:00:00.000Z"
+      "title": "UX Conference February Announced (Feb 22 - Feb 26)",
+      "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. February 22 - February 26, 2027.",
+      "url": "https://www.nngroup.com/training/february/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "source": "NN/g",
+      "category": "设计",
+      "publishedAt": "2026-11-20T03:16:44.000Z"
     },
     {
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "title": "Build where your business works: Replit at Microsoft Ignite",
-      "summary": "The people closest to a business problem often know what needs to change, but haven’t always had the tools to change it themselves. AI is giving more of them the ability to turn that knowledge into wo",
-      "url": "https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-18T17:00:00.000Z"
-    },
-    {
-      "title": "Two years of Lovable: more people with ideas, more power to act on them",
-      "summary": "New research, customer stories, and perspectives on how people are creating businesses, changing companies, and shaping the future with Lovable.",
-      "url": "https://lovable.dev/blog/two-years-of-lovable",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-18T10:00:00.000Z"
-    },
-    {
-      "title": "Introducing Vercel Board",
-      "summary": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purp",
-      "url": "https://vercel.com/blog/introducing-vercel-board",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "title": "Start Small, Keep Control: monday.com’s Leaders on Adopting AI",
-      "summary": "The post Start Small, Keep Control: monday.com’s Leaders on Adopting AI appeared first on monday.com Blog.",
-      "url": "https://monday.com/blog/updates/start-small-keep-control-monday-coms-leaders-on-adopting-ai/",
-      "source": "Monday.com Blog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-11-18T13:07:50.000Z"
-    },
-    {
-      "title": "From Hardware Aisles to Hunger Relief: How AI Is Rewriting the Way Work Gets Done",
-      "summary": "The post From Hardware Aisles to Hunger Relief: How AI Is Rewriting the Way Work Gets Done appeared first on monday.com Blog.",
-      "url": "https://monday.com/blog/updates/from-hardware-aisles-to-hunger-relief-how-ai-is-rewriting-the-way-work-gets-done/",
-      "source": "Monday.com Blog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-11-18T13:04:58.000Z"
-    },
-    {
-      "title": "No-code builder evaluation: how to choose the right platform",
-      "summary": "The post No-code builder evaluation: how to choose the right platform appeared first on monday.com Blog.",
-      "url": "https://monday.com/blog/vibe-coding/no-code-builder-evaluation/",
-      "source": "Monday.com Blog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-11-18T11:27:22.000Z"
-    },
-    {
-      "title": "If AI works from anywhere, why are we commuting to watch it?",
-      "summary": "",
-      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+      "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
+      "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-18T20:17:39.000Z"
+      "publishedAt": "2026-11-19T21:36:22.000Z"
     },
     {
-      "title": "Too Claudified",
-      "summary": "A client rejected my motion work for looking machine-made. I’d published the diagnosis five months earlier.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+      "title": "Send the Firefighters to the Fires",
+      "summary": "",
+      "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-18T20:17:05.000Z"
+      "publishedAt": "2026-11-19T12:54:05.000Z"
     },
     {
-      "title": "Source material: Creative Director Chase Rutherford on what makes something iconic",
-      "summary": "From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart, recontextualized, and turned into something new.",
-      "url": "https://www.figma.com/blog/source-material-chase-rutherford/",
-      "source": "Figma Blog",
-      "category": "设计",
-      "publishedAt": "2026-11-18T19:43:00.000Z"
-    },
-    {
-      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
-      "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
-      "url": "https://www.qbitai.com/2026/11/511088.html",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "summary": "已开源Agnes Harness",
+      "url": "https://www.qbitai.com/2026/11/511582.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T04:51:31.000Z"
+      "publishedAt": "2026-11-20T05:24:11.000Z"
     },
     {
-      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-      "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-      "url": "https://www.qbitai.com/2026/11/511079.html",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T04:02:39.000Z"
+      "publishedAt": "2026-11-20T01:07:38.000Z"
     },
     {
-      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-      "summary": "语言模型单张3090卡即可运行",
-      "url": "https://www.qbitai.com/2026/11/511071.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-19T03:01:45.000Z"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T00:42:56.000Z"
+      "publishedAt": "2026-11-20T00:56:01.000Z"
     },
     {
-      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-      "summary": "国产AI工具实现「一个人就是一个剧组」",
-      "url": "https://www.qbitai.com/2026/11/510947.html",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-20T00:43:50.000Z"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-19T21:58:06.000Z"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-19T21:42:31.000Z"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-19T20:18:49.000Z"
+    },
+    {
+      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "summary": "「Revaluation 价值，另有答案」",
+      "url": "https://www.qbitai.com/2026/11/511258.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T00:26:40.000Z"
+      "publishedAt": "2026-11-19T08:43:10.000Z"
     },
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-18T23:45:00.000Z"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-18T23:25:17.000Z"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-18T22:58:11.000Z"
-    },
-    {
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "summary": "氖人寻味！",
-      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "summary": "媒体均分登顶历史第一，细节多到爆炸",
+      "url": "https://www.qbitai.com/2026/11/511180.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-18T09:41:55.000Z"
+      "publishedAt": "2026-11-19T08:18:30.000Z"
     },
     {
-      "title": "arduino local AI build",
-      "summary": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the wai",
-      "url": "https://www.youtube.com/shorts/kmnApfAmoj0",
-      "source": "Tina Huang",
+      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+      "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+      "url": "https://www.qbitai.com/2026/11/511179.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-19T08:10:19.000Z"
+    },
+    {
+      "title": "A24 Designer Breaks Down the Psychology of Movie Posters",
+      "summary": "We tracked the eyes of 40 people on some of the most famous movie posters ever created to see how they were designed to capture our attention. A24 poster designer, Juan Luis Garcia, breaks down the he",
+      "url": "https://www.youtube.com/watch?v=_BBJl6LwHlU",
+      "source": "Figma YouTube",
       "category": "视频",
-      "publishedAt": "2026-11-18T12:00:28.000Z"
+      "publishedAt": "2026-11-19T17:00:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "S.Space",
-      "tagline": "Your team and everyone's AI agents, in one workspace",
-      "url": "https://www.producthunt.com/posts/s-space"
+      "name": "TestSprite 4.0",
+      "tagline": "Fix one thing, break another? This agent checks it all",
+      "url": "https://www.producthunt.com/posts/testsprite-4-0"
     },
     {
-      "name": "Bluedot Phone Calls",
-      "tagline": "AI note taker for phone calls",
-      "url": "https://www.producthunt.com/posts/bluedot-phone-calls"
+      "name": "Verse Engine by Ctruh",
+      "tagline": "Blender, Unity or Unreal to a live 3D link in one click",
+      "url": "https://www.producthunt.com/posts/verse-engine-by-ctruh"
     },
     {
-      "name": "Toone",
-      "tagline": "Grokbot meets n8n/zapier",
-      "url": "https://www.producthunt.com/posts/toone-4"
+      "name": "Netlify Server",
+      "tagline": "Run WebSockets, multiplayer apps, and long-running agents",
+      "url": "https://www.producthunt.com/posts/netlify-server"
     }
   ],
   "stats": {
-    "total": 29,
+    "total": 19,
     "byCategory": {
-      "模型厂商官方": 10,
-      "AI 开发工具与变更日志": 3,
-      "B 端协作与效率产品": 3,
-      "设计": 3,
+      "模型厂商官方": 4,
+      "AI 开发工具与变更日志": 0,
+      "B 端协作与效率产品": 0,
+      "设计": 4,
       "产品与商业策略": 0,
-      "科技媒体": 9,
+      "科技媒体": 10,
       "视频": 1
     },
     "sourcesTotal": 33,
