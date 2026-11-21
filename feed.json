@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:03:17.981Z",
+  "generatedAt": "2026-11-21T05:56:42.269Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,185 +13,169 @@
   ],
   "news": [
     {
-      "title": "A game you cannot win unless you have a quantum computer",
-      "summary": "Quantum",
-      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary": "Generative AI",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "source": "Google Research",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-19T20:03:00.000Z"
+      "publishedAt": "2026-11-20T23:30:30.000Z"
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-19T18:00:00.000Z"
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-19T17:00:00.000Z"
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-19T08:00:00.000Z"
+      "publishedAt": "2026-11-20T10:00:00.000Z"
     },
     {
-      "title": "UX Conference March Announced (Mar 1 - Mar 4)",
-      "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. March 1-4, 2027 (Americ",
-      "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "title": "Securely connect Replit to your private network with Tunnels",
+      "summary": "A self-driving company needs agents that can investigate issues, prepare reports and build with company data. When that data sits on a private network, teams shouldn’t have to choose between keeping i",
+      "url": "https://replit.com/blog/build-with-private-data-using-tunnels",
+      "source": "Replit Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-20T17:55:00.000Z"
+    },
+    {
+      "title": "Vercel Functions now support request bodies up to 20MiB",
+      "summary": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public Beta.To turn this on, set the VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 environment variable. The opt-in applies to t",
+      "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-20T13:00:00.000Z"
+    },
+    {
+      "title": "Your ideas are in store at Lovable’s App Studio, opening soon in Atlanta",
+      "summary": "On December 2, Lovable App Studio opens for one day at Ponce City Market in Atlanta. Turn your idea into a working app with a Lovable expert, free and open to the public.",
+      "url": "https://lovable.dev/blog/lovable-app-studio-atlanta",
+      "source": "Lovable Blog",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-20T11:00:00.000Z"
+    },
+    {
+      "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
+      "summary": "Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent pr",
+      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+      "source": "Figma Blog",
+      "category": "设计",
+      "publishedAt": "2026-11-20T22:17:00.000Z"
+    },
+    {
+      "title": "Qualitative User-Research Methods: An Overview",
+      "summary": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
+      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-11-20T03:44:24.000Z"
+      "publishedAt": "2026-11-20T18:00:00.000Z"
     },
     {
-      "title": "UX Conference February Announced (Feb 22 - Feb 26)",
-      "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. February 22 - February 26, 2027.",
-      "url": "https://www.nngroup.com/training/february/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "summary": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "source": "NN/g",
       "category": "设计",
-      "publishedAt": "2026-11-20T03:16:44.000Z"
+      "publishedAt": "2026-11-20T18:00:00.000Z"
     },
     {
-      "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
-      "summary": "What skateboarding history can remind designers about tools, repertoire and improvisation.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-19T21:36:22.000Z"
-    },
-    {
-      "title": "Send the Firefighters to the Fires",
-      "summary": "",
-      "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-19T12:54:05.000Z"
-    },
-    {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "summary": "已开源Agnes Harness",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-20T05:24:11.000Z"
-    },
-    {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-20T01:07:38.000Z"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T00:56:01.000Z"
+      "publishedAt": "2026-11-20T19:53:41.000Z"
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T00:43:50.000Z"
+      "publishedAt": "2026-11-20T19:32:08.000Z"
     },
     {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "Chips can survive the space environment — can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T21:58:06.000Z"
+      "publishedAt": "2026-11-20T17:40:01.000Z"
     },
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T21:42:31.000Z"
+      "publishedAt": "2026-11-20T14:55:44.000Z"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T20:18:49.000Z"
+      "publishedAt": "2026-11-20T14:00:00.000Z"
     },
     {
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "summary": "「Revaluation 价值，另有答案」",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T08:43:10.000Z"
+      "publishedAt": "2026-11-20T08:04:58.000Z"
     },
     {
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "summary": "媒体均分登顶历史第一，细节多到爆炸",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "url": "https://www.qbitai.com/2026/11/511603.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-19T08:18:30.000Z"
+      "publishedAt": "2026-11-20T06:16:06.000Z"
     },
     {
-      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-      "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
-      "url": "https://www.qbitai.com/2026/11/511179.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-19T08:10:19.000Z"
-    },
-    {
-      "title": "A24 Designer Breaks Down the Psychology of Movie Posters",
-      "summary": "We tracked the eyes of 40 people on some of the most famous movie posters ever created to see how they were designed to capture our attention. A24 poster designer, Juan Luis Garcia, breaks down the he",
-      "url": "https://www.youtube.com/watch?v=_BBJl6LwHlU",
+      "title": "How Figma’s Motion Team Launched 3D Transform in the Canvas I Figma on Figma",
+      "summary": "Introducing Figma on Figma - the series where Figma shows you how we use our own products in our everyday work. In this episode, Chad Colby, Director of Motion Design on our Brand Studio team, shows h",
+      "url": "https://www.youtube.com/watch?v=3WvRF5yn47k",
       "source": "Figma YouTube",
       "category": "视频",
-      "publishedAt": "2026-11-19T17:00:00.000Z"
+      "publishedAt": "2026-11-20T17:00:15.000Z"
+    },
+    {
+      "title": "FigJam mobile app improvements",
+      "summary": "New @figma app FigJam updates dropping today!  \n\n→ Frame preview slider\n→ Comment indicators\n→ Export individual sections\n→ and more!\n____________________________________________________\n\nFind us on ⬇",
+      "url": "https://www.youtube.com/shorts/MketQ6OdRsM",
+      "source": "Figma YouTube",
+      "category": "视频",
+      "publishedAt": "2026-11-20T16:51:22.000Z"
     }
   ],
   "products": [
     {
-      "name": "TestSprite 4.0",
-      "tagline": "Fix one thing, break another? This agent checks it all",
-      "url": "https://www.producthunt.com/posts/testsprite-4-0"
+      "name": "Saparo",
+      "tagline": "Muse for shopping with deals stacks",
+      "url": "https://www.producthunt.com/posts/saparo-2"
     },
     {
-      "name": "Verse Engine by Ctruh",
-      "tagline": "Blender, Unity or Unreal to a live 3D link in one click",
-      "url": "https://www.producthunt.com/posts/verse-engine-by-ctruh"
+      "name": "Tripmojo",
+      "tagline": "Agentic travel app that helps plan, book and run your trip",
+      "url": "https://www.producthunt.com/posts/tripmojo-3"
     },
     {
-      "name": "Netlify Server",
-      "tagline": "Run WebSockets, multiplayer apps, and long-running agents",
-      "url": "https://www.producthunt.com/posts/netlify-server"
+      "name": "Docker",
+      "tagline": "Built to run on trust, for the agentic era",
+      "url": "https://www.producthunt.com/posts/docker"
     }
   ],
   "stats": {
-    "total": 19,
+    "total": 17,
     "byCategory": {
-      "模型厂商官方": 4,
-      "AI 开发工具与变更日志": 0,
+      "模型厂商官方": 2,
+      "AI 开发工具与变更日志": 3,
       "B 端协作与效率产品": 0,
-      "设计": 4,
+      "设计": 3,
       "产品与商业策略": 0,
-      "科技媒体": 10,
-      "视频": 1
+      "科技媒体": 7,
+      "视频": 2
     },
     "sourcesTotal": 33,
     "sourcesFailed": 0,
