@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:56:42.269Z",
+  "generatedAt": "2026-11-22T05:31:02.107Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,169 +13,113 @@
   ],
   "news": [
     {
-      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-      "source": "Google Research",
+      "title": "混元团队 AMA 进行时，这次我们「有问必答」",
+      "summary": "",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247499050&amp;idx=1&amp;sn=ea45c3144b7a0ae22517753cf5f5425c",
+      "source": "腾讯混元",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-20T23:30:30.000Z"
+      "publishedAt": "2026-11-21T05:51:00.000Z"
     },
     {
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-20T10:00:00.000Z"
-    },
-    {
-      "title": "Securely connect Replit to your private network with Tunnels",
-      "summary": "A self-driving company needs agents that can investigate issues, prepare reports and build with company data. When that data sits on a private network, teams shouldn’t have to choose between keeping i",
-      "url": "https://replit.com/blog/build-with-private-data-using-tunnels",
-      "source": "Replit Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-20T17:55:00.000Z"
-    },
-    {
-      "title": "Vercel Functions now support request bodies up to 20MiB",
-      "summary": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public Beta.To turn this on, set the VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 environment variable. The opt-in applies to t",
-      "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-20T13:00:00.000Z"
-    },
-    {
-      "title": "Your ideas are in store at Lovable’s App Studio, opening soon in Atlanta",
-      "summary": "On December 2, Lovable App Studio opens for one day at Ponce City Market in Atlanta. Turn your idea into a working app with a Lovable expert, free and open to the public.",
-      "url": "https://lovable.dev/blog/lovable-app-studio-atlanta",
-      "source": "Lovable Blog",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-20T11:00:00.000Z"
-    },
-    {
-      "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
-      "summary": "Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent pr",
-      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-      "source": "Figma Blog",
+      "title": "The judge used to be the user",
+      "summary": "AI collapsed the slow middle of building models. The people who once defined correct went with it.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-20T22:17:00.000Z"
+      "publishedAt": "2026-11-21T14:34:16.000Z"
     },
     {
-      "title": "Qualitative User-Research Methods: An Overview",
-      "summary": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
-      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-11-20T18:00:00.000Z"
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "summary": "Community Wisdom 306",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-21T16:49:56.000Z"
     },
     {
-      "title": "Can AI Generate Good Designs from Raw User Data?",
-      "summary": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
-      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "source": "NN/g",
-      "category": "设计",
-      "publishedAt": "2026-11-20T18:00:00.000Z"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T19:53:41.000Z"
+      "publishedAt": "2026-11-21T21:37:10.000Z"
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T19:32:08.000Z"
+      "publishedAt": "2026-11-21T21:07:42.000Z"
     },
     {
-      "title": "Chips can survive the space environment — can their financing?",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T17:40:01.000Z"
+      "publishedAt": "2026-11-21T17:00:00.000Z"
     },
     {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T14:55:44.000Z"
+      "publishedAt": "2026-11-21T16:00:00.000Z"
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-20T14:00:00.000Z"
-    },
-    {
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
-      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "summary": "还实现可变形物体操控全球首通",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T08:04:58.000Z"
+      "publishedAt": "2026-11-21T06:35:59.000Z"
     },
     {
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "summary": "专为本地部署而生",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-20T06:16:06.000Z"
+      "publishedAt": "2026-11-21T06:32:31.000Z"
     },
     {
-      "title": "How Figma’s Motion Team Launched 3D Transform in the Canvas I Figma on Figma",
-      "summary": "Introducing Figma on Figma - the series where Figma shows you how we use our own products in our everyday work. In this episode, Chad Colby, Director of Motion Design on our Brand Studio team, shows h",
-      "url": "https://www.youtube.com/watch?v=3WvRF5yn47k",
-      "source": "Figma YouTube",
-      "category": "视频",
-      "publishedAt": "2026-11-20T17:00:15.000Z"
-    },
-    {
-      "title": "FigJam mobile app improvements",
-      "summary": "New @figma app FigJam updates dropping today!  \n\n→ Frame preview slider\n→ Comment indicators\n→ Export individual sections\n→ and more!\n____________________________________________________\n\nFind us on ⬇",
-      "url": "https://www.youtube.com/shorts/MketQ6OdRsM",
-      "source": "Figma YouTube",
-      "category": "视频",
-      "publishedAt": "2026-11-20T16:51:22.000Z"
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "summary": "还透露了不少训练背后的秘诀",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-21T06:30:55.000Z"
     }
   ],
   "products": [
     {
-      "name": "Saparo",
-      "tagline": "Muse for shopping with deals stacks",
-      "url": "https://www.producthunt.com/posts/saparo-2"
+      "name": "AlterContacts",
+      "tagline": "AI client relationship assistant that thinks and does ahead",
+      "url": "https://www.producthunt.com/posts/altercontacts"
     },
     {
-      "name": "Tripmojo",
-      "tagline": "Agentic travel app that helps plan, book and run your trip",
-      "url": "https://www.producthunt.com/posts/tripmojo-3"
+      "name": "AI Context Flow MCP",
+      "tagline": "Memory you control, synced to every agent, tool and team",
+      "url": "https://www.producthunt.com/posts/ai-context-flow-mcp"
     },
     {
-      "name": "Docker",
-      "tagline": "Built to run on trust, for the agentic era",
-      "url": "https://www.producthunt.com/posts/docker"
+      "name": "Codemany",
+      "tagline": "Run GitHub Actions 3x faster",
+      "url": "https://www.producthunt.com/posts/codemany-2"
     }
   ],
   "stats": {
-    "total": 17,
+    "total": 10,
     "byCategory": {
-      "模型厂商官方": 2,
-      "AI 开发工具与变更日志": 3,
+      "模型厂商官方": 1,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 3,
-      "产品与商业策略": 0,
+      "设计": 1,
+      "产品与商业策略": 1,
       "科技媒体": 7,
-      "视频": 2
+      "视频": 0
     },
     "sourcesTotal": 33,
     "sourcesFailed": 0,
