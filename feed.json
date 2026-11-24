@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:11:11.573Z",
+  "generatedAt": "2026-11-24T08:48:15.979Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,113 +13,217 @@
   ],
   "news": [
     {
-      "title": "Lessons from 3D scanning St John’s Co-Cathedral",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T21:20:00.000Z"
+    },
+    {
+      "title": "Supercharging transformer residual connections",
+      "summary": "Algorithms & Theory",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Google Research",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T17:21:12.000Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "summary": "",
-      "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-22T23:18:37.000Z"
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T17:20:37.000Z"
     },
     {
-      "title": "Seven things AI killed while you were measuring productivity",
-      "summary": "Why 80% of executives see no AI impact — and why they’re looking in the wrong place.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-22T23:17:56.000Z"
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T17:00:00.000Z"
     },
     {
-      "title": "How to write great skills",
-      "summary": "An advanced and practical guide to agent skills, learning from Matt Pocock, Nate Herk, Addy Osmani and AnthropicContinue reading on UX Collective »",
-      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-22T23:17:32.000Z"
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T16:59:40.000Z"
     },
     {
-      "title": "The attack of the giant AI design slop monster: a survivor’s guide",
+      "title": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
       "summary": "",
-      "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-22T11:36:59.000Z"
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&amp;mid=2247494345&amp;idx=1&amp;sn=0ea26a769f134fefec42e33d59558c73",
+      "source": "智谱",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-23T09:42:00.000Z"
     },
     {
-      "title": "Prototypes have always been the most effective specification-especially with AI",
+      "title": "AI Notetaker capabilities beyond simple transcription [2026]",
+      "summary": "The post AI Notetaker capabilities beyond simple transcription [2026] appeared first on monday.com Blog.",
+      "url": "https://monday.com/blog/ai-agents/ai-notetaker-capabilities/",
+      "source": "Monday.com Blog",
+      "category": "B 端协作与效率产品",
+      "publishedAt": "2026-11-24T04:20:07.000Z"
+    },
+    {
+      "title": "Is product design a people industry or a tech industry?",
+      "summary": "The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-23T22:40:34.000Z"
+    },
+    {
+      "title": "Don’t make me read",
+      "summary": "These newest findings on how people (don’t) read on the internet can help you build your next great thing.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-23T22:40:01.000Z"
+    },
+    {
+      "title": "Decision theater, Human.MD, What is a researcher’s worth",
       "summary": "",
-      "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-22T11:36:31.000Z"
+      "publishedAt": "2026-11-23T12:18:14.000Z"
     },
     {
-      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
-      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
-      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
       "source": "Lenny's Newsletter",
       "category": "产品与商业策略",
-      "publishedAt": "2026-11-22T13:31:53.000Z"
+      "publishedAt": "2026-11-23T16:01:48.000Z"
     },
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-23T01:25:53.000Z"
+      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+      "summary": "Watch now (31 mins) | 🎙️ Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
+      "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "source": "Lenny's Newsletter",
+      "category": "产品与商业策略",
+      "publishedAt": "2026-11-23T13:04:43.000Z"
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-22T21:14:07.000Z"
-    },
-    {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-22T18:08:43.000Z"
-    },
-    {
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "summary": "用葡萄糖发电控制血糖。",
-      "url": "https://www.qbitai.com/2026/11/511904.html",
+      "title": "Google Cloud 出海峰会报名开启",
+      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-22T06:21:47.000Z"
+      "publishedAt": "2026-11-24T06:52:29.000Z"
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-24T06:35:06.000Z"
+    },
+    {
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-24T06:22:28.000Z"
+    },
+    {
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "url": "https://www.qbitai.com/2026/11/512348.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-24T06:15:38.000Z"
+    },
+    {
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "url": "https://www.qbitai.com/2026/11/512343.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-24T06:12:16.000Z"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-23T22:05:50.000Z"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-23T22:02:05.000Z"
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-23T21:47:41.000Z"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-23T21:25:42.000Z"
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch AI",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-23T20:38:53.000Z"
+    },
+    {
+      "title": "Can AI Predict the Unpredictable? (the black swan event)",
+      "summary": "Can AI Predict the Unpredictable? (the black swan event)\n\nGet early access:\nhttps://www.siktintelligence.com/\n\n🐦‍⬛ Tomorrow’s headlines, before they happen.\nSikt Intelligence is building an AI superf",
+      "url": "https://www.youtube.com/watch?v=YCvKoOE0X1w",
+      "source": "All About AI",
+      "category": "视频",
+      "publishedAt": "2026-11-23T18:08:32.000Z"
     }
   ],
   "products": [
     {
-      "name": "Yoroll",
-      "tagline": "Build playable stories without a game engine",
-      "url": "https://www.producthunt.com/posts/yoroll"
+      "name": "distribution.dev",
+      "tagline": "Advertise to developers on many sites with one campaign",
+      "url": "https://www.producthunt.com/posts/distribution-dev"
     },
     {
-      "name": "Rankhog",
-      "tagline": "Get customers from Reddit on autopilot",
-      "url": "https://www.producthunt.com/posts/rankhog"
+      "name": "Drift",
+      "tagline": "Wallpaper that reflects the world around you ",
+      "url": "https://www.producthunt.com/posts/drift-09a2aa71-d27c-4f46-9399-f414adcce0ba"
     },
     {
-      "name": "Resurf",
-      "tagline": "Personal Knowledge Base & Bookmark Manager for Mac",
-      "url": "https://www.producthunt.com/posts/resurf-3"
+      "name": "doola MCP",
+      "tagline": "Start and run your US company from your AI assistant",
+      "url": "https://www.producthunt.com/posts/doola-mcp-2"
     }
   ],
   "stats": {
-    "total": 10,
+    "total": 23,
     "byCategory": {
-      "模型厂商官方": 0,
+      "模型厂商官方": 6,
       "AI 开发工具与变更日志": 0,
-      "B 端协作与效率产品": 0,
-      "设计": 5,
-      "产品与商业策略": 1,
-      "科技媒体": 4,
-      "视频": 0
+      "B 端协作与效率产品": 1,
+      "设计": 3,
+      "产品与商业策略": 2,
+      "科技媒体": 10,
+      "视频": 1
     },
     "sourcesTotal": 33,
     "sourcesFailed": 0,
