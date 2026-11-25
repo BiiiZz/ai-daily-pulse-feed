@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:48:15.979Z",
+  "generatedAt": "2026-11-25T07:23:19.493Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,188 +13,156 @@
   ],
   "news": [
     {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI News",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T21:20:00.000Z"
-    },
-    {
-      "title": "Supercharging transformer residual connections",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T17:21:12.000Z"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T17:20:37.000Z"
+      "publishedAt": "2026-11-24T16:34:13.000Z"
     },
     {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
       "source": "Google AI Blog",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T17:00:00.000Z"
+      "publishedAt": "2026-11-24T16:00:00.000Z"
     },
     {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T16:59:40.000Z"
+      "publishedAt": "2026-11-24T13:00:00.000Z"
     },
     {
-      "title": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
-      "summary": "",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&amp;mid=2247494345&amp;idx=1&amp;sn=0ea26a769f134fefec42e33d59558c73",
-      "source": "智谱",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-23T09:42:00.000Z"
+      "publishedAt": "2026-11-24T11:00:00.000Z"
     },
     {
-      "title": "AI Notetaker capabilities beyond simple transcription [2026]",
-      "summary": "The post AI Notetaker capabilities beyond simple transcription [2026] appeared first on monday.com Blog.",
-      "url": "https://monday.com/blog/ai-agents/ai-notetaker-capabilities/",
-      "source": "Monday.com Blog",
-      "category": "B 端协作与效率产品",
-      "publishedAt": "2026-11-24T04:20:07.000Z"
+      "title": "混元翻译模型 Hy MT3 发布：面向真实场景优化，语种扩容，联合王者荣耀打磨游戏翻译",
+      "summary": "开源",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&amp;mid=2247499070&amp;idx=1&amp;sn=7788bc7d2ecb56b16dbb4711a1cfda45",
+      "source": "腾讯混元",
+      "category": "模型厂商官方",
+      "publishedAt": "2026-11-24T08:44:00.000Z"
     },
     {
-      "title": "Is product design a people industry or a tech industry?",
-      "summary": "The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-23T22:40:34.000Z"
+      "title": "Standard builds for existing Pro teams have moved to usage-based billing",
+      "summary": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build min",
+      "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-25T08:00:00.000Z"
     },
     {
-      "title": "Don’t make me read",
-      "summary": "These newest findings on how people (don’t) read on the internet can help you build your next great thing.Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-23T22:40:01.000Z"
+      "title": "All Sandbox runtimes now use Vercel Managed Images",
+      "summary": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs).Legacy runtimes, such as node22, now use the open-source images in the vercel/sandbox repository, distributed through Vercel Container ",
+      "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-24T18:00:00.000Z"
     },
     {
-      "title": "Decision theater, Human.MD, What is a researcher’s worth",
+      "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+      "summary": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard.Endpoints on Secure Compute live in your team's dedicated VPC and use the n",
+      "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+      "source": "Vercel",
+      "category": "AI 开发工具与变更日志",
+      "publishedAt": "2026-11-24T09:54:00.000Z"
+    },
+    {
+      "title": "Futures thinking as an everyday design practice",
       "summary": "",
-      "url": "https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-23T12:18:14.000Z"
+      "publishedAt": "2026-11-24T22:16:19.000Z"
     },
     {
-      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-23T16:01:48.000Z"
-    },
-    {
-      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
-      "summary": "Watch now (31 mins) | 🎙️ Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
-      "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-23T13:04:43.000Z"
-    },
-    {
-      "title": "Google Cloud 出海峰会报名开启",
-      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-24T06:52:29.000Z"
-    },
-    {
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-24T06:35:06.000Z"
-    },
-    {
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "title": "Four hidden dimensions of effective teams",
       "summary": "",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-24T06:22:28.000Z"
+      "url": "https://uxdesign.cc/four-hidden-dimensions-of-effective-teams-be268c61cf44?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-24T22:15:00.000Z"
     },
     {
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-24T06:15:38.000Z"
+      "title": "If you want to grow beyond Senior Designer, you have to address this one thing",
+      "summary": "Why stepping back from the work feels like losing your career, in design and beyondContinue reading on UX Collective »",
+      "url": "https://uxdesign.cc/if-you-want-to-grow-beyond-senior-designer-you-have-to-address-this-one-thing-15f94ba5b1f7?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-24T22:13:57.000Z"
     },
     {
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-24T06:12:16.000Z"
+      "title": "Designing for the AI agent customer",
+      "summary": "Personal AI assistants already compare and buy on your behalf. But the marketing tactics designed to persuade humans don’t work on agents.Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-24T22:11:59.000Z"
     },
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "The design process is changing. Are we asking the right questions?",
+      "summary": "What happens when the design process itself becomes intelligent?Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/the-design-process-is-changing-are-we-asking-the-right-questions-c3c376cb7cb8?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "设计",
+      "publishedAt": "2026-11-24T22:11:13.000Z"
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-23T22:05:50.000Z"
+      "publishedAt": "2026-11-25T00:12:02.000Z"
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-23T22:02:05.000Z"
+      "publishedAt": "2026-11-24T22:27:52.000Z"
     },
     {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-23T21:47:41.000Z"
+      "publishedAt": "2026-11-24T21:48:27.000Z"
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-23T21:25:42.000Z"
+      "publishedAt": "2026-11-24T21:33:29.000Z"
     },
     {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-23T20:38:53.000Z"
+      "publishedAt": "2026-11-24T21:32:38.000Z"
     },
     {
-      "title": "Can AI Predict the Unpredictable? (the black swan event)",
-      "summary": "Can AI Predict the Unpredictable? (the black swan event)\n\nGet early access:\nhttps://www.siktintelligence.com/\n\n🐦‍⬛ Tomorrow’s headlines, before they happen.\nSikt Intelligence is building an AI superf",
-      "url": "https://www.youtube.com/watch?v=YCvKoOE0X1w",
-      "source": "All About AI",
+      "title": "It’s Boring, But These 8 AI Plugins Save You 10 Hours a Week",
+      "summary": "🎙️ Get an entire month of Wispr Flow Pro for free - https://ref.wisprflow.ai/jeff-su-yt-2\n\nMost AI plugins look impressive in a demo, then sit unused. These are the eight #ChatGPT and #Claude plugins",
+      "url": "https://www.youtube.com/watch?v=e0EGefCi7GE",
+      "source": "Jeff Su",
       "category": "视频",
-      "publishedAt": "2026-11-23T18:08:32.000Z"
+      "publishedAt": "2026-11-24T13:00:10.000Z"
     }
   ],
   "products": [
@@ -204,25 +172,25 @@
       "url": "https://www.producthunt.com/posts/distribution-dev"
     },
     {
-      "name": "Drift",
-      "tagline": "Wallpaper that reflects the world around you ",
-      "url": "https://www.producthunt.com/posts/drift-09a2aa71-d27c-4f46-9399-f414adcce0ba"
+      "name": "Granular.Build",
+      "tagline": "Put your AI agents to work in a visual workspace",
+      "url": "https://www.producthunt.com/posts/granular-build"
     },
     {
-      "name": "doola MCP",
-      "tagline": "Start and run your US company from your AI assistant",
-      "url": "https://www.producthunt.com/posts/doola-mcp-2"
+      "name": "Clam AI",
+      "tagline": "Your inbox, safely shared with AI agents",
+      "url": "https://www.producthunt.com/posts/clam-ai"
     }
   ],
   "stats": {
-    "total": 23,
+    "total": 19,
     "byCategory": {
-      "模型厂商官方": 6,
-      "AI 开发工具与变更日志": 0,
-      "B 端协作与效率产品": 1,
-      "设计": 3,
-      "产品与商业策略": 2,
-      "科技媒体": 10,
+      "模型厂商官方": 5,
+      "AI 开发工具与变更日志": 3,
+      "B 端协作与效率产品": 0,
+      "设计": 5,
+      "产品与商业策略": 0,
+      "科技媒体": 5,
       "视频": 1
     },
     "sourcesTotal": 33,
