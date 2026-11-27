@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:11:54.329Z",
+  "generatedAt": "2026-11-27T07:07:50.005Z",
   "lookbackHours": 24,
   "maxItemsPerSource": 5,
   "categories": [
@@ -13,188 +13,115 @@
   ],
   "news": [
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face",
       "category": "模型厂商官方",
-      "publishedAt": "2026-11-26T05:05:36.000Z"
+      "publishedAt": "2026-11-26T11:37:17.000Z"
     },
     {
-      "title": "Where scientists draw the line on AI agents",
+      "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
       "summary": "",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-25T18:52:55.000Z"
-    },
-    {
-      "title": "Verifiable Social Reasoning for LLM Assistants",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
-      "source": "Google Research",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-25T17:10:27.000Z"
-    },
-    {
-      "title": "An Indic Voice Agent with CUGA",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "source": "Hugging Face",
-      "category": "模型厂商官方",
-      "publishedAt": "2026-11-25T10:22:09.000Z"
-    },
-    {
-      "title": "Standard builds for existing Pro teams have moved to usage-based billing",
-      "summary": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build min",
-      "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
-      "source": "Vercel",
-      "category": "AI 开发工具与变更日志",
-      "publishedAt": "2026-11-25T08:00:00.000Z"
-    },
-    {
-      "title": "Things you’re not supposed to say on LinkedIn",
-      "summary": "What happens to how people write about work when readers can hire (or fire) them?Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "设计",
-      "publishedAt": "2026-11-25T22:34:52.000Z"
+      "publishedAt": "2026-11-26T12:18:31.000Z"
     },
     {
-      "title": "Future-proofing is dead and AI killed it",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "summary": "企业需要有用的 AI",
+      "url": "https://www.qbitai.com/2026/11/513194.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-27T04:05:56.000Z"
+    },
+    {
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-27T04:05:18.000Z"
+    },
+    {
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "summary": "Quickwit查询总耗时降31%，最高降87%",
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-27T03:53:49.000Z"
+    },
+    {
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+      "url": "https://www.qbitai.com/2026/11/513155.html",
+      "source": "量子位",
+      "category": "科技媒体",
+      "publishedAt": "2026-11-27T03:45:19.000Z"
+    },
+    {
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
       "summary": "",
-      "url": "https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "设计",
-      "publishedAt": "2026-11-25T22:34:12.000Z"
-    },
-    {
-      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
-      "summary": "Watch now (32 mins) | 🎙️ My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
-      "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
-      "source": "Lenny's Newsletter",
-      "category": "产品与商业策略",
-      "publishedAt": "2026-11-25T13:04:21.000Z"
-    },
-    {
-      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-      "summary": "30秒一镜到底，可自动编排镜头",
-      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "url": "https://www.qbitai.com/2026/11/513125.html",
       "source": "量子位",
       "category": "科技媒体",
-      "publishedAt": "2026-11-26T06:41:23.000Z"
+      "publishedAt": "2026-11-27T03:33:11.000Z"
     },
     {
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "summary": "李斌坦言：不做AI变革可能活不下去",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-26T03:23:35.000Z"
-    },
-    {
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "summary": "“灵巧手是人类最后的尊严”",
-      "url": "https://www.qbitai.com/2026/11/512840.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-26T03:13:16.000Z"
-    },
-    {
-      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-      "summary": "叠满海淀最强AI Buff。",
-      "url": "https://www.qbitai.com/2026/11/512828.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-26T02:53:14.000Z"
-    },
-    {
-      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
-      "summary": "合着全让A➗揽了",
-      "url": "https://www.qbitai.com/2026/11/512819.html",
-      "source": "量子位",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-26T00:40:37.000Z"
-    },
-    {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-25T22:44:32.000Z"
+      "publishedAt": "2026-11-26T20:03:54.000Z"
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch AI",
       "category": "科技媒体",
-      "publishedAt": "2026-11-25T20:03:27.000Z"
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-25T19:54:57.000Z"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-25T19:44:24.000Z"
-    },
-    {
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "source": "TechCrunch AI",
-      "category": "科技媒体",
-      "publishedAt": "2026-11-25T18:11:46.000Z"
-    },
-    {
-      "title": "Designer Breaks Down the Psychology of Movie Posters",
-      "summary": "Figma worked with movie poster designer, Juan Luis Garcia (whose worked at A24, Lionsgate, HBO and more), to break down the design psychology of how iconic movie posters like Jurassic Park, Interstell",
-      "url": "https://www.youtube.com/shorts/ns7PC1o3eQY",
-      "source": "Figma YouTube",
-      "category": "视频",
-      "publishedAt": "2026-11-25T14:56:46.000Z"
+      "publishedAt": "2026-11-26T16:00:00.000Z"
     }
   ],
   "products": [
     {
-      "name": "MyClaw 3.0",
-      "tagline": "Build an always-on AI team with shared memory",
-      "url": "https://www.producthunt.com/posts/myclaw-3-0"
+      "name": "Hub",
+      "tagline": "Run 100 Claude Code or Codex sessions like 5",
+      "url": "https://www.producthunt.com/posts/hub-d3d2bb55-5f42-4355-98fe-d7e0b636a030"
     },
     {
-      "name": "Airbot",
-      "tagline": "The AI chief of staff that texts you first",
-      "url": "https://www.producthunt.com/posts/airbots"
+      "name": "QA.tech MCP",
+      "tagline": "Verify every change from your IDE with QA agents",
+      "url": "https://www.producthunt.com/posts/qa-tech-mcp-2"
     },
     {
-      "name": "Hiring Right Now",
-      "tagline": "Which startups would hire you?",
-      "url": "https://www.producthunt.com/posts/hiring-right-now"
+      "name": "ExtraOrbital",
+      "tagline": "✦ Open bar databases, storage buckets & AI keys for agents",
+      "url": "https://www.producthunt.com/posts/extraorbital"
     }
   ],
   "stats": {
-    "total": 19,
+    "total": 9,
     "byCategory": {
-      "模型厂商官方": 4,
-      "AI 开发工具与变更日志": 1,
+      "模型厂商官方": 1,
+      "AI 开发工具与变更日志": 0,
       "B 端协作与效率产品": 0,
-      "设计": 2,
-      "产品与商业策略": 1,
-      "科技媒体": 10,
-      "视频": 1
+      "设计": 1,
+      "产品与商业策略": 0,
+      "科技媒体": 7,
+      "视频": 0
     },
     "sourcesTotal": 33,
-    "sourcesFailed": 0,
+    "sourcesFailed": 5,
     "products": 3
-  }
+  },
+  "errors": [
+    "RSS Jeff Su: HTTP 503",
+    "RSS Tina Huang: HTTP 503",
+    "RSS All About AI: HTTP 503",
+    "RSS Figma YouTube: HTTP 503",
+    "RSS AI Jason: HTTP 503"
+  ]
 }
